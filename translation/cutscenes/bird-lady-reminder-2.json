@@ -1,0 +1,42 @@
+[
+ {
+  "id": "cut:bird-lady-reminder-2:0",
+  "src": "ARE YOU BOYS STILL PICKING AROUND HERE? HO HO HO.",
+  "speaker": "BIRDWATCHER",
+  "ko": "아직도 이 근처를 서성이는 거니? 호호호.",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+ },
+ {
+  "id": "cut:bird-lady-reminder-2:1",
+  "src": "I'LL BET THAT POOR LITTLE BLUE EGG ON THE CLIFF",
+  "speaker": "BIRDWATCHER",
+  "ko": "절벽 위 그 가엾은 파란 알이",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+ },
+ {
+  "id": "cut:bird-lady-reminder-2:2",
+  "src": "IS GETTING AWFULLY COLD BY NOW.",
+  "speaker": "BIRDWATCHER",
+  "ko": "지금쯤 몹시 차가워졌을 텐데.",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+ },
+ {
+  "id": "cut:bird-lady-reminder-2:3",
+  "src": "GO SAVE IT BY PUSHING IT OFF THE EDGE OF THE CLIFF,",
+  "speaker": "BIRDWATCHER",
+  "ko": "절벽 끝에서 밀어서 구해 주렴.",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+ },
+ {
+  "id": "cut:bird-lady-reminder-2:4",
+  "src": "AND I'LL GIVE YOU A POWER CELL.",
+  "speaker": "BIRDWATCHER",
+  "ko": "그럼 파워 셀을 주마.",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+ }
+]

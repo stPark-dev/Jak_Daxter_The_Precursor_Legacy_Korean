@@ -1,0 +1,362 @@
+[
+ {
+  "id": "cut:sage-village3-introduction:0",
+  "src": "OW! I ALWAYS WONDER IF I'M LOSING BODY PARTS IN THOSE THINGS!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:1",
+  "src": "HOLY YAKOW! THE RED SAGE'S LAB LOOKS WORSE THAN THE BLUE'S!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:2",
+  "src": "WELL, IT DEFINITELY LOOKS AS THOUGH THERE'S BEEN A STRUGGLE HERE.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:3",
+  "src": "HA HA HA HA HA!",
+  "speaker": "OLD MAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:4",
+  "src": "I'D HARDLY CALL IT \"STRUGGLE.\"",
+  "speaker": "OLD MAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:5",
+  "src": "WOULD YOU, DEAR SISTER?",
+  "speaker": "OLD MAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:6",
+  "src": "CERTAINLY NOT. THE RED SAGE GAVE UP WITH SO LITTLE EFFORT.",
+  "speaker": "WOMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:7",
+  "src": "NO FUN AT ALL.",
+  "speaker": "WOMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:8",
+  "src": "GOL? IS THAT YOU?",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:9",
+  "src": "YOU'VE FINALLY GONE OFF THE DEEP END, EH?",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:10",
+  "src": "AND, MAIA! I TOLD YOU THE DARK ECO WOULD AFFECT YOU BOTH!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:11",
+  "src": "HNG, NOBODY EVER LISTENS TO OLD SAMOS...",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:12",
+  "src": "WHAT HAVE YOU TWO DONE WITH THE BLUE AND RED SAGES?",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:13",
+  "src": "DON'T WORRY ABOUT YOUR COLORFUL FRIENDS, YOU OLD FOOL.",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:14",
+  "src": "THEY'RE PERFECTLY SAFE IN OUR CITADEL. OUR SPECIAL GUESTS.",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:15",
+  "src": "THEY HAVE GRACIOUSLY AGREED TO HELP US ON A LITTLE PROJECT.",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:16",
+  "src": "YOU WERE WRONG, SAMOS. DARK ECO CAN BE CONTROLLED!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:17",
+  "src": "WE'VE LEARNED ITS SECRETS, AND NOW WE CAN RESHAPE THE WORLD TO OUR LIKING.",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:18",
+  "src": "YOU CAN'T CONTROL DARK ECO BY ITSELF! EVEN THE PRECURSORS COULDN'T-",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:19",
+  "src": "UNTIL NOW, WE'VE HAD TO SCRAPE BY WITH WHAT LITTLE DARK ECO",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:20",
+  "src": "WE COULD FIND NEAR THE SURFACE.",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:21",
+  "src": "BUT SOON, WE WILL HAVE ACCESS TO THE VAST STORES",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:22",
+  "src": "OF DARK ECO HIDDEN DEEP UNDERGROUND.",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:23",
+  "src": "NOT THE SILOS!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:24",
+  "src": "YES, THE SILOS!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:25",
+  "src": "THEY WILL BE OPENED, AND ALL THE DARK ECO IN THE WORLD WILL BE OURS!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:26",
+  "src": "BUT THAT'S IMPOSSIBLE! ONLY A PRECURSOR ROBOT-",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:27",
+  "src": "OH, DON'T LOOK SO UPSET, SAMOS.",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:28",
+  "src": "WE'VE GOT BIG PLANS FOR YOU.",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:29",
+  "src": "AH HA HA HA HA HA HA! AHH...",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:30",
+  "src": "WAIT A MINUTE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:31",
+  "src": "THAT WAS GOL?",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:32",
+  "src": "THE SAME GOL WHO'S SUPPOSED TO CHANGE ME BACK?",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:33",
+  "src": "GOL IS THE GUY TRYING TO KILL US?!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:34",
+  "src": "I'M DOOMED.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:35",
+  "src": "WE MAY ALL BE DOOMED.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:36",
+  "src": "IF THEY OPEN THE SILOS, THE DARK ECO WILL",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:37",
+  "src": "TWIST AND DESTROY EVERYTHING IT TOUCHES!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:38",
+  "src": "WE SIMPLY MUST GET TO THEIR CITADEL, TO STOP THEM!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:39",
+  "src": "THE FASTEST WAY THERE IS THROUGH THE LAVA TUBE",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:40",
+  "src": "AT THE BOTTOM OF THIS CRATER.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:41",
+  "src": "A FEW MORE POWER CELLS, AND YOUR ZOOMER'S HEAT SHIELD",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:42",
+  "src": "SHOULD GET YOU ACROSS THE LAVA SAFELY.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:43",
+  "src": "ALL RIGHT, MY BOY. YOU KNOW WHAT TO DO.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction:44",
+  "src": "TAKE THE FLEABAG AND GO ROUND UP MORE POWER CELLS.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

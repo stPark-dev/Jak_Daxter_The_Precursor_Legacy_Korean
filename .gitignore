@@ -1,0 +1,12 @@
+# 원본 게임 데이터 — 절대 커밋 금지
+*.zip
+*.iso
+source/
+iso_data/
+# 업스트림 OpenGOAL 클론 (수정은 별도 브랜치/패치로 관리)
+jak-project/
+*.log
+build_kr.log
+docs/evidence_*.png
+__pycache__/
+.pytest_cache/

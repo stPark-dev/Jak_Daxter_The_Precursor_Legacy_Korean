@@ -1,0 +1,34 @@
+[
+ {
+  "id": "cut:gambler-reminder-race:0",
+  "src": "WELL, WHAT ARE YOU WAITIN' FOR?",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:gambler-reminder-race:1",
+  "src": "THIS BARREL'S GETTIN' ITCHY!",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:gambler-reminder-race:2",
+  "src": "BEAT THE BEST TIME DOWN DEAD MAN'S GORGE,",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:gambler-reminder-race:3",
+  "src": "AND WE'LL BOTH BE WINNERS!",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

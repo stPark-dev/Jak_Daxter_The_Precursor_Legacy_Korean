@@ -1,0 +1,50 @@
+[
+ {
+  "id": "cut:warrior-resolution:0",
+  "src": "OH.",
+  "speaker": "WARRIOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:warrior-resolution:1",
+  "src": "WONDERFUL.",
+  "speaker": "WARRIOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:warrior-resolution:2",
+  "src": "YA BROUGHT ME THE PRECURSOR ORBS.",
+  "speaker": "WARRIOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:warrior-resolution:3",
+  "src": "ALL RIGHT.",
+  "speaker": "WARRIOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:warrior-resolution:4",
+  "src": "I'LL FIX THE BRIDGE.",
+  "speaker": "WARRIOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:warrior-resolution:5",
+  "src": "BUT DON'T ASK ME TO GET INVOLVED WITH THAT CREATURE AGAIN!",
+  "speaker": "WARRIOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

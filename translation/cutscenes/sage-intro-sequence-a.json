@@ -1,0 +1,162 @@
+[
+ {
+  "id": "cut:sage-intro-sequence-a:0",
+  "src": "I HAVE SPENT MY LIFE SEARCHING FOR THE ANSWERS THAT MY FATHER,",
+  "speaker": "???",
+  "ko": "나는 평생을 바쳐 답을 찾아 헤맸다. 내 아버지도,",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:1",
+  "src": "AND MY FATHER'S FATHERS FAILED TO FIND.",
+  "speaker": "???",
+  "ko": "그 아버지의 아버지들도 끝내 찾지 못한 답을.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:2",
+  "src": "WHO WERE THE PRECURSORS?",
+  "speaker": "???",
+  "ko": "프리커서는 누구였는가?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:3",
+  "src": "WHY DID THEY CREATE THE VAST MONOLITHS THAT LITTER OUR PLANET?",
+  "speaker": "???",
+  "ko": "왜 이 땅 곳곳에 거대한 석조물을 세웠는가?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:4",
+  "src": "HOW DID THEY HARNESS ECO, THE LIFE ENERGY OF THE WORLD?",
+  "speaker": "???",
+  "ko": "세상의 생명 에너지인 이코를 어떻게 다스렸는가?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:5",
+  "src": "WHAT WAS THEIR PURPOSE? AND WHY DID THEY VANISH?",
+  "speaker": "???",
+  "ko": "그들의 목적은 무엇이었으며, 왜 사라졌는가?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:6",
+  "src": "I HAVE ASKED THE PLANTS, BUT THEY DO NOT REMEMBER.",
+  "speaker": "???",
+  "ko": "식물들에게 물었으나, 그들은 기억하지 못했다.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:7",
+  "src": "THE PLANTS HAVE ASKED THE ROCKS, BUT THE ROCKS DO NOT RECALL.",
+  "speaker": "???",
+  "ko": "식물들은 바위에게 물었으나, 바위도 떠올리지 못했다.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:8",
+  "src": "EVEN THE ROCKS DO NOT RECALL...",
+  "speaker": "???",
+  "ko": "바위들마저 기억을 못 한다니...",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); 2차 검수 반영"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:9",
+  "src": "EVERY BONE IN MY BODY TELLS ME THAT THE ANSWERS REST",
+  "speaker": "???",
+  "ko": "내 온몸의 뼈마디가 말해 준다. 그 답은",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:10",
+  "src": "ON THE SHOULDERS OF A YOUNG BOY",
+  "speaker": "???",
+  "ko": "한 소년의 어깨에 달려 있다고.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:11",
+  "src": "OBLIVIOUS TO HIS DESTINY, UNINTERESTED IN THE SEARCH FOR TRUTH",
+  "speaker": "???",
+  "ko": "제 운명도 모르고, 진리 탐구엔 관심도 없으며",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:12",
+  "src": "AND REJECTING OF MY GUIDANCE!",
+  "speaker": "???",
+  "ko": "내 가르침마저 거부하는 소년 말이다!",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:13",
+  "src": "AND WHY WOULD HE WANT TO LISTEN TO OLD SAMOS THE SAGE ANYWAY?",
+  "speaker": "SAMOS",
+  "ko": "하긴, 그 녀석이 늙은 현자 사모스의 말을 들을 리가 있나?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:14",
+  "src": "I'M ONLY THE MASTER OF GREEN ECO, ONE OF THE WISEST MEN ON THE PLANET!",
+  "speaker": "SAMOS",
+  "ko": "난 고작 그린 이코의 대가이자, 세상에서 가장 지혜로운 사람 중 하나일 뿐인데!",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); G-007c 확정"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:15",
+  "src": "SO IT SEEMS THE ANSWER BEGINS NOT WITH CAREFUL RESEARCH",
+  "speaker": "SAMOS",
+  "ko": "그러니 답은 신중한 연구에서 시작되는 게 아닌 모양이다",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); 2차 검수 반영"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:16",
+  "src": "OR SENSIBLE THINKING.",
+  "speaker": "SAMOS",
+  "ko": "분별 있는 사고에서도 아니고.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); 2차 검수 반영"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:17",
+  "src": "NAY! AS WITH MANY OF FATE'S MYSTERIES",
+  "speaker": "SAMOS",
+  "ko": "아니지! 운명의 수많은 수수께끼가 그렇듯",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:18",
+  "src": "IT BEGINS WITH BUT A SMALL ACT OF DISOBEDIENCE.",
+  "speaker": "SAMOS",
+  "ko": "그저 사소한 불복종 하나에서 시작되는 법이지.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); 2차 검수 반영"
+ },
+ {
+  "id": "cut:sage-intro-sequence-a:19",
+  "src": "HEY! UH, JAK? OL' GREEN STUFF TOLD US NOT TO COME HERE!",
+  "speaker": "DAXTER",
+  "ko": "야! 어, 잭? 초록 영감이 여긴 오지 말랬잖아!",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ }
+]

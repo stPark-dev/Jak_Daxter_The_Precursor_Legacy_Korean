@@ -1,0 +1,58 @@
+[
+ {
+  "id": "cut:fisher-accept:0",
+  "src": "THERE ARE TWO TYPES OF GOOD FISH TO CATCH:",
+  "speaker": "FISHERMAN",
+  "ko": "잡을 만한 좋은 물고기는 두 종류야.",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-009"
+ },
+ {
+  "id": "cut:fisher-accept:1",
+  "src": "ONE-POUND FISHIES, AND FIVE-POUND FISHIES.",
+  "speaker": "FISHERMAN",
+  "ko": "1파운드짜리 물고기랑 5파운드짜리 물고기.",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-009"
+ },
+ {
+  "id": "cut:fisher-accept:2",
+  "src": "HEH. IF YOU MISS 20 POUNDS OF GOOD FISH",
+  "speaker": "FISHERMAN",
+  "ko": "헤. 좋은 물고기를 20파운드어치 놓치면",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-009"
+ },
+ {
+  "id": "cut:fisher-accept:3",
+  "src": "THEN I'M GONNA TAKE ME NET BACK FROM YA!",
+  "speaker": "FISHERMAN",
+  "ko": "내 그물 도로 뺏어 갈 거다!",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-009"
+ },
+ {
+  "id": "cut:fisher-accept:4",
+  "src": "THERE ARE POISONOUS EELS IN THIS RIVER.",
+  "speaker": "FISHERMAN",
+  "ko": "이 강엔 독뱀장어도 있어.",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-009"
+ },
+ {
+  "id": "cut:fisher-accept:5",
+  "src": "CATCH EVEN ONE OF THEM BOOGERS",
+  "speaker": "FISHERMAN",
+  "ko": "그 망할 놈을 한 마리라도 잡았다간",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-009"
+ },
+ {
+  "id": "cut:fisher-accept:6",
+  "src": "AND YOU'LL POISON THE WHOLE DARN CATCH!",
+  "speaker": "FISHERMAN",
+  "ko": "잡은 고기가 몽땅 독에 물들 거야!",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-009"
+ }
+]

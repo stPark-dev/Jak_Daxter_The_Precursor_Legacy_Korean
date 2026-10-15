@@ -1,0 +1,18 @@
+[
+ {
+  "id": "cut:gambler-reminder-money:0",
+  "src": "HEY. DON'T FORGET ABOUT THOSE ORBS I NEED.",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:gambler-reminder-money:1",
+  "src": "90'LL GET YOU ONE. ONE POWER CELL, THAT IS!",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

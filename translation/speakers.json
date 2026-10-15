@@ -1,0 +1,191 @@
+[
+ {
+  "id": "speaker:???",
+  "src": "???",
+  "ko": "???",
+  "state": "needs_review",
+  "note": "L-004"
+ },
+ {
+  "id": "speaker:BILLY",
+  "src": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "speaker:BIRDWATCHER",
+  "src": "BIRDWATCHER",
+  "ko": "새 관찰가",
+  "state": "needs_human_review",
+  "note": "hold: S-008 (표시명 후보, 화자 ID 유지)"
+ },
+ {
+  "id": "speaker:BLUE SAGE",
+  "src": "BLUE SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "speaker:DAXTER",
+  "src": "DAXTER",
+  "ko": "덱스터",
+  "state": "needs_review",
+  "note": "G-003/G-002/G-004 확정"
+ },
+ {
+  "id": "speaker:FARMER",
+  "src": "FARMER",
+  "ko": "농부",
+  "state": "needs_human_review",
+  "note": "hold: S-007 (표시명 후보, 화자 ID 유지)"
+ },
+ {
+  "id": "speaker:FISHERMAN",
+  "src": "FISHERMAN",
+  "ko": "어부",
+  "state": "needs_human_review",
+  "note": "hold: S-006 (표시명 후보, 화자 ID 유지)"
+ },
+ {
+  "id": "speaker:FLUT-FLUT",
+  "src": "FLUT-FLUT",
+  "ko": "플럿플럿",
+  "state": "needs_human_review",
+  "note": "hold: G-014 (표시명 후보, 화자 ID 유지)"
+ },
+ {
+  "id": "speaker:GAMBLER",
+  "src": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "speaker:GEOLOGIST",
+  "src": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "speaker:GOL",
+  "src": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "speaker:GORDY",
+  "src": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "speaker:JAK",
+  "src": "JAK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "speaker:JAK'S UNCLE",
+  "src": "JAK'S UNCLE",
+  "ko": "잭의 삼촌",
+  "state": "needs_human_review",
+  "note": "hold: S-010 (표시명 후보, 화자 ID 유지)"
+ },
+ {
+  "id": "speaker:KEIRA",
+  "src": "KEIRA",
+  "ko": "케이라",
+  "state": "needs_review",
+  "note": "G-003/G-002/G-004 확정"
+ },
+ {
+  "id": "speaker:MAIA",
+  "src": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "speaker:MAYOR",
+  "src": "MAYOR",
+  "ko": "시장",
+  "state": "needs_human_review",
+  "note": "hold: S-005 (표시명 후보, 화자 ID 유지)"
+ },
+ {
+  "id": "speaker:MINER",
+  "src": "MINER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "speaker:OLD MAN",
+  "src": "OLD MAN",
+  "ko": "노인",
+  "state": "needs_review",
+  "note": "S-002/S-003 확정 (표시명만, 화자 ID 유지)"
+ },
+ {
+  "id": "speaker:ORACLE",
+  "src": "ORACLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "speaker:RED SAGE",
+  "src": "RED SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "speaker:SAMOS",
+  "src": "SAMOS",
+  "ko": "사모스",
+  "state": "needs_review",
+  "note": "G-003/G-002/G-004 확정"
+ },
+ {
+  "id": "speaker:SCULPTOR",
+  "src": "SCULPTOR",
+  "ko": "조각가",
+  "state": "needs_human_review",
+  "note": "hold: S-009 (표시명 후보, 화자 ID 유지)"
+ },
+ {
+  "id": "speaker:WARRIOR",
+  "src": "WARRIOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "speaker:WILLARD",
+  "src": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "speaker:WOMAN",
+  "src": "WOMAN",
+  "ko": "여인",
+  "state": "needs_review",
+  "note": "S-002/S-003 확정 (표시명만, 화자 ID 유지)"
+ },
+ {
+  "id": "speaker:YELLOW SAGE",
+  "src": "YELLOW SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

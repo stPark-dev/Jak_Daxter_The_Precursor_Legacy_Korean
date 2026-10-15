@@ -1,0 +1,42 @@
+[
+ {
+  "id": "cut:sage-reminder-1-ecorocks:0",
+  "src": "SOME \"BRAVE ADVENTURERS\" YOU TWO ARE.",
+  "speaker": "SAMOS",
+  "ko": "참 대단한 \"용감한 모험가\"들이로구나.",
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+ },
+ {
+  "id": "cut:sage-reminder-1-ecorocks:1",
+  "src": "BACK ALREADY AND WITHOUT CLEARING MY BLOCKED ECO HARVESTERS!",
+  "speaker": "SAMOS",
+  "ko": "막힌 이코 수집기도 안 뚫고 벌써 돌아오다니!",
+  "state": "needs_human_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-027"
+ },
+ {
+  "id": "cut:sage-reminder-1-ecorocks:2",
+  "src": "THEY'RE ON THE FAR SIDE OF THE BEACH, BOYS.",
+  "speaker": "SAMOS",
+  "ko": "해변 저편에 있다니까, 얘들아.",
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+ },
+ {
+  "id": "cut:sage-reminder-1-ecorocks:3",
+  "src": "NOW...",
+  "speaker": "SAMOS",
+  "ko": "자...",
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+ },
+ {
+  "id": "cut:sage-reminder-1-ecorocks:4",
+  "src": "GET MOVING!",
+  "speaker": "SAMOS",
+  "ko": "어서 움직여라!",
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+ }
+]

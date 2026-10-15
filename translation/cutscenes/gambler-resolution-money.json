@@ -1,0 +1,26 @@
+[
+ {
+  "id": "cut:gambler-resolution-money:0",
+  "src": "HEH HEH HEH! OH, YEAH!",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:gambler-resolution-money:1",
+  "src": "THESE ORBS'LL HELP ME WIN MY WAY BACK OUTTA THIS BARREL!",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:gambler-resolution-money:2",
+  "src": "HERE'S THE POWER CELL I PROMISED!",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "id": "cut:assistant-village2-resolution:0",
+  "src": "GREAT, YOU HAVE THE CELLS FOR THE MACHINE!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:assistant-village2-resolution:1",
+  "src": "THEY OUGHT TO PROVIDE ENOUGH POWER TO LIFT THAT BOULDER.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:assistant-village2-resolution:2",
+  "src": "THERE WE GO!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:assistant-village2-resolution:3",
+  "src": "NOW, BE CAREFUL FACING THAT MONSTER LURKER AT THE TOP.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:assistant-village2-resolution:4",
+  "src": "WAIT! UH...",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:assistant-village2-resolution:5",
+  "src": "I'LL STAY HERE AND PROTECT KEIRA!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:assistant-village2-resolution:6",
+  "src": "JAK, I THINK YOU'RE READY TO HANDLE THAT MONSTER WITHOUT ME.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:assistant-village2-resolution:7",
+  "src": "OH, REALLY HEROIC OF YOU.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

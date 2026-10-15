@@ -1,0 +1,42 @@
+[
+ {
+  "id": "cut:green-sagecage-daxter-sacrifice:0",
+  "src": "LIGHT ECO! THAT COULD BE THE STUFF TO CHANGE ME BACK!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:green-sagecage-daxter-sacrifice:1",
+  "src": "OR... IT MIGHT STOP THAT ROBOT.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:green-sagecage-daxter-sacrifice:2",
+  "src": "STAY FUZZY, SAVE THE WORLD... CHOICES...",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:green-sagecage-daxter-sacrifice:3",
+  "src": "OKAY, FINE, WE'LL SAVE THE WORLD.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:green-sagecage-daxter-sacrifice:4",
+  "src": "BUT DO IT QUICKLY BEFORE I CHANGE MY MIND!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

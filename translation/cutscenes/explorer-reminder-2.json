@@ -1,0 +1,18 @@
+[
+ {
+  "id": "cut:explorer-reminder-2:0",
+  "src": "OH SEE HERE, THE DEAL IS FOR 90 PRECURSOR ORBS FOR A POWER CELL.",
+  "speaker": "JAK'S UNCLE",
+  "ko": "자 보거라, 프리커서 오브 90개에 파워 셀 하나다.",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-012"
+ },
+ {
+  "id": "cut:explorer-reminder-2:1",
+  "src": "A DOWNRIGHT EVEN TRADE.",
+  "speaker": "JAK'S UNCLE",
+  "ko": "아주 공정한 거래지.",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-012"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "id": "cut:sage-reminder-1-generic:0",
+  "src": "WHAT ARE YOU TWO DOING HERE? YOU HAVE POWER CELLS TO COLLECT!",
+  "speaker": "SAMOS",
+  "ko": "너희 둘, 여기서 뭐 하는 게냐? 파워 셀을 모아야 할 것 아니냐!",
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+ },
+ {
+  "id": "cut:sage-reminder-1-generic:1",
+  "src": "LEAVE ME ALONE... UNTIL YOU HAVE THEM!",
+  "speaker": "SAMOS",
+  "ko": "날 귀찮게 하지 마라... 그걸 다 모을 때까진!",
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+ }
+]

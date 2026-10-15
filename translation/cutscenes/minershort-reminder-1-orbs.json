@@ -1,0 +1,34 @@
+[
+ {
+  "id": "cut:minershort-reminder-1-orbs:0",
+  "src": "DON'T FORGET OUR DEAL. BRING US 100 ORBS.",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:minershort-reminder-1-orbs:1",
+  "src": "DUH... YOU SAID 90.",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:minershort-reminder-1-orbs:2",
+  "src": "WILLARD!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:minershort-reminder-1-orbs:3",
+  "src": "FINE. 90 ORBS A POWER CELL.",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

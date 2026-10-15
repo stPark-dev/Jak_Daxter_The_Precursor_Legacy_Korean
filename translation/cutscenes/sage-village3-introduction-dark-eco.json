@@ -1,0 +1,82 @@
+[
+ {
+  "id": "cut:sage-village3-introduction-dark-eco:0",
+  "src": "GREAT BALLS OF ECO!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction-dark-eco:1",
+  "src": "THERE SEEMS TO BE A LARGE LURKER PRESENCE IN THE SPIDER CAVES!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction-dark-eco:2",
+  "src": "GREAT. SOUNDS LIKE A REAL CHEERY PLACE.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction-dark-eco:3",
+  "src": "LET ME GUESS. THERE ARE SPIDERS IN THE SPIDER CAVES, RIGHT?",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction-dark-eco:4",
+  "src": "OF COURSE THERE ARE SPIDERS IN SPIDER CAVES!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction-dark-eco:5",
+  "src": "BUT THAT'S THE LEAST OF YOUR PROBLEMS!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction-dark-eco:6",
+  "src": "THE LURKERS ARE AFTER CRYSTALS OF CONCENTRATED DARK ECO.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction-dark-eco:7",
+  "src": "YOU'VE GOT TO DESTROY THE CRYSTALS BEFORE THOSE MONSTERS",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction-dark-eco:8",
+  "src": "GET THEIR HANDS ON THEM!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:sage-village3-introduction-dark-eco:9",
+  "src": "HOP TO IT!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

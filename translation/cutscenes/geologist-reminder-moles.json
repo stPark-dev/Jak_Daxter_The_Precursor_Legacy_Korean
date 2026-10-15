@@ -1,0 +1,18 @@
+[
+ {
+  "id": "cut:geologist-reminder-moles:0",
+  "src": "DID YOU HERD THOSE LIGHTNING MOLES BACK UNDERGROUND?",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:geologist-reminder-moles:1",
+  "src": "YOU SHOULD HURRY - THE DIRECT SUNLIGHT ISN'T GOOD FOR THEM!",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

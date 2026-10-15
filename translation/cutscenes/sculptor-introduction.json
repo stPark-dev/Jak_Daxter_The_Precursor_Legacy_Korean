@@ -1,0 +1,114 @@
+[
+ {
+  "id": "cut:sculptor-introduction:0",
+  "src": "HEY... LITTLE FURRY DUDE!",
+  "speaker": "SCULPTOR",
+  "ko": "어이... 꼬마 털북숭이 친구!",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-011"
+ },
+ {
+  "id": "cut:sculptor-introduction:1",
+  "src": "AWW... I THOUGHT FOR A MOMENT YOU WERE MY MUSE.",
+  "speaker": "SCULPTOR",
+  "ko": "아... 잠깐 내 뮤즈인 줄 알았네.",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-011"
+ },
+ {
+  "id": "cut:sculptor-introduction:2",
+  "src": "YOUR WHAT?",
+  "speaker": "DAXTER",
+  "ko": "뭐, 뭐라고?",
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 2차 검수 반영"
+ },
+ {
+  "id": "cut:sculptor-introduction:3",
+  "src": "HAVEN'T YOU EVER SEEN A MUSE BEFORE?",
+  "speaker": "SCULPTOR",
+  "ko": "뮤즈 본 적 없어?",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-011"
+ },
+ {
+  "id": "cut:sculptor-introduction:4",
+  "src": "IT'S A LITTLE GLOWIN' SQUIRREL ABOUT YOUR SIZE, FULL OF SPUNK, AND CRAZY AS A LARK!",
+  "speaker": "SCULPTOR",
+  "ko": "딱 너만 한 빛나는 다람쥐인데, 기운 넘치고 완전 정신없는 녀석이야!",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-011"
+ },
+ {
+  "id": "cut:sculptor-introduction:5",
+  "src": "OH, I GET IT! LIKE A SIDEKICK.",
+  "speaker": "DAXTER",
+  "ko": "아, 알겠다! 단짝 같은 거구나.",
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 2차 검수 반영"
+ },
+ {
+  "id": "cut:sculptor-introduction:6",
+  "src": "AS A MATTER OF FACT, WITHOUT MY MUSE, I JUST CAN'T SCULPT.",
+  "speaker": "SCULPTOR",
+  "ko": "사실 뮤즈가 없으면 조각을 못 하겠어.",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-011"
+ },
+ {
+  "id": "cut:sculptor-introduction:7",
+  "src": "BUT WITH HER AROUND... I SEE BEAUTY IN EVERYTHING, YOU KNOW?",
+  "speaker": "SCULPTOR",
+  "ko": "근데 그 녀석만 옆에 있으면... 세상 모든 게 아름다워 보이거든, 알지?",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-011"
+ },
+ {
+  "id": "cut:sculptor-introduction:8",
+  "src": "RIGHT NOW I COULDN'T CHISEL MY WAY OUT OF A BOX.",
+  "speaker": "SCULPTOR",
+  "ko": "지금은 상자 하나도 끌로 못 뚫고 나갈 지경이야.",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-011"
+ },
+ {
+  "id": "cut:sculptor-introduction:9",
+  "src": "I THINK SHE RAN AWAY TO THAT MISTY ISLAND.",
+  "speaker": "SCULPTOR",
+  "ko": "아무래도 그 미스티 섬으로 도망간 것 같아.",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-011"
+ },
+ {
+  "id": "cut:sculptor-introduction:10",
+  "src": "AWW, I JUST HOPE SHE'S ALL RIGHT.",
+  "speaker": "SCULPTOR",
+  "ko": "아... 무사해야 할 텐데.",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-011"
+ },
+ {
+  "id": "cut:sculptor-introduction:11",
+  "src": "IT'S WORTH A POWER CELL IF YOU BRING HER BACK TO ME!",
+  "speaker": "SCULPTOR",
+  "ko": "다시 데려다주면 파워 셀 하나 줄게!",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-011"
+ },
+ {
+  "id": "cut:sculptor-introduction:12",
+  "src": "WAIT A MINUTE! WE ARE NOT GOING BACK TO MISTY ISLAND!",
+  "speaker": "DAXTER",
+  "ko": "잠깐! 우리 미스티 섬엔 다시 안 가!",
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준)"
+ },
+ {
+  "id": "cut:sculptor-introduction:13",
+  "src": "ARE WE?",
+  "speaker": "DAXTER",
+  "ko": "...안 가지?",
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준)"
+ }
+]

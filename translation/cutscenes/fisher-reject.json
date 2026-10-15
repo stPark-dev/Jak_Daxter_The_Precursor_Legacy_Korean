@@ -1,0 +1,18 @@
+[
+ {
+  "id": "cut:fisher-reject:0",
+  "src": "WELL, IF YOU WANT TO TRY FOR THE POWER CELL SOMETIME",
+  "speaker": "FISHERMAN",
+  "ko": "뭐, 언제든 파워 셀에 도전하고 싶으면",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-009"
+ },
+ {
+  "id": "cut:fisher-reject:1",
+  "src": "YOU KNOW WHERE TO FIND ME.",
+  "speaker": "FISHERMAN",
+  "ko": "내가 어디 있는지 알지?",
+  "state": "needs_human_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-009; 2차 검수 반영"
+ }
+]

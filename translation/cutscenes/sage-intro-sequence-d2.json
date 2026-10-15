@@ -1,0 +1,202 @@
+[
+ {
+  "id": "cut:sage-intro-sequence-d2:0",
+  "src": "THE ONLY OTHER WAY NORTH IS BY FOOT THROUGH THE FIRE CANYON",
+  "speaker": "SAMOS",
+  "ko": "북쪽으로 가는 다른 길은 불의 협곡을 걸어서 지나는 것뿐인데",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); G-018b 확정"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:1",
+  "src": "BUT ITS VOLCANIC SOIL IS HOT ENOUGH TO MELT PRECURSOR METAL.",
+  "speaker": "SAMOS",
+  "ko": "그곳 화산 땅은 프리커서 금속도 녹일 만큼 뜨겁다.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:2",
+  "src": "YOU CAN'T JUST WALK THROUGH IT.",
+  "speaker": "SAMOS",
+  "ko": "걸어서 건널 수는 없지.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:3",
+  "src": "BUT YOU COULD FLY OVER IT",
+  "speaker": "???",
+  "ko": "하지만 날아서 넘어갈 수는 있죠.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); V-004 확정"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:4",
+  "src": "IF YOU HAD A ZOOMER EQUIPPED WITH A HEAT SHIELD.",
+  "speaker": "???",
+  "ko": "열 차단막을 단 주머만 있다면요.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); G-013 확정; V-004 확정"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:5",
+  "src": "I JUST HAPPEN TO BE WORKING ON SUCH A THING AT THIS VERY MOMENT.",
+  "speaker": "???",
+  "ko": "마침 지금 딱 그런 걸 만들고 있거든요.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); V-004 확정"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:6",
+  "src": "ALL I WOULD NEED IS TWENTY POWER CELLS TO GIVE IT ENOUGH ENERGY",
+  "speaker": "???",
+  "ko": "파워 셀 스무 개만 있으면",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); V-004 확정; 2차 검수 반영"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:7",
+  "src": "TO WITHSTAND THE CANYON'S HEAT. ISN'T THAT RIGHT, DADDY?",
+  "speaker": "???",
+  "ko": "협곡의 열기도 견딜 수 있어요. 그렇죠, 아빠?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); V-004 확정; 2차 검수 반영"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:8",
+  "src": "YES, KEIRA, THAT MIGHT WORK. BUT WHERE ARE A BOY",
+  "speaker": "SAMOS",
+  "ko": "그래, 케이라, 그거라면 될지도 모르지. 하지만 소년 하나와",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:9",
+  "src": "AND A HALF!",
+  "speaker": "SAMOS",
+  "ko": "반 토막 하나가!",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:10",
+  "src": "GOING TO GET TWENTY POWER CELLS?",
+  "speaker": "SAMOS",
+  "ko": "파워 셀 스무 개를 어디서 구하겠느냐?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); 읽기 속도 14.7→11.3 cps로 단축"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:11",
+  "src": "FROM THE VILLAGERS! MOST OF THEM HAVE A POWER CELL OR TWO",
+  "speaker": "KEIRA",
+  "ko": "마을 사람들한테서요! 대부분 파워 셀을 한두 개씩은",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); V-004 확정; 2차 검수 반영"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:12",
+  "src": "STASHED AWAY SOMEWHERE.",
+  "speaker": "KEIRA",
+  "ko": "어딘가에 숨겨 두고 있거든요.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); V-004 확정"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:13",
+  "src": "AND EVEN IF THEY AREN'T WILLING TO JUST GIVE THEM AWAY",
+  "speaker": "KEIRA",
+  "ko": "그냥 내주려 하지 않더라도",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); V-004 확정"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:14",
+  "src": "GREASING THEIR PALMS WITH A FEW PRECURSOR ORBS SHOULD DO THE TRICK.",
+  "speaker": "KEIRA",
+  "ko": "프리커서 오브 몇 개 쥐여 주면 해결될 거예요.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); V-004 확정"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:15",
+  "src": "AND I BET THERE ARE EVEN MORE OF THEM OUT IN THE WILDS JUST WAITING FOR SOME",
+  "speaker": "KEIRA",
+  "ko": "게다가 마을 밖 곳곳엔 분명 더 많이 있을 거예요.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); V-004 확정; 2차 검수 반영"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:16",
+  "src": "BRAVE ADVENTURER TO FIND.",
+  "speaker": "KEIRA",
+  "ko": "용감한 모험가가 찾아 주기만을 기다리면서요.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); V-004 확정"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:17",
+  "src": "WELL WE'VE GOT THE BRAVE ADVENTURER, AT LEAST.",
+  "speaker": "DAXTER",
+  "ko": "뭐, 적어도 용감한 모험가는 여기 있잖아.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); 2차 검수 반영"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:18",
+  "src": "BRAVE ADVENTURER?",
+  "speaker": "SAMOS",
+  "ko": "용감한 모험가라고?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); 2차 검수 반영"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:19",
+  "src": "YOU TWO COULDN'T FIND YOUR WAY OUT OF THE VILLAGE WITHOUT TRAINING!",
+  "speaker": "SAMOS",
+  "ko": "너희 둘은 훈련 없이는 마을 밖으로 나가는 길도 못 찾을 게다!",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:20",
+  "src": "BEFORE YOU DO ANYTHING ELSE, YOU BETTER GO THROUGH THE WARP GATE AND GET",
+  "speaker": "SAMOS",
+  "ko": "다른 일을 하기 전에 워프 게이트를 지나서",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:21",
+  "src": "SOME PRACTICE ON GEYSER ROCK.",
+  "speaker": "SAMOS",
+  "ko": "가이저 록에서 연습부터 하고 오거라.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); G-018c 확정"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:22",
+  "src": "UH, WE WON'T FIND ANY MORE OF THAT DARK GOOEY ECO STUFF, WILL WE?",
+  "speaker": "DAXTER",
+  "ko": "어, 거기엔 그 끈적끈적한 다크 이코 같은 건 더 없겠지?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:23",
+  "src": "'CAUSE I'D HATE TO FALL IN AGAIN AND TURN INTO YOU!",
+  "speaker": "DAXTER",
+  "ko": "또 빠졌다가 영감처럼 되면 곤란하거든!",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-d2:24",
+  "src": "GET IN THERE! BEFORE I TURN YOU BOTH INTO FERNS!",
+  "speaker": "SAMOS",
+  "ko": "어서 들어가라! 둘 다 고사리로 만들어 버리기 전에!",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); 2차 검수 반영"
+ }
+]

@@ -1,0 +1,90 @@
+[
+ {
+  "id": "cut:sage-intro-sequence-e:0",
+  "src": "GOOD TRAINING, BOYS, BUT THAT'S NOTHING COMPARED TO THE CHALLENGES THAT LIE AHEAD.",
+  "speaker": "SAMOS",
+  "ko": "훈련은 잘했다, 얘들아. 하지만 앞으로 닥칠 시련에 비하면 아무것도 아니다.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-e:1",
+  "src": "AH, THEY'RE NO PROBLEM. WE GOT THE MOVES, EH JAK?",
+  "speaker": "DAXTER",
+  "ko": "에이, 문제없어. 우리 몸놀림 끝내주잖아, 그치 잭?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); 2차 검수 반영"
+ },
+ {
+  "id": "cut:sage-intro-sequence-e:2",
+  "src": "WE'D LOVE TO STAY AND CHAT, BIG GREEN, BUT WE'RE UH...",
+  "speaker": "DAXTER",
+  "ko": "더 수다 떨고 싶지만, 초록 덩치, 우린 그게...",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); N-002 적용"
+ },
+ {
+  "id": "cut:sage-intro-sequence-e:3",
+  "src": "ITCHING TO GET ON WITH OUR ADVENTURES.",
+  "speaker": "DAXTER",
+  "ko": "모험을 떠나고 싶어서 몸이 근질근질하거든.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-e:4",
+  "src": "FINE, FINE, \"ADVENTURE\" AWAY THEN.",
+  "speaker": "SAMOS",
+  "ko": "그래, 그래, 그럼 실컷 \"모험\"하러 가거라.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-e:5",
+  "src": "AND WHILE YOU'RE OUT \"ADVENTURING,\" WHY DON'T YOU MAKE YOURSELF USEFUL?",
+  "speaker": "SAMOS",
+  "ko": "그리고 \"모험\"하는 김에 쓸모 있는 일도 좀 하지 그러냐?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-e:6",
+  "src": "MY DARN GREEN ECO COLLECTORS ARE CLOGGED UP AGAIN.",
+  "speaker": "SAMOS",
+  "ko": "망할 그린 이코 수집기가 또 막혔거든.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); G-007c 확정"
+ },
+ {
+  "id": "cut:sage-intro-sequence-e:7",
+  "src": "HEAD OUT TO THE FAR SIDE OF THE BEACH AND CLEAR THEM OUT WHY DON'T YOU.",
+  "speaker": "SAMOS",
+  "ko": "해변 저편으로 가서 좀 뚫어 놓거라.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-e:8",
+  "src": "FOLLOW THE LAMPS, THEY'LL TAKE YOU RIGHT THERE.",
+  "speaker": "SAMOS",
+  "ko": "등불을 따라가면 바로 거기에 닿을 게다.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sage-intro-sequence-e:9",
+  "src": "NOW, ALL OF YOU...",
+  "speaker": "SAMOS",
+  "ko": "자, 다들...",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); 2차 검수 반영"
+ },
+ {
+  "id": "cut:sage-intro-sequence-e:10",
+  "src": "GET OUT OF HERE!",
+  "speaker": "SAMOS",
+  "ko": "썩 나가거라!",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ }
+]

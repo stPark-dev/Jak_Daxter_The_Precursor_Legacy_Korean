@@ -1,0 +1,26 @@
+[
+ {
+  "id": "cut:sage-reminder-2-generic:0",
+  "src": "YOU TWO JUST DON'T UNDERSTAND THE GRAVITY OF THE SITUATION.",
+  "speaker": "SAMOS",
+  "ko": "너희 둘은 사태가 얼마나 심각한지 도통 모르는구나.",
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+ },
+ {
+  "id": "cut:sage-reminder-2-generic:1",
+  "src": "THIS IS ABOUT MORE THAN A SINGLE BOY GONE FUZZY. THIS IS ABOUT LIFE AS WE KNOW IT.",
+  "speaker": "SAMOS",
+  "ko": "털북숭이가 된 녀석 하나 문제가 아니다. 우리가 아는 세상 전체가 걸린 일이야.",
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 2차 검수 반영"
+ },
+ {
+  "id": "cut:sage-reminder-2-generic:2",
+  "src": "NOW, GET OUT THERE AND FULFILL YOUR DESTINY.",
+  "speaker": "SAMOS",
+  "ko": "자, 어서 나가서 너희 운명을 이루거라.",
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+ }
+]

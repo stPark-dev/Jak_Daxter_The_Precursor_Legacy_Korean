@@ -1,0 +1,34 @@
+[
+ {
+  "id": "cut:sidekick-human-intro-sequence-b:0",
+  "src": "CONTINUE YOUR SEARCH FOR ARTIFACTS AND ECO.",
+  "speaker": "OLD MAN",
+  "ko": "유물과 이코 수색을 계속하라.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); speaker OLD MAN/WOMAN 확정"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-b:1",
+  "src": "IF THE LOCALS POSSESS PRECURSOR ITEMS, YOU KNOW WHAT TO DO.",
+  "speaker": "OLD MAN",
+  "ko": "주민들이 프리커서 유물을 갖고 있다면, 어찌해야 할지 알 테지.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); speaker OLD MAN/WOMAN 확정"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-b:2",
+  "src": "DEAL HARSHLY WITH ANYBODY WHO STRAYS FROM THE VILLAGE.",
+  "speaker": "WOMAN",
+  "ko": "마을을 벗어나는 자는 누구든 엄히 다스려라.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); speaker OLD MAN/WOMAN 확정; 2차 검수 반영"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-b:3",
+  "src": "WE WILL ATTACK IT IN DUE TIME.",
+  "speaker": "WOMAN",
+  "ko": "마을은 때가 되면 우리가 칠 것이다.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); speaker OLD MAN/WOMAN 확정; 2차 검수 반영"
+ }
+]

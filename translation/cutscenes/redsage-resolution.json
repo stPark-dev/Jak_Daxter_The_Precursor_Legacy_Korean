@@ -1,0 +1,66 @@
+[
+ {
+  "id": "cut:redsage-resolution:0",
+  "src": "HE-HE-HEH... YOU'VE FINALLY COME TO RESCUE ME.",
+  "speaker": "RED SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:redsage-resolution:1",
+  "src": "DO YOU KNOW HOW LONG I'VE BEEN IN HERE?",
+  "speaker": "RED SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:redsage-resolution:2",
+  "src": "WHAT TOOK YOU SO LONG? AND UH, HE-HE-HEH...",
+  "speaker": "RED SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:redsage-resolution:3",
+  "src": "WHAT ARE YOUR NAMES?",
+  "speaker": "RED SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:redsage-resolution:4",
+  "src": "I'M DAXTER! HE'S JAK, HE'S WITH ME.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:redsage-resolution:5",
+  "src": "GOOD JOB, DAXTER. YOU'RE A REAL HERO.",
+  "speaker": "RED SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:redsage-resolution:6",
+  "src": "YOU'VE GOT TO STOP GOL FROM LAUNCHING THE ROBOT.",
+  "speaker": "RED SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:redsage-resolution:7",
+  "src": "I'LL USE MY ECO POWER TO HELP OPEN THE SHIELD DOOR.",
+  "speaker": "RED SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

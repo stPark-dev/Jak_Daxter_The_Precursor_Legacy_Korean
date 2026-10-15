@@ -1,0 +1,5618 @@
+[
+ {
+  "id": "hint:ASSTLP01:0",
+  "src": "HMM...",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP02:0",
+  "src": "GOTTA GET THIS HEAT SHIELD WORKING...",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP03:0",
+  "src": "WE NEED POWER CELLS TO FUEL THE HEAT SHIELD...",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP04:0",
+  "src": "WHERE'S MY SPANNER?",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP05:0",
+  "src": "FIRE CANYON IS SO HOT...",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP23:0",
+  "src": "NOW, HOW DID HE GET THAT LEVITATOR TO WORK?",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP24:0",
+  "src": "NOW, EVEN WITH POWER CELLS,",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP24:1",
+  "src": "WILL WE HAVE ENOUGH POWER?",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP30:0",
+  "src": "HM, LET'S SEE...",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP31:0",
+  "src": "HM.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP32:0",
+  "src": "OH, MY...",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP33:0",
+  "src": "AH-HA!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP34:0",
+  "src": "HUH... WHAT ARE GOL AND MAIA UP TO?",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP35:0",
+  "src": "HMM... WE'VE GOTTA GET TO PRECURSOR CITY.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP36:0",
+  "src": "HUH. THE HEAT SHIELD'S GOING TO NEED EVEN MORE POWER",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP36:1",
+  "src": "TO WITHSTAND THE LAVA.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:ASSTLP37:0",
+  "src": "AW... WE'VE GOT TO SAVE THE OTHER SAGES...",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-AM01:0",
+  "src": "I JUST LOVE THE MUD.",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-AM02:0",
+  "src": "DARN SWAMP RATS.",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-AM03:0",
+  "src": "I NEED A GOOD DRAUGHT OF MAMA'S MEDICINE.",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-AM04:0",
+  "src": "GLADIOLA.",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-AM05:0",
+  "src": "I NEED ME SOME BROWN MEDICINE.",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-AM06:0",
+  "src": "I NEED ME SOME SUMMER COOLANT.",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-AM07:0",
+  "src": "DARN, THIS HEAT'S GIVIN' ME THE PRICKLIES.",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-AM08:0",
+  "src": "DARN... THIS HEAT'S GIVIN' ME A RASH.",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-AM1A:0",
+  "src": "MM-MM! I JUST LOVE THE MUD!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-AM2A:0",
+  "src": "DARN SWAMP RATS!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-AM2B:0",
+  "src": "DARN SWAMP RATS!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-LO01:0",
+  "src": "FARTHY!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-LO02:0",
+  "src": "SOIEE-SOIEE-SOIEE-SOIEE-SOIEE!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-LO03:0",
+  "src": "SOIEE-SOIEE-SOIEE!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-LO1A:0",
+  "src": "FARTHY!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-LO2A:0",
+  "src": "SOIEE-SOIEE-SOIEE!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-LO2B:0",
+  "src": "SOIEE! SOIEE!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA01:0",
+  "src": "GET 'EM!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA02:0",
+  "src": "NICE SHOT!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA03:0",
+  "src": "OVER THAR!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA04:0",
+  "src": "AW, DANG.",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA05:0",
+  "src": "RAT GOT A SNACK.",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA06:0",
+  "src": "AND ANOTHER...",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA07:0",
+  "src": "THERE'S ONLY ONE LEFT...",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA08:0",
+  "src": "GOT 'EM.",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA09:0",
+  "src": "YEEHAW!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA1A:0",
+  "src": "GET 'EM!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA2A:0",
+  "src": "NICE SHOT!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA3A:0",
+  "src": "OVER THAR.",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA4A:0",
+  "src": "DANG!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA4B:0",
+  "src": "DANG!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIL-TA5A:0",
+  "src": "RAT GOT A SNACK!",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-AM01:0",
+  "src": "ARE YOU NEAR THE EGG YET?",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-AM02:0",
+  "src": "THAT'S IT, JUST A LITTLE FURTHER!",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-AM03:0",
+  "src": "OH, GOOD, NOW PUSH IT. OH, GENTLY NOW!",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-AM04:0",
+  "src": "OH, MY, THAT WASN'T GENTLE!",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-AM05:0",
+  "src": "COME ON, PUSH THE EGG OFF THE CLIFF!",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-AM06:0",
+  "src": "OHH!",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-AM07:0",
+  "src": "OH, HERE, BIRDIE BIRDIE. HERE, BIRDIE BIRDIE.",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-AM08:0",
+  "src": "HERE, BIRDIE BIRDIE.",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-AM09:0",
+  "src": "BE CAREFUL, IT DOESN'T LOOK SAFE UP THERE!",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-AM10:0",
+  "src": "CAREFUL, EASY DOES IT!",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-AM11:0",
+  "src": "GOOD JOB! NOW MEET ME DOWN HERE BY THE EGG.",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-AM12:0",
+  "src": "YOU MUST BE A TRUE ANIMAL LOVER!",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-AM13:0",
+  "src": "DO YOU SEE ANY OTHER BIRDS UP THERE?",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-LO01:0",
+  "src": "(KISS) (WHISTLE)",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-LO02:0",
+  "src": "OH MY, THAT'S A PRETTY ONE.",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-LO03:0",
+  "src": "OH LOOK, A MUCKY-MUCK.",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BIR-am08:0",
+  "src": "HERE, BIRDIE BIRDIE...",
+  "speaker": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BLU-AM01:0",
+  "src": "A LITTLE BIT OF HELP WOULD BE GOOD!",
+  "speaker": "BLUE SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BLU-AM02:0",
+  "src": "OH, THIS IS A FINE MESS.",
+  "speaker": "BLUE SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:BLU-AM03:0",
+  "src": "HMM, QUITE AN ENIGMA WE'RE FACING.",
+  "speaker": "BLUE SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-AM01:0",
+  "src": "THIS IS A CATASTROPHE. A CATASTROPHE I SAY!",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-AM02:0",
+  "src": "THEY WANT ME TO GO INTO THE JUNGLE - ME! HO HO OH...",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-AM02:1",
+  "src": "I'D SOONER WRESTLE AN ENRAGED FLUT-FLUT.",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-AM03:0",
+  "src": "F-FIRST THE FISHERMAN'S BOAT IS...",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-AM03:1",
+  "src": "IT'S ATTACKED BY A MONSTER...",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-AM03:2",
+  "src": "AND NOW, NOW THIS...",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-AM03:3",
+  "src": "WHAT ELSE COULD GO WRONG?",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-AM04:0",
+  "src": "I DON'T... I'D, I'D... OOH, MAYBE I SHOULD RAISE TAXES...",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-AM04:1",
+  "src": "TO PAY FOR THIS MESS.",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-AM05:0",
+  "src": "PROBLEMS... PROBLEMS... PROBLEMS!",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-AM06:0",
+  "src": "(SOBS) I'LL NEVER GET RE-ELECTED NOW...",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-AM07:0",
+  "src": "(MOANS) WHAT'S HAPPENED TO THE VILLAGE'S ENERGY BEAM?",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-AM08:0",
+  "src": "I... THEY, I DON'T... (MUTTERS)",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-LO01:0",
+  "src": "...WINDMILL, MONSTERS, POWER, RE-ELECTION...",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:CHI-LO02:0",
+  "src": "...THE POLLS, I... MONSTERS, HM... RE-ELECTION, OH...",
+  "speaker": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:EXP-AM01:0",
+  "src": "I NEED TO SET OFF ON MY JOURNEY SOON.",
+  "speaker": "JAK'S UNCLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:EXP-AM01:1",
+  "src": "I NEED PRECURSOR ORBS!",
+  "speaker": "JAK'S UNCLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:EXP-AM02:0",
+  "src": "LET'S SEE, NOW WHERE SHALL I GO FIRST? EH...",
+  "speaker": "JAK'S UNCLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:EXP-AM03:0",
+  "src": "OH I DO MISS THE OPEN ROAD.",
+  "speaker": "JAK'S UNCLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:EXP-AM04:0",
+  "src": "SO MANY PLACES TO SEE, AND SO LITTLE TIME.",
+  "speaker": "JAK'S UNCLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:EXP-AM05:0",
+  "src": "WELL IN MY DAY, YOU COULD WALK THE LANDS",
+  "speaker": "JAK'S UNCLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:EXP-AM05:1",
+  "src": "WITHOUT BEING ASSAULTED BY MONSTERS!",
+  "speaker": "JAK'S UNCLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:EXP-LO02:0",
+  "src": "I NEED MORE PRECURSOR ORBS.",
+  "speaker": "JAK'S UNCLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:EXP-LO1A:0",
+  "src": "(MUTTERS)",
+  "speaker": "JAK'S UNCLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FAR-AM01:0",
+  "src": "(SNORES) HERE, BESSIE... HERE, BESSIE BESSIE...",
+  "speaker": "FARMER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FAR-AM01:1",
+  "src": "THAT'S A GOOD GIRL...",
+  "speaker": "FARMER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FAR-AM02:0",
+  "src": "GOTTA BRING IN THE CROPS 'FORE THE JUNE BUGS...",
+  "speaker": "FARMER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FAR-AM2A:0",
+  "src": "GOTTA BRING IN THE CROPS 'FORE THE JUNE BUGS GET...",
+  "speaker": "FARMER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FAR-LO01:0",
+  "src": "(SNORES)",
+  "speaker": "FARMER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FAR-LO1A:0",
+  "src": "(SNORES)",
+  "speaker": "FARMER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-AM01:0",
+  "src": "GRR, THESE DARN FISH...",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-AM01:1",
+  "src": "I NEVER CATCH ME A SINGLE ONE.",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-AM02:0",
+  "src": "THEM MONSTERS THAT DONE BIT ME SHIP",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-AM02:1",
+  "src": "WILL DRIVE ME BROKE.",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-AM03:0",
+  "src": "DRAT, THESE BLIGHTERS!",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-AM03:1",
+  "src": "IN ME BASKET, DARN FISHIES, COME ON YEAH...",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-AM03:2",
+  "src": "HEH HE HE HE HE...",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-AM04:0",
+  "src": "OH I LOVE THE SMELL OF FISH IN THE MORNIN'.",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-AM05:0",
+  "src": "OOH I COULD USE ME A SALTED FISH LIPS ON RYE.",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-AM06:0",
+  "src": "I 'MEMBER THE BIG ONE THAT GOT AWAY...",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-LO01:0",
+  "src": "GRR!",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-LO03:0",
+  "src": "HA HA HA HA HA HAH!",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-LO04:0",
+  "src": "DARN FISH... THEY NEVER GET IN ME NET!",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-LO05:0",
+  "src": "HA HA HA AH HA HA HA HAH!",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-TA01:0",
+  "src": "TO THE LEFT!",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-TA02:0",
+  "src": "RIGHT WITH YA!",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-TA03:0",
+  "src": "HERE COMES A BIG ONE!",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-TA04:0",
+  "src": "YE MISSED A JUMBO, LADDIE!",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-TA05:0",
+  "src": "DON'T MISS ONE LIKE THAT AGAIN!",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-TA06:0",
+  "src": "STEADY BOY.",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-TA07:0",
+  "src": "YOUR SAILS ARE SAGGING IN THE WIND, BOY.",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-TA08:0",
+  "src": "MISSED.",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-TA09:0",
+  "src": "LOOKS LIKE YOU COULD USE A BIGGER NET...",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-TA10:0",
+  "src": "MISSED AGAIN!",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-TA11:0",
+  "src": "HOLD STEADY! YOU'RE ALMOST THERE...",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-TA1A:0",
+  "src": "LEFT!",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:FIS-TA2A:0",
+  "src": "RIGHT!",
+  "speaker": "FISHERMAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GAM-AM01:0",
+  "src": "HEY, TWENTY-TO-ONE ODDS AIN'T SO BAD!",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GAM-AM02:0",
+  "src": "NO, IT WAS A SURE THING!",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GAM-AM03:0",
+  "src": "HEH HEH HEH... I'M GONNA HIT THE JACKPOT NEXT TIME!",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GAM-AM04:0",
+  "src": "HEH! IF I HAD AN ORB FOR EVERY MISSED OPPORTUNITY...!",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GAM-AM05:0",
+  "src": "HEY! BARRELS COULD COME BACK IN STYLE!",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GAM-AM06:0",
+  "src": "OH... I NEED A LUCKY BREAK.",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GAM-AM07:0",
+  "src": "AW, WHAT ARE THE ODDS OF MOVIN' TO A TOWN UNDER ATTACK?",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GAM-AM08:0",
+  "src": "I THOUGHT I HAD A GOOD TIP!",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GAM-AM09:0",
+  "src": "ANOTHER DAY, ANOTHER WAGER.",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GAM-AM10:0",
+  "src": "I BET NO ONE CAN TAKE ON THAT MONSTER.",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GAM-AM11:0",
+  "src": "HUH-HUH... I SHOULD CASH OUT AND MOVE ON.",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GAM-AM12:0",
+  "src": "EH, SOMETIMES YOU JUST CAN'T WIN.",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GAM-AM13:0",
+  "src": "HEY, WHAT ARE YOU LAUGHIN' AT? DO I AMUSE YOU?",
+  "speaker": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GEO-AM01:0",
+  "src": "MM, INTERESTING STRATA...",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GEO-AM02:0",
+  "src": "POOR LITTLE MOLES...",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GEO-AM03:0",
+  "src": "INTERESTING...",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GEO-AM04:0",
+  "src": "GOOD LUCK, BOYS!",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GEO-AM05:0",
+  "src": "NASTY LURKERS...",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GEO-AM06:0",
+  "src": "ROCKS HAVE FEELINGS, TOO...",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GEO-AM07:0",
+  "src": "HANG IN THERE, LITTLE ONES...",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GEO-AM08:0",
+  "src": "NOW I CAN GET BACK TO MY RESEARCH!",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GEO-LO01:0",
+  "src": "I'VE GOT TO GET BACK TO MY RESEARCH.",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GEO-LO02:0",
+  "src": "HM, THIS STONE IS VERY OLD...",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM01:0",
+  "src": "YOU JUST WON'T GIVE UP, WILL YOU?",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM02:0",
+  "src": "SOON, THE DARK ECO WILL BE OURS!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM03:0",
+  "src": "FINISH THEM!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM04:0",
+  "src": "FIRE!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM05:0",
+  "src": "BLAST THEM!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM06:0",
+  "src": "WHAT? THEM AGAIN!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM07:0",
+  "src": "IT'S TOO LATE!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM08:0",
+  "src": "YOU ARE MINE!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM09:0",
+  "src": "I HAVE YOU NOW!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM10:0",
+  "src": "AH HA HA HA HA!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM11:0",
+  "src": "NO MERCY!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM12:0",
+  "src": "TAKE THAT!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM13:0",
+  "src": "NICE TRY!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM14:0",
+  "src": "STAND STILL!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM15:0",
+  "src": "PATHETIC!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM16:0",
+  "src": "NOOO!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM17:0",
+  "src": "AHHH!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM18:0",
+  "src": "WE'LL OPEN THE SILO ALL THE WAY AND DESTROY YOU TWO!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM19:0",
+  "src": "LIGHT ECO! IT DOES EXIST!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:GOL-AM20:0",
+  "src": "WE'RE NOT GONNA TAKE IT!",
+  "speaker": "GOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MAI-AM01:0",
+  "src": "FINISH THEM BOTH OFF ONCE AND FOR ALL!",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MAI-AM02:0",
+  "src": "TAKE THEM OUT!",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MAI-AM03:0",
+  "src": "HA HA HA!",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MAI-AM04:0",
+  "src": "ECO WON'T PROTECT YOU NOW!",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MAI-AM05:0",
+  "src": "DO SOMETHING!",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MAI-AM06:0",
+  "src": "AGH!",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MAI-AM07:0",
+  "src": "NOOOOO!",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MAI-AM08:0",
+  "src": "WE'LL OPEN THE SILO ALL THE WAY AND DESTROY YOU TWO!",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MAI-AM09:0",
+  "src": "THEY MUST NOT BE ALLOWED TO GET IT!",
+  "speaker": "MAIA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MIN-LO01:0",
+  "src": "ONE OF THESE DAYS I'LL BE RICH...",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MIN-LO01:1",
+  "src": "YOU MEAN WE'LL BE RICH!",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MIN-LO01:2",
+  "src": "YEAH. WHATEVER.",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MIN-LO03:0",
+  "src": "DIG, WILLARD! DIG!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MIN-LO03:1",
+  "src": "YEAH, BUT YOU'RE NOT DIGGING!",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MIN-LO03:2",
+  "src": "THAT'S 'CAUSE I'M DOIN' THE THINKIN'!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MIN-LO04:0",
+  "src": "DUH, GORDY? CAN I TAKE A BREAK?",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MIN-LO04:1",
+  "src": "OH, I'LL BREAK SOMETHIN' ALRIGHT. NOW DIG!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MIN-LO05:0",
+  "src": "I'M STARVING, GORDY!",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MIN-LO05:1",
+  "src": "EAT YOUR BIRD!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MIN-LO06:0",
+  "src": "DUH, GORDY? I NEED A SHARPER PICK.",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MIN-LO06:1",
+  "src": "WHAT YOU NEED IS A SHARPER WIT!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM01:0",
+  "src": "WAH-HA-HA-HA-HA! I'M GONNA BE RICH!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM02:0",
+  "src": "DIG, DIG, DIG!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM03:0",
+  "src": "WILLARD! WORK HARDER, NOT SMARTER!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM04:0",
+  "src": "AH-HAH, I'LL BE THE RICHEST MAN IN THE WORLD! AH HA HA...",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM05:0",
+  "src": "OH HO HO! NOBODY'S EVEN SEEN A GEM THIS SIZE! AH HA HA!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM06:0",
+  "src": "EASY STREET, HERE I COME!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM07:0",
+  "src": "MY GEMS! ALL MY GEMS!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM09:0",
+  "src": "(CHUCKLING) I CAN'T WAIT TO CASH THIS BABY IN!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM10:0",
+  "src": "THIS LOOKS LIKE A RARE CRYSTITE ZLARCONIA! OH-HO-HO!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM11:0",
+  "src": "NOW WAIT A MINUTE! THEY'RE ALL MINE! MINE, I TELL YA!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM12:0",
+  "src": "SO, WILLARD. WHAT ARE YOU GONNA DO WITH",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM12:1",
+  "src": "YOUR QUARTER, OF YOUR HALF?",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM1A:0",
+  "src": "I'M GONNA BE RICH!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM2A:0",
+  "src": "DIG, DIG, DIG!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MSH-AM3A:0",
+  "src": "WORK HARDER, NOT SMARTER!",
+  "speaker": "GORDY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MTA-AM01:0",
+  "src": "DUH, ARE WE ALMOST DONE?",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MTA-AM02:0",
+  "src": "GEE, CAN WE TAKE A BREAK?",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MTA-AM03:0",
+  "src": "AWW, I'M HUNGRY...",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MTA-AM04:0",
+  "src": "DUH... I THINK BIRDIE'S CAGE NEEDS CLEANING...",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MTA-AM05:0",
+  "src": "GEE, THAT'S AN AWFULLY BIG GEM!",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MTA-AM06:0",
+  "src": "DUH... I ALWAYS WANTED TO BE A LUMBERJACK...",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MTA-AM07:0",
+  "src": "DUH, GORDY PROMISED TO GIVE ME HALF OF WHATEVER I COULD CARRY!",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MTA-AM08:0",
+  "src": "EH HEH... BIRDIE IS MY BEST FRIEND...",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:MTA-AM09:0",
+  "src": "I LOVE MY LITTLE BIRDIE...",
+  "speaker": "WILLARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:RED-AM01:0",
+  "src": "IS ANYBODY THERE?",
+  "speaker": "RED SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:RED-AM02:0",
+  "src": "WELL...",
+  "speaker": "RED SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:RED-AM03:0",
+  "src": "WHAT KEPT YOU?",
+  "speaker": "RED SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP03:0",
+  "src": "THESE TWO COULDN'T UNBLOCK THEIR EARS...",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP04:0",
+  "src": "HE'LL JUST NEVER BE LIKE HIS UNCLE...",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP04:1",
+  "src": "I DON'T CARE WHAT THE OTHERS SAY.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP05:0",
+  "src": "HELLO, BLUE SAGE? HELLO?",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP05:1",
+  "src": "WHERE IN THE BLUE BLAZES COULD HE BE...",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP06:0",
+  "src": "MY, MY, MY...",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP11:0",
+  "src": "ANYONE? ANYONE AT ALL? COME IN?",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP20:0",
+  "src": "HMM...",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP21:0",
+  "src": "THE LURKERS MUST BE STOPPED.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP22:0",
+  "src": "I SEE...",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP23:0",
+  "src": "NO...",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP24:0",
+  "src": "WHAT COULD HAVE HAPPENED TO THEM?",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP31:0",
+  "src": "THIS ISN'T GOOD.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP32:0",
+  "src": "DARK ECO CRYSTALS?",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP33:0",
+  "src": "MAIA AND GOL HAVE GOTTEN IN OVER THEIR HEADS!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP34:0",
+  "src": "HNG, DARK ECO'S POWERS CANNOT BE CONTROLLED!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP35:0",
+  "src": "DARK ECO IN THE GLACIERS?",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP36:0",
+  "src": "AH! THERE'S LURKER TROOPS IN THE MOUNTAINS!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP37:0",
+  "src": "WHAT IS GOL PLANNING...",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SAGELP38:0",
+  "src": "COULD HE ACTUALLY HAVE...?",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SCU-AM01:0",
+  "src": "AW... I JUST CAN'T DO IT ANYMORE.",
+  "speaker": "SCULPTOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SCU-AM02:0",
+  "src": "AW, I WISH I HAD SOME INSPIRATION.",
+  "speaker": "SCULPTOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SCU-AM03:0",
+  "src": "I'M AS INSPIRED AS... THIS ROCK.",
+  "speaker": "SCULPTOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SCU-AM04:0",
+  "src": "AW... WHERE IS MY MUSE?",
+  "speaker": "SCULPTOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SCU-AM05:0",
+  "src": "I CAN'T WORK LIKE THIS!",
+  "speaker": "SCULPTOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SCU-AM06:0",
+  "src": "AW MAN... WILL SHE EVER COME BACK TO ME?",
+  "speaker": "SCULPTOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SCU-LO01:0",
+  "src": "AW MAN...",
+  "speaker": "SCULPTOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:SKSP009F:0",
+  "src": "GET SOME! GET SOME! HA HA HA!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:WAR-LO1A:0",
+  "src": "(SOBBING)",
+  "speaker": "WARRIOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:WAR-LO1B:0",
+  "src": "(SOBS)",
+  "speaker": "WARRIOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:WAR-LO1C:0",
+  "src": "(BLOWS NOSE AND SPUTTERS)",
+  "speaker": "WARRIOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:WAR-LO1C:1",
+  "src": "(CONTINUES SOBBING)",
+  "speaker": "WARRIOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:YEL-AM01:0",
+  "src": "TIME IS RUNNIN' OUT!",
+  "speaker": "YELLOW SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:YEL-AM02:0",
+  "src": "HEY! GET ME OUTTA HERE!",
+  "speaker": "YELLOW SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:YEL-AM03:0",
+  "src": "WHEN I GET OUTTA HERE, SOME SHOOTIN'S GONNA START!",
+  "speaker": "YELLOW SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv100:0",
+  "src": "OKAY, YOU HAVE ENOUGH CELLS TO INCREASE THE POWER ON THE HEAT SHIELD.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv100:1",
+  "src": "RIDE THE WOODEN MINECART DOWN THE SHAFT BY THE LAVA GEYSER.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv100:2",
+  "src": "I'LL MEET YOU BY THE ENTRANCE TO THE LAVA TUBE,",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv100:3",
+  "src": "SO I CAN MODIFY THE ZOOMER. HURRY!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv101:0",
+  "src": "HAHA, OKAY! YOU HAVE ENOUGH CELLS TO INCREASE",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv101:1",
+  "src": "THE POWER ON THE HEAT SHIELD.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv101:2",
+  "src": "MEET ME BACK IN THE VOLCANIC CRATER.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv101:3",
+  "src": "I'LL BE WAITING BY THE LAVA TUBE DOWN THE SHAFT BY THE LAVA GEYSER.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv101:4",
+  "src": "BRING ME THE POWER CELLS!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv102:0",
+  "src": "HURRY UP WITH THOSE POWER CELLS!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv102:1",
+  "src": "I'M WAITING BY THE WOODEN MINECART SHAFT NEAR THE LAVA GEYSER.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv103:0",
+  "src": "DON'T FORGET TO TURN ON THE TELEPORT GATE TO LET US THROUGH.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv103:1",
+  "src": "YOU'VE GOT TO GO INTO THE RED SAGE'S LAB",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv103:2",
+  "src": "IN THE CENTER OF THE VOLCANIC CRATER TO TURN IT ON.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv103:3",
+  "src": "WE CAN'T COME THROUGH UNTIL IT'S BACK ONLINE.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv104:0",
+  "src": "HEY, WE'RE STILL BACK IN ROCK VILLAGE!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv104:1",
+  "src": "TURN ON THE TELEPORT GATE!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv105:0",
+  "src": "WE WANNA JOIN YOU IN THE VOLCANIC CRATER!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstv105:1",
+  "src": "GO INTO THE RED SAGE'S LAB AND TURN ON THE GATE.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstva73:0",
+  "src": "HEY GUYS! BY MY CALCULATIONS, IT'S GOING TO TAKE",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstva73:1",
+  "src": "72 POWER CELLS TO FUEL THE HEAT SHIELD",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstva73:2",
+  "src": "AGAINST THE LAVA ON THE WAY TO GOL AND MAIA'S CITADEL.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstva74:0",
+  "src": "YOU DON'T HAVE ENOUGH POWER CELLS TO GET THROUGH THIS LAVA!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstva74:1",
+  "src": "YOU CAN'T GET THROUGH TO GOL AND MAIA'S CITADEL",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstva74:2",
+  "src": "UNTIL YOU'VE COLLECTED 72 POWER CELLS!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb02:0",
+  "src": "WOW, DID YOU SEE THAT?",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb02:1",
+  "src": "BLUE ECO VENTS HAVE BEEN ACTIVATED ALL OVER THE WORLD!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb02:2",
+  "src": "I KNEW THERE WAS A WAY TO TURN THEM ON.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb02:3",
+  "src": "THERE MUST BE PLACES TO TURN ON THE OTHER ECO VENTS AS WELL.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb03:0",
+  "src": "GOOD! YOU STOPPED ALL THE MINE-DROPPING LURKERS!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb03:1",
+  "src": "THEY'VE BEEN THREATENING THE WATERS AROUND OUR VILLAGE FOR WEEKS.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb03:2",
+  "src": "BRING YOUR ZOOMER BACK TO THE TRANS-PAD AND I'LL TELEPORT IT BACK!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb04:0",
+  "src": "GOOD, YOU'VE COLLECTED ENOUGH POWER CELLS TO FUEL MY HEAT SHIELD!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb04:1",
+  "src": "MEET ME BY THE ENTRANCE TO THE FIRE CANYON",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb04:2",
+  "src": "BY CLIMBING THE CLIFF BEHIND THE FARMER'S HOUSE.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb04:3",
+  "src": "BRING THE POWER CELLS, AND HURRY!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb04:4",
+  "src": "MY FATHER SAYS HE'S SEEN MORE LURKERS AROUND!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb08:0",
+  "src": "HURRY UP WITH THOSE POWER CELLS.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb08:1",
+  "src": "I'M WAITING AT THE HEAD OF FIRE CANYON",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb08:2",
+  "src": "AT THE TOP OF THE CLIFF BEHIND THE FARMER'S HOUSE!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb09:0",
+  "src": "YOU DON'T HAVE ENOUGH POWER CELLS TO FUEL MY HEAT SHIELD.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb09:1",
+  "src": "YOU CAN'T CROSS FIRE CANYON UNTIL YOU COLLECT ENOUGH POWER CELLS.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb20:0",
+  "src": "GOOD FLYING! THOSE LURKERS WERE NO MATCH FOR YOUR ZOOMER!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb20:1",
+  "src": "THAT'S ONE MORE POWER CELL!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb21:0",
+  "src": "GOOD WORK! AREN'T YOU GUYS HAPPY",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb21:1",
+  "src": "YOU SAVED OUR LITTLE FLUT-FLUT FRIEND?",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb21:2",
+  "src": "SHE MAY COME IN HANDY AGAIN SOMETIME.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb21:3",
+  "src": "NOW, GO BACK TO THE TRANS-PAD, AND I'LL BRING HER HOME.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb22:0",
+  "src": "WOW! YOU RAISED A PIECE OF THE UNDERWATER RUINS TO THE SURFACE!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb22:1",
+  "src": "IT SEEMS YOU CAN USE ECO IN WAYS WE'VE NEVER SEEN BEFORE!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb22:2",
+  "src": "A POWER CELL SURFACED WITH THE ROOM. CLIMB UP THERE AND GET IT.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb23:0",
+  "src": "GREAT WORK! THE PEOPLE OF ROCK VILLAGE ARE BREATHING",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb23:1",
+  "src": "A COLLECTIVE SIGH OF RELIEF!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb23:2",
+  "src": "BUT THERE'S NO TIME TO CELEBRATE! USE YOUR ZOOMER",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb23:3",
+  "src": "TO NAVIGATE THE MOUNTAIN PASS UP AHEAD.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb23:4",
+  "src": "BE CAREFUL, IT LOOKS LIKE THE LURKERS HAVE RIGGED",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb23:5",
+  "src": "THE WHOLE PASS WITH EXPLOSIVES!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb23:6",
+  "src": "WHEN YOU REACH THE VOLCANIC CRATER,",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb23:7",
+  "src": "BE SURE TO VISIT THE RED SAGE'S LAB",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb23:8",
+  "src": "AND ACTIVATE THE TELEPORT GATE SO THAT FATHER AND I CAN JOIN YOU.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb24:0",
+  "src": "OH MY! THOSE LURKERS MUST BE HEADED",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb24:1",
+  "src": "FOR A DETONATOR AT THE END OF THE CANYON!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb24:2",
+  "src": "IF THEY REACH IT BEFORE YOU DO,",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb24:3",
+  "src": "THEY'LL BLOW UP THE ENTIRE PASS!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb24:4",
+  "src": "YOU'VE GOTTA BEAT THEM THERE AND DESTROY THE DETONATOR,",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb24:5",
+  "src": "OR IT'S ALL OVER!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb25:0",
+  "src": "GOOD WORK! YOU BEAT THEM TO THE DETONATOR!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb25:1",
+  "src": "THE RED SAGE'S LAB IS JUST AHEAD.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb25:2",
+  "src": "GO TURN ON THE TELEPORT GATE SO WE CAN JOIN YOU.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb28:0",
+  "src": "HEY! DON'T FORGET ABOUT THE SAGE AND ME!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb28:1",
+  "src": "YOU HAVE TO TURN ON THE TELEPORT GATE TO LET US THROUGH!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb28:2",
+  "src": "IT'S IN THE BLUE SAGE'S LAB, BY THE END OF FIRE CANYON.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb28:3",
+  "src": "IF YOU DON'T LET US THROUGH, THEN WE CAN'T HELP YOU!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb29:0",
+  "src": "HEY! WE'RE STILL WAITING!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb29:1",
+  "src": "TURN ON THE TELEPORT GATE!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb30:0",
+  "src": "HEY! WE CAN'T COME THROUGH UNTIL THE TELEPORT GATE'S ON!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb40:0",
+  "src": "THIS DEVICE IS A COMMUNICATOR. WITH IT, MY FATHER AND I",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb40:1",
+  "src": "CAN GIVE YOU ADVICE AT ANY TIME DURING YOUR QUEST.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb41:0",
+  "src": "THESE FLOATING EGG-SHAPED THINGS ARE PRECURSOR ORBS.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb41:1",
+  "src": "COLLECT ENOUGH OF THEM, AND SOME OF THE VILLAGERS WILL GIVE YOU",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb41:2",
+  "src": "A POWER CELL IN EXCHANGE.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb42:0",
+  "src": "THIS IS A POWER CELL, THE MOST IMPORTANT PRECURSOR ARTIFACT YOU CAN FIND!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb42:1",
+  "src": "YOU NEED TO COLLECT 20 OF THESE SO I CAN POWER THE HEAT SHIELD",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb42:2",
+  "src": "FOR YOUR A-GRAV ZOOMER.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb44:0",
+  "src": "HEY, YOU FOUND ONE OF MY SCOUT FLIES!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb44:1",
+  "src": "I SENT 7 OF THEM TO EACH AREA TO LOOK FOR POWER CELLS",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb44:2",
+  "src": "BUT THE LURKERS MUST HAVE CAPTURED THEM ALL!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb45:0",
+  "src": "WOW! THAT LAST SCOUT FLY HAD A POWER CELL!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb45:1",
+  "src": "I'LL BET IF YOU COLLECT ALL 7 IN EACH AREA",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb45:2",
+  "src": "YOU CAN FIND EVEN MORE POWER CELLS.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb46:0",
+  "src": "BE CAREFUL IN THE OCEAN, THE WATERS ARE CHOCK-FULL OF",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb46:1",
+  "src": "LURKER SHARKS AND I'VE NEVER SEEN ANYONE DEFEAT ONE.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb46:2",
+  "src": "STAY CLEAR OF THEM IF YOU KNOW WHAT'S GOOD FOR YOU!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb47:0",
+  "src": "REMEMBER, THAT'S A POWER CELL.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb47:1",
+  "src": "YOU NEED TO COLLECT AS MANY OF THOSE AS YOU CAN.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb48:0",
+  "src": "THAT'S A BLUE ECO VENT! MORE CONCENTRATED THAN THE FLOATING CLUSTERS,",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb48:1",
+  "src": "THIS VENT WILL GIVE YOU A FULL CHARGE OF BLUE ECO,",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb48:2",
+  "src": "LETTING YOU USE IT FOR THE MAXIMUM TIME.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb71:0",
+  "src": "YOU DON'T HAVE ENOUGH POWER CELLS TO POWER THE BLUE SAGE'S MACHINE.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb71:1",
+  "src": "WE CAN'T LIFT THAT BOULDER UNTIL YOU COLLECT 45 POWER CELLS.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb72:0",
+  "src": "UNTIL WE FIND OUT WHY THE BLUE SAGE DISAPPEARED,",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb72:1",
+  "src": "YOU'RE GOING TO NEED TO COLLECT 45 POWER CELLS TO FUEL HIS MACHINE.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb72:2",
+  "src": "GO GET 'EM!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb75:0",
+  "src": "THIS GONDOLA SEEMS TO BE MALFUNCTIONING.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb75:1",
+  "src": "I'LL TRY TO WORK ON IT AND GET IT RUNNING AGAIN.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb76:0",
+  "src": "I'VE REACTIVATED THE GONDOLA. IT CAN TAKE YOU TO SNOWY MOUNTAIN!",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:asstvb76:1",
+  "src": "USE IT WHENEVER YOU WANT.",
+  "speaker": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb01:0",
+  "src": "WELL, I SEE THAT YOU TWO HAVE FINALLY",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb01:1",
+  "src": "DECIDED TO UNBLOCK MY COLLECTORS.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb01:2",
+  "src": "I WOULD OFFER MY CONGRATULATIONS",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb01:3",
+  "src": "BUT YOU HAVE SO MUCH TO DO I WON'T WASTE YOUR TIME.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb01:4",
+  "src": "BY THE WAY, IF THINGS DON'T WORK OUT,",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb01:5",
+  "src": "DAXTER COULD ALWAYS GET A JOB CONTROLLING THE VILLAGE RAT PROBLEM.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb01:6",
+  "src": "NYEH HA HA HA HA HA.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb02:0",
+  "src": "I HAVE TO ADMIT, I'M IMPRESSED. YOU TWO DIDN'T SCREW UP!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb02:1",
+  "src": "NOW THAT THE LURKERS CAN'T OPEN THAT SILO",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb02:2",
+  "src": "THEY CAN'T FLOOD THE WORLD WITH DARK ECO",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb02:3",
+  "src": "AND CAUSE UNTOLD DESTRUCTION.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb02:4",
+  "src": "WIPE THAT RIDICULOUS GRIN OFF YOUR FACE, DAXTER!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb02:5",
+  "src": "THE TWO OF YOU HAVE PLENTY TO DO.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb02:6",
+  "src": "GET ON WITH IT!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb03:0",
+  "src": "YOU KEEP ON IMPRESSING ME. BUT THEN MAYBE IT'S JUST BECAUSE",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb03:1",
+  "src": "I'VE GOT LOW EXPECTATIONS.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb03:2",
+  "src": "OKAY, YOUR MOMENT OF GLOATING IS OVER.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb03:3",
+  "src": "GET ON WITH IT!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb04:0",
+  "src": "GOOD WORK, JAK! YOUR UNCLE WOULD BE PROUD.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb04:1",
+  "src": "THAT WAS A GIANT ARM FROM A PRECURSOR ROBOT.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb04:2",
+  "src": "I'VE NEVER SEEN ONE IN SUCH GOOD CONDITION!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb04:3",
+  "src": "I CAN'T IMAGINE WHAT THE LURKERS WANTED WITH IT,",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb04:4",
+  "src": "BUT WE SURE DIDN'T WANT THEM TO GET IT.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb04:5",
+  "src": "IF YOU KEEP THIS SUCCESS UP...",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb04:6",
+  "src": "NAH, YOU'LL STILL FALL SHORT OF HERO.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb04:7",
+  "src": "BUT KEEP TRYING. IT'S ENDEARING.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb21:0",
+  "src": "THOSE LITTLE GREEN BALLS OF ENERGY ON THE GROUND ARE A TYPE OF ECO.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb21:1",
+  "src": "PICK UP 50 SMALL GREEN ECOES, OR ONE BIG GREEN ONE TO INCREASE YOUR HEALTH.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb22:0",
+  "src": "THAT'S BLUE ECO, WHICH CONTAINS THE ENERGY OF MOTION.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb22:1",
+  "src": "BLUE ECO ALLOWS YOU TO RUN FAST, BREAK BOXES, AND EVEN ACTIVATE SOME PRECURSOR",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb22:2",
+  "src": "ARTIFACTS WHEN YOU GET NEAR THEM.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb23:0",
+  "src": "NOTICE HOW EACH BLUE ECO CLUSTER YOU PICK UP",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb23:1",
+  "src": "INCREASES THE TIME YOU CAN USE ITS POWER.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb24:0",
+  "src": "THIS IS A PRECURSOR DOOR.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb24:1",
+  "src": "IT CAN ONLY BE OPENED BY APPROACHING THE DOOR",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb24:2",
+  "src": "WHILE CHANNELLING BLUE ECO THROUGH YOUR BODY.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb25:0",
+  "src": "GOOD WORK, THE BLUE ECO CAUSED THE DOOR TO OPEN.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb25:1",
+  "src": "WITH BLUE ECO, YOU CAN BREATHE ENERGY INTO ALL KINDS",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb25:2",
+  "src": "OF PRECURSOR ARTIFACTS THAT HAVE LAIN DORMANT FOR YEARS.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb26:0",
+  "src": "USE YOUR GOGGLES TO VIEW YOUR PROGRESS DURING THE ADVENTURE.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb27:0",
+  "src": "YOU CAN JUMP ONCE, THEN JUMP AGAIN IN THE AIR TO REACH EVEN HIGHER LEDGES.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb28:0",
+  "src": "WHEN YOU'RE SURROUNDED BY ENEMIES, USE YOUR SPIN KICK.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb29:0",
+  "src": "THAT'S NOT A SPIN KICK! TRY AGAIN.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb30:0",
+  "src": "COME ON, JAK! DO A SPIN KICK.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb31:0",
+  "src": "GOOD WORK. USE THE SPIN KICK WHEN YOU WANT A GOOD ALL-ROUND ATTACK.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb32:0",
+  "src": "FOR A STRAIGHT LINE, MOVING ATTACK, USE YOUR FIST TO PUNCH.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb33:0",
+  "src": "THAT'S NOT A PUNCH ATTACK! LET'S SEE YOU PUNCH ALREADY.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb34:0",
+  "src": "JAK! USE A PUNCH.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb35:0",
+  "src": "GREAT JOB. USE THE PUNCH TO CLOSE DISTANCE QUICKLY IN A TOUGH SPOT.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb36:0",
+  "src": "SOMETIMES YOU'LL WANT TO HIT THINGS WITH A GREATER FORCE.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb36:1",
+  "src": "TO BREAK ONE OF THESE BOXES, YOU SHOULD JUMP IN THE AIR",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb36:2",
+  "src": "AND THEN DIVE DOWN ONTO IT, HANDS FIRST.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb37:0",
+  "src": "WHEN YOU GET SOME CONFIDENCE, TRY USING SOME OF YOUR MOVES IN COMBINATIONS.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb38:0",
+  "src": "YOU CAN'T COME BACK THROUGH THE WARP GATE",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb38:1",
+  "src": "UNTIL YOU FIND ALL 4 POWER CELLS ON THIS ISLAND.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb39:0",
+  "src": "GREAT! YOU FOUND ALL OF THE POWER CELLS ON THE ISLAND.",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sagevb39:1",
+  "src": "COME BACK TO THE WARP GATE SO I CAN BRING YOU BACK TO THE LAB. HURRY UP!",
+  "speaker": "SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0001:0",
+  "src": "HEY! THAT SWEET-LOOKING BABE KEIRA WAS RIGHT! THERE ARE TRANS-PADS OUT HERE.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0002:0",
+  "src": "TRUST ME, THOSE DARK ECO BOXES ARE BAD NEWS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0003:0",
+  "src": "I BET IF WE FOUND ALL OF THOSE SICKLY CUTE SCOUT FLIES ON EACH LEVEL",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0003:1",
+  "src": "AT LEAST ONE WILL HAVE A POWER CELL!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0004:0",
+  "src": "ALL RIGHT, TREASURE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0005:0",
+  "src": "THESE WOOD AND METAL BOXES DON'T LOOK THAT TOUGH!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0005:1",
+  "src": "I'LL BET THEY'LL BREAK IF YOU JUMP DIVE ONTO THEM.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0006:0",
+  "src": "THOSE ALL-METAL BOXES ARE THICKER THAN A YAKOW SKULL!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0006:1",
+  "src": "BUT THERE MUST BE SOMETHING THAT CAN BUST 'EM OPEN.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0007:0",
+  "src": "TWO WORDS: POWER CELLS. WE NEED TO FIND 'EM AND WE AREN'T LOOKIN' SO GOOD RIGHT NOW.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0008:0",
+  "src": "WE NEED ORBS. ORBS, JAK! HOW ARE EVER GONNA BUY POWER CELLS IF WE DON'T COLLECT ORBS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0009:0",
+  "src": "WHAT A WEIRD-LOOKING THING! I'LL BET WE CAN GET THIS OPEN",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0009:1",
+  "src": "IF YOU'RE POWERED UP WITH THAT ZAPPY BLUE ECO STUFF.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0010:0",
+  "src": "HEY! LET'S GO CHECK OUT OL' FISH BREATH'S SPEED-BOAT AT THE DOCK!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0011:0",
+  "src": "WE SHOULD ASK THE FISHERMAN DOWN BY THE JUNGLE RIVER",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0011:1",
+  "src": "IF WE CAN BORROW HIS SPEEDBOAT TO ZOOM ON OVER TO MISTY ISLAND!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0013:0",
+  "src": "DID YOU SEE THE SIZE OF THE BITE",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0013:1",
+  "src": "THAT LURKER SHARK TOOK OUT OF THE FISHERMAN'S BOAT?",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0013:2",
+  "src": "WE BEST STAY WAY CLEAR OF THEM!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0013:3",
+  "src": "I DON'T THINK WE CAN TACKLE A CREATURE THAT DAG NASTY.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0014:0",
+  "src": "WE SCROUNGED ENOUGH ORBS TO TRADE FOR A POWER CELL.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0014:1",
+  "src": "LET'S GET BACK AND MAKE THE SWITCH ALREADY!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0015:0",
+  "src": "THIS MUST BE A PRECURSOR ORACLE LIKE THE SAGE ALWAYS GOES ON ABOUT.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0015:1",
+  "src": "I HOPE THEY WEREN'T AS UGLY IN PERSON!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0017:0",
+  "src": "WHOA! CHECK OUT THAT FUNKY SCULPTURE",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0017:1",
+  "src": "SITTIN' ON THE ROCKS OVER THERE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0018:0",
+  "src": "WE SHOULD GO TELL THAT WINDBAG OF A MAYOR THAT HE OWES US BIG TIME",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0018:1",
+  "src": "FOR CONNECTING THE VILLAGE ENERGY BEAM!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0019:0",
+  "src": "HEY, SEAGULLS! LET'S BUZZ 'EM FOR KICKS.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0020:0",
+  "src": "YEAH HA HA! LET'S DO THAT AGAIN!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0021:0",
+  "src": "THERE'RE THOSE SEAGULLS AGAIN. LET'S GET 'EM!!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0022:0",
+  "src": "YEAH HA HA HA HA HA!! WOO HO HO HO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0023:0",
+  "src": "WOOHOO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0024:0",
+  "src": "YEAH HA HA! YEAH!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0025:0",
+  "src": "WHOA! THEY CAUSED AN AVALANCHE! LET'S CHECK IT OUT.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0026:0",
+  "src": "HEY! THAT PELICAN JUST SNAGGED A POWER CELL!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0026:1",
+  "src": "LET'S GO KICK SOME BIG BIRD BUTT!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0027:0",
+  "src": "QUICK! WE HAVE TO GET TO THE POWER CELL BEFORE THE PELICAN SCOOPS IT UP AGAIN.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0028:0",
+  "src": "KICK THE EGG! HEE-HEE! KICK IT! KICK IT!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0029:0",
+  "src": "EH, WE MIGHT WANNA TALK TO THE BIRDWATCHER",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0029:1",
+  "src": "AND SEE IF WE SCRAMBLED THAT FLUT-FLUT EGG.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0030:0",
+  "src": "HEY, TRY PUNCHING THE ROCKS TO GET 'EM OUT OF THE WAY!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0031:0",
+  "src": "OOH! LET'S USE THE CANNON TO BLOW THINGS UP!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0034:0",
+  "src": "AWOOGA! AWOOGA! DIVE FOR THOSE ORBS, JAK, DIVE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0035:0",
+  "src": "YEAH, SO WE GOT A PRECURSOR LAUNCHER HERE",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0035:1",
+  "src": "BUT YOU AREN'T POWERED UP WITH THE BLUE STUFF. SO IT AIN'T GONNA HELP US!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0037:0",
+  "src": "THOSE TOWER DOOHICKEYS SCATTERED ALL OVER THE JUNGLE MUST REDIRECT THE ECO BEAM.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0037:1",
+  "src": "LET'S GO FIDDLE WITH THEM!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0038:0",
+  "src": "HMM, IF BLUE ECO CAN BUILD A BRIDGE, THEN I BET IT'LL OPEN A DOOR!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0038:1",
+  "src": "LET'S GO BACK AND GET YOU JUICED UP AGAIN.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0039:0",
+  "src": "HEY, THERE'S LITTLE LIGHTNING MARKS ON THOSE POSTS",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0039:1",
+  "src": "AND THERE'S LIGHTNING COMING OUT OF THAT VENT OVER THERE.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0039:2",
+  "src": "ARE YOU THINKING WHAT I'M THINKING?",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0040:0",
+  "src": "LET'S GET UP ON THAT MACHINE AND BREAK THE MIRROR DIVERTING THE PRECURSOR BEAM!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0041:0",
+  "src": "WE NEED TO GET TO THE TOP OF THAT TOWER!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0043:0",
+  "src": "MAYBE WE SHOULD GO ROOT OUT THE FISHERMAN.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0043:1",
+  "src": "I HEARD HE WAS IN THE JUNGLE FISHING BY THE LOWER RIVER!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0049:0",
+  "src": "LINE UP THE BEAM BY POINTING IT AT THE NEXT TOWER!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0050:0",
+  "src": "BREAK THE MIRROR, JAK!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0051:0",
+  "src": "GET THE BUGS, JAK! GET THE BUGS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0052:0",
+  "src": "LET'S GO TO THE NEXT TOWER AND RECONNECT THE BEAM THERE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0053:0",
+  "src": "HEY! WE CAN FOLLOW THE BEAM TO FIND THE NEXT TOWER.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0054:0",
+  "src": "WE NEED TO CHARGE YOU UP WITH THAT BLUE STUFF TO GET THIS OPEN!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0056:0",
+  "src": "HEY! I SEE THE SCULPTOR'S MUSE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0059:0",
+  "src": "THIS PLACE GIVES ME THE WILLIES!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0059:1",
+  "src": "LET'S KEEP YOU OUT OF THE OOZE, OKAY?",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0060:0",
+  "src": "(WHIMPERS) THIS PLACE GIVES ME THE CREEPS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0060:1",
+  "src": "AND TRUST ME, IT'S A WHOLE NEW EXPERIENCE",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0060:2",
+  "src": "WHEN YOU'RE COVERED IN FUZZ!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0062:0",
+  "src": "LET'S PLOW INTO THOSE BALLOON LURKERS AND SHRED 'EM!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0063:0",
+  "src": "I SAID \"SHRED THE LURKERS,\" JAK. NOT THE MINES!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0063:1",
+  "src": "RULE NUMBER ONE: ALWAYS AVOID THE MINES!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0064:0",
+  "src": "WATCH YOUR BACK! YOU REMEMBER WHAT HAPPENED THE LAST TIME WE WERE HERE.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0067:0",
+  "src": "DON'T FALL INTO THE MIST BELOW US!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0067:1",
+  "src": "'CAUSE I DON'T THINK WE'LL MAKE IT BACK.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0069:0",
+  "src": "IT'S AN AMBUSH, JAK! IT'S AN AMBUSH!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0070:0",
+  "src": "JUMP, THEN DIVE ONTO THE TEETER-TOTTER.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0071:0",
+  "src": "GET THE RED ECO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0072:0",
+  "src": "RED ECO MAKES YOUR ATTACKS STRONGER.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0073:0",
+  "src": "WE NEED BLUE ECO TO CHARGE THIS PLATFORM UP!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0076:0",
+  "src": "JAK! HIT SOME JUMPS TO KEEP US OFF THE HOT GROUND.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0077:0",
+  "src": "BALLOONS GOOD, BURNING HOT MAGMA BAD!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0078:0",
+  "src": "RIDE ON THE RAISED PRECURSOR STUFF TO KEEP US COOL.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0079:0",
+  "src": "AHH! I'M GONNA DIE! I'M A COMING, GRANDPAP!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0079:1",
+  "src": "YOU HAVE TO GET THIS THING TO THE OTHER SIDE BEFORE IT OVERHEATS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0080:0",
+  "src": "USE THE HOP-TURN TO STEER HARDER!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0081:0",
+  "src": "AHH! MAYBE I SHOULD DRIVE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0082:0",
+  "src": "YOU ARE TRYING TO AVOID THOSE DARK ECO BOXES, RIGHT?",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0083:0",
+  "src": "OOH! SEE IF WE CAN CATCH AIR OFF THOSE LURKERS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0084:0",
+  "src": "TOO CLOSE, TOO CLOSE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0085:0",
+  "src": "WHOA! THIS BABY'S GETTING WAY TOO HOT!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0086:0",
+  "src": "A FEW MORE SECONDS AND WE'RE FRIED FLUT-FLUT!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0087:0",
+  "src": "HIT THOSE BALLOONS TO COOL OFF!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0088:0",
+  "src": "HERE COMES ANOTHER BALLOON!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0089:0",
+  "src": "I WISH I SLEPT IN THIS MORNING!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0090:0",
+  "src": "YOU MISSED A BALLOON! WE NEED THOSE OR WE'RE COOKED!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0091:0",
+  "src": "THIS PUPPY'S GETTING TOO HOT!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0092:0",
+  "src": "DO YOU SMELL SOMETHING BURNING?!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0093:0",
+  "src": "I THINK MY TAIL'S ON FIRE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0094:0",
+  "src": "SHE'S GONNA BLOW!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0095:0",
+  "src": "WAHOO! WE MADE IT!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0096:0",
+  "src": "THERE'S SCOUT FLIES OUT HERE, TOO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp009a:0",
+  "src": "HA HA! WE SHOWED HIM A THING OR TWO.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp009b:0",
+  "src": "ALL RIGHT, MORE ORBS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp009c:0",
+  "src": "DO ME A FAVOR AND KEEP AWAY FROM THOSE DARK ECO BOXES!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp009d:0",
+  "src": "YEAH-HA-HA-HA!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp009e:0",
+  "src": "WA-HOO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp009f:0",
+  "src": "GET SOME, GET SOME! HA HA HA!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp009g:0",
+  "src": "RIGHT BEHIND YA, JAK!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp009i:0",
+  "src": "DID WE FIND ALL THE SCOUT FLIES IN THIS AREA?",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp009j:0",
+  "src": "HEY! IT LOOKS LIKE SCOUT FLIES ARE ALWAYS IN RED BOXES.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp009k:0",
+  "src": "ALRIGHT! YOU FOUND ALL THE SCOUT FLIES IN THIS AREA!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0109:0",
+  "src": "WOO! WE BEAT THE RECORD TIME!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0110:0",
+  "src": "I'VE SAID IT BEFORE, I'LL SAY IT AGAIN...",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0110:1",
+  "src": "AVOID THE DARK ECO BOXES!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0111:0",
+  "src": "LET'S CHASE THOSE MOLES BACK UNDERGROUND.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0112:0",
+  "src": "LET'S GO GET OUR POWER CELL FROM THE GEOLOGIST.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0113:0",
+  "src": "THOSE MUST BE THE INFESTED PLANTS OL' LOG-NOGGIN WAS TALKIN' ABOUT.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0114:0",
+  "src": "WE HAVE TO USE GREEN ECO TO CURE THOSE PLANTS.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0115:0",
+  "src": "JAK, DRIVE THROUGH THE GREEN ECO VENT.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0116:0",
+  "src": "THAT'S ONE OF THOSE FLYING LURKERS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0116:1",
+  "src": "HE MIGHT HAVE A POWER CELL!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0117:0",
+  "src": "THERE'S THE MOLE HOLE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0118:0",
+  "src": "NOW, LET'S FLY OVER THE INFECTED PLANTS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0119:0",
+  "src": "ONE RING DOWN, A BUNCH TO GO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0120:0",
+  "src": "HURRY! THERE'S THE NEXT RING!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0121:0",
+  "src": "QUICK! YOU'VE GOTTA FLY THROUGH EACH RING BEFORE THEY TURN OFF!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0122:0",
+  "src": "HEY! THAT GRASS SLOWS US DOWN...",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0123:0",
+  "src": "QUICK! FOLLOW THAT PIPE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0124:0",
+  "src": "I GOT A BAD FEELING ABOUT THIS.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0125:0",
+  "src": "IT LOOKS LIKE THOSE THINGS NEED A BLUE ECO CHARGE.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0126:0",
+  "src": "LET'S GET THE POWER CELL ON THE ROOF OF THIS THING!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0127:0",
+  "src": "KICK THE LITTLE GUY ON THE TOP!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0128:0",
+  "src": "JAK! RUN! THE DARK ECO IS RISING!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0129:0",
+  "src": "AHH! THAT DARK ECO'S GETTING CLOSE",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0130:0",
+  "src": "UH, I THINK WE HAVE TO SWITCH ON ALL THOSE PLATFORMS OR SOMETHIN'.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0131:0",
+  "src": "HEY! IT LOOKS LIKE YOU COULD JUMP-DIVE ONTO THOSE GUYS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0132:0",
+  "src": "EE-EE! WHOA! WHO-AH! WHO-AHH!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0133:0",
+  "src": "I'LL BET WE CAN GET ALL OF THOSE THINGS CHARGED AT ONCE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0134:0",
+  "src": "HOW 'BOUT WE TAKE IT EASY ON THOSE HOT PIPES?!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0135:0",
+  "src": "THAT WATER LOOKS DANGEROUS WHEN IT CHANGES COLOR!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0136:0",
+  "src": "YOU GOTTA GET OUT OF THE WATER BEFORE IT CHANGES COLOR!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0137:0",
+  "src": "I BET WE COULD SHOOT THOSE BOULDERS IF WE'RE CHARGED UP WITH YELLOW ECO.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0138:0",
+  "src": "WE SHOULD SHOOT THOSE BIG BOULDERS HOLDING THE TETHER.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0139:0",
+  "src": "MAYBE WE SHOULD HELP THAT WEIRDO FIND HIS PET.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0140:0",
+  "src": "THE FLUT-FLUT CAN GLIDE FARTHER IF SHE JUMPS AGAIN IN THE AIR!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0141:0",
+  "src": "DON'T TOUCH THAT BLACK HOT TAR, OR YOU'LL GET HURT!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0142:0",
+  "src": "THE WATER'S SAFE TO WAIT IN.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0143:0",
+  "src": "WAAH! BREAK THE TONGUE'S GRIP!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0144:0",
+  "src": "SHOOT THOSE RAT NESTS TO STOP THE RATS FROM COMING OUT.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0145:0",
+  "src": "WOW! YOU CAN SHOOT FIREBALLS",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0145:1",
+  "src": "WHEN YOU'RE POWERED UP WITH YELLOW ECO.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0146:0",
+  "src": "HEY! THAT'S YELLOW ECO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0147:0",
+  "src": "YOU CAN SWING ON THAT POLE OVER THERE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0148:0",
+  "src": "WATCH OUT, THAT BRAMBLE IS PRICKLY!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0149:0",
+  "src": "HEY, THAT LOOKS LIKE A TETHER HOLDING THE DIRIGIBLE IN PLACE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0150:0",
+  "src": "WATCH OUT WHEN THAT FROG IS CHARGED UP!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0151:0",
+  "src": "RUN AWAY, JAK!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0152:0",
+  "src": "LOOK OUT, JAK! IT'S AN AMBUSH!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0153:0",
+  "src": "HEY, THAT MUST BE THE PRECURSOR ARTIFACT THE LURKERS ARE AFTER!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0153:1",
+  "src": "IT LOOKS LIKE A GIANT ROBOT ARM!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0154:0",
+  "src": "THAT BLACK TAR LOOKS HOT AND DANGEROUS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0155:0",
+  "src": "SHOOT THE BATS WITH THAT YELLOW ECO STUFF!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0156:0",
+  "src": "MAYBE WE CAN DUCK THE BATS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0157:0",
+  "src": "DID YOU SEE THAT? ONLY THREE MORE TETHERS TO GO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0158:0",
+  "src": "WOW! ONLY TWO MORE TETHERS.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0159:0",
+  "src": "THAT DIRIGIBLE'S BARELY HANGIN' ON! LET'S FIND THE LAST TETHER!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0160:0",
+  "src": "HEY! THERE'S THE FLUT-FLUT!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0161:0",
+  "src": "I HATE RATS! AND I'M ALMOST ONE OF THEM.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp018a:0",
+  "src": "THAT LAZY FARMER OWES US A POWER CELL!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp018a:1",
+  "src": "LET'S GO TALK TO HIM!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0300:0",
+  "src": "WE HAVE TO BEAT THOSE LURKERS TO THE END OF THE PASS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0301:0",
+  "src": "DON'T HIT THOSE EXPLOSIVES!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0302:0",
+  "src": "STAY AHEAD OF THEM AND WE GOT IT MADE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0303:0",
+  "src": "HIT THE BLUE ECO TO GET SPEED BOOSTS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0304:0",
+  "src": "AVOID THE TREES, JAK! THEY SLOW US DOWN!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0305:0",
+  "src": "THE MORE BLUE ECO WE HIT, THE FASTER WE GO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0306:0",
+  "src": "WATCH OUT FOR THOSE EXPLOSIVES!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0307:0",
+  "src": "STAY CLEAR OF THE PITS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0308:0",
+  "src": "MAYBE I SHOULD DRIVE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0309:0",
+  "src": "THERE'S ONE OF THE LURKERS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0310:0",
+  "src": "CATCH 'EM, JAK!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0311:0",
+  "src": "WE PASSED ONE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0312:0",
+  "src": "WAH, ONE OF THE LURKERS PASSED US!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0313:0",
+  "src": "THEY'RE WAY AHEAD!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0314:0",
+  "src": "YEAH, WE'RE IN THE LEAD!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0315:0",
+  "src": "FASTER, JAK, FASTER!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0316:0",
+  "src": "BIG JUMP, BIG JUMP!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0317:0",
+  "src": "HANG ON!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0318:0",
+  "src": "YAAHH!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0319:0",
+  "src": "IT'S GONNA BE CLOSE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0320:0",
+  "src": "THEY'RE GONNA BEAT US TO THE DETONATOR!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0321:0",
+  "src": "WE DID IT! WE STOPPED THEM FROM BLOWIN' UP THE PASS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0327:0",
+  "src": "I THINK THAT WAS THE LAST DARK ECO CRYSTAL!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0328:0",
+  "src": "MAYBE YOU CAN SHOOT BETTER IF YOU AIM THROUGH YOUR GOGGLES.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0329:0",
+  "src": "OH, NO! MORE DARK ECO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0330:0",
+  "src": "I DON'T THINK WE GOT ALL OF THOSE DARK ECO CRYSTALS.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0331:0",
+  "src": "SHOOT THE LURKERS EATING THE POLES!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0332:0",
+  "src": "DON'T LET THE LIGHTS GO OUT!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0333:0",
+  "src": "HIT A CRYSTAL TO GET SOME LIGHT.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0334:0",
+  "src": "RUN AWAY! THAT CRYSTAL'S GONNA BLOW!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0335:0",
+  "src": "EWH, THEY FOUND A PRECURSOR ROBOT!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0336:0",
+  "src": "POP THE EGGS, BEFORE THEY HATCH!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0337:0",
+  "src": "IT'S SPOOKY IN HERE...",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0338:0",
+  "src": "LOOKS LIKE SPIDER WEBS BREAK AFTER TWO BOUNCES.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0339:0",
+  "src": "I. HATE. SPIDERS...",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0340:0",
+  "src": "BABY SPIDERS ARE COMING!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0341:0",
+  "src": "I THINK WE'RE IN A SPIDER'S NEST HERE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0342:0",
+  "src": "LOOK OUT, MORE SPIDERS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0343:0",
+  "src": "LET'S GET OUTTA HERE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0345:0",
+  "src": "HOW DO WE GET INSIDE THIS FORT?",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0346:0",
+  "src": "MAYBE RED ECO CAN DEFEAT THIS GUY!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0347:0",
+  "src": "WE NEED TO DO A ROLL JUMP!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0348:0",
+  "src": "WE NEED TO FIND A WAY TO OPEN THIS VENT!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0349:0",
+  "src": "THAT LOOKS LIKE AN ECO SWITCH DOWN THERE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0350:0",
+  "src": "HIT HIM WHEN THE SPIKES ARE IN!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0351:0",
+  "src": "PUSH THE BUTTON!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0352:0",
+  "src": "QUICK! BEFORE THEY DROP BACK DOWN!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0359:0",
+  "src": "YOU GOTTA USE RED ECO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0360:0",
+  "src": "ALL RIGHT! WE TURNED ON THE CAPPED YELLOW ECO VENTS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0362:0",
+  "src": "LOOK! A FROZEN POWER CELL!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0363:0",
+  "src": "ONLY A FLUT-FLUT CAN JUMP THAT FAR!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0364:0",
+  "src": "WE GOTTA HURRY, OR WE'RE TOAST!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0365:0",
+  "src": "PICK A PATH, ANY PATH!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0366:0",
+  "src": "AVOID, OR SHOOT THE MINES, JAK!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0367:0",
+  "src": "FIND A WAY THROUGH THOSE DARK ECO BARRELS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0368:0",
+  "src": "KEEP HITTING THOSE COOLING BALLOONS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0369:0",
+  "src": "WE'RE GETTING TOO HOT!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0370:0",
+  "src": "SHE'S GONNA BLOW!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0371:0",
+  "src": "GO FOR THE BLUE ECO, JAK!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0372:0",
+  "src": "SHOOT YOUR WAY THROUGH!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0373:0",
+  "src": "WAHOO! WHAT A RIDE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0374:0",
+  "src": "YES! TURN AND BURN, BABY!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0375:0",
+  "src": "SHOOT THE POWER SPHERES TO OPEN THE DOOR!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0376:0",
+  "src": "SHOOT THE POWER SPHERES BEFORE WE BURN UP!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0378:0",
+  "src": "THE DOOR'S OPEN, LET'S GET GOING!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0379:0",
+  "src": "ZOOMING!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0380:0",
+  "src": "WE MADE IT THROUGH!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0381:0",
+  "src": "BREAK THE GENERATOR TO FREE THE SAGE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0382:0",
+  "src": "JUST HANG ON TO THE EDGE!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0383:0",
+  "src": "WE GOT COMPANY, JAK. LOOOTS OF LURKERS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0384:0",
+  "src": "DESTROY THOSE GENERATORS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0385:0",
+  "src": "PUSH THE BUTTON!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0386:0",
+  "src": "THAT ROBOT DOESN'T SCARE ME!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0387:0",
+  "src": "LET'S GO CLIMB UP THOSE PLATFORMS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0388:0",
+  "src": "DON'T MISS THE NEXT LAUNCHER!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0389:0",
+  "src": "WATCH IT!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0390:0",
+  "src": "WE HAVE TO RESCUE ALL THE SAGES!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0391:0",
+  "src": "DO YOU THINK GOL WILL STILL CHANGE ME BACK?",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0392:0",
+  "src": "SO THIS IS GOL AND MAIA'S CITADEL. NICE AND COZY.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0393:0",
+  "src": "LAND ON THE NEXT LAUNCHER!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0394:0",
+  "src": "GRAB THE YELLOW ECO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0395:0",
+  "src": "SHOOT THE ROBOT, JAK!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0396:0",
+  "src": "SHOOT HIS ARM!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0397:0",
+  "src": "SHOOT HIS GUN!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0398:0",
+  "src": "SHOOT HIS HEAD!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0399:0",
+  "src": "WATCH OUT FOR THE BLAST!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0400:0",
+  "src": "HE'S CHARGING UP!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0401:0",
+  "src": "GET THE BLUE ECO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0402:0",
+  "src": "GET THE RED ECO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0403:0",
+  "src": "I HAVE A BAD FEELING ABOUT THIS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0404:0",
+  "src": "USE THE LAUNCHER, QUICK!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0405:0",
+  "src": "NOW YOU'VE MADE THE ANIMAL MAD!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0406:0",
+  "src": "WE CAN'T TOUCH THESE GUYS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0407:0",
+  "src": "USE THE YELLOW ECO!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0408:0",
+  "src": "SHOOT THOSE GUYS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0409:0",
+  "src": "GET THE LIGHT ECO, JAK!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0410:0",
+  "src": "HE LOOKS ANGRY!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0411:0",
+  "src": "JUMP TO AVOID THE EXPLOSIONS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0412:0",
+  "src": "NOW WE TAKE CARE OF BUSINESS!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0413:0",
+  "src": "GOOD SHOOTING, PARTNER!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0414:0",
+  "src": "THAT HURT HIM!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0415:0",
+  "src": "HERE HE COMES!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0416:0",
+  "src": "YEAH! YOU DID IT!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0417:0",
+  "src": "SAY \"GOOD NIGHT,\" GOL AND MAIA!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0435:0",
+  "src": "KNOCK OVER THOSE BONES!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0443:0",
+  "src": "PUNCH THOSE POLES UP FROM BELOW!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0444:0",
+  "src": "WE'RE WAITING. HELLO?",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0449:0",
+  "src": "PRESS START TO PLAY.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0450:0",
+  "src": "YOU WANNA STOP PLAYING?",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0451:0",
+  "src": "I DIDN'T THINK SO.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0452:0",
+  "src": "OKAY, SEE YA LATER.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0455:0",
+  "src": "MAN, WHO ARE ALL THESE PEOPLE?",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0466:0",
+  "src": "I WAS GOOD. WASN'T I, GIRLS?",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0b42:0",
+  "src": "STOP MISSING THE YELLOW FISH, THEY WEIGH FIVE POUNDS EACH!",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "hint:sksp0b42:1",
+  "src": "AND THAT'S A LOTTA FISH, JAK.",
+  "speaker": "DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

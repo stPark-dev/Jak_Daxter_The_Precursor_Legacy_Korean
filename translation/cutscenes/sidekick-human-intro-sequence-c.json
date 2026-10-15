@@ -1,0 +1,130 @@
+[
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:0",
+  "src": "WHAT ARE WE DOING HERE ANYWAY, JAK? THIS PLACE GIVES ME THE CREEPS!",
+  "speaker": "DAXTER",
+  "ko": "대체 여기서 뭐 하는 거야, 잭? 여긴 소름 끼친다고!",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:1",
+  "src": "HUH?",
+  "speaker": "DAXTER",
+  "ko": "응?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:2",
+  "src": "(GROAN) STUPID PRECURSOR JUNK!",
+  "speaker": "DAXTER",
+  "ko": "(끙) 망할 프리커서 고물!",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:3",
+  "src": "EEK! WHAT IS THAT DARK OOZE? IT SURE DON'T LOOK FRIENDLY.",
+  "speaker": "DAXTER",
+  "ko": "으악! 저 시커먼 끈적이는 뭐야? 영 순해 보이진 않는데.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); 2차 검수 반영"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:4",
+  "src": "THE SAGE YAPS ON ABOUT THE PRECURSORS THAT BUILT THIS PLACE ALL THE TIME.",
+  "speaker": "DAXTER",
+  "ko": "그 현자 영감은 맨날 여길 지은 프리커서 얘기만 떠들어 대잖아.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:5",
+  "src": "\"WHERE DID THEY GO? WHY DID THEY BUILD THIS CRAP?\"",
+  "speaker": "DAXTER",
+  "ko": "\"그들은 어디로 갔는가? 왜 이딴 걸 지었는가?\"",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); 2차 검수 반영"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:6",
+  "src": "NOW I LIKE PRECURSOR ORBS AND POWER CELLS AS MUCH AS THE NEXT GUY",
+  "speaker": "DAXTER",
+  "ko": "나도 프리커서 오브랑 파워 셀이라면 남들만큼 좋아하지만",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:7",
+  "src": "BUT IF YOU ASK ME, THEY MUST HAVE BEEN REAL LOSERS.",
+  "speaker": "DAXTER",
+  "ko": "내가 보기엔 그 녀석들, 진짜 한심한 놈들이었을 거야.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:8",
+  "src": "WHOA! HOW DID YOU DO THAT?",
+  "speaker": "DAXTER",
+  "ko": "우와! 그거 어떻게 한 거야?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:9",
+  "src": "JAK, I THINK WE'RE IN TROUBLE!",
+  "speaker": "DAXTER",
+  "ko": "잭, 우리 큰일 난 것 같아!",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:10",
+  "src": "MAN, THAT STUNG.",
+  "speaker": "DAXTER",
+  "ko": "으, 따끔하네.",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준); 2차 검수 반영"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:11",
+  "src": "I TOLD YOU WE SHOULDN'T HAVE COME HERE, AND YOU LISTENED?",
+  "speaker": "DAXTER",
+  "ko": "그러게 오지 말자고 했잖아. 내 말 듣기나 했어?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:12",
+  "src": "WHAAAT?",
+  "speaker": "DAXTER",
+  "ko": "뭐어어어?",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:13",
+  "src": "WAAAAAAAAHHHHHHHH!!",
+  "speaker": "DAXTER",
+  "ko": "으아아아아아아아악!!",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:14",
+  "src": "OKAY, OKAY. I'M FINE, I'M FINE...",
+  "speaker": "DAXTER",
+  "ko": "괜찮아, 괜찮아. 난 멀쩡해, 멀쩡하다고...",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ },
+ {
+  "id": "cut:sidekick-human-intro-sequence-c:15",
+  "src": "WAAAAAAAAHHHHHHHH!!",
+  "speaker": "DAXTER",
+  "ko": "으아아아아아아아악!!",
+  "state": "needs_review",
+  "note": "초벌 (D-003 + 오프닝 조건부 승인 기준)"
+ }
+]

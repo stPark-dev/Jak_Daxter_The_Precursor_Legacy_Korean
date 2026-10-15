@@ -1,0 +1,1619 @@
+[
+ {
+  "id": "custom:1000",
+  "src": "CAMERA OPTIONS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1001",
+  "src": "NORMAL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1002",
+  "src": "INVERTED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1003",
+  "src": "1ST-PERSON HORIZONTAL CAMERA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1004",
+  "src": "1ST-PERSON VERTICAL CAMERA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1005",
+  "src": "3RD-PERSON HORIZONTAL CAMERA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1006",
+  "src": "3RD-PERSON VERTICAL CAMERA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1007",
+  "src": "RESTORE DEFAULTS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1010",
+  "src": "ACCESSIBILITY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1011",
+  "src": "PRECURSOR ORB GLOW",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1020",
+  "src": "PS2 OPTIONS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1021",
+  "src": "PS2 LOAD SPEED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1022",
+  "src": "PARTICLE CULLING",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1023",
+  "src": "MUSIC FADE-OUT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1024",
+  "src": "MUSIC FADE-IN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1025",
+  "src": "ACTOR CULLING",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1026",
+  "src": "BACKGROUND CULLING",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1027",
+  "src": "FORCE ENVIRONMENT MAPPING",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1030",
+  "src": "DISCORD RICH-PRESENCE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1031",
+  "src": "DISPLAY MODE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1032",
+  "src": "WINDOWED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1033",
+  "src": "BORDERLESS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1034",
+  "src": "FULLSCREEN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1035",
+  "src": "GAME RESOLUTION",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1036",
+  "src": "~D X ~D",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1037",
+  "src": "PS2 ASPECT RATIO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1038",
+  "src": "WHEN PS2 ASPECT RATIO IS ENABLED, ONLY 4X3 AND 16X9 ASPECT RATIO CAN BE SELECTED. CONTINUE?",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1039",
+  "src": "ASPECT RATIO (PS2)",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1040",
+  "src": "SUBTITLES ENABLED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1041",
+  "src": "SUBTITLES DISABLED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1042",
+  "src": "TEXT LANGUAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1043",
+  "src": "DISPLAY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1044",
+  "src": "DISPLAY ~D",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1050",
+  "src": "MSAA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1051",
+  "src": "~DX",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1052",
+  "src": "2X",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1053",
+  "src": "4X",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1054",
+  "src": "8X",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1055",
+  "src": "16X",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1060",
+  "src": "FRAME RATE (EXPERIMENTAL)",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1061",
+  "src": "60",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1062",
+  "src": "100",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1063",
+  "src": "150",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1070",
+  "src": "LEVEL OF DETAIL (BACKGROUND)",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1071",
+  "src": "LEVEL OF DETAIL (FOREGROUND)",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1072",
+  "src": "MAXIMUM",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1073",
+  "src": "HIGH",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1074",
+  "src": "MEDIUM",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1075",
+  "src": "LOW",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1076",
+  "src": "MINIMUM",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1077",
+  "src": "PS2",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1078",
+  "src": "SUBTITLES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1079",
+  "src": "HINT SUBTITLES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1080",
+  "src": "CHEATS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1081",
+  "src": "SECRETS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1082",
+  "src": "SELECT TRACK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1083",
+  "src": "SELECT FLAVOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1084",
+  "src": "FINAL BOSS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1085",
+  "src": "CREDITS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1086",
+  "src": "?????",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1087",
+  "src": "KLAWW",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1088",
+  "src": "FISHING MINI-GAME",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1089",
+  "src": "CHALLENGE THEME",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1090",
+  "src": "INFINITE BLUE ECO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1091",
+  "src": "INFINITE RED ECO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1092",
+  "src": "INFINITE GREEN ECO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1093",
+  "src": "INFINITE YELLOW ECO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1094",
+  "src": "ALTERNATE DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1095",
+  "src": "INVINCIBILITY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1096",
+  "src": "ALL MUSIC TRACKS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1097",
+  "src": "REAL TIME OF DAY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1098",
+  "src": "REACH 100% COMPLETION",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1099",
+  "src": "BEAT THE GAME",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1100",
+  "src": "YELLOW SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1101",
+  "src": "RED SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1102",
+  "src": "BLUE SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1103",
+  "src": "CITADEL HUB",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1104",
+  "src": "MIDDLE OF THE BOSS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1105",
+  "src": "END OF THE BOSS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1106",
+  "src": "FLAVOR 1",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1107",
+  "src": "FLAVOR 2",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1110",
+  "src": "ENGLISH (UK)",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1111",
+  "src": "PORTUGUÊS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1112",
+  "src": "PORTUGUÊS (BRASIL)",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1113",
+  "src": "SUOMI",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1114",
+  "src": "SVENSKA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1115",
+  "src": "DANSK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1116",
+  "src": "NORSK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1117",
+  "src": "MAGYAR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1118",
+  "src": "NEDERLANDS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1119",
+  "src": "CATALÀ",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:111a",
+  "src": "ÍSLANDSKA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:111b",
+  "src": "POLSKI",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:111c",
+  "src": "LIETUVIŲ KALBA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:111d",
+  "src": "ČEŠTINA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:111e",
+  "src": "HRVATSKI",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:111f",
+  "src": "GALEGO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1120",
+  "src": "BOSANSKI",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1500",
+  "src": "SPEEDRUNNER MODE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:138",
+  "src": "PLEASE DO NOT REMOVE OR INSERT ANY PERIPHERALS, TURN OFF YOUR SYSTEM OR SHUT DOWN THE GAME",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:161",
+  "src": "WHILE THIS ICON IS ON SCREEN, DO NOT REMOVE OR INSERT ANY PERIPHERALS, TURN OFF YOUR SYSTEM OR SHUT DOWN THE GAME",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:100c",
+  "src": "AUTO-SAVE DISABLED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:100d",
+  "src": "ARE YOU SURE YOU WANT TO DISABLE AUTO-SAVE?",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:100e",
+  "src": "DISABLE AUTO-SAVE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:100f",
+  "src": "MISCELLANEOUS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:103a",
+  "src": "FIT TO SCREEN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:103b",
+  "src": "V-SYNC",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:103c",
+  "src": "4X3 (PS2)",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:103d",
+  "src": "16X9 (PS2)",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:103e",
+  "src": "~DX~D",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:103f",
+  "src": "PRESS <PAD_SQUARE> TO TOGGLE SUBTITLES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:107a",
+  "src": "SUBTITLE LANGUAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:107b",
+  "src": "SHOW SPEAKER IN SUBTITLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:107c",
+  "src": "ALWAYS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:107d",
+  "src": "NEVER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:107e",
+  "src": "OFF-SCREEN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:107f",
+  "src": "HINT LOG",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:109a",
+  "src": "BIG HEAD JAK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:109b",
+  "src": "SMALL HEAD JAK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:109c",
+  "src": "BIG FIST JAK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:109d",
+  "src": "BIG HEAD CHARACTERS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:109e",
+  "src": "NO TEXTURES MODE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:109f",
+  "src": "MIRRORED WORLD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10a0",
+  "src": "HUGE HEAD JAK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10c0",
+  "src": "MUSIC PLAYER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10c1",
+  "src": "SCENE PLAYER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10c2",
+  "src": "PLAY CREDITS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10c3",
+  "src": "SCRAPBOOK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10d0",
+  "src": "DEFAULT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10d1",
+  "src": "UNUSED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10d2",
+  "src": "SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10d3",
+  "src": "SAGE'S HUT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10d4",
+  "src": "BIRDWATCHER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10d5",
+  "src": "FARMER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10d6",
+  "src": "KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10d7",
+  "src": "MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10d8",
+  "src": "SCULPTOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10d9",
+  "src": "JAK'S UNCLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10da",
+  "src": "DOCK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10db",
+  "src": "FORBIDDEN TEMPLE EXIT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10dc",
+  "src": "LURKER MACHINE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10dd",
+  "src": "TOP OF THE TOWER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10de",
+  "src": "BLUE VENT SWITCH",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10df",
+  "src": "UNUSED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10e0",
+  "src": "SENTINELS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10e1",
+  "src": "LURKER CANNON",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10e2",
+  "src": "GROTTO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10e3",
+  "src": "UNUSED 1",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10e4",
+  "src": "LURKER BOAT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10e5",
+  "src": "UNUSED 2",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10e6",
+  "src": "ZOOMER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10e7",
+  "src": "FLUT FLUT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10e8",
+  "src": "UNUSED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10e9",
+  "src": "WARRIOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10ea",
+  "src": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10eb",
+  "src": "GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10ec",
+  "src": "LEVITATOR MACHINE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10ed",
+  "src": "UNUSED 1",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10ee",
+  "src": "LAUNCHER TRAPS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10ef",
+  "src": "UNUSED 2",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10f0",
+  "src": "DEAD MAN'S GORGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10f1",
+  "src": "MIDDLE OF THE PASS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10f2",
+  "src": "END OF THE PASS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10f3",
+  "src": "TO SPIDER CAVE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10f4",
+  "src": "TO SNOWY MOUNTAIN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10f5",
+  "src": "MINERS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10f6",
+  "src": "ROBOT CAVE SCAFFOLDING",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10f7",
+  "src": "PRECURSOR ROBOT TOP",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10f8",
+  "src": "MAIN CAVE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10f9",
+  "src": "DARK CAVE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10fa",
+  "src": "UNUSED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10fb",
+  "src": "HIDDEN CAVE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10fc",
+  "src": "LURKER FORT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10fd",
+  "src": "SNOWBALLS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10fe",
+  "src": "MIDDLE OF THE TUBE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:10ff",
+  "src": "END OF THE TUBE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1501",
+  "src": "CUTSCENE SKIPS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1502",
+  "src": "CHECKPOINT SELECT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1503",
+  "src": "SPEEDRUN OPTIONS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1504",
+  "src": "CAUTION: THESE OPTIONS WILL AUTO SAVE IN YOUR FIRST SAVE SLOT!",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1505",
+  "src": "RESET CURRENT SPEEDRUN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1506",
+  "src": "NEW FULL GAME RUN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:150e",
+  "src": "NEW INDIVIDUAL LEVEL RUN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:150f",
+  "src": "GEYSER ROCK IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1510",
+  "src": "SANDOVER VILLAGE IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1511",
+  "src": "SENTINEL BEACH IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1512",
+  "src": "FORBIDDEN JUNGLE IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1513",
+  "src": "MISTY ISLAND IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1514",
+  "src": "FIRE CANYON IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1515",
+  "src": "ROCK VILLAGE IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1516",
+  "src": "LOST PRECURSOR CITY IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1517",
+  "src": "BOGGY SWAMP IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1518",
+  "src": "PRECURSOR BASIN IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1519",
+  "src": "MOUNTAIN PASS IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:151a",
+  "src": "VOLCANIC CRATER IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:151b",
+  "src": "SNOWY MOUNTAIN IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:151c",
+  "src": "SPIDER CAVE IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:151d",
+  "src": "LAVA TUBE IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:151e",
+  "src": "GOL AND MAIA'S CITADEL IL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:151f",
+  "src": "NEW CATEGORY EXTENSION RUN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1520",
+  "src": "NG+",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1521",
+  "src": "HUB 1 100%",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1522",
+  "src": "HUB 2 100%",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1523",
+  "src": "HUB 3 100%",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1524",
+  "src": "ALL CUTSCENES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1600",
+  "src": "INPUT OPTIONS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1601",
+  "src": "SELECT CONTROLLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1602",
+  "src": "ANALOG DEADZONE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1603",
+  "src": "IGNORE IF WINDOW UNFOCUSED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1604",
+  "src": "CONTROLLER LED FOR HP",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1605",
+  "src": "CONTROLLER LED FOR ECO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1606",
+  "src": "TRACK CAMERA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1607",
+  "src": "HORIZONTAL SENSITIVITY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1608",
+  "src": "VERTICAL SENSITIVITY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1609",
+  "src": "PLAYER MOVEMENT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:160a",
+  "src": "CONTROLLER BINDS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:160b",
+  "src": "KEYBOARD BINDS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:160c",
+  "src": "MOUSE BINDS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:160d",
+  "src": "CONTROLLER OPTIONS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:160e",
+  "src": "ENABLE KEYBOARD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:160f",
+  "src": "ENABLE MOUSE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1610",
+  "src": "MOUSE OPTIONS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1611",
+  "src": "REASSIGN BINDS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1612",
+  "src": "CONTROLLER ~D",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1613",
+  "src": "AUTO HIDE CURSOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1614",
+  "src": "UNSET",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1615",
+  "src": "UNKNOWN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1616",
+  "src": "NO OTHER OPTIONS FOR ASPECT RATIO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1617",
+  "src": "CONTROLLER LED FOR HEAT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1618",
+  "src": "PRESSURE SENSITIVITY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "custom:1619",
+  "src": "ANALOG SENSITIVITY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

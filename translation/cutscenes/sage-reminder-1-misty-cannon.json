@@ -1,0 +1,34 @@
+[
+ {
+  "id": "cut:sage-reminder-1-misty-cannon:0",
+  "src": "THE BOMBARDMENT IS GETTING WORSE!",
+  "speaker": "SAMOS",
+  "ko": "포격이 점점 심해지고 있다!",
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+ },
+ {
+  "id": "cut:sage-reminder-1-misty-cannon:1",
+  "src": "FIND THE FISHERMAN IN THE JUNGLE, GET PERMISSION TO USE HIS BOAT",
+  "speaker": "SAMOS",
+  "ko": "정글에 있는 어부를 찾아가 배를 써도 된다는 허락을 받고",
+  "state": "needs_human_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: S-006"
+ },
+ {
+  "id": "cut:sage-reminder-1-misty-cannon:2",
+  "src": "AND GET OVER TO MISTY ISLAND TO STOP THE CANNON.",
+  "speaker": "SAMOS",
+  "ko": "미스티 섬으로 건너가 대포를 멈추거라.",
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+ },
+ {
+  "id": "cut:sage-reminder-1-misty-cannon:3",
+  "src": "AND YOU DAXTER, YOU NEED TO GET MOPPING. THIS PLACE IS A MESS!",
+  "speaker": "SAMOS",
+  "ko": "그리고 덱스터, 넌 걸레질이나 해라. 여기 엉망이잖냐!",
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+ }
+]

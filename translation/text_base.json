@@ -1,0 +1,1955 @@
+[
+ {
+  "id": "base:103",
+  "src": "<PAD_X> = YES, <PAD_TRIANGLE> = NO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:104",
+  "src": "PRESS <PAD_CIRCLE> TO TALK.",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:105",
+  "src": "PRESS <PAD_CIRCLE> TO USE.",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:106",
+  "src": "DO YOU WANT TO PLAY?",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:107",
+  "src": "DO YOU WANT TO PLAY AGAIN?",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:108",
+  "src": "QUIT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:109",
+  "src": "PAUSE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:10a",
+  "src": "SFX VOLUME",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:10b",
+  "src": "MUSIC VOLUME",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:10c",
+  "src": "SPEECH VOLUME",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:10d",
+  "src": "LANGUAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:10e",
+  "src": "VIBRATIONS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:10f",
+  "src": "PLAY HINTS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:110",
+  "src": "CENTER SCREEN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:111",
+  "src": "ON",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:112",
+  "src": "OFF",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:113",
+  "src": "MOVE D-PAD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:114",
+  "src": "ENGLISH",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:115",
+  "src": "FRANÇAIS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:116",
+  "src": "DEUTSCH",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:117",
+  "src": "ESPAÑOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:118",
+  "src": "ITALIANO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:119",
+  "src": "にほんご",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:11a",
+  "src": "PRESS <PAD_CIRCLE> TO TRADE 90 ORBS FOR A POWER CELL.",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:11b",
+  "src": "PRESS <PAD_CIRCLE> TO TRADE 120 ORBS FOR A POWER CELL.",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:11c",
+  "src": "PRESS <PAD_CIRCLE> TO WARP.",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:11d",
+  "src": "PRESS <PAD_TRIANGLE> TO EXIT.",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:11e",
+  "src": "GEYSER ROCK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:11f",
+  "src": "GREEN SAGE'S HUT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:120",
+  "src": "BLUE SAGE'S HUT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:121",
+  "src": "RED SAGE'S HUT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:122",
+  "src": "GOL AND MAIA'S CITADEL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:123",
+  "src": "PRESS <PAD_CIRCLE> TO TALK TO SAMOS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:124",
+  "src": "PRESS <PAD_CIRCLE> TO TALK TO KEIRA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:125",
+  "src": "ASPECT RATIO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:126",
+  "src": "VIDEO MODE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:127",
+  "src": "GAME OPTIONS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:128",
+  "src": "GRAPHIC OPTIONS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:129",
+  "src": "SOUND OPTIONS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:12a",
+  "src": "4X3",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:12b",
+  "src": "16X9",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:12c",
+  "src": "60HZ",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:12d",
+  "src": "50HZ",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:12e",
+  "src": "JAK AND DAXTER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:12f",
+  "src": "FIND THE HIDDEN POWER CELL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:130",
+  "src": "INSUFFICIENT SPACE ON MEMORY_CARD_(PS2) INSERTED IN MEMORY_CARD_SLOT_~D",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:131",
+  "src": "NO MEMORY_CARD_(PS2) INSERTED IN MEMORY_CARD_SLOT_~D",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:132",
+  "src": "MEMORY_CARD_(PS2) IN MEMORY_CARD_SLOT_~D IS UNFORMATTED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:133",
+  "src": "JAK AND DAXTER REQUIRES ~DKB OF FREE SPACE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:134",
+  "src": "PLEASE INSERT A MEMORY_CARD_(PS2) CONTAINING SUFFICIENT SPACE OR YOU WILL NOT BE ABLE TO SAVE GAME DATA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:135",
+  "src": "IF YOU DO NOT FORMAT IT THEN YOU WILL NOT BE ABLE TO SAVE GAME DATA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:136",
+  "src": "SAVING DATA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:137",
+  "src": "LOADING DATA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:138",
+  "src": "PLEASE DO NOT REMOVE THE MEMORY_CARD_(PS2) IN MEMORY_CARD_SLOT_~D OR TURN OFF YOUR SYSTEM",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:139",
+  "src": "DO YOU WISH TO OVERWRITE THIS?",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:13a",
+  "src": "FORMAT?",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:13c",
+  "src": "YES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:13d",
+  "src": "NO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:13e",
+  "src": "BACK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:13f",
+  "src": "CONTINUE WITHOUT SAVING",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:140",
+  "src": "SELECT FILE TO SAVE TO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:141",
+  "src": "SELECT SAVE FILE TO LOAD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:142",
+  "src": "A JAK AND DAXTER SAVE GAME ALREADY EXISTS IN THE SAVE FILE YOU HAVE SELECTED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:143",
+  "src": "PLEASE INSERT A MEMORY_CARD_(PS2) IN MEMORY_CARD_SLOT_~D THAT CONTAINS JAK AND DAXTER GAME DATA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:144",
+  "src": "CONTINUE?",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:14b",
+  "src": "LOAD GAME",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:14c",
+  "src": "SAVE GAME",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:14d",
+  "src": "FORMATTING",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:14e",
+  "src": "CREATING SAVE GAME FILE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:14f",
+  "src": "EMPTY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:150",
+  "src": "OPTIONS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:151",
+  "src": "ERROR WHILE LOADING",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:152",
+  "src": "ERROR WHILE SAVING",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:153",
+  "src": "ERROR WHILE FORMATTING",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:154",
+  "src": "ERROR WHILE CREATING SAVE GAME FILE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:156",
+  "src": "MEMORY_CARD_(PS2) IN MEMORY_CARD_SLOT_~D WAS REMOVED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:157",
+  "src": "AUTO-SAVE HAS BEEN DISABLED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:158",
+  "src": "USE THE SAVE GAME OPTION TO MANUALLY SAVE YOUR GAME AND RE-ENABLE AUTO-SAVE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:159",
+  "src": "NO JAK AND DAXTER GAME DATA ON THE MEMORY_CARD_(PS2) INSERTED IN MEMORY_CARD_SLOT_~D",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:15a",
+  "src": "WOULD YOU LIKE TO CREATE A JAK AND DAXTER SAVE FILE?",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:15b",
+  "src": "PLEASE CHECK THE MEMORY_CARD_(PS2) IN MEMORY_CARD_SLOT_~D",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:15c",
+  "src": "NEW GAME",
+  "ko": "새 게임",
+  "state": "in_progress",
+  "note": "PoC: 텍스트 경로 기술 검증용"
+ },
+ {
+  "id": "base:15d",
+  "src": "GO BACK?",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:15e",
+  "src": "OK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:15f",
+  "src": "EXIT DEMO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:160",
+  "src": "WHEN THE FOLLOWING ICON APPEARS, YOUR PROGRESS IS BEING SAVED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:161",
+  "src": "WHILE THIS ICON IS ON SCREEN, DO NOT REMOVE THE MEMORY_CARD_(PS2) OR TURN OFF YOUR SYSTEM",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:162",
+  "src": "TASK COMPLETED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:163",
+  "src": "PLEASE CHECK THE MEMORY_CARD_(PS2) IN MEMORY_CARD_SLOT_~D AND TRY AGAIN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:164",
+  "src": "THE SCREEN WILL NOW CHANGE TO 60HZ",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:165",
+  "src": "IF THE IMAGE IS DISPLAYED INCORRECTLY THEN YOUR TELEVISION DOES NOT SUPPORT THIS MODE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:166",
+  "src": "IF SO, PLEASE WAIT 10 SECONDS AND THE SCREEN WILL CHANGE BACK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:167",
+  "src": "THE DISPLAY IS NOW IN 60HZ MODE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:168",
+  "src": "WOULD YOU LIKE TO KEEP THIS MODE?",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:169",
+  "src": "USE D-PAD TO SELECT LEVEL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:16a",
+  "src": "THE DISC WAS REMOVED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:16b",
+  "src": "PLEASE INSERT THE JAK AND DAXTER DISC TO CONTINUE PLAYING",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:16c",
+  "src": "ERROR WHILE READING DATA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:16d",
+  "src": "PLEASE CHECK THE JAK AND DAXTER DISC AND TRY AGAIN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:16e",
+  "src": "PRESS START",
+  "ko": "시작 버튼을 누르세요",
+  "state": "in_progress",
+  "note": "PoC: 텍스트 경로 기술 검증용. 용어 미승인"
+ },
+ {
+  "id": "base:16f",
+  "src": "QUIT GAME",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:170",
+  "src": "ARE YOU SURE YOU WANT TO QUIT?",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:171",
+  "src": "TOTAL COLLECTED:",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:200",
+  "src": "BRING 90 ORBS TO THE MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:201",
+  "src": "BRING 90 ORBS TO YOUR UNCLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:202",
+  "src": "HERD THE YAKOWS INTO THEIR PEN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:203",
+  "src": "RETURN TO THE FARMER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:204",
+  "src": "BRING 120 ORBS TO THE ORACLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:205",
+  "src": "UNBLOCK THE ECO HARVESTERS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:206",
+  "src": "PUSH THE FLUT FLUT EGG OFF THE CLIFF",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:207",
+  "src": "MEET THE BIRD WATCHER BY THE EGG",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:208",
+  "src": "GET THE POWER CELL FROM THE PELICAN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:209",
+  "src": "CHASE THE SEAGULLS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:20a",
+  "src": "LAUNCH UP TO THE CANNON TOWER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:20b",
+  "src": "FREE 7 SCOUT FLIES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:20c",
+  "src": "CONNECT THE ECO BEAMS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:20d",
+  "src": "GET TO THE TOP OF THE TEMPLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:20e",
+  "src": "FIND THE BLUE VENT SWITCH",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:20f",
+  "src": "DEFEAT THE DARK ECO PLANT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:210",
+  "src": "CATCH 200 POUNDS OF FISH",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:211",
+  "src": "CATCH THE SCULPTOR'S MUSE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:212",
+  "src": "RETURN THE MUSE TO THE SCULPTOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:213",
+  "src": "CLIMB THE LURKER SHIP",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:214",
+  "src": "STOP THE CANNON",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:215",
+  "src": "RETURN TO THE DARK ECO POOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:216",
+  "src": "FIND THE TRANS-PAD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:217",
+  "src": "DESTROY THE BALLOON LURKERS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:218",
+  "src": "FARMER'S HOUSE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:219",
+  "src": "MAYOR'S HOUSE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:21a",
+  "src": "BIRD WATCHER'S HOUSE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:21b",
+  "src": "SCULPTOR'S HOUSE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:21c",
+  "src": "JAK'S UNCLE'S HOUSE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:21d",
+  "src": "FISHERMAN'S HOUSE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:21e",
+  "src": "GREEN SAGE'S LAB",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:21f",
+  "src": "KEIRA'S GARAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:220",
+  "src": "SANDOVER VILLAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:221",
+  "src": "SENTINEL BEACH",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:222",
+  "src": "FORBIDDEN JUNGLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:223",
+  "src": "MISTY ISLAND",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:224",
+  "src": "FIRE CANYON",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:225",
+  "src": "FORBIDDEN TEMPLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:226",
+  "src": "<PAD_X> YES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:227",
+  "src": "<PAD_CIRCLE> NO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:228",
+  "src": "FLUT FLUT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:229",
+  "src": "ORB ORACLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:22a",
+  "src": "TRANS-PAD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:22b",
+  "src": "GREEN ECO HARVESTERS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:22c",
+  "src": "PRECURSOR ORB",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:22d",
+  "src": "POWER CELL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:22e",
+  "src": "GET THE FALLEN POWER CELL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:22f",
+  "src": "UNBLOCK THE ECO BEAM",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:230",
+  "src": "RETURN TO THE MAYOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:262",
+  "src": "EXPLORE THE BEACH",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:263",
+  "src": "CLIMB THE SENTINEL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:264",
+  "src": "FOLLOW THE CANYON TO THE SEA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:265",
+  "src": "OPEN THE LOCKED TEMPLE DOOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:266",
+  "src": "USE ZOOMER TO REACH POWER CELL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:267",
+  "src": "USE BLUE ECO TO REACH POWER CELL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:2a9",
+  "src": "DO YOU WANT TO FISH?",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:2b3",
+  "src": "COLLECT 20 POWER CELLS TO CROSS FIRE CANYON",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:2b4",
+  "src": "CAUGHT:",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:2b5",
+  "src": "MISSED:",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:2b6",
+  "src": "LOSE!",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:300",
+  "src": "BRING 90 ORBS TO THE GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:301",
+  "src": "BRING 90 ORBS TO THE GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:302",
+  "src": "BRING 90 ORBS TO THE WARRIOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:303",
+  "src": "BRING 120 ORBS TO THE ORACLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:304",
+  "src": "BREAK THE TETHERS TO THE ZEPPELIN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:305",
+  "src": "GET TO THE CENTER OF THE SWAMP",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:306",
+  "src": "SWING ON THE POLES TO CROSS THE TAR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:307",
+  "src": "RIDE THE FLUT FLUT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:308",
+  "src": "BLAST BOULDERS IN TAR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:309",
+  "src": "PROTECT FARTHY'S SNACKS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:30a",
+  "src": "RAISE THE CHAMBER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:30b",
+  "src": "GET TO ROOF OF RAISED CHAMBER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:30c",
+  "src": "FOLLOW THE COLORED PIPES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:30d",
+  "src": "CLIMB THE SLIDE TUBE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:30e",
+  "src": "QUICKLY CROSS THE DANGEROUS POOL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:30f",
+  "src": "MATCH THE PLATFORM COLORS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:310",
+  "src": "HERD THE MOLES INTO THEIR HOLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:311",
+  "src": "RETURN TO THE GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:312",
+  "src": "CATCH THE FLYING LURKERS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:313",
+  "src": "BEAT RECORD TIME ON THE GORGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:314",
+  "src": "RETURN TO THE GAMBLER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:315",
+  "src": "GET THE POWER CELL OVER THE LAKE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:316",
+  "src": "CURE DARK ECO INFECTED PLANTS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:317",
+  "src": "FREE 7 SCOUT FLIES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:318",
+  "src": "BLUE SAGE'S LAB",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:319",
+  "src": "ROCK VILLAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:31a",
+  "src": "LEVITATING MACHINE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:31b",
+  "src": "PRECURSOR BASIN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:31c",
+  "src": "BOGGY SWAMP",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:31d",
+  "src": "LOST PRECURSOR CITY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:31e",
+  "src": "MOUNTAIN PASS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:31f",
+  "src": "<PAD_X> YES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:320",
+  "src": "<PAD_CIRCLE> NO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:321",
+  "src": "DEFEAT THE LURKER AMBUSH",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:322",
+  "src": "REACH THE BOTTOM OF THE CITY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:323",
+  "src": "REACH THE CENTER OF THE COMPLEX",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:324",
+  "src": "NAVIGATE THE PURPLE PRECURSOR RINGS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:325",
+  "src": "NAVIGATE THE BLUE PRECURSOR RINGS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:372",
+  "src": "COLLECT 45 POWER CELLS TO FUEL THE LEVITATOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:373",
+  "src": "TIME:",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:374",
+  "src": "RECORD:",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:375",
+  "src": "NEW RECORD",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:376",
+  "src": "TRY AGAIN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:377",
+  "src": "RACE ABORTED",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:400",
+  "src": "BRING 90 ORBS TO THE MINERS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:401",
+  "src": "BRING 120 ORBS TO THE ORACLE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:402",
+  "src": "STOP THE 3 LURKER GLACIER TROOPS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:403",
+  "src": "STOP THE 2 LURKER GLACIER TROOPS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:404",
+  "src": "STOP THE LAST LURKER GLACIER TROOP",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:405",
+  "src": "GET THROUGH THE LURKER FORT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:406",
+  "src": "SURVIVE THE LURKER INFESTED CAVE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:407",
+  "src": "FIND THE RED VENT SWITCH",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:408",
+  "src": "OPEN THE LURKER FORT GATE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:409",
+  "src": "PROTECT THE MINERS' GEMS IN THE STUMP",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:40a",
+  "src": "STOP THE DRILLING LURKERS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:40b",
+  "src": "REACH THE TOP OF THE MOUNTAIN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:40c",
+  "src": "STOP THE LURKER ATTACK TROOP",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:40d",
+  "src": "STOP THE LURKER ATTACK TROOP",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:40e",
+  "src": "CLIMB THE GIANT ROBOT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:40f",
+  "src": "EXPLORE THE DARK CAVE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:410",
+  "src": "USE YOUR GOGGLES TO SHOOT THE GNAWING LURKERS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:411",
+  "src": "DESTROY THE DARK ECO CRYSTALS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:412",
+  "src": "DEFEAT THE CAVE BATS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:413",
+  "src": "FREE 7 SCOUT FLIES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:414",
+  "src": "RED SAGE'S LAB",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:415",
+  "src": "VOLCANIC CRATER",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:416",
+  "src": "MOUNTAIN GONDOLA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:417",
+  "src": "SNOWY MOUNTAIN",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:418",
+  "src": "ROCK LAKE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:419",
+  "src": "SPIDER CAVE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:41a",
+  "src": "MOUNTAIN PASS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:41b",
+  "src": "LAVA TUBE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:41c",
+  "src": "RIDE THE GONDOLA?",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:41d",
+  "src": "<PAD_X> YES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:41e",
+  "src": "<PAD_CIRCLE> NO",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:41f",
+  "src": "STOP THE LURKER GLACIER TROOP",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:420",
+  "src": "JUMP OVER THE LAKE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:421",
+  "src": "FIND THE YELLOW VENT SWITCH",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:422",
+  "src": "SHOOT THE BIRDS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:423",
+  "src": "NAVIGATE THE SPIDER TUNNEL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:424",
+  "src": "CLIMB THE PRECURSOR PLATFORMS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:426",
+  "src": "LAUNCH TO THE POLES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:42b",
+  "src": "OPEN THE FROZEN CRATE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:42c",
+  "src": "DEACTIVATE THE PRECURSOR BLOCKERS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:455",
+  "src": "COLLECT 72 POWER CELLS TO CROSS THE LAVA TUBE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:500",
+  "src": "REACH THE END OF FIRE CANYON",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:501",
+  "src": "FREE 7 SCOUT FLIES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:50c",
+  "src": "FIRE CANYON",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:600",
+  "src": "REACH THE END OF THE MOUNTAIN PASS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:601",
+  "src": "FREE 7 SCOUT FLIES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:602",
+  "src": "MOUNTAIN PASS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:603",
+  "src": "DEFEAT KLAWW",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:700",
+  "src": "REACH THE END OF THE LAVA TUBE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:701",
+  "src": "FREE 7 SCOUT FLIES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:702",
+  "src": "LAVA TUBE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:800",
+  "src": "FREE 7 SCOUT FLIES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:801",
+  "src": "GOL AND MAIA'S CITADEL",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:802",
+  "src": "FREE THE BLUE SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:803",
+  "src": "FREE THE RED SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:804",
+  "src": "FREE THE YELLOW SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:805",
+  "src": "FREE THE GREEN SAGE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:91b",
+  "src": "FIND THE CELL ON THE PATH",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:91c",
+  "src": "FREE 7 SCOUT FLIES",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:91d",
+  "src": "OPEN THE PRECURSOR DOOR",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:91e",
+  "src": "CLIMB UP THE CLIFF",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:91f",
+  "src": "GEYSER ROCK",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:f00",
+  "src": "SONY COMPUTER ENTERTAINMENT",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:f01",
+  "src": "AMERICA",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:f02",
+  "src": "PRESENTS",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:f03",
+  "src": "A",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:f04",
+  "src": "NAUGHTY DOG",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:f05",
+  "src": "GAME",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:f06",
+  "src": "JAK AND DAXTER:",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:f07",
+  "src": "THE PRECURSOR LEGACY™",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:f10",
+  "src": "INC.",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "base:f11",
+  "src": "EUROPE",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

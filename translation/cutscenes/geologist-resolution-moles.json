@@ -1,0 +1,26 @@
+[
+ {
+  "id": "cut:geologist-resolution-moles:0",
+  "src": "THANK YOU FOR SAVING THOSE MOLES, THAT'S AWFULLY GOOD OF YOU.",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:geologist-resolution-moles:1",
+  "src": "HERE'S A POWER CELL TO HELP YOU OUT.",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:geologist-resolution-moles:2",
+  "src": "NOW I CAN GET BACK TO MY RESEARCH!",
+  "speaker": "GEOLOGIST",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

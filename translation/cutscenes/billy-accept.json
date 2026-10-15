@@ -1,0 +1,26 @@
+[
+ {
+  "id": "cut:billy-accept:0",
+  "src": "GOOD! THOSE RATS WILL BE BACK ANYTIME.",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:billy-accept:1",
+  "src": "SHOOT ALL THEM RATS, AND KEEP 'EM",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ },
+ {
+  "id": "cut:billy-accept:2",
+  "src": "FROM EATING AT LEAST ONE OF THEM SNACKS.",
+  "speaker": "BILLY",
+  "ko": "",
+  "state": "untranslated",
+  "note": ""
+ }
+]

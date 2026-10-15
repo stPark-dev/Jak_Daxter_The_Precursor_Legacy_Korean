@@ -1,0 +1,18 @@
+[
+ {
+  "id": "cut:assistant-reminder-1-blue-eco-switch:0",
+  "src": "I'M SURE IF YOU LOOKED INSIDE THE PRECURSOR FORBIDDEN TEMPLE",
+  "speaker": "KEIRA",
+  "ko": "금단의 신전 안을 살펴보면",
+  "state": "needs_human_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-023, V-005; 2차 검수 반영"
+ },
+ {
+  "id": "cut:assistant-reminder-1-blue-eco-switch:1",
+  "src": "YOU'LL FIND A WAY TO TURN ON THAT CAPPED BLUE ECO VENT ON SENTINEL BEACH.",
+  "speaker": "KEIRA",
+  "ko": "센티넬 해변의 막힌 블루 이코 분출구를 여는 방법을 분명 찾을 거야.",
+  "state": "needs_human_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-018d, G-024, V-005"
+ }
+]
