@@ -4,39 +4,39 @@
   "src": "YOU DID IT! YOU CAUGHT 200 POUNDS OF FISH!",
   "speaker": "FISHERMAN",
   "ko": "해냈구나! 물고기를 200파운드나 잡았어!",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-009"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009"
  },
  {
   "id": "cut:fisher-resolution:1",
   "src": "NOT BAD FOR A COUPLE OF LAND LUBBERS!",
   "speaker": "FISHERMAN",
   "ko": "뭍사람 둘 치곤 나쁘지 않은데!",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-009"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009"
  },
  {
   "id": "cut:fisher-resolution:2",
   "src": "HERE'S THE POWER CELL I PROMISED",
   "speaker": "FISHERMAN",
   "ko": "약속한 파워 셀이다.",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-009"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009"
  },
  {
   "id": "cut:fisher-resolution:3",
   "src": "AND YOU CAN USE MY BOAT IN THE VILLAGE DOCK",
   "speaker": "FISHERMAN",
   "ko": "그리고 마을 부두에 있는 내 배는",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-009"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009"
  },
  {
   "id": "cut:fisher-resolution:4",
   "src": "WHENEVER YOU LIKE!",
   "speaker": "FISHERMAN",
   "ko": "언제든 써도 좋다!",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-009"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009"
  }
 ]

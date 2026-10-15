@@ -3,8 +3,8 @@
   "id": "cut:sage-village3-reminder-1-dark-eco:0",
   "src": "YOU HAVE TO DESTROY THE DARK ECO CRYSTALS IN SPIDER CAVES!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "거미 동굴의 다크 이코 수정을 파괴해야 한다!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: G-050"
  }
 ]

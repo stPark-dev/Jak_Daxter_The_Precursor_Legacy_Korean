@@ -4,48 +4,48 @@
   "src": "NO... (MUTTERS) DON'T TELL ME THAT YOU TWO HAVE PROBLEMS AS WELL!",
   "speaker": "MAYOR",
   "ko": "아니... (중얼중얼) 자네들까지 문제가 있다는 말은 하지 말게!",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
  },
  {
   "id": "cut:mayor-introduction:1",
   "src": "FIRST I HEAR OF MONSTER SIGHTINGS NEAR THE VILLAGE, AND NOW THIS.",
   "speaker": "MAYOR",
   "ko": "마을 근처에서 괴물을 봤다는 소리를 듣질 않나, 이번엔 이거라니.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
  },
  {
   "id": "cut:mayor-introduction:2",
   "src": "SEE THOSE GEARS UP THERE, BOYS? SEE THEM? SEE HOW THEY'RE NOT MOVING?",
   "speaker": "MAYOR",
   "ko": "저 위 톱니바퀴들 보이나, 자네들? 보이지? 안 돌아가는 거 보이지?",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
  },
  {
   "id": "cut:mayor-introduction:3",
   "src": "THAT MEANS OUR VILLAGE HAS NO POWER!",
   "speaker": "MAYOR",
   "ko": "마을에 전력이 끊겼다는 뜻일세!",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
  },
  {
   "id": "cut:mayor-introduction:4",
   "src": "THE ECO BEAM COMING FROM THE JUNGLE TEMPLE HAS BEEN INTERRUPTED!",
   "speaker": "MAYOR",
   "ko": "정글 신전에서 오는 이코 빔이 끊겨 버렸단 말일세!",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-025, V-007; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-025, V-007; 2차 검수 반영"
  },
  {
   "id": "cut:mayor-introduction:5",
   "src": "AND BOYS, EVERYONE'S TOO FRIGHTENED TO GO OUT AND FIND OUT WHAT'S HAPPENED.",
   "speaker": "MAYOR",
   "ko": "게다가 다들 겁에 질려서 무슨 일인지 알아보러 나가질 못하네.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
  },
  {
   "id": "cut:mayor-introduction:6",
@@ -60,55 +60,55 @@
   "src": "YEAH-HMM? OH-HUH-OH, YOU'RE FUNNY.",
   "speaker": "MAYOR",
   "ko": "응, 흠? 오호호, 재밌는 친구로군.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007; 2차 검수 반영"
  },
  {
   "id": "cut:mayor-introduction:8",
   "src": "NOW LOOK, IF YOU TWO FIX THE ECO BEAM, I'LL GIVE YOU A POWER CELL.",
   "speaker": "MAYOR",
   "ko": "자, 이보게. 자네들이 이코 빔을 고쳐 주면 파워 셀을 하나 주지.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-025, V-007"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-025, V-007"
  },
  {
   "id": "cut:mayor-introduction:9",
   "src": "OH OOH OOH AND-AND ANOTHER THING, UH...",
   "speaker": "MAYOR",
   "ko": "오, 오오, 그, 그리고 하나 더, 어...",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007; 2차 검수 반영"
  },
  {
   "id": "cut:mayor-introduction:10",
   "src": "IF BY ANY CHANCE YOU'RE INTERESTED IN MAKING A CONTRIBUTION TO MY RE-ELECTION CAMPAIGN,",
   "speaker": "MAYOR",
   "ko": "혹시라도 내 재선 캠페인에 기부할 생각이 있다면,",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
  },
  {
   "id": "cut:mayor-introduction:11",
   "src": "I-I MIGHT BE WILLING TO PART WITH YET ANOTHER POWER CELL!",
   "speaker": "MAYOR",
   "ko": "파, 파워 셀을 하나 더 내줄 수도 있네!",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
  },
  {
   "id": "cut:mayor-introduction:12",
   "src": "THE MINIMUM CONTRIBUTION IS, OH, A VERY MODEST...",
   "speaker": "MAYOR",
   "ko": "최소 기부액은, 오, 아주 소박하게...",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
  },
  {
   "id": "cut:mayor-introduction:13",
   "src": "90 PRECURSOR ORBS.",
   "speaker": "MAYOR",
   "ko": "프리커서 오브 90개일세.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
  }
 ]

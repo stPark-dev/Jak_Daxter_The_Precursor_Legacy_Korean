@@ -4,16 +4,16 @@
   "src": "HEY BABY. WHAT DO YOU SAY YOU AND I GO CRUISIN' ON THIS A-GRAV ZOOMER?",
   "speaker": "DAXTER",
   "ko": "안녕, 자기. 나랑 이 반중력 주머 타고 드라이브 한번 어때?",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-026"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-026"
  },
  {
   "id": "cut:assistant-introduction-blue-eco-switch:1",
   "src": "RULE NUMBER ONE: I DON'T DATE ANIMALS.",
   "speaker": "KEIRA",
   "ko": "규칙 1번: 동물이랑은 데이트 안 해.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-005"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-005"
  },
  {
   "id": "cut:assistant-introduction-blue-eco-switch:2",
@@ -28,55 +28,55 @@
   "src": "LISTEN, IF YOU NEED SOMETHING TO KEEP YOU BUSY, MY FATHER ALWAYS TALKED",
   "speaker": "KEIRA",
   "ko": "있잖아, 할 일이 필요하면, 우리 아빠가 늘 말하던 게 있어.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-005"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-005"
  },
  {
   "id": "cut:assistant-introduction-blue-eco-switch:4",
   "src": "ABOUT AN ANCIENT PRECURSOR PIPELINE HIDDEN DEEP UNDERGROUND.",
   "speaker": "KEIRA",
   "ko": "땅속 깊이 숨겨진 고대 프리커서 파이프라인 얘기야.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-005"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-005"
  },
  {
   "id": "cut:assistant-introduction-blue-eco-switch:5",
   "src": "SOME OF THESE PIPES END IN VENTS FROM WHICH ECO FLOWS FREELY,",
   "speaker": "KEIRA",
   "ko": "그 파이프 중 일부는 이코가 마음껏 흘러나오는 분출구로 이어지고",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-024, V-005"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-024, V-005"
  },
  {
   "id": "cut:assistant-introduction-blue-eco-switch:6",
   "src": "AND SOME HAVE BEEN CAPPED OFF SO THAT THE ECO IS SEALED BACK.",
   "speaker": "KEIRA",
   "ko": "일부는 막혀서 이코가 안에 갇혀 있어.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-005"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-005"
  },
  {
   "id": "cut:assistant-introduction-blue-eco-switch:7",
   "src": "THERE MUST BE A WAY TO TURN THE CAPPED VENTS ON.",
   "speaker": "KEIRA",
   "ko": "막힌 분출구를 여는 방법이 분명 있을 거야.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-024, V-005"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-024, V-005"
  },
  {
   "id": "cut:assistant-introduction-blue-eco-switch:8",
   "src": "I TRACED PART OF THE PIPELINE BACK TO THE FORBIDDEN TEMPLE.",
   "speaker": "KEIRA",
   "ko": "파이프라인 일부를 따라가 보니 금단의 신전까지 이어지더라.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-023, V-005"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-023, V-005"
  },
  {
   "id": "cut:assistant-introduction-blue-eco-switch:9",
   "src": "MAYBE YOU SHOULD LOOK THERE FOR SOME TYPE OF SWITCH.",
   "speaker": "KEIRA",
   "ko": "거기서 스위치 같은 걸 찾아보는 게 어때?",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-005"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-005"
  }
 ]

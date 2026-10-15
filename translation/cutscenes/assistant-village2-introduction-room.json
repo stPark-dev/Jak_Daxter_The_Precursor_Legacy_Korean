@@ -3,120 +3,120 @@
   "id": "cut:assistant-village2-introduction-room:0",
   "src": "APPARENTLY THE PRECURSOR STRUCTURE JUST OFF THE COAST",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "해안 바로 앞에 있는 프리커서 건축물이",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-introduction-room:1",
   "src": "LEADS TO AN UNDERWATER LOST CITY.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "물속의 잃어버린 도시로 이어진대.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-037"
  },
  {
   "id": "cut:assistant-village2-introduction-room:2",
   "src": "THE BLUE SAGE HAS BEEN TRYING TO FIGURE OUT",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 현자는 그 방들 중 하나를",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-introduction-room:3",
   "src": "HOW HE CAN BRING ONE OF THE CHAMBERS TO THE SURFACE.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "물 위로 끌어올릴 방법을 연구하고 있었는데,",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-introduction-room:4",
   "src": "BUT HE WAS NEVER SUCCESSFUL.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "결국 성공하지 못했어.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-introduction-room:5",
   "src": "YOU SHOULD CHECK IT OUT!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "한번 가 봐!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-introduction-room:6",
   "src": "UH... AREN'T THERE A LOT OF, UM...",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어... 거기 물속에, 음...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-introduction-room:7",
   "src": "LURKER SHARKS IN THAT WATER?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "러커 상어가 엄청 많지 않아?",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-038"
  },
  {
   "id": "cut:assistant-village2-introduction-room:8",
   "src": "WHY? ARE YOU SCARED?",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "왜? 무서워?",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-introduction-room:9",
   "src": "ME? OF COURSE NOT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내가? 그럴 리가!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-introduction-room:10",
   "src": "JUST LOOKIN' OUT FOR JAK HERE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그냥 여기 잭이 걱정돼서 그래!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-introduction-room:11",
   "src": "YOU, UH, HEH...",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그게, 어, 헤헤...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영"
  },
  {
   "id": "cut:assistant-village2-introduction-room:12",
   "src": "YOU KNOW WHAT A CHICKEN HE CAN BE.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "얘가 얼마나 겁쟁이인지 알잖아.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-introduction-room:13",
   "src": "WELL, IF YOU SWIM OUT OVER THE CORAL REEF, I DOUBT THE LURKER SHARKS WILL BOTHER YOU.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "음, 산호초 위로 헤엄쳐 가면 러커 상어가 귀찮게 하진 않을 거야.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-038"
  },
  {
   "id": "cut:assistant-village2-introduction-room:14",
   "src": "THEY DON'T LIKE SHALLOW WATER.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "걔들은 얕은 물을 싫어하거든.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  }
 ]

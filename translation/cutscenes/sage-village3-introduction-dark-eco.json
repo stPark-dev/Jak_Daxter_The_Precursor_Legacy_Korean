@@ -3,80 +3,80 @@
   "id": "cut:sage-village3-introduction-dark-eco:0",
   "src": "GREAT BALLS OF ECO!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이런 이코 날벼락이!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction-dark-eco:1",
   "src": "THERE SEEMS TO BE A LARGE LURKER PRESENCE IN THE SPIDER CAVES!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "거미 동굴에 러커들이 잔뜩 몰려 있는 것 같구나!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: G-050"
  },
  {
   "id": "cut:sage-village3-introduction-dark-eco:2",
   "src": "GREAT. SOUNDS LIKE A REAL CHEERY PLACE.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋네. 아주 신나는 곳 같아.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction-dark-eco:3",
   "src": "LET ME GUESS. THERE ARE SPIDERS IN THE SPIDER CAVES, RIGHT?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "맞혀 볼까. 거미 동굴엔 거미가 있다, 맞지?",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: G-050"
  },
  {
   "id": "cut:sage-village3-introduction-dark-eco:4",
   "src": "OF COURSE THERE ARE SPIDERS IN SPIDER CAVES!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "당연히 거미 동굴엔 거미가 있지!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: G-050"
  },
  {
   "id": "cut:sage-village3-introduction-dark-eco:5",
   "src": "BUT THAT'S THE LEAST OF YOUR PROBLEMS!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하지만 그건 문제 축에도 못 낀다!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction-dark-eco:6",
   "src": "THE LURKERS ARE AFTER CRYSTALS OF CONCENTRATED DARK ECO.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "러커들은 농축된 다크 이코 수정을 노리고 있다.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction-dark-eco:7",
   "src": "YOU'VE GOT TO DESTROY THE CRYSTALS BEFORE THOSE MONSTERS",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 괴물들이 손에 넣기 전에",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction-dark-eco:8",
   "src": "GET THEIR HANDS ON THEM!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "수정을 파괴해야 한다!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction-dark-eco:9",
   "src": "HOP TO IT!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어서 서둘러라!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  }
 ]

@@ -4,15 +4,15 @@
   "src": "HEY! MY YAKOWS ARE STILL ON THE LOOSE!",
   "speaker": "FARMER",
   "ko": "어이! 내 야카우들이 아직도 풀려 있어!",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-021, V-008"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-021, V-008"
  },
  {
   "id": "cut:farmer-reminder-1:1",
   "src": "EH, COULD YOU BRING 'EM BACK FOR ME ALREADY?",
   "speaker": "FARMER",
   "ko": "에, 이제 좀 데려다주지 않겠나?",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-008"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-008"
  }
 ]

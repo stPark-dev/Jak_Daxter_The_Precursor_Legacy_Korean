@@ -4,87 +4,87 @@
   "src": "WELL, HELLO THERE MY DEAR BOY.",
   "speaker": "JAK'S UNCLE",
   "ko": "오, 이게 누구냐, 얘야.",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-012"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012"
  },
  {
   "id": "cut:explorer-introduction:1",
   "src": "YOU'VE CAUGHT ME AT A MOST INOPPORTUNE MOMENT.",
   "speaker": "JAK'S UNCLE",
   "ko": "공교롭게도 아주 난처한 때에 왔구나.",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-012; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012; 2차 검수 반영"
  },
  {
   "id": "cut:explorer-introduction:2",
   "src": "I WAS TO SET OFF ON MY JOURNEYS YESTERDAY",
   "speaker": "JAK'S UNCLE",
   "ko": "어제 여행을 떠날 참이었는데",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-012"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012"
  },
  {
   "id": "cut:explorer-introduction:3",
   "src": "BUT I SEEM TO BE A SPOT SHORT ON THE OLD PRECURSOR ORBS.",
   "speaker": "JAK'S UNCLE",
   "ko": "프리커서 오브가 살짝 모자란 것 같구나.",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-012"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012"
  },
  {
   "id": "cut:explorer-introduction:4",
   "src": "I WOULD'VE PLEDGED MY WORD THAT I HAD 90 OF THEM,",
   "speaker": "JAK'S UNCLE",
   "ko": "90개는 틀림없이 있었다고 내 명예를 걸 수도 있었건만,",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-012; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012; 2차 검수 반영"
  },
  {
   "id": "cut:explorer-introduction:5",
   "src": "BUT I GATHER THAT YOUR YOUNG FRIEND, YOU KNOW, THE",
   "speaker": "JAK'S UNCLE",
   "ko": "듣자 하니 네 어린 친구, 그 왜,",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-012"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012"
  },
  {
   "id": "cut:explorer-introduction:6",
   "src": "LITTLE ANNOYING MISERABLY UGLY ONE",
   "speaker": "JAK'S UNCLE",
   "ko": "조그맣고 성가시고 지독하게 못생긴 녀석 말이다,",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-012"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012"
  },
  {
   "id": "cut:explorer-introduction:7",
   "src": "MIGHT HAVE JUST PILFERED THEM AS A SORT OF A SPOT OF FUN.",
   "speaker": "JAK'S UNCLE",
   "ko": "그 녀석이 장난삼아 슬쩍한 모양이더구나.",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-012"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012"
  },
  {
   "id": "cut:explorer-introduction:8",
   "src": "ANYWAY, WOULD YOU BE KIND ENOUGH TO LOAN YOUR DEAR OLD UNCLE",
   "speaker": "JAK'S UNCLE",
   "ko": "그나저나, 이 늙은 삼촌이 어서 길을 떠날 수 있게",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-012; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012; 2차 검수 반영"
  },
  {
   "id": "cut:explorer-introduction:9",
   "src": "90 PRECURSOR ORBS SO HE CAN GET UNDERWAY?",
   "speaker": "JAK'S UNCLE",
   "ko": "프리커서 오브 90개만 빌려주지 않겠느냐?",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-012; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012; 2차 검수 반영"
  },
  {
   "id": "cut:explorer-introduction:10",
   "src": "I WOULD OFFER YOU A POWER CELL IN RETURN.",
   "speaker": "JAK'S UNCLE",
   "ko": "그 대가로 파워 셀을 하나 주마.",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-012"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012"
  }
 ]

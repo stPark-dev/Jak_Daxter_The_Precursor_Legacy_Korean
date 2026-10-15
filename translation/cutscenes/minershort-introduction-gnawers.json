@@ -3,96 +3,96 @@
   "id": "cut:minershort-introduction-gnawers:0",
   "src": "WHY DON'T YOU TWO MAKE YOURSELVES USEFUL?",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "너희 둘, 쓸모 있는 일 좀 하지 그래?",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: S-016, V-020"
  },
  {
   "id": "cut:minershort-introduction-gnawers:1",
   "src": "LURKERS HAVE BEEN EXCAVATIN' THE DARK CAVES OVER THERE.",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "러커들이 저쪽 어둠 동굴을 파헤치고 있어.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020, G-058"
  },
  {
   "id": "cut:minershort-introduction-gnawers:2",
   "src": "SEEMS THEY'RE LOOKIN' FOR PRECURSOR ARTIFACTS.",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "프리커서 유물을 찾는 모양이야.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
  },
  {
   "id": "cut:minershort-introduction-gnawers:3",
   "src": "THEY CAN HAVE THE ARTIFACTS, FOR ALL I CARE.",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "유물이야 가져가든 말든 내 알 바 아니지.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
  },
  {
   "id": "cut:minershort-introduction-gnawers:4",
   "src": "FOR ALL WE CARE!",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우리 알 바 아니지!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: S-017, V-021"
  },
  {
   "id": "cut:minershort-introduction-gnawers:5",
   "src": "WILLARD, FEED YOUR BIRD.",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "윌러드, 새 모이나 줘.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
  },
  {
   "id": "cut:minershort-introduction-gnawers:6",
   "src": "ALL I CARE ABOUT ARE GEMS!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내 관심은 오직 보석뿐이라고!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
  },
  {
   "id": "cut:minershort-introduction-gnawers:7",
   "src": "BUT I AIN'T GONNA BE ABLE TO GET THE CAVE'S GEMS",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "근데 동굴 보석을 못 캐게 생겼어.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020; 읽기 속도 단축"
  },
  {
   "id": "cut:minershort-introduction-gnawers:8",
   "src": "BECAUSE WHEN THEY'RE THROUGH, THEY'RE GONNA COLLAPSE THE PLACE!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "놈들이 일을 끝내면 동굴을 무너뜨릴 테니까!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
  },
  {
   "id": "cut:minershort-introduction-gnawers:9",
   "src": "IF YOU TAKE OUT THE LURKERS CHEWIN' AT THE SUPPORT BEAMS,",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "지지대를 갉아 먹는 러커들을 해치우면,",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
  },
  {
   "id": "cut:minershort-introduction-gnawers:10",
   "src": "YOU COULD SAVE THE CAVE FOR ME.",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "동굴을 지켜 줄 수 있을 거야.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020; 읽기 속도 단축"
  },
  {
   "id": "cut:minershort-introduction-gnawers:11",
   "src": "NOW BEAT IT!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "자, 꺼져!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
  }
 ]

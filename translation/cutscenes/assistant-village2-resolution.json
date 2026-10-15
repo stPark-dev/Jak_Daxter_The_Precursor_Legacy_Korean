@@ -3,64 +3,64 @@
   "id": "cut:assistant-village2-resolution:0",
   "src": "GREAT, YOU HAVE THE CELLS FOR THE MACHINE!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋아, 장치에 넣을 파워 셀을 다 모았구나!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-resolution:1",
   "src": "THEY OUGHT TO PROVIDE ENOUGH POWER TO LIFT THAT BOULDER.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 정도면 저 바위를 들어 올리기에 충분할 거야.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-resolution:2",
   "src": "THERE WE GO!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "자, 간다!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-resolution:3",
   "src": "NOW, BE CAREFUL FACING THAT MONSTER LURKER AT THE TOP.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이제 꼭대기에 있는 괴물 러커를 조심해.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-resolution:4",
   "src": "WAIT! UH...",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잠깐! 어...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-resolution:5",
   "src": "I'LL STAY HERE AND PROTECT KEIRA!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "난 여기 남아서 케이라를 지킬게!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-resolution:6",
   "src": "JAK, I THINK YOU'RE READY TO HANDLE THAT MONSTER WITHOUT ME.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잭, 이제 그 괴물은 나 없이도 상대할 수 있을 것 같아.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-village2-resolution:7",
   "src": "OH, REALLY HEROIC OF YOU.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어머, 참 영웅 나셨네.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영"
  }
 ]

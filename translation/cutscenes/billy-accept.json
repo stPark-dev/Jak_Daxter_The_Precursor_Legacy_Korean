@@ -3,24 +3,24 @@
   "id": "cut:billy-accept:0",
   "src": "GOOD! THOSE RATS WILL BE BACK ANYTIME.",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋아! 쥐 놈들이 금방 다시 들이닥칠 거야.",
+  "state": "needs_review",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 2차 검수 반영"
  },
  {
   "id": "cut:billy-accept:1",
   "src": "SHOOT ALL THEM RATS, AND KEEP 'EM",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "쥐들을 다 쏴서,",
+  "state": "needs_review",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
  },
  {
   "id": "cut:billy-accept:2",
   "src": "FROM EATING AT LEAST ONE OF THEM SNACKS.",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "간식 하나만큼은 못 먹게 막아 줘.",
+  "state": "needs_review",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
  }
 ]

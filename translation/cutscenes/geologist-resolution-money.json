@@ -3,16 +3,16 @@
   "id": "cut:geologist-resolution-money:0",
   "src": "OH, YOU HAVE THE ORBS!",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오, 오브를 가져오셨군요!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
  },
  {
   "id": "cut:geologist-resolution-money:1",
   "src": "HERE'S A POWER CELL WE AGREED UPON.",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "약속한 파워 셀이에요.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
  }
 ]

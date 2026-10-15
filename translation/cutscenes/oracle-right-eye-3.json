@@ -3,8 +3,8 @@
   "id": "cut:oracle-right-eye-3:0",
   "src": "YOU HAVE OBTAINED ANOTHER POWER CELL.",
   "speaker": "ORACLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀을 하나 더 얻었구나.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  }
 ]

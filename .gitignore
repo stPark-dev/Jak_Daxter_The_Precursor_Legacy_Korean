@@ -10,3 +10,4 @@ build_kr.log
 docs/evidence_*.png
 __pycache__/
 .pytest_cache/
+.qa/

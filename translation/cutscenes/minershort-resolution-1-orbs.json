@@ -3,16 +3,16 @@
   "id": "cut:minershort-resolution-1-orbs:0",
   "src": "OH, ALRIGHT ALREADY.",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아, 알았어, 알았다고.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
  },
  {
   "id": "cut:minershort-resolution-1-orbs:1",
   "src": "HERE'S A POWER CELL FOR THOSE ORBS OF YOURS.",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 오브 받고 파워 셀 줄게.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
  }
 ]

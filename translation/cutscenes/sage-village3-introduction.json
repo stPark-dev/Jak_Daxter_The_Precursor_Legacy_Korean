@@ -3,360 +3,360 @@
   "id": "cut:sage-village3-introduction:0",
   "src": "OW! I ALWAYS WONDER IF I'M LOSING BODY PARTS IN THOSE THINGS!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아야! 저걸 탈 때마다 몸 어딘가가 떨어져 나가는 것 같단 말이다!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:1",
   "src": "HOLY YAKOW! THE RED SAGE'S LAB LOOKS WORSE THAN THE BLUE'S!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이런 야카우 같은! 레드 현자 연구실이 블루 쪽보다 더 엉망이구나!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:2",
   "src": "WELL, IT DEFINITELY LOOKS AS THOUGH THERE'S BEEN A STRUGGLE HERE.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "음, 여기서 몸싸움이 있었던 건 확실해 보여요.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:3",
   "src": "HA HA HA HA HA!",
   "speaker": "OLD MAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하하하하하!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:4",
   "src": "I'D HARDLY CALL IT \"STRUGGLE.\"",
   "speaker": "OLD MAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "\"몸싸움\"이라 하기엔 좀 그렇지.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-022"
  },
  {
   "id": "cut:sage-village3-introduction:5",
   "src": "WOULD YOU, DEAR SISTER?",
   "speaker": "OLD MAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "안 그래?",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: H-001"
  },
  {
   "id": "cut:sage-village3-introduction:6",
   "src": "CERTAINLY NOT. THE RED SAGE GAVE UP WITH SO LITTLE EFFORT.",
   "speaker": "WOMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "물론이죠. 레드 현자는 너무 쉽게 포기하던걸요.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-023"
  },
  {
   "id": "cut:sage-village3-introduction:7",
   "src": "NO FUN AT ALL.",
   "speaker": "WOMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하나도 재미없었어요.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-023"
  },
  {
   "id": "cut:sage-village3-introduction:8",
   "src": "GOL? IS THAT YOU?",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "골? 너냐?",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:9",
   "src": "YOU'VE FINALLY GONE OFF THE DEEP END, EH?",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "결국 완전히 미쳐 버렸구나, 응?",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:10",
   "src": "AND, MAIA! I TOLD YOU THE DARK ECO WOULD AFFECT YOU BOTH!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그리고, 마이아! 다크 이코가 너희 둘 다 망가뜨릴 거라고 했잖느냐!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: G-005a"
  },
  {
   "id": "cut:sage-village3-introduction:11",
   "src": "HNG, NOBODY EVER LISTENS TO OLD SAMOS...",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "흥, 아무도 늙은 사모스 말은 안 듣지...",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:12",
   "src": "WHAT HAVE YOU TWO DONE WITH THE BLUE AND RED SAGES?",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 현자와 레드 현자는 어떻게 한 게냐?",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:13",
   "src": "DON'T WORRY ABOUT YOUR COLORFUL FRIENDS, YOU OLD FOOL.",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "네 알록달록한 친구들 걱정은 마라, 늙은 바보.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-022"
  },
  {
   "id": "cut:sage-village3-introduction:14",
   "src": "THEY'RE PERFECTLY SAFE IN OUR CITADEL. OUR SPECIAL GUESTS.",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우리 성채에서 아주 안전하게 지내고 있으니. 특별한 손님으로 말이야.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-022, G-051"
  },
  {
   "id": "cut:sage-village3-introduction:15",
   "src": "THEY HAVE GRACIOUSLY AGREED TO HELP US ON A LITTLE PROJECT.",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "고맙게도 우리의 작은 프로젝트를 돕기로 했답니다.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-023"
  },
  {
   "id": "cut:sage-village3-introduction:16",
   "src": "YOU WERE WRONG, SAMOS. DARK ECO CAN BE CONTROLLED!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "네가 틀렸어, 사모스. 다크 이코는 다룰 수 있다!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-022"
  },
  {
   "id": "cut:sage-village3-introduction:17",
   "src": "WE'VE LEARNED ITS SECRETS, AND NOW WE CAN RESHAPE THE WORLD TO OUR LIKING.",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우리는 그 비밀을 알아냈고, 이제 세상을 우리 뜻대로 바꿀 수 있지.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-022"
  },
  {
   "id": "cut:sage-village3-introduction:18",
   "src": "YOU CAN'T CONTROL DARK ECO BY ITSELF! EVEN THE PRECURSORS COULDN'T-",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "다크 이코는 그 자체로는 다룰 수 없다! 프리커서조차 못 했던-",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:19",
   "src": "UNTIL NOW, WE'VE HAD TO SCRAPE BY WITH WHAT LITTLE DARK ECO",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "지금까지는 지표면 근처에서 찾을 수 있는",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-023"
  },
  {
   "id": "cut:sage-village3-introduction:20",
   "src": "WE COULD FIND NEAR THE SURFACE.",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "쥐꼬리만 한 다크 이코로 버텨야 했죠.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-023; 읽기 속도 단축"
  },
  {
   "id": "cut:sage-village3-introduction:21",
   "src": "BUT SOON, WE WILL HAVE ACCESS TO THE VAST STORES",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하지만 곧, 땅속 깊이 숨겨진",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-023"
  },
  {
   "id": "cut:sage-village3-introduction:22",
   "src": "OF DARK ECO HIDDEN DEEP UNDERGROUND.",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "막대한 다크 이코 저장고를 손에 넣게 될 거예요.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-023"
  },
  {
   "id": "cut:sage-village3-introduction:23",
   "src": "NOT THE SILOS!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "사일로만은 안 된다!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:24",
   "src": "YES, THE SILOS!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래, 사일로다!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-022"
  },
  {
   "id": "cut:sage-village3-introduction:25",
   "src": "THEY WILL BE OPENED, AND ALL THE DARK ECO IN THE WORLD WILL BE OURS!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "사일로가 열리면, 세상의 모든 다크 이코가 우리 것이 될 거야!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-022"
  },
  {
   "id": "cut:sage-village3-introduction:26",
   "src": "BUT THAT'S IMPOSSIBLE! ONLY A PRECURSOR ROBOT-",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하지만 그건 불가능해! 오직 프리커서 로봇만이-",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:27",
   "src": "OH, DON'T LOOK SO UPSET, SAMOS.",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오, 그렇게 언짢은 표정 짓지 말아요, 사모스.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-023"
  },
  {
   "id": "cut:sage-village3-introduction:28",
   "src": "WE'VE GOT BIG PLANS FOR YOU.",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "당신을 위한 큰 계획이 있으니까.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-023"
  },
  {
   "id": "cut:sage-village3-introduction:29",
   "src": "AH HA HA HA HA HA HA! AHH...",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아하하하하하하! 아아...",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:30",
   "src": "WAIT A MINUTE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잠깐만!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:31",
   "src": "THAT WAS GOL?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저게 골이었어?",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:32",
   "src": "THE SAME GOL WHO'S SUPPOSED TO CHANGE ME BACK?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "날 원래대로 되돌려 줄 거라던 그 골?",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:33",
   "src": "GOL IS THE GUY TRYING TO KILL US?!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 골이 우릴 죽이려는 놈이라고?!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:34",
   "src": "I'M DOOMED.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "난 끝났어.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:35",
   "src": "WE MAY ALL BE DOOMED.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우리 모두 끝장일지도 모른다.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:36",
   "src": "IF THEY OPEN THE SILOS, THE DARK ECO WILL",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "놈들이 사일로를 열면, 다크 이코가",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:37",
   "src": "TWIST AND DESTROY EVERYTHING IT TOUCHES!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "닿는 모든 것을 비틀고 파괴할 게다!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:38",
   "src": "WE SIMPLY MUST GET TO THEIR CITADEL, TO STOP THEM!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어떻게든 놈들의 성채에 가서 막아야 한다!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: G-051"
  },
  {
   "id": "cut:sage-village3-introduction:39",
   "src": "THE FASTEST WAY THERE IS THROUGH THE LAVA TUBE",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "가장 빠른 길은 이 분화구 바닥에 있는",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:40",
   "src": "AT THE BOTTOM OF THIS CRATER.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "용암 터널을 지나는 거예요.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: G-052"
  },
  {
   "id": "cut:sage-village3-introduction:41",
   "src": "A FEW MORE POWER CELLS, AND YOUR ZOOMER'S HEAT SHIELD",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀 몇 개만 더 있으면 네 주머의 열 차단막으로",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:42",
   "src": "SHOULD GET YOU ACROSS THE LAVA SAFELY.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "용암을 안전하게 건널 수 있을 거야.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:43",
   "src": "ALL RIGHT, MY BOY. YOU KNOW WHAT TO DO.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋아, 얘야. 뭘 해야 할지 알겠지.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction:44",
   "src": "TAKE THE FLEABAG AND GO ROUND UP MORE POWER CELLS.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 벼룩 자루 데리고 가서 파워 셀을 더 모아 오너라.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: N-006"
  }
 ]

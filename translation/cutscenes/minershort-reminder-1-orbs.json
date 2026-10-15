@@ -3,32 +3,32 @@
   "id": "cut:minershort-reminder-1-orbs:0",
   "src": "DON'T FORGET OUR DEAL. BRING US 100 ORBS.",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "약속 잊지 마. 오브 100개 가져와.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
  },
  {
   "id": "cut:minershort-reminder-1-orbs:1",
   "src": "DUH... YOU SAID 90.",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어... 90개라고 했잖아.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021"
  },
  {
   "id": "cut:minershort-reminder-1-orbs:2",
   "src": "WILLARD!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "윌러드!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:minershort-reminder-1-orbs:3",
   "src": "FINE. 90 ORBS A POWER CELL.",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "알았어. 파워 셀 하나에 오브 90개.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
  }
 ]

@@ -11,6 +11,7 @@ from pathlib import Path
 
 FPS = 30
 MAX_CPS = 12  # Netflix Korean adult guideline, characters incl. spaces per second
+ENGLISH_CPS = 13.6  # median English speech rate of the source subtitles (chars/s at 30fps)
 
 
 def durations(meta, fps=FPS):
@@ -27,11 +28,19 @@ def durations(meta, fps=FPS):
 def flag(entries, secs, max_cps=MAX_CPS):
     flagged = []
     for e, s in zip(entries, secs):
-        if not e.get("ko") or not s:
+        if not e.get("ko"):
+            continue
+        estimated = s is None
+        if estimated:  # open-ended line: estimate speech time from the English source length
+            if not e.get("src"):
+                continue
+            s = len(e["src"]) / ENGLISH_CPS
+        if not s:
             continue
         cps = round(len(e["ko"]) / s, 1)
         if cps > max_cps:
-            flagged.append({"id": e["id"], "cps": cps, "secs": round(s, 2), "ko": e["ko"]})
+            flagged.append({"id": e["id"], "cps": cps, "secs": round(s, 2), "ko": e["ko"],
+                            "estimated": estimated})
     return flagged
 
 
@@ -39,10 +48,16 @@ def main():
     jak, ws_dir = Path(sys.argv[1]), Path(sys.argv[2])
     max_cps = float(sys.argv[3]) if len(sys.argv) > 3 else MAX_CPS
     meta = json.loads((jak / "game/assets/jak1/subtitle/subtitle_meta_en-US.json").read_text(encoding="utf-8"))
-    for p in sorted((ws_dir / "cutscenes").glob("*.json")):
-        entries = json.loads(p.read_text(encoding="utf-8"))
-        for f in flag(entries, durations(meta["cutscenes"][p.stem]), max_cps):
-            print(f"{f['id']}\t{f['cps']} cps\t{f['secs']}s\t{f['ko']}")
+    units = [(json.loads(p.read_text(encoding="utf-8")), meta["cutscenes"][p.stem])
+             for p in sorted((ws_dir / "cutscenes").glob("*.json"))]
+    hints = {}
+    for e in json.loads((ws_dir / "hints.json").read_text(encoding="utf-8")):
+        hints.setdefault(e["id"].split(":")[1], []).append(e)
+    units += [(entries, meta["hints"][name]["lines"]) for name, entries in hints.items()]
+    for entries, lines in units:
+        for f in flag(entries, durations(lines), max_cps):
+            est = " (est.)" if f["estimated"] else ""
+            print(f"{f['id']}\t{f['cps']} cps{est}\t{f['secs']}s\t{f['ko']}")
 
 
 if __name__ == "__main__":

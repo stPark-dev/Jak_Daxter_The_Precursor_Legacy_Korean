@@ -3,16 +3,16 @@
   "id": "cut:assistant-village3-reminder:0",
   "src": "HEY GUYS! KEEP COLLECTING POWER CELLS.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "얘들아! 파워 셀을 계속 모아 줘.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:assistant-village3-reminder:1",
   "src": "THEY'RE THE KEY TO CONTINUING OUR JOURNEY NORTH.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "북쪽으로 여행을 이어 갈 열쇠니까.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  }
 ]

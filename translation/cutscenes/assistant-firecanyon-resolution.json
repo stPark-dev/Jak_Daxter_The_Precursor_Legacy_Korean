@@ -3,112 +3,112 @@
   "id": "cut:assistant-firecanyon-resolution:0",
   "src": "GREAT! YOU HAVE THE 20 CELLS NEEDED TO POWER MY HEAT SHIELD!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋아! 열 차단막에 필요한 파워 셀 20개를 다 모았구나!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-firecanyon-resolution:1",
   "src": "NOW BE CAREFUL, THE SHIELD WILL ONLY PROTECT YOUR ZOOMER",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "자, 조심해. 차단막은 주머가",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-firecanyon-resolution:2",
   "src": "TILL IT REACHES 500 DEGREES, SO TRY TO KEEP HER COOL.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "500도에 이를 때까지만 지켜 주니까, 최대한 식혀 가면서 가.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-firecanyon-resolution:3",
   "src": "FLYING OVER OPEN LAVA WILL DEFINITELY HEAT YOU UP FAST.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "용암 위를 날면 확실히 금방 뜨거워질 거야.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-firecanyon-resolution:4",
   "src": "HIT 500 DEGREES, AND IT'S OVER.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "500도에 닿으면, 끝이야.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-firecanyon-resolution:5",
   "src": "OVER?! LIKE BURNING MOLTEN METAL OVER?!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "끝?! 녹아내린 금속처럼 활활 타 버린다는 그 끝?!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-firecanyon-resolution:6",
   "src": "THE FIRE CANYON GETS PRETTY HOT, SO KEEP A LOOK OUT FOR JUMPS",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "불의 협곡은 꽤 뜨거우니까, 점프대를 잘 찾아봐.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-firecanyon-resolution:7",
   "src": "TO KEEP YOU OFF THE HOT GROUND.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "뜨거운 땅을 피하게 해 줄 거야.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 읽기 속도 단축"
  },
  {
   "id": "cut:assistant-firecanyon-resolution:8",
   "src": "I'VE ALSO RELEASED SEVERAL BLUE COOLING BALLOONS YOU CAN USE TO DROP",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 냉각 풍선도 몇 개 띄워 놨어. 그걸 쓰면",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-firecanyon-resolution:9",
   "src": "THE SHIELD'S TEMPERATURE QUICKLY.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "차단막 온도를 금방 낮출 수 있어.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-firecanyon-resolution:10",
   "src": "OH! AND WHEN YOU GET ACROSS, DON'T FORGET TO ACTIVATE",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아! 그리고 건너가면 잊지 말고",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-firecanyon-resolution:11",
   "src": "THE TELEPORT GATE IN THE BLUE SAGE'S LAB.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 현자 연구실의 워프 게이트를 켜 줘.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-firecanyon-resolution:12",
   "src": "THEN WE'LL BE ABLE TO TELEPORT OVER AND MEET YOU!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그럼 우리도 순간이동해서 만나러 갈 수 있어!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:assistant-firecanyon-resolution:13",
   "src": "GOOD LUCK!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "행운을 빌어!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  }
 ]

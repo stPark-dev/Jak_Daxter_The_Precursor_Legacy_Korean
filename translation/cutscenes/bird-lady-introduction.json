@@ -4,8 +4,8 @@
   "src": "OH MY, WHAT A HORRIBLY SICK LITTLE BIRD.",
   "speaker": "BIRDWATCHER",
   "ko": "어머나, 몹시 아픈 작은 새로구나.",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
  },
  {
   "id": "cut:bird-lady-introduction:1",
@@ -20,87 +20,87 @@
   "src": "OH, SORRY. I THOUGHT YOU WERE A SPOTTED",
   "speaker": "BIRDWATCHER",
   "ko": "어머, 미안하구나. 난 네가 점박이",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
  },
  {
   "id": "cut:bird-lady-introduction:3",
   "src": "ORANGE-BELLIED RAIN FRAY.",
   "speaker": "BIRDWATCHER",
   "ko": "주황배 레인프레이인 줄 알았구나.",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010; 2차 검수 반영"
  },
  {
   "id": "cut:bird-lady-introduction:4",
   "src": "YOU KNOW, YESTERDAY I SAW SOME",
   "speaker": "BIRDWATCHER",
   "ko": "있잖니, 어제 내가 봤는데",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
  },
  {
   "id": "cut:bird-lady-introduction:5",
   "src": "TERRIBLY VICIOUS CREATURES CAPTURE",
   "speaker": "BIRDWATCHER",
   "ko": "아주 사나운 짐승들이",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
  },
  {
   "id": "cut:bird-lady-introduction:6",
   "src": "A MOTHER FLUT-FLUT NEAR THE BEACH.",
   "speaker": "BIRDWATCHER",
   "ko": "해변 근처에서 어미 플럿플럿을 잡아갔단다.",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010, G-014"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010, G-014"
  },
  {
   "id": "cut:bird-lady-introduction:7",
   "src": "NOW THERE'S THIS POOR LITTLE ORPHAN EGG",
   "speaker": "BIRDWATCHER",
   "ko": "그래서 가엾은 고아 알 하나가",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
  },
  {
   "id": "cut:bird-lady-introduction:8",
   "src": "SITTING IN A NEST AT THE TOP OF THE CLIFF",
   "speaker": "BIRDWATCHER",
   "ko": "절벽 꼭대기 둥지에 남아 있는데",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
  },
  {
   "id": "cut:bird-lady-introduction:9",
   "src": "AND I CAN'T GET TO IT.",
   "speaker": "BIRDWATCHER",
   "ko": "내가 거기까지 갈 수가 없구나.",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
  },
  {
   "id": "cut:bird-lady-introduction:10",
   "src": "IF YOU COULD CLIMB UP THERE AND PUSH IT OFF, I'VE PILED",
   "speaker": "BIRDWATCHER",
   "ko": "네가 올라가서 알을 밀어 떨어뜨려 주면, 내가",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
  },
  {
   "id": "cut:bird-lady-introduction:11",
   "src": "SOME HAY DOWN AT THE BASE TO CATCH IT SAFELY.",
   "speaker": "BIRDWATCHER",
   "ko": "아래에 건초를 쌓아 뒀으니 안전하게 받을 수 있어.",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
  },
  {
   "id": "cut:bird-lady-introduction:12",
   "src": "DO AN OLD LADY A FAVOR, AND I'LL GIVE YOU A POWER CELL.",
   "speaker": "BIRDWATCHER",
   "ko": "늙은이 부탁 좀 들어주렴. 그럼 파워 셀을 주마.",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
  }
 ]

@@ -3,40 +3,40 @@
   "id": "cut:sage-village3-introduction-rams:0",
   "src": "I'M GLAD YOU TWO ARE HERE. THERE'S LURKER MOVEMENT IN THE MOUNTAINS.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "마침 잘 왔다. 산에서 러커들이 움직이고 있다.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction-rams:1",
   "src": "APPARENTLY THEY'VE DISCOVERED, AND ARE NOW TRYING TO REMOVE,",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "놈들이 빙하 속에 얼어붙은 다크 이코 저장고를",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction-rams:2",
   "src": "SOME DARK ECO STORES FROZEN IN THE GLACIERS.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "찾아내서 지금 빼내려는 모양이다.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction-rams:3",
   "src": "WHILE YOU'RE UP THERE POKING AROUND FOR POWER CELLS",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "거기서 파워 셀을 찾아 돌아다니는 김에",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:sage-village3-introduction-rams:4",
   "src": "STOP THOSE LURKERS, AND KEEP A LITTLE MORE DARK ECO OUT OF GOL'S HANDS.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "러커들을 막아서 골 손에 다크 이코가 더 들어가지 않게 해라.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  }
 ]

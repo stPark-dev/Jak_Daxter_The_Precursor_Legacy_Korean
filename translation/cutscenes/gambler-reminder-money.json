@@ -3,16 +3,16 @@
   "id": "cut:gambler-reminder-money:0",
   "src": "HEY. DON'T FORGET ABOUT THOSE ORBS I NEED.",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어이. 내가 필요한 오브 잊지 마.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
  },
  {
   "id": "cut:gambler-reminder-money:1",
   "src": "90'LL GET YOU ONE. ONE POWER CELL, THAT IS!",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "90개면 하나야. 파워 셀 하나 말이야!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
  }
 ]

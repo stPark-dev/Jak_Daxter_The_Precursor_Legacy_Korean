@@ -3,16 +3,16 @@
   "id": "cut:oracle-reminder-1:0",
   "src": "BRING TO ME 120 PRECURSOR ORBS",
   "speaker": "ORACLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "프리커서 오브 120개를 가져오라.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-018"
  },
  {
   "id": "cut:oracle-reminder-1:1",
   "src": "AND I WILL AWARD YOU A POWER CELL.",
   "speaker": "ORACLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그러면 파워 셀을 주겠다.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-018"
  }
 ]

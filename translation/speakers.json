@@ -9,16 +9,16 @@
  {
   "id": "speaker:BILLY",
   "src": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "빌리",
+  "state": "needs_review",
+  "note": "확정: S-015"
  },
  {
   "id": "speaker:BIRDWATCHER",
   "src": "BIRDWATCHER",
-  "ko": "새 관찰가",
-  "state": "needs_human_review",
-  "note": "hold: S-008 (표시명 후보, 화자 ID 유지)"
+  "ko": "탐조가",
+  "state": "needs_review",
+  "note": "확정: S-008 (표시명만, 화자 ID 유지)"
  },
  {
   "id": "speaker:BLUE SAGE",
@@ -38,50 +38,50 @@
   "id": "speaker:FARMER",
   "src": "FARMER",
   "ko": "농부",
-  "state": "needs_human_review",
-  "note": "hold: S-007 (표시명 후보, 화자 ID 유지)"
+  "state": "needs_review",
+  "note": "확정: S-007 (표시명만, 화자 ID 유지)"
  },
  {
   "id": "speaker:FISHERMAN",
   "src": "FISHERMAN",
   "ko": "어부",
-  "state": "needs_human_review",
-  "note": "hold: S-006 (표시명 후보, 화자 ID 유지)"
+  "state": "needs_review",
+  "note": "확정: S-006 (표시명만, 화자 ID 유지)"
  },
  {
   "id": "speaker:FLUT-FLUT",
   "src": "FLUT-FLUT",
   "ko": "플럿플럿",
-  "state": "needs_human_review",
-  "note": "hold: G-014 (표시명 후보, 화자 ID 유지)"
+  "state": "needs_review",
+  "note": "확정: G-014 (표시명만, 화자 ID 유지)"
  },
  {
   "id": "speaker:GAMBLER",
   "src": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "도박꾼",
+  "state": "needs_review",
+  "note": "확정: S-013"
  },
  {
   "id": "speaker:GEOLOGIST",
   "src": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "지질학자",
+  "state": "needs_review",
+  "note": "확정: S-014"
  },
  {
   "id": "speaker:GOL",
   "src": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "골",
+  "state": "needs_review",
+  "note": "G-005 확정 (골)"
  },
  {
   "id": "speaker:GORDY",
   "src": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "고디",
+  "state": "needs_human_review",
+  "note": "hold: S-016"
  },
  {
   "id": "speaker:JAK",
@@ -94,8 +94,8 @@
   "id": "speaker:JAK'S UNCLE",
   "src": "JAK'S UNCLE",
   "ko": "잭의 삼촌",
-  "state": "needs_human_review",
-  "note": "hold: S-010 (표시명 후보, 화자 ID 유지)"
+  "state": "needs_review",
+  "note": "확정: S-010 (표시명만, 화자 ID 유지)"
  },
  {
   "id": "speaker:KEIRA",
@@ -107,23 +107,23 @@
  {
   "id": "speaker:MAIA",
   "src": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "마이아",
+  "state": "needs_human_review",
+  "note": "hold: G-005a"
  },
  {
   "id": "speaker:MAYOR",
   "src": "MAYOR",
   "ko": "시장",
-  "state": "needs_human_review",
-  "note": "hold: S-005 (표시명 후보, 화자 ID 유지)"
+  "state": "needs_review",
+  "note": "확정: S-005 (표시명만, 화자 ID 유지)"
  },
  {
   "id": "speaker:MINER",
   "src": "MINER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "광부",
+  "state": "needs_human_review",
+  "note": "hold: S-018"
  },
  {
   "id": "speaker:OLD MAN",
@@ -135,9 +135,9 @@
  {
   "id": "speaker:ORACLE",
   "src": "ORACLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오라클",
+  "state": "needs_review",
+  "note": "확정: S-011"
  },
  {
   "id": "speaker:RED SAGE",
@@ -157,22 +157,22 @@
   "id": "speaker:SCULPTOR",
   "src": "SCULPTOR",
   "ko": "조각가",
-  "state": "needs_human_review",
-  "note": "hold: S-009 (표시명 후보, 화자 ID 유지)"
+  "state": "needs_review",
+  "note": "확정: S-009 (표시명만, 화자 ID 유지)"
  },
  {
   "id": "speaker:WARRIOR",
   "src": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "전사",
+  "state": "needs_review",
+  "note": "확정: S-012"
  },
  {
   "id": "speaker:WILLARD",
   "src": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "윌러드",
+  "state": "needs_human_review",
+  "note": "hold: S-017"
  },
  {
   "id": "speaker:WOMAN",

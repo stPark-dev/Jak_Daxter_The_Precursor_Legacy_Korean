@@ -4,15 +4,15 @@
   "src": "AH, WELL DONE MY BOY. YOU ACTUALLY GOT THOSE FLEABAGS BACK INTO THE PEN.",
   "speaker": "FARMER",
   "ko": "아, 잘했네, 젊은이. 그 벼룩투성이들을 진짜로 우리에 넣었구먼.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-008"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-008"
  },
  {
   "id": "cut:farmer-resolution:1",
   "src": "NOW I CAN SLEEP IN PEACE. TAKE THIS POWER CELL FOR YOUR TROUBLE.",
   "speaker": "FARMER",
   "ko": "이제 맘 편히 잘 수 있겠어. 수고했으니 이 파워 셀을 받게.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-008"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-008"
  }
 ]

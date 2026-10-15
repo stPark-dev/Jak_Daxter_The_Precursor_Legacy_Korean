@@ -3,144 +3,144 @@
   "id": "cut:geologist-introduction:0",
   "src": "YOU TWO LOOK LIKE A COUPLE OF CAPABLE FELLOWS.",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "두 분, 꽤 유능해 보이네요.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: S-014, V-017"
  },
  {
   "id": "cut:geologist-introduction:1",
   "src": "I'VE GOT A RESEARCH PROJECT GOING,",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "연구를 하나 진행 중인데,",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017; 읽기 속도 단축"
  },
  {
   "id": "cut:geologist-introduction:2",
   "src": "AND MAYBE YOU COULD HELP ME OUT.",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좀 도와주실 수 있을까 해서요.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017; 읽기 속도 단축"
  },
  {
   "id": "cut:geologist-introduction:3",
   "src": "HEY, WE'RE THE ONES ON A BIG QUEST HERE.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이봐, 큰 임무를 맡은 건 우리라고.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:geologist-introduction:4",
   "src": "WE ASK YOU FOR HELP.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "도움을 청할 건 우리지.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:geologist-introduction:5",
   "src": "WELL, PERHAPS WE CAN HELP EACH OTHER.",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "음, 그럼 서로 도우면 되겠네요.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
  },
  {
   "id": "cut:geologist-introduction:6",
   "src": "I'VE BEEN STUDYING THE BURROWING HABITS OF LIGHTNING MOLES",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저는 몇 년째 우리 마을 옆 프리커서 분지에서",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017, G-036"
  },
  {
   "id": "cut:geologist-introduction:7",
   "src": "IN THE PRECURSOR BASIN NEXT TO OUR VILLAGE FOR YEARS.",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "번개 두더지의 굴 파는 습성을 연구해 왔어요.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017, G-039"
  },
  {
   "id": "cut:geologist-introduction:8",
   "src": "BUT NOW THOSE AWFUL LURKERS HAVE SCARED THE MOLES TO THE SURFACE!",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그런데 그 지독한 러커들이 두더지들을 지상으로 쫓아냈지 뭐예요!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
  },
  {
   "id": "cut:geologist-introduction:9",
   "src": "AND SINCE THEY'RE BLIND AS BATS, THEY CAN'T FIND THEIR WAY BACK UNDERGROUND.",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "두더지들은 눈이 어두워서 땅속으로 돌아가는 길을 못 찾아요.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
  },
  {
   "id": "cut:geologist-introduction:10",
   "src": "IF YOU COULD HERD THEM BACK INTO THEIR BURROWING TUNNELS,",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "굴 속으로 다시 몰아넣어 주시면,",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
  },
  {
   "id": "cut:geologist-introduction:11",
   "src": "YOU MIGHT JUST SAVE THEIR LIVES.",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "두더지들 목숨을 구할 수 있을 거예요.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
  },
  {
   "id": "cut:geologist-introduction:12",
   "src": "I'VE GOT A POWER CELL THAT SAYS YOU CAN DO IT.",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "해낼 수 있다는 데 파워 셀 하나 걸게요.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
  },
  {
   "id": "cut:geologist-introduction:13",
   "src": "YEAH, LIGHTNING MOLES... WE CARE.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래, 번개 두더지라... 퍽이나 관심 가네.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-039"
  },
  {
   "id": "cut:geologist-introduction:14",
   "src": "MAYBE FOR TWO POWER CELLS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀 두 개면 또 모르지!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:geologist-introduction:15",
   "src": "NICE TRY. BUT I WOULD BE WILLING TO PART WITH ANOTHER POWER CELL",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어림없죠. 하지만 파워 셀을 하나 더 내드릴 수는 있어요",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
  },
  {
   "id": "cut:geologist-introduction:16",
   "src": "IF YOU TWO FIND ME 90 PRECURSOR ORBS FOR MY RESEARCH EQUIPMENT.",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "제 연구 장비에 쓸 프리커서 오브 90개를 찾아 주신다면요.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
  },
  {
   "id": "cut:geologist-introduction:17",
   "src": "FAIR ENOUGH?",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어때요, 공평하죠?",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
  }
 ]

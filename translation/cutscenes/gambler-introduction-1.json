@@ -3,104 +3,104 @@
   "id": "cut:gambler-introduction-1:0",
   "src": "AW, NO. NOT ANOTHER \"HERO\".",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아, 안 돼. 또 \"영웅\"이야?",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: S-013, V-016"
  },
  {
   "id": "cut:gambler-introduction-1:1",
   "src": "I LOST MY SHORTS ON THIS SO-CALLED HERO'S BIG FIGHT",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 잘난 영웅이 저 위 괴물이랑 붙는 큰 싸움에",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
  },
  {
   "id": "cut:gambler-introduction-1:2",
   "src": "AGAINST THE MONSTER UP THERE.",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "속옷까지 걸었다가 다 날렸다고.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
  },
  {
   "id": "cut:gambler-introduction-1:3",
   "src": "TRUST ME, THE SMART MONEY'S ON THE MONSTER.",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내 말 믿어, 뭘 좀 아는 놈들은 다 괴물한테 걸어.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016; 2차 검수 반영"
  },
  {
   "id": "cut:gambler-introduction-1:4",
   "src": "THAT WAGER PRETTY MUCH TAPPED ME OUT!",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 내기로 완전히 털렸지!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
  },
  {
   "id": "cut:gambler-introduction-1:5",
   "src": "SO'S, I GOT A PROPOSAL.",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래서 말인데, 제안이 하나 있어.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
  },
  {
   "id": "cut:gambler-introduction-1:6",
   "src": "BRING ME 90 ORBS TO GET ME BACK ON MY FEET AND OUT OF THIS BARREL,",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오브 90개만 가져다주면 다시 일어서서 이 통에서 나갈 수 있으니까,",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
  },
  {
   "id": "cut:gambler-introduction-1:7",
   "src": "AND I'LL GIVE YOU A POWER CELL IN RETURN.",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 대가로 파워 셀을 하나 줄게.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
  },
  {
   "id": "cut:gambler-introduction-1:8",
   "src": "AND IF YOU'RE GAME, I DO HAVE ONE MORE BET ONLINE.",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그리고 할 생각 있으면, 걸어 둔 판이 하나 더 있어.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
  },
  {
   "id": "cut:gambler-introduction-1:9",
   "src": "MY BIG COMEBACK!",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내 화려한 재기전이지!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
  },
  {
   "id": "cut:gambler-introduction-1:10",
   "src": "BEAT THE RECORD TIME RACING DEAD MAN'S GORGE IN THE PRECURSOR BASIN,",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "프리커서 분지 죽은 자의 협곡 기록을 깨면,",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016, G-036, G-040; G-035/G-040 확정 표기 반영"
  },
  {
   "id": "cut:gambler-introduction-1:11",
   "src": "AND I'LL GET A PRETTY PAYOFF!",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "짭짤하게 한몫 챙길 수 있거든!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
  },
  {
   "id": "cut:gambler-introduction-1:12",
   "src": "FOR THAT, I'LL GIVE YOU ANOTHER POWER CELL.",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 대가로 파워 셀을 하나 더 줄게.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
  }
 ]

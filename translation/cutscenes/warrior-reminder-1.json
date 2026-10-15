@@ -3,16 +3,16 @@
   "id": "cut:warrior-reminder-1:0",
   "src": "TAKE ALL THE TIME YOU WANT BRINGING ME THE PRECURSOR ORBS",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "프리커서 오브는 천천히 가져와도 돼.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-reminder-1:1",
   "src": "I'M NOT LOOKING TO FIX THE PONTOON BRIDGE ANY TIME SOON.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "부교를 당장 고칠 생각은 없으니까.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015; 2차 검수 반영"
  }
 ]

@@ -3,16 +3,16 @@
   "id": "cut:billy-reject:0",
   "src": "WELL, IF YOU CHANGE YOUR MIND, YOU KNOW WHERE TO FIND ME!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "뭐, 마음 바뀌면 어디서 날 찾을지 알지!",
+  "state": "needs_review",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
  },
  {
   "id": "cut:billy-reject:1",
   "src": "HE HE HE HE HEH...",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "헤헤헤헤헤...",
+  "state": "needs_review",
+  "note": "초벌 b05 진창 늪(빌리)"
  }
 ]

@@ -4,15 +4,15 @@
   "src": "BACK ALREADY? AND WITHOUT FIXING THE ECO BEAMS?",
   "speaker": "MAYOR",
   "ko": "벌써 돌아왔나? 이코 빔도 안 고치고?",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-025, V-007"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-025, V-007"
  },
  {
   "id": "cut:mayor-reminder-beams:1",
   "src": "(SOBS) YOUR VILLAGE NEEDS YOU, BOYS!",
   "speaker": "MAYOR",
   "ko": "(흐느끼며) 마을이 자네들을 필요로 하네!",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
  }
 ]

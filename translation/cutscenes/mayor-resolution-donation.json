@@ -4,23 +4,23 @@
   "src": "SO EH, YOU UH, WANNA MAKE A CONTRIBUTION? GOOD... A-A-A SIZABLE ONE I HOPE.",
   "speaker": "MAYOR",
   "ko": "그래 어, 자네, 어, 기부하겠다고? 좋아... 두, 두둑하게 했으면 좋겠군.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007; 2차 검수 반영"
  },
  {
   "id": "cut:mayor-resolution-donation:1",
   "src": "YOOH! EH HE HE, IT'S A, OH, THIS IS A SIZABLE CONTRIBUTION!",
   "speaker": "MAYOR",
   "ko": "우오! 에헤헤, 이건, 오, 정말 두둑한 기부로군!",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
  },
  {
   "id": "cut:mayor-resolution-donation:2",
   "src": "I, WH-WH-WH-WHY I JUST HOPE THIS POWER CELL ADEQUATELY REPRESENTS MY GRATITUDE.",
   "speaker": "MAYOR",
   "ko": "나, 나, 나, 나는 그저 이 파워 셀로 내 감사가 충분히 전해지길 바라네.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-007; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007; 2차 검수 반영"
  }
 ]

@@ -4,15 +4,15 @@
   "src": "I'VE DEFINITELY FIGURED OUT HOW TO USE THE TRANS-PADS.",
   "speaker": "KEIRA",
   "ko": "트랜스 패드 쓰는 법을 확실히 알아냈어.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-022, V-005"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-022, V-005"
  },
  {
   "id": "cut:assistant-reminder-1-race-bike:1",
   "src": "NOW GO TO MISTY ISLAND AND I'LL SEND THE ZOOMER OVER TO YOU.",
   "speaker": "KEIRA",
   "ko": "이제 미스티 섬으로 가. 주머를 그리로 보내 줄게.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: V-005"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-005"
  }
 ]

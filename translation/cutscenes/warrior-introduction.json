@@ -3,224 +3,224 @@
   "id": "cut:warrior-introduction:0",
   "src": "OHH... MY ACHING HEAD.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "으으... 머리야.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: S-012, V-015"
  },
  {
   "id": "cut:warrior-introduction:1",
   "src": "I DOUBT THAT'S ONE OF YOUR VITAL ORGANS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "머리가 중요한 장기는 아닐 텐데!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영"
  },
  {
   "id": "cut:warrior-introduction:2",
   "src": "WALK IT OFF, TOUGH GUY!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "툭툭 털고 일어나, 터프가이!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:warrior-introduction:3",
   "src": "OH, SURE, I WAS TOUGH ONCE.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아, 그래, 나도 한때는 터프했지.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:4",
   "src": "MAYBE EVEN THE TOUGHEST OF THEM ALL.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어쩌면 그 누구보다도 터프했을지 몰라.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:5",
   "src": "I SINGLE-HANDEDLY DEFENDED THIS VILLAGE FROM THOSE HORRID CREATURES FOR ALMOST A YEAR!",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "거의 1년 동안 혼자서 그 끔찍한 놈들로부터 이 마을을 지켜 냈다고!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:6",
   "src": "THEN THAT HORRIBLE MONSTER ARRIVED AND COMMENCED THE BOULDER BOMBARDMENT.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그런데 그 무시무시한 괴물이 나타나 바위를 퍼붓기 시작했지.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:7",
   "src": "SO, FULL OF VALOR, ARMOR SHINING IN THE SUN...",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래서 용맹하게, 햇빛에 갑옷을 번쩍이며...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:8",
   "src": "I CLIMBED THE HILL TO TAKE HIM ON...!",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "놈을 상대하러 언덕을 올랐어...!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:9",
   "src": "BUT HE POUNDED ME LIKE ONE TENDERIZES A YAKOW STEAK.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그런데 놈이 날 야카우 스테이크 다지듯 두들겨 팼지.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:10",
   "src": "HAVE YOU TRIED ATTACKING HIM WITH YOUR MELODRAMA?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 신파극으로 공격해 보지 그랬어?",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:warrior-introduction:11",
   "src": "'CAUSE IT'S KILLIN' ME!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "나는 아주 죽을 것 같거든!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:warrior-introduction:12",
   "src": "AFTER MY LAST STUNNING FAILURE,",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 눈부신 실패 이후로,",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:13",
   "src": "HE SEALED THE PASSAGEWAY TO HIS ROOST WITH A 30-TON BOULDER,",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "놈은 30톤짜리 바위로 자기 둥지로 가는 길을 막아 버렸어,",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:14",
   "src": "LEAVING NO WAY FOR ANYONE TO CHALLENGE HIM AGAIN.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아무도 다시는 도전할 수 없게 말이야.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:15",
   "src": "SO, OUR SAGE, A MASTER OF BLUE ECO AND A MECHANICAL GENIUS, DEVISED A MACHINE",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래서 블루 이코의 대가이자 기계 천재인 우리 현자님이",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:16",
   "src": "CAPABLE OF LIFTING THE BOULDER OUT OF THE WAY...!",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 바위를 치울 수 있는 장치를 고안해 냈지...!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:17",
   "src": "BUT ALAS, HE DISAPPEARED BEFORE WE HAD A CHANCE TO TURN IT ON.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하지만 아아, 장치를 켜 보기도 전에 사라져 버렸어.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:18",
   "src": "AND HE TOOK ALL OF HIS POWER CELLS WITH HIM.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀도 전부 가지고 말이야.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:19",
   "src": "AT LEAST I WAS ABLE TO PULL ENOUGH PONTOONS OUT OF OUR BRIDGE TO PREVENT",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그나마 다리에서 부교를 넉넉히 빼 둬서",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:20",
   "src": "THAT MONSTER FROM COMING DOWN HERE TO DO ME HARM.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 괴물이 여기 내려와 날 해치지는 못하게 했지.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:21",
   "src": "YEAH, GOOD, GOOD JOB, TOUGH GUY. BUT, UM...",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래, 잘했어, 잘했다고, 터프가이. 근데, 음...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:warrior-introduction:22",
   "src": "WE'RE GONNA NEED YOU TO, UH... PUT 'EM BACK, AND STUFF.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그거, 어... 다시 끼워 놔야겠는데, 뭐 그런 거.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:warrior-introduction:23",
   "src": "OH, SURE! AND SEAL MY DOOM?",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오, 퍽이나! 그래서 내 무덤을 파라고?",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015; 2차 검수 반영"
  },
  {
   "id": "cut:warrior-introduction:24",
   "src": "(SIGHS)",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "(한숨)",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:warrior-introduction:25",
   "src": "ALRIGHT. FINE.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "알았어. 좋아.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:26",
   "src": "BRING ME 90 PRECURSOR ORBS AND I'LL LET THE PONTOONS LOOSE.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "프리커서 오브 90개를 가져오면 부교를 풀어 주지.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-introduction:27",
   "src": "BUT I'M NOT GOING TO FIGHT THAT MONSTER AGAIN!",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하지만 그 괴물이랑 다시 싸우진 않을 거야!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  }
 ]

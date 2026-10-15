@@ -3,48 +3,48 @@
   "id": "cut:oracle-intro-1:0",
   "src": "WHO AWAKENS THE ORACLE?",
   "speaker": "ORACLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "누가 오라클을 깨우는가?",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: S-011, V-018"
  },
  {
   "id": "cut:oracle-intro-1:1",
   "src": "WAIT, ONE OF YOU HAS THE LIGHT WITHIN.",
   "speaker": "ORACLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "기다려라. 너희 중 하나가 빛을 품고 있구나.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-018; 2차 검수 반영"
  },
  {
   "id": "cut:oracle-intro-1:2",
   "src": "FROM BEFORE TIME, I HAVE WATCHED AND WAITED",
   "speaker": "ORACLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "태초 이전부터 나는 지켜보며 기다렸다.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-018"
  },
  {
   "id": "cut:oracle-intro-1:3",
   "src": "FOR THE TRUE HERO TO RETURN.",
   "speaker": "ORACLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "진정한 영웅이 돌아오기를.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-018"
  },
  {
   "id": "cut:oracle-intro-1:4",
   "src": "PRESENT TO ME 120 PRECURSOR ORBS",
   "speaker": "ORACLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "프리커서 오브 120개를 바쳐라.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-018"
  },
  {
   "id": "cut:oracle-intro-1:5",
   "src": "FOR EACH POWER CELL I CONTAIN.",
   "speaker": "ORACLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내가 품은 파워 셀 하나마다.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-018"
  }
 ]

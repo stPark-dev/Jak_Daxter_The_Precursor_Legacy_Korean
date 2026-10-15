@@ -12,8 +12,8 @@
   "src": "FIND THE FISHERMAN IN THE JUNGLE, GET PERMISSION TO USE HIS BOAT",
   "speaker": "SAMOS",
   "ko": "정글에 있는 어부를 찾아가 배를 써도 된다는 허락을 받고",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: S-006"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: S-006"
  },
  {
   "id": "cut:sage-reminder-1-misty-cannon:2",

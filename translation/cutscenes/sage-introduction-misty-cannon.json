@@ -20,24 +20,24 @@
   "src": "THERE APPEARS TO BE QUITE A BIT OF LURKER ACTIVITY ON MISTY ISLAND.",
   "speaker": "SAMOS",
   "ko": "미스티 섬에서 러커들 움직임이 심상치 않다.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-012"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-012"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:3",
   "src": "I CAN SEE THEM BOMBARDING THE PRECURSOR SILO FROM MY LOOKOUT TOWER.",
   "speaker": "SAMOS",
   "ko": "내 망루에서 보니 놈들이 프리커서 사일로에 포격을 퍼붓고 있더구나.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-020"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-020"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:4",
   "src": "IF THE LURKERS OPEN IT UP AND RELEASE THE DARK ECO, WE COULD ALL END UP",
   "speaker": "SAMOS",
   "ko": "러커들이 그걸 열어 다크 이코를 풀어놓으면, 우리 모두",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-012"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-012"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:5",
@@ -60,16 +60,16 @@
   "src": "GET THE FISHERMAN TO LET YOU TAKE HIS BOAT BACK TO MISTY ISLAND",
   "speaker": "SAMOS",
   "ko": "어부를 설득해 배를 빌려서 미스티 섬으로 돌아가",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: S-006"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: S-006"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:8",
   "src": "GET TO THE TOP OF THE PRECURSOR SILO AND TAKE OUT THAT CANNON.",
   "speaker": "SAMOS",
   "ko": "프리커서 사일로 꼭대기에 올라가 그 대포를 박살 내거라.",
-  "state": "needs_human_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); hold: G-020"
+  "state": "needs_review",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-020"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:9",

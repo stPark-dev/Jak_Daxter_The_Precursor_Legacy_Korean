@@ -4,15 +4,15 @@
   "src": "OH, HELLO AGAIN. DID YOU BOYS FIND THAT BLUE EGG ON THE CLIFF?",
   "speaker": "BIRDWATCHER",
   "ko": "어머, 또 왔구나. 절벽 위 파란 알은 찾았니?",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
  },
  {
   "id": "cut:bird-lady-reminder-1:1",
   "src": "PUSH IT OFF THE EDGE AND I'LL GIVE YOU A POWER CELL!",
   "speaker": "BIRDWATCHER",
   "ko": "절벽 아래로 밀어 주면 파워 셀을 주마!",
-  "state": "needs_human_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); hold: V-010; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010; 2차 검수 반영"
  }
 ]

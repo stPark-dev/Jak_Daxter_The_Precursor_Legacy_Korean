@@ -3,16 +3,16 @@
   "id": "cut:oracle-reminder-2:0",
   "src": "PRESENT 120 PRECURSOR ORBS",
   "speaker": "ORACLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "프리커서 오브 120개를 바쳐라.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-018"
  },
  {
   "id": "cut:oracle-reminder-2:1",
   "src": "AND A POWER CELL WILL BE YOUR REWARD.",
   "speaker": "ORACLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그러면 파워 셀을 보상으로 받을 것이다.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-018"
  }
 ]

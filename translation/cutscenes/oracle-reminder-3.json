@@ -3,16 +3,16 @@
   "id": "cut:oracle-reminder-3:0",
   "src": "YOU MUST BRING 120 PRECURSOR ORBS",
   "speaker": "ORACLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "프리커서 오브 120개를 가져와야 한다",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
  {
   "id": "cut:oracle-reminder-3:1",
   "src": "TO ME FOR EACH POWER CELL I CONTAIN.",
   "speaker": "ORACLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내가 품은 파워 셀 하나마다.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  }
 ]

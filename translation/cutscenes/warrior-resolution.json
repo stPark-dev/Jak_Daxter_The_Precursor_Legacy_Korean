@@ -3,48 +3,48 @@
   "id": "cut:warrior-resolution:0",
   "src": "OH.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
  },
  {
   "id": "cut:warrior-resolution:1",
   "src": "WONDERFUL.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "훌륭하군.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-resolution:2",
   "src": "YA BROUGHT ME THE PRECURSOR ORBS.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "프리커서 오브를 가져왔구나.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-resolution:3",
   "src": "ALL RIGHT.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "알았어.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-resolution:4",
   "src": "I'LL FIX THE BRIDGE.",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "다리를 고쳐 주지.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  },
  {
   "id": "cut:warrior-resolution:5",
   "src": "BUT DON'T ASK ME TO GET INVOLVED WITH THAT CREATURE AGAIN!",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하지만 그 괴물 일에 다시 끌어들이진 마!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-015"
  }
 ]

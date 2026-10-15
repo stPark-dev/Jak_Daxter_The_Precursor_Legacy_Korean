@@ -3,56 +3,56 @@
   "id": "cut:minershort-introduction-switch:0",
   "src": "PSST, GUYS. DUH...",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "쉿, 얘들아. 어...",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021"
  },
  {
   "id": "cut:minershort-introduction-switch:1",
   "src": "BIRDIE AND I WAS EXPLORING A CAVE YOU'D LIKE!",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "버디랑 내가 너희가 좋아할 만한 동굴을 탐험했거든!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021, G-057"
  },
  {
   "id": "cut:minershort-introduction-switch:2",
   "src": "IT WAS FILLED WITH PRETTY ORANGE METAL,",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "예쁜 주황색 금속이 가득했고,",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021"
  },
  {
   "id": "cut:minershort-introduction-switch:3",
   "src": "AND HIDDEN REAL GOOD BEHIND SOME TREES IN THE SNOWY MOUNTAINS!",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "설산 나무들 뒤에 아주 꽁꽁 숨겨져 있었어!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021, G-053"
  },
  {
   "id": "cut:minershort-introduction-switch:4",
   "src": "I TOLD GORDY, BUT HE JUST YELLED AT ME FOR NOT DIGGING!",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "고디한테 말했는데, 땅 안 판다고 소리만 지르더라!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021"
  },
  {
   "id": "cut:minershort-introduction-switch:5",
   "src": "WHY AREN'T YOU DIGGING?!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "왜 안 파고 있어?!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
  },
  {
   "id": "cut:minershort-introduction-switch:6",
   "src": "I'M SORRY!",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "미안해!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  }
 ]

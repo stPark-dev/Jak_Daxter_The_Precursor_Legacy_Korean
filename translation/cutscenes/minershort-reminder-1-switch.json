@@ -3,24 +3,24 @@
   "id": "cut:minershort-reminder-1-switch:0",
   "src": "DID YOU FIND THE CAVE BEHIND THEM TREES IN THE SNOWY MOUNTAINS?",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "설산 그 나무들 뒤에 있는 동굴 찾았어?",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021, G-053"
  },
  {
   "id": "cut:minershort-reminder-1-switch:1",
   "src": "I'M GONNA GO THERE SOON, TO HIDE FROM GORDY, 'CAUSE HE'S YELLING AT ME AGAIN!",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "고디가 또 소리 질러서 곧 거기 숨으러 갈 거야!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021"
  },
  {
   "id": "cut:minershort-reminder-1-switch:2",
   "src": "WILLARD!!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "윌러드!!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을)"
  }
 ]

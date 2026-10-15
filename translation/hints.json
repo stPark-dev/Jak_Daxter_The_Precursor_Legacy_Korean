@@ -3,65 +3,65 @@
   "id": "hint:ASSTLP01:0",
   "src": "HMM...",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "흠...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:ASSTLP02:0",
   "src": "GOTTA GET THIS HEAT SHIELD WORKING...",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 열 차단막을 작동시켜야 하는데...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:ASSTLP03:0",
   "src": "WE NEED POWER CELLS TO FUEL THE HEAT SHIELD...",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "열 차단막에 넣을 파워 셀이 필요해...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:ASSTLP04:0",
   "src": "WHERE'S MY SPANNER?",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내 스패너 어디 갔지?",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:ASSTLP05:0",
   "src": "FIRE CANYON IS SO HOT...",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "불의 협곡은 너무 뜨거워...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:ASSTLP23:0",
   "src": "NOW, HOW DID HE GET THAT LEVITATOR TO WORK?",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그분은 저 부양 장치를 어떻게 작동시킨 거지?",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:ASSTLP24:0",
   "src": "NOW, EVEN WITH POWER CELLS,",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "근데, 파워 셀이 있다 해도,",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:ASSTLP24:1",
   "src": "WILL WE HAVE ENOUGH POWER?",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "전력이 충분할까?",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:ASSTLP30:0",
@@ -75,241 +75,241 @@
   "id": "hint:ASSTLP31:0",
   "src": "HM.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "흠.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:ASSTLP32:0",
   "src": "OH, MY...",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어머나...",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:ASSTLP33:0",
   "src": "AH-HA!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아하!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:ASSTLP34:0",
   "src": "HUH... WHAT ARE GOL AND MAIA UP TO?",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "음... 골이랑 마이아는 대체 무슨 짓을 꾸미는 거지?",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: G-005a"
  },
  {
   "id": "hint:ASSTLP35:0",
   "src": "HMM... WE'VE GOTTA GET TO PRECURSOR CITY.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "흠... 프리커서 도시까지 가야 해.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: G-059"
  },
  {
   "id": "hint:ASSTLP36:0",
   "src": "HUH. THE HEAT SHIELD'S GOING TO NEED EVEN MORE POWER",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "음. 열 차단막엔 전력이 더 필요하겠어",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:ASSTLP36:1",
   "src": "TO WITHSTAND THE LAVA.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "용암을 버티려면.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:ASSTLP37:0",
   "src": "AW... WE'VE GOT TO SAVE THE OTHER SAGES...",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아... 다른 현자들을 구해야 해...",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:BIL-AM01:0",
   "src": "I JUST LOVE THE MUD.",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "난 진흙이 참 좋아.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: V-019"
  },
  {
   "id": "hint:BIL-AM02:0",
   "src": "DARN SWAMP RATS.",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "망할 늪 쥐들.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: V-019"
  },
  {
   "id": "hint:BIL-AM03:0",
   "src": "I NEED A GOOD DRAUGHT OF MAMA'S MEDICINE.",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어머니표 약주 한 모금 쭉 들이켜야겠구먼.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: V-019; 2차 검수 반영"
  },
  {
   "id": "hint:BIL-AM04:0",
   "src": "GLADIOLA.",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "글라디올라.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:BIL-AM05:0",
   "src": "I NEED ME SOME BROWN MEDICINE.",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "갈색 약주가 좀 당기는구먼.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: V-019; 2차 검수 반영"
  },
  {
   "id": "hint:BIL-AM06:0",
   "src": "I NEED ME SOME SUMMER COOLANT.",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "더위 식힐 시원한 한 잔이 필요하구먼.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: V-019; 2차 검수 반영"
  },
  {
   "id": "hint:BIL-AM07:0",
   "src": "DARN, THIS HEAT'S GIVIN' ME THE PRICKLIES.",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "에잇, 더위 때문에 따끔따끔하구먼.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: V-019"
  },
  {
   "id": "hint:BIL-AM08:0",
   "src": "DARN... THIS HEAT'S GIVIN' ME A RASH.",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "에잇... 더위 때문에 땀띠가 나는구먼.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: V-019"
  },
  {
   "id": "hint:BIL-AM1A:0",
   "src": "MM-MM! I JUST LOVE THE MUD!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "음-음! 난 진흙이 참 좋아!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: V-019"
  },
  {
   "id": "hint:BIL-AM2A:0",
   "src": "DARN SWAMP RATS!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "망할 늪 쥐들!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: V-019"
  },
  {
   "id": "hint:BIL-AM2B:0",
   "src": "DARN SWAMP RATS!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "망할 늪 쥐들!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: V-019"
  },
  {
   "id": "hint:BIL-LO01:0",
   "src": "FARTHY!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "뿡돌이!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: G-047; 확정 표기 반영"
  },
  {
   "id": "hint:BIL-LO02:0",
   "src": "SOIEE-SOIEE-SOIEE-SOIEE-SOIEE!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오래-오래-오래-오래-오래!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-LO03:0",
   "src": "SOIEE-SOIEE-SOIEE!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오래-오래-오래!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-LO1A:0",
   "src": "FARTHY!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "뿡돌이!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: G-047; 확정 표기 반영"
  },
  {
   "id": "hint:BIL-LO2A:0",
   "src": "SOIEE-SOIEE-SOIEE!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오래-오래-오래!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-LO2B:0",
   "src": "SOIEE! SOIEE!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오래! 오래!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-TA01:0",
   "src": "GET 'EM!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잡아!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-TA02:0",
   "src": "NICE SHOT!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잘 쐈어!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-TA03:0",
   "src": "OVER THAR!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저기다!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-TA04:0",
   "src": "AW, DANG.",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아, 젠장.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-TA05:0",
   "src": "RAT GOT A SNACK.",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "쥐가 간식을 먹었어.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-TA06:0",
@@ -331,169 +331,169 @@
   "id": "hint:BIL-TA08:0",
   "src": "GOT 'EM.",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잡았다.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-TA09:0",
   "src": "YEEHAW!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이야호!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-TA1A:0",
   "src": "GET 'EM!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잡아!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-TA2A:0",
   "src": "NICE SHOT!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잘 쐈어!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-TA3A:0",
   "src": "OVER THAR.",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저기다.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-TA4A:0",
   "src": "DANG!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "젠장!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-TA4B:0",
   "src": "DANG!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "젠장!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIL-TA5A:0",
   "src": "RAT GOT A SNACK!",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "쥐가 간식을 먹었어!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:BIR-AM01:0",
   "src": "ARE YOU NEAR THE EGG YET?",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "알 근처까지 갔니?",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:BIR-AM02:0",
   "src": "THAT'S IT, JUST A LITTLE FURTHER!",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래, 조금만 더!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:BIR-AM03:0",
   "src": "OH, GOOD, NOW PUSH IT. OH, GENTLY NOW!",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오, 좋아, 이제 밀어 보렴. 오, 살살!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:BIR-AM04:0",
   "src": "OH, MY, THAT WASN'T GENTLE!",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어머나, 그건 살살이 아니잖니!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:BIR-AM05:0",
   "src": "COME ON, PUSH THE EGG OFF THE CLIFF!",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어서, 알을 절벽 아래로 밀어 버리렴!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:BIR-AM06:0",
   "src": "OHH!",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오오!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:BIR-AM07:0",
   "src": "OH, HERE, BIRDIE BIRDIE. HERE, BIRDIE BIRDIE.",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오, 이리 온, 새야 새야. 이리 온, 새야 새야.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:BIR-AM08:0",
   "src": "HERE, BIRDIE BIRDIE.",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이리 온, 새야 새야.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:BIR-AM09:0",
   "src": "BE CAREFUL, IT DOESN'T LOOK SAFE UP THERE!",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "조심하렴, 거긴 위험해 보이는구나!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:BIR-AM10:0",
   "src": "CAREFUL, EASY DOES IT!",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "조심, 살살!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:BIR-AM11:0",
   "src": "GOOD JOB! NOW MEET ME DOWN HERE BY THE EGG.",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잘했다! 이제 여기 알 있는 데로 내려오렴.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:BIR-AM12:0",
   "src": "YOU MUST BE A TRUE ANIMAL LOVER!",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "넌 진정한 동물 애호가로구나!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:BIR-AM13:0",
   "src": "DO YOU SEE ANY OTHER BIRDS UP THERE?",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "거기 다른 새는 안 보이니?",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:BIR-LO01:0",
@@ -523,9 +523,9 @@
   "id": "hint:BIR-am08:0",
   "src": "HERE, BIRDIE BIRDIE...",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이리 온, 새야 새야...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:BLU-AM01:0",
@@ -555,641 +555,641 @@
   "id": "hint:CHI-AM01:0",
   "src": "THIS IS A CATASTROPHE. A CATASTROPHE I SAY!",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이건 재앙일세. 재앙이라니까!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:CHI-AM02:0",
   "src": "THEY WANT ME TO GO INTO THE JUNGLE - ME! HO HO OH...",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "나더러 정글에 들어가라니 - 내가! 호호 오...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:CHI-AM02:1",
   "src": "I'D SOONER WRESTLE AN ENRAGED FLUT-FLUT.",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "차라리 성난 플럿플럿이랑 씨름을 하겠네.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:CHI-AM03:0",
   "src": "F-FIRST THE FISHERMAN'S BOAT IS...",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "처, 처음엔 어부의 배가...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:CHI-AM03:1",
   "src": "IT'S ATTACKED BY A MONSTER...",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "괴물한테 공격당하고...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:CHI-AM03:2",
   "src": "AND NOW, NOW THIS...",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이제, 이제는 이거라니...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:CHI-AM03:3",
   "src": "WHAT ELSE COULD GO WRONG?",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "또 무슨 일이 터지려나?",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:CHI-AM04:0",
   "src": "I DON'T... I'D, I'D... OOH, MAYBE I SHOULD RAISE TAXES...",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "난... 나, 나는... 오, 세금이라도 올려야 하나...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:CHI-AM04:1",
   "src": "TO PAY FOR THIS MESS.",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 난장판을 수습하려면.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:CHI-AM05:0",
   "src": "PROBLEMS... PROBLEMS... PROBLEMS!",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "문제... 문제... 문제투성일세!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:CHI-AM06:0",
   "src": "(SOBS) I'LL NEVER GET RE-ELECTED NOW...",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "(흐느끼며) 이제 재선은 다 틀렸어...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:CHI-AM07:0",
   "src": "(MOANS) WHAT'S HAPPENED TO THE VILLAGE'S ENERGY BEAM?",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "(신음) 마을 이코 빔은 어떻게 된 건가?",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 확정: G-025a; G-025a 이코 빔 통일"
  },
  {
   "id": "hint:CHI-AM08:0",
   "src": "I... THEY, I DON'T... (MUTTERS)",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "나... 그들이, 난 그게... (중얼중얼)",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:CHI-LO01:0",
   "src": "...WINDMILL, MONSTERS, POWER, RE-ELECTION...",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "...풍차, 괴물, 전력, 재선...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:CHI-LO02:0",
   "src": "...THE POLLS, I... MONSTERS, HM... RE-ELECTION, OH...",
   "speaker": "MAYOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "...여론 조사, 나... 괴물, 흠... 재선, 오...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:EXP-AM01:0",
   "src": "I NEED TO SET OFF ON MY JOURNEY SOON.",
   "speaker": "JAK'S UNCLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "곧 여행을 떠나야 하는데.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:EXP-AM01:1",
   "src": "I NEED PRECURSOR ORBS!",
   "speaker": "JAK'S UNCLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "프리커서 오브가 필요하단 말이다!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:EXP-AM02:0",
   "src": "LET'S SEE, NOW WHERE SHALL I GO FIRST? EH...",
   "speaker": "JAK'S UNCLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어디 보자, 어디부터 가 볼까? 음...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:EXP-AM03:0",
   "src": "OH I DO MISS THE OPEN ROAD.",
   "speaker": "JAK'S UNCLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아, 탁 트인 길이 그립구나.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:EXP-AM04:0",
   "src": "SO MANY PLACES TO SEE, AND SO LITTLE TIME.",
   "speaker": "JAK'S UNCLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "가 볼 곳은 이리 많은데, 시간은 이리 없으니.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:EXP-AM05:0",
   "src": "WELL IN MY DAY, YOU COULD WALK THE LANDS",
   "speaker": "JAK'S UNCLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내가 젊었을 적엔 괴물한테 습격당하지 않고도",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:EXP-AM05:1",
   "src": "WITHOUT BEING ASSAULTED BY MONSTERS!",
   "speaker": "JAK'S UNCLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "들판을 마음껏 거닐 수 있었는데!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:EXP-LO02:0",
   "src": "I NEED MORE PRECURSOR ORBS.",
   "speaker": "JAK'S UNCLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "프리커서 오브가 더 필요하다.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:EXP-LO1A:0",
   "src": "(MUTTERS)",
   "speaker": "JAK'S UNCLE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "(중얼중얼)",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FAR-AM01:0",
   "src": "(SNORES) HERE, BESSIE... HERE, BESSIE BESSIE...",
   "speaker": "FARMER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "(코 고는 소리) 이리 온, 베시... 이리 온, 베시 베시...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 확정: G-033"
  },
  {
   "id": "hint:FAR-AM01:1",
   "src": "THAT'S A GOOD GIRL...",
   "speaker": "FARMER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "옳지, 착하다...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FAR-AM02:0",
   "src": "GOTTA BRING IN THE CROPS 'FORE THE JUNE BUGS...",
   "speaker": "FARMER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "곡식을 거둬들여야 하는디... 풍뎅이 놈들이...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:FAR-AM2A:0",
   "src": "GOTTA BRING IN THE CROPS 'FORE THE JUNE BUGS GET...",
   "speaker": "FARMER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "곡식을 거둬들여야 하는디, 풍뎅이 놈들이 죄다...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:FAR-LO01:0",
   "src": "(SNORES)",
   "speaker": "FARMER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "(쿨쿨)",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 읽기 속도 단축"
  },
  {
   "id": "hint:FAR-LO1A:0",
   "src": "(SNORES)",
   "speaker": "FARMER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "(쿨쿨)",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 읽기 속도 단축"
  },
  {
   "id": "hint:FIS-AM01:0",
   "src": "GRR, THESE DARN FISH...",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "으르르, 이 망할 물고기들...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-AM01:1",
   "src": "I NEVER CATCH ME A SINGLE ONE.",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "한 마리도 안 잡힌단 말이야.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-AM02:0",
   "src": "THEM MONSTERS THAT DONE BIT ME SHIP",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내 배를 물어뜯은 그 괴물 놈들 때문에",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-AM02:1",
   "src": "WILL DRIVE ME BROKE.",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "쫄딱 망하게 생겼어.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-AM03:0",
   "src": "DRAT, THESE BLIGHTERS!",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "젠장, 이 망할 놈들!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-AM03:1",
   "src": "IN ME BASKET, DARN FISHIES, COME ON YEAH...",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "바구니로 들어와라, 망할 물고기들, 어서...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-AM03:2",
   "src": "HEH HE HE HE HE...",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "헤헤헤헤헤...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-AM04:0",
   "src": "OH I LOVE THE SMELL OF FISH IN THE MORNIN'.",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아, 아침에 맡는 생선 냄새는 최고야.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-AM05:0",
   "src": "OOH I COULD USE ME A SALTED FISH LIPS ON RYE.",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "으, 호밀빵에 소금 친 생선 입술 하나 먹고 싶다.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-AM06:0",
   "src": "I 'MEMBER THE BIG ONE THAT GOT AWAY...",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "놓친 그 대물이 아직도 생각나...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-LO01:0",
   "src": "GRR!",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "으르!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 읽기 속도 단축"
  },
  {
   "id": "hint:FIS-LO03:0",
   "src": "HA HA HA HA HA HAH!",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하하하하하하!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-LO04:0",
   "src": "DARN FISH... THEY NEVER GET IN ME NET!",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "망할 물고기... 내 그물엔 통 안 들어온단 말이야!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-LO05:0",
   "src": "HA HA HA AH HA HA HA HAH!",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하하하 아하하하!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-TA01:0",
   "src": "TO THE LEFT!",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "왼쪽으로!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-TA02:0",
   "src": "RIGHT WITH YA!",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오른쪽으로!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:FIS-TA03:0",
   "src": "HERE COMES A BIG ONE!",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "큰 놈 온다!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-TA04:0",
   "src": "YE MISSED A JUMBO, LADDIE!",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "큰 놈을 놓쳤구나, 꼬마야!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-TA05:0",
   "src": "DON'T MISS ONE LIKE THAT AGAIN!",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그런 건 다신 놓치지 마라!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-TA06:0",
   "src": "STEADY BOY.",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "침착해, 꼬마야.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-TA07:0",
   "src": "YOUR SAILS ARE SAGGING IN THE WIND, BOY.",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "돛에 바람이 다 빠졌구나, 꼬마야!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:FIS-TA08:0",
   "src": "MISSED.",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "놓쳤다.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-TA09:0",
   "src": "LOOKS LIKE YOU COULD USE A BIGGER NET...",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "더 큰 그물이 필요하겠는데...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-TA10:0",
   "src": "MISSED AGAIN!",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "또 놓쳤어!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-TA11:0",
   "src": "HOLD STEADY! YOU'RE ALMOST THERE...",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "버텨! 거의 다 됐어...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-TA1A:0",
   "src": "LEFT!",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "왼쪽!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:FIS-TA2A:0",
   "src": "RIGHT!",
   "speaker": "FISHERMAN",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오른쪽!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:GAM-AM01:0",
   "src": "HEY, TWENTY-TO-ONE ODDS AIN'T SO BAD!",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어이, 20대 1 배당이면 나쁘지 않잖아!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-016"
  },
  {
   "id": "hint:GAM-AM02:0",
   "src": "NO, IT WAS A SURE THING!",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아냐, 확실한 판이었다고!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-016"
  },
  {
   "id": "hint:GAM-AM03:0",
   "src": "HEH HEH HEH... I'M GONNA HIT THE JACKPOT NEXT TIME!",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "헤헤헤... 다음엔 대박 터뜨린다!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-016"
  },
  {
   "id": "hint:GAM-AM04:0",
   "src": "HEH! IF I HAD AN ORB FOR EVERY MISSED OPPORTUNITY...!",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "헤! 놓친 기회마다 오브 하나씩 받았으면...!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-016"
  },
  {
   "id": "hint:GAM-AM05:0",
   "src": "HEY! BARRELS COULD COME BACK IN STYLE!",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어이! 통 패션이 다시 유행할 수도 있잖아!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-016"
  },
  {
   "id": "hint:GAM-AM06:0",
   "src": "OH... I NEED A LUCKY BREAK.",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아... 운이 좀 트여야 할 텐데.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-016"
  },
  {
   "id": "hint:GAM-AM07:0",
   "src": "AW, WHAT ARE THE ODDS OF MOVIN' TO A TOWN UNDER ATTACK?",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "에이, 하필 공격받는 마을로 이사 올 확률이 얼마나 되겠어?",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-016"
  },
  {
   "id": "hint:GAM-AM08:0",
   "src": "I THOUGHT I HAD A GOOD TIP!",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "괜찮은 정보인 줄 알았는데!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-016"
  },
  {
   "id": "hint:GAM-AM09:0",
   "src": "ANOTHER DAY, ANOTHER WAGER.",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오늘도 한 판, 또 한 판.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-016"
  },
  {
   "id": "hint:GAM-AM10:0",
   "src": "I BET NO ONE CAN TAKE ON THAT MONSTER.",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내기해도 좋아, 저 괴물은 아무도 못 이겨.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-016; 2차 검수 반영"
  },
  {
   "id": "hint:GAM-AM11:0",
   "src": "HUH-HUH... I SHOULD CASH OUT AND MOVE ON.",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "허허... 판돈 챙겨서 털고 일어나야겠어.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-016; 2차 검수 반영"
  },
  {
   "id": "hint:GAM-AM12:0",
   "src": "EH, SOMETIMES YOU JUST CAN'T WIN.",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "에, 가끔은 그냥 못 이기는 거야.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-016"
  },
  {
   "id": "hint:GAM-AM13:0",
   "src": "HEY, WHAT ARE YOU LAUGHIN' AT? DO I AMUSE YOU?",
   "speaker": "GAMBLER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어이, 뭘 웃어? 내가 웃겨?",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-016"
  },
  {
   "id": "hint:GEO-AM01:0",
   "src": "MM, INTERESTING STRATA...",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "음, 흥미로운 지층이네요...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-017"
  },
  {
   "id": "hint:GEO-AM02:0",
   "src": "POOR LITTLE MOLES...",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "불쌍한 두더지들...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-017"
  },
  {
   "id": "hint:GEO-AM03:0",
   "src": "INTERESTING...",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "흥미롭네요...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-017"
  },
  {
   "id": "hint:GEO-AM04:0",
   "src": "GOOD LUCK, BOYS!",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "행운을 빌어요, 두 분!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-017"
  },
  {
   "id": "hint:GEO-AM05:0",
   "src": "NASTY LURKERS...",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "고약한 러커들...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-017"
  },
  {
   "id": "hint:GEO-AM06:0",
   "src": "ROCKS HAVE FEELINGS, TOO...",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "돌에도 감정이 있다고요...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-017"
  },
  {
   "id": "hint:GEO-AM07:0",
   "src": "HANG IN THERE, LITTLE ONES...",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "조금만 버텨, 아가들...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-017"
  },
  {
   "id": "hint:GEO-AM08:0",
   "src": "NOW I CAN GET BACK TO MY RESEARCH!",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이제 연구로 돌아갈 수 있겠어요!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-017"
  },
  {
   "id": "hint:GEO-LO01:0",
   "src": "I'VE GOT TO GET BACK TO MY RESEARCH.",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "연구로 돌아가야 하는데.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-017"
  },
  {
   "id": "hint:GEO-LO02:0",
   "src": "HM, THIS STONE IS VERY OLD...",
   "speaker": "GEOLOGIST",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "흠, 이 돌은 아주 오래됐네요...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: V-017"
  },
  {
   "id": "hint:GOL-AM01:0",
@@ -1427,289 +1427,289 @@
   "id": "hint:MIN-LO01:0",
   "src": "ONE OF THESE DAYS I'LL BE RICH...",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "언젠가는 내가 부자가 될 거야...",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MIN-LO01:1",
   "src": "YOU MEAN WE'LL BE RICH!",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우리가 부자가 된다는 거지!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
  },
  {
   "id": "hint:MIN-LO01:2",
   "src": "YEAH. WHATEVER.",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래. 아무렴.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MIN-LO03:0",
   "src": "DIG, WILLARD! DIG!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파, 윌러드! 파!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MIN-LO03:1",
   "src": "YEAH, BUT YOU'RE NOT DIGGING!",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "응, 근데 너는 안 파잖아!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
  },
  {
   "id": "hint:MIN-LO03:2",
   "src": "THAT'S 'CAUSE I'M DOIN' THE THINKIN'!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그건 내가 머리를 쓰고 있어서지!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MIN-LO04:0",
   "src": "DUH, GORDY? CAN I TAKE A BREAK?",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어, 고디? 좀 쉬어도 돼?",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
  },
  {
   "id": "hint:MIN-LO04:1",
   "src": "OH, I'LL BREAK SOMETHIN' ALRIGHT. NOW DIG!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "쉬긴 뭘 쉬어. 어서 파!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MIN-LO05:0",
   "src": "I'M STARVING, GORDY!",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "배고파 죽겠어, 고디!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
  },
  {
   "id": "hint:MIN-LO05:1",
   "src": "EAT YOUR BIRD!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "네 새나 먹어!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MIN-LO06:0",
   "src": "DUH, GORDY? I NEED A SHARPER PICK.",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어, 고디? 더 날카로운 곡괭이가 필요해.",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
  },
  {
   "id": "hint:MIN-LO06:1",
   "src": "WHAT YOU NEED IS A SHARPER WIT!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "너한테 필요한 건 더 날카로운 머리야!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MSH-AM01:0",
   "src": "WAH-HA-HA-HA-HA! I'M GONNA BE RICH!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "와하하하하! 난 부자가 될 거야!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MSH-AM02:0",
   "src": "DIG, DIG, DIG!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파, 파, 파!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MSH-AM03:0",
   "src": "WILLARD! WORK HARDER, NOT SMARTER!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "윌러드! 머리 말고 몸을 써!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MSH-AM04:0",
   "src": "AH-HAH, I'LL BE THE RICHEST MAN IN THE WORLD! AH HA HA...",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아하, 내가 세상에서 제일가는 부자가 될 거야! 아하하...",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MSH-AM05:0",
   "src": "OH HO HO! NOBODY'S EVEN SEEN A GEM THIS SIZE! AH HA HA!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오호호! 이만한 보석은 아무도 본 적 없을걸! 아하하!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MSH-AM06:0",
   "src": "EASY STREET, HERE I COME!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "팔자 고칠 날이 온다!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MSH-AM07:0",
   "src": "MY GEMS! ALL MY GEMS!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내 보석! 내 보석 전부!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MSH-AM09:0",
   "src": "(CHUCKLING) I CAN'T WAIT TO CASH THIS BABY IN!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "(킬킬) 이 녀석을 얼른 돈으로 바꾸고 싶어!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MSH-AM10:0",
   "src": "THIS LOOKS LIKE A RARE CRYSTITE ZLARCONIA! OH-HO-HO!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이건 귀한 크리스타이트 즐라코니아 같은데! 오호호!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020, G-055"
  },
  {
   "id": "hint:MSH-AM11:0",
   "src": "NOW WAIT A MINUTE! THEY'RE ALL MINE! MINE, I TELL YA!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잠깐만! 전부 내 거야! 내 거라고!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MSH-AM12:0",
   "src": "SO, WILLARD. WHAT ARE YOU GONNA DO WITH",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래서, 윌러드. 네 몫의 절반의",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MSH-AM12:1",
   "src": "YOUR QUARTER, OF YOUR HALF?",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "4분의 1로 뭘 할 거냐?",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MSH-AM1A:0",
   "src": "I'M GONNA BE RICH!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "난 부자가 될 거야!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MSH-AM2A:0",
   "src": "DIG, DIG, DIG!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파, 파, 파!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MSH-AM3A:0",
   "src": "WORK HARDER, NOT SMARTER!",
   "speaker": "GORDY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "머리 말고 몸을 써!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
  },
  {
   "id": "hint:MTA-AM01:0",
   "src": "DUH, ARE WE ALMOST DONE?",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어, 거의 다 끝났어?",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
  },
  {
   "id": "hint:MTA-AM02:0",
   "src": "GEE, CAN WE TAKE A BREAK?",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "에이, 좀 쉬면 안 돼?",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
  },
  {
   "id": "hint:MTA-AM03:0",
   "src": "AWW, I'M HUNGRY...",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아우, 배고파...",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
  },
  {
   "id": "hint:MTA-AM04:0",
   "src": "DUH... I THINK BIRDIE'S CAGE NEEDS CLEANING...",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어... 버디 새장 청소해야 할 것 같아...",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021, G-057"
  },
  {
   "id": "hint:MTA-AM05:0",
   "src": "GEE, THAT'S AN AWFULLY BIG GEM!",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "와, 진짜 엄청 큰 보석이다!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
  },
  {
   "id": "hint:MTA-AM06:0",
   "src": "DUH... I ALWAYS WANTED TO BE A LUMBERJACK...",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어... 난 늘 나무꾼이 되고 싶었는데...",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
  },
  {
   "id": "hint:MTA-AM07:0",
   "src": "DUH, GORDY PROMISED TO GIVE ME HALF OF WHATEVER I COULD CARRY!",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어, 고디가 내가 들고 갈 수 있는 것의 절반을 주기로 했어!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
  },
  {
   "id": "hint:MTA-AM08:0",
   "src": "EH HEH... BIRDIE IS MY BEST FRIEND...",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "에헤헤... 버디는 내 제일 친한 친구야...",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021, G-057"
  },
  {
   "id": "hint:MTA-AM09:0",
   "src": "I LOVE MY LITTLE BIRDIE...",
   "speaker": "WILLARD",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "난 우리 귀여운 버디가 좋아...",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021, G-057"
  },
  {
   "id": "hint:RED-AM01:0",
@@ -1739,257 +1739,257 @@
   "id": "hint:SAGELP03:0",
   "src": "THESE TWO COULDN'T UNBLOCK THEIR EARS...",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 녀석들은 도통 말을 안 들어먹는다니까...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:SAGELP04:0",
   "src": "HE'LL JUST NEVER BE LIKE HIS UNCLE...",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 녀석은 제 삼촌처럼은 절대 못 될 거다...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:SAGELP04:1",
   "src": "I DON'T CARE WHAT THE OTHERS SAY.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "다른 사람들이 뭐라든 상관없다.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:SAGELP05:0",
   "src": "HELLO, BLUE SAGE? HELLO?",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 현자? 거기 있나?",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 확정: G-030"
  },
  {
   "id": "hint:SAGELP05:1",
   "src": "WHERE IN THE BLUE BLAZES COULD HE BE...",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 퍼런 양반은 대체 어디로 사라진 게냐...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:SAGELP06:0",
   "src": "MY, MY, MY...",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이런, 이런...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 읽기 속도 단축"
  },
  {
   "id": "hint:SAGELP11:0",
   "src": "ANYONE? ANYONE AT ALL? COME IN?",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아무도 없나? 아무도? 응답하라!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:SAGELP20:0",
   "src": "HMM...",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "흠...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:SAGELP21:0",
   "src": "THE LURKERS MUST BE STOPPED.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "러커들을 막아야 한다.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:SAGELP22:0",
   "src": "I SEE...",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그렇군...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:SAGELP23:0",
   "src": "NO...",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "안 돼",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 읽기 속도 단축"
  },
  {
   "id": "hint:SAGELP24:0",
   "src": "WHAT COULD HAVE HAPPENED TO THEM?",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그들에게 무슨 일이 있었던 게냐?",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:SAGELP31:0",
   "src": "THIS ISN'T GOOD.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋지 않군.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:SAGELP32:0",
   "src": "DARK ECO CRYSTALS?",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "다크 이코 수정이라고?",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:SAGELP33:0",
   "src": "MAIA AND GOL HAVE GOTTEN IN OVER THEIR HEADS!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "마이아와 골이 감당 못 할 일에 손을 댔구나!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: G-005a"
  },
  {
   "id": "hint:SAGELP34:0",
   "src": "HNG, DARK ECO'S POWERS CANNOT BE CONTROLLED!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "흥, 다크 이코의 힘은 다룰 수 없는 것이다!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:SAGELP35:0",
   "src": "DARK ECO IN THE GLACIERS?",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "빙하 속에 다크 이코가?",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:SAGELP36:0",
   "src": "AH! THERE'S LURKER TROOPS IN THE MOUNTAINS!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아! 산에 러커 부대가 있구나!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:SAGELP37:0",
   "src": "WHAT IS GOL PLANNING...",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "골은 무슨 꿍꿍이지...",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:SAGELP38:0",
   "src": "COULD HE ACTUALLY HAVE...?",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "설마 정말로...?",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:SCU-AM01:0",
   "src": "AW... I JUST CAN'T DO IT ANYMORE.",
   "speaker": "SCULPTOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아... 이제 더는 못 하겠어.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:SCU-AM02:0",
   "src": "AW, I WISH I HAD SOME INSPIRATION.",
   "speaker": "SCULPTOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아, 뭐라도 좀 떠올랐으면 좋겠다.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:SCU-AM03:0",
   "src": "I'M AS INSPIRED AS... THIS ROCK.",
   "speaker": "SCULPTOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "지금 내 창작 의욕은... 이 돌덩이 수준이야.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:SCU-AM04:0",
   "src": "AW... WHERE IS MY MUSE?",
   "speaker": "SCULPTOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아... 내 뮤즈는 어디 있는 거야?",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:SCU-AM05:0",
   "src": "I CAN'T WORK LIKE THIS!",
   "speaker": "SCULPTOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이래선 작업을 못 해!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:SCU-AM06:0",
   "src": "AW MAN... WILL SHE EVER COME BACK TO ME?",
   "speaker": "SCULPTOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아 진짜... 내 뮤즈가 돌아오긴 할까?",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:SCU-LO01:0",
   "src": "AW MAN...",
   "speaker": "SCULPTOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아 진짜...",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:SKSP009F:0",
   "src": "GET SOME! GET SOME! HA HA HA!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "맛 좀 봐라! 맛 좀 봐라! 하하하!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:WAR-LO1A:0",
   "src": "(SOBBING)",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "(훌쩍훌쩍)",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:WAR-LO1B:0",
   "src": "(SOBS)",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "(흐느낌)",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:WAR-LO1C:0",
   "src": "(BLOWS NOSE AND SPUTTERS)",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "(코를 풀며 웅얼거린다)",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:WAR-LO1C:1",
   "src": "(CONTINUES SOBBING)",
   "speaker": "WARRIOR",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "(계속 흐느낀다)",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:YEL-AM01:0",
@@ -2219,33 +2219,33 @@
   "id": "hint:asstvb02:0",
   "src": "WOW, DID YOU SEE THAT?",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "와, 방금 봤어?",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb02:1",
   "src": "BLUE ECO VENTS HAVE BEEN ACTIVATED ALL OVER THE WORLD!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "세상 곳곳의 블루 이코 분출구가 켜졌어!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb02:2",
   "src": "I KNEW THERE WAS A WAY TO TURN THEM ON.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "켤 방법이 있을 줄 알았다니까.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb02:3",
   "src": "THERE MUST BE PLACES TO TURN ON THE OTHER ECO VENTS AS WELL.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "다른 이코 분출구를 켜는 곳도 분명 있을 거야.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb03:0",
@@ -2275,81 +2275,81 @@
   "id": "hint:asstvb04:0",
   "src": "GOOD, YOU'VE COLLECTED ENOUGH POWER CELLS TO FUEL MY HEAT SHIELD!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋아, 열 차단막에 넣을 파워 셀을 충분히 모았구나!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb04:1",
   "src": "MEET ME BY THE ENTRANCE TO THE FIRE CANYON",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "농부 아저씨네 집 뒤 절벽을 올라와서",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb04:2",
   "src": "BY CLIMBING THE CLIFF BEHIND THE FARMER'S HOUSE.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "불의 협곡 입구에서 만나.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb04:3",
   "src": "BRING THE POWER CELLS, AND HURRY!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀 가지고, 서둘러!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb04:4",
   "src": "MY FATHER SAYS HE'S SEEN MORE LURKERS AROUND!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아빠가 러커들이 더 많아졌대!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb08:0",
   "src": "HURRY UP WITH THOSE POWER CELLS.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀 가지고 빨리 와.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb08:1",
   "src": "I'M WAITING AT THE HEAD OF FIRE CANYON",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "농부 아저씨네 집 뒤 절벽 꼭대기,",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb08:2",
   "src": "AT THE TOP OF THE CLIFF BEHIND THE FARMER'S HOUSE!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "불의 협곡 어귀에서 기다리고 있어!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb09:0",
   "src": "YOU DON'T HAVE ENOUGH POWER CELLS TO FUEL MY HEAT SHIELD.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "열 차단막에 넣을 파워 셀이 부족해.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:asstvb09:1",
   "src": "YOU CAN'T CROSS FIRE CANYON UNTIL YOU COLLECT ENOUGH POWER CELLS.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀을 충분히 모으기 전엔 불의 협곡을 건널 수 없어.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:asstvb20:0",
@@ -2403,25 +2403,25 @@
   "id": "hint:asstvb22:0",
   "src": "WOW! YOU RAISED A PIECE OF THE UNDERWATER RUINS TO THE SURFACE!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "와! 물속 유적 한 조각을 물 위로 끌어올렸구나!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:asstvb22:1",
   "src": "IT SEEMS YOU CAN USE ECO IN WAYS WE'VE NEVER SEEN BEFORE!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우리가 본 적 없는 방식으로 이코를 쓸 수 있나 봐!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:asstvb22:2",
   "src": "A POWER CELL SURFACED WITH THE ROOM. CLIMB UP THERE AND GET IT.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "방이랑 같이 파워 셀도 떠올랐어. 올라가서 챙겨.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:asstvb23:0",
@@ -2499,49 +2499,49 @@
   "id": "hint:asstvb24:0",
   "src": "OH MY! THOSE LURKERS MUST BE HEADED",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어머! 저 러커들은 분명",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:asstvb24:1",
   "src": "FOR A DETONATOR AT THE END OF THE CANYON!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "협곡 끝에 있는 기폭 장치로 가는 거야!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:asstvb24:2",
   "src": "IF THEY REACH IT BEFORE YOU DO,",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "너보다 먼저 거기 도착하면,",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:asstvb24:3",
   "src": "THEY'LL BLOW UP THE ENTIRE PASS!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "고갯길 전체를 날려 버릴 거야!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: G-049; 확정 표기 반영"
  },
  {
   "id": "hint:asstvb24:4",
   "src": "YOU'VE GOTTA BEAT THEM THERE AND DESTROY THE DETONATOR,",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "먼저 도착해서 기폭 장치를 부숴야 해,",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:asstvb24:5",
   "src": "OR IT'S ALL OVER!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "안 그러면 다 끝장이야!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:asstvb25:0",
@@ -2643,49 +2643,49 @@
   "id": "hint:asstvb41:0",
   "src": "THESE FLOATING EGG-SHAPED THINGS ARE PRECURSOR ORBS.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "둥둥 떠 있는 알처럼 생긴 건 프리커서 오브야.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb41:1",
   "src": "COLLECT ENOUGH OF THEM, AND SOME OF THE VILLAGERS WILL GIVE YOU",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "충분히 모으면 마을 사람들 몇몇이",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb41:2",
   "src": "A POWER CELL IN EXCHANGE.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀이랑 바꿔 줄 거야.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb42:0",
   "src": "THIS IS A POWER CELL, THE MOST IMPORTANT PRECURSOR ARTIFACT YOU CAN FIND!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이게 파워 셀이야. 네가 찾을 수 있는 가장 중요한 프리커서 유물이지!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb42:1",
   "src": "YOU NEED TO COLLECT 20 OF THESE SO I CAN POWER THE HEAT SHIELD",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이걸 20개 모아야 열 차단막에 전력을 넣을 수 있어.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb42:2",
   "src": "FOR YOUR A-GRAV ZOOMER.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "네 반중력 주머에 달 거 말이야.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb44:0",
@@ -2779,41 +2779,41 @@
   "id": "hint:asstvb48:0",
   "src": "THAT'S A BLUE ECO VENT! MORE CONCENTRATED THAN THE FLOATING CLUSTERS,",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저건 블루 이코 분출구야! 떠다니는 덩어리보다 더 진해서,",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb48:1",
   "src": "THIS VENT WILL GIVE YOU A FULL CHARGE OF BLUE ECO,",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 분출구에선 블루 이코를 가득 충전할 수 있어.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb48:2",
   "src": "LETTING YOU USE IT FOR THE MAXIMUM TIME.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "가장 오래 쓸 수 있지.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:asstvb71:0",
   "src": "YOU DON'T HAVE ENOUGH POWER CELLS TO POWER THE BLUE SAGE'S MACHINE.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 현자의 장치에 넣을 파워 셀이 부족해.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:asstvb71:1",
   "src": "WE CAN'T LIFT THAT BOULDER UNTIL YOU COLLECT 45 POWER CELLS.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀을 45개 모으기 전엔 저 바위를 들어 올릴 수 없어.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:asstvb72:0",
@@ -2843,33 +2843,33 @@
   "id": "hint:asstvb75:0",
   "src": "THIS GONDOLA SEEMS TO BE MALFUNCTIONING.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 곤돌라가 고장 난 것 같아.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:asstvb75:1",
   "src": "I'LL TRY TO WORK ON IT AND GET IT RUNNING AGAIN.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "고쳐서 다시 움직이게 해 볼게.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:asstvb76:0",
   "src": "I'VE REACTIVATED THE GONDOLA. IT CAN TAKE YOU TO SNOWY MOUNTAIN!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "곤돌라를 다시 작동시켰어. 설산까지 데려다줄 거야!",
+  "state": "needs_human_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: G-053"
  },
  {
   "id": "hint:asstvb76:1",
   "src": "USE IT WHENEVER YOU WANT.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "언제든 써.",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:sagevb01:0",
@@ -3019,105 +3019,105 @@
   "id": "hint:sagevb04:0",
   "src": "GOOD WORK, JAK! YOUR UNCLE WOULD BE PROUD.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잘했다, 잭! 네 삼촌이 자랑스러워하겠구나.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:sagevb04:1",
   "src": "THAT WAS A GIANT ARM FROM A PRECURSOR ROBOT.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그건 프리커서 로봇의 거대한 팔이다.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 확정: G-046"
  },
  {
   "id": "hint:sagevb04:2",
   "src": "I'VE NEVER SEEN ONE IN SUCH GOOD CONDITION!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이렇게 멀쩡한 건 처음 보는구나!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:sagevb04:3",
   "src": "I CAN'T IMAGINE WHAT THE LURKERS WANTED WITH IT,",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "러커들이 그걸로 뭘 하려던 건지 상상도 안 가지만,",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:sagevb04:4",
   "src": "BUT WE SURE DIDN'T WANT THEM TO GET IT.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "놈들 손에 넘어가게 둘 순 없었지.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:sagevb04:5",
   "src": "IF YOU KEEP THIS SUCCESS UP...",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이렇게 계속 성공한다면...",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:sagevb04:6",
   "src": "NAH, YOU'LL STILL FALL SHORT OF HERO.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아니다, 그래도 영웅 소리 듣기엔 멀었겠지.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb04:7",
   "src": "BUT KEEP TRYING. IT'S ENDEARING.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래도 계속해 봐라. 애쓰는 게 귀엽긴 하구나.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb21:0",
   "src": "THOSE LITTLE GREEN BALLS OF ENERGY ON THE GROUND ARE A TYPE OF ECO.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "바닥에 있는 작은 초록 에너지 구슬은 이코의 일종이다.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb21:1",
   "src": "PICK UP 50 SMALL GREEN ECOES, OR ONE BIG GREEN ONE TO INCREASE YOUR HEALTH.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "작은 그린 이코 50개나 큰 것 하나를 모으면 체력이 늘어난다.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sagevb22:0",
   "src": "THAT'S BLUE ECO, WHICH CONTAINS THE ENERGY OF MOTION.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그건 블루 이코다. 움직임의 에너지를 품고 있지.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sagevb22:1",
   "src": "BLUE ECO ALLOWS YOU TO RUN FAST, BREAK BOXES, AND EVEN ACTIVATE SOME PRECURSOR",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 이코가 있으면 빨리 달리고, 상자를 부수고, 가까이 가기만 해도",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sagevb22:2",
   "src": "ARTIFACTS WHEN YOU GET NEAR THEM.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "일부 프리커서 유물을 작동시킬 수 있다.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sagevb23:0",
@@ -3139,25 +3139,25 @@
   "id": "hint:sagevb24:0",
   "src": "THIS IS A PRECURSOR DOOR.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이건 프리커서 문이다.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 확정: G-032"
  },
  {
   "id": "hint:sagevb24:1",
   "src": "IT CAN ONLY BE OPENED BY APPROACHING THE DOOR",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "몸에 블루 이코를 흘려보내면서 다가가야만",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sagevb24:2",
   "src": "WHILE CHANNELLING BLUE ECO THROUGH YOUR BODY.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "열 수 있지.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sagevb25:0",
@@ -3195,9 +3195,9 @@
   "id": "hint:sagevb27:0",
   "src": "YOU CAN JUMP ONCE, THEN JUMP AGAIN IN THE AIR TO REACH EVEN HIGHER LEDGES.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "한 번 뛰고 공중에서 다시 뛰면 더 높은 곳에도 닿을 수 있다.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sagevb28:0",
@@ -3299,33 +3299,33 @@
   "id": "hint:sagevb38:0",
   "src": "YOU CAN'T COME BACK THROUGH THE WARP GATE",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 섬의 파워 셀 4개를 다 찾기 전엔",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sagevb38:1",
   "src": "UNTIL YOU FIND ALL 4 POWER CELLS ON THIS ISLAND.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "워프 게이트로 돌아올 수 없다.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sagevb39:0",
   "src": "GREAT! YOU FOUND ALL OF THE POWER CELLS ON THE ISLAND.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋아! 섬의 파워 셀을 전부 찾았구나.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sagevb39:1",
   "src": "COME BACK TO THE WARP GATE SO I CAN BRING YOU BACK TO THE LAB. HURRY UP!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "워프 게이트로 돌아오너라. 연구실로 데려와 주마. 서둘러라!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0001:0",
@@ -3539,33 +3539,33 @@
   "id": "hint:sksp0018:0",
   "src": "WE SHOULD GO TELL THAT WINDBAG OF A MAYOR THAT HE OWES US BIG TIME",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 말만 많은 시장한테 가서, 마을 이코 빔을 이어 줬으니",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 확정: G-025a; 2차 검수 반영; G-025a 이코 빔 통일"
  },
  {
   "id": "hint:sksp0018:1",
   "src": "FOR CONNECTING THE VILLAGE ENERGY BEAM!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우리한테 크게 빚졌다고 말해 주자!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:sksp0019:0",
   "src": "HEY, SEAGULLS! LET'S BUZZ 'EM FOR KICKS.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "야, 갈매기다! 재미 삼아 한번 놀래 주자.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:sksp0020:0",
   "src": "YEAH HA HA! LET'S DO THAT AGAIN!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "예이 하하! 한 번 더 하자!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0021:0",
@@ -3579,57 +3579,57 @@
   "id": "hint:sksp0022:0",
   "src": "YEAH HA HA HA HA HA!! WOO HO HO HO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "예이 하하하하하!! 우후 호호호!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0023:0",
   "src": "WOOHOO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우후!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0024:0",
   "src": "YEAH HA HA! YEAH!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "예이 하하! 좋았어!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0025:0",
   "src": "WHOA! THEY CAUSED AN AVALANCHE! LET'S CHECK IT OUT.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우와! 쟤들이 산사태를 일으켰어! 가 보자.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0026:0",
   "src": "HEY! THAT PELICAN JUST SNAGGED A POWER CELL!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "야! 저 펠리컨이 파워 셀을 낚아챘어!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0026:1",
   "src": "LET'S GO KICK SOME BIG BIRD BUTT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "가서 저 큰 새 엉덩이 좀 걷어차 주자!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0027:0",
   "src": "QUICK! WE HAVE TO GET TO THE POWER CELL BEFORE THE PELICAN SCOOPS IT UP AGAIN.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "빨리! 펠리컨이 또 채 가기 전에 파워 셀을 잡아야 해.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0028:0",
@@ -3643,17 +3643,17 @@
   "id": "hint:sksp0029:0",
   "src": "EH, WE MIGHT WANNA TALK TO THE BIRDWATCHER",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어, 탐조가한테 가서",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:sksp0029:1",
   "src": "AND SEE IF WE SCRAMBLED THAT FLUT-FLUT EGG.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우리가 플럿플럿 알로 스크램블을 만든 건 아닌지 물어봐야겠는데.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:sksp0030:0",
@@ -3699,57 +3699,57 @@
   "id": "hint:sksp0037:0",
   "src": "THOSE TOWER DOOHICKEYS SCATTERED ALL OVER THE JUNGLE MUST REDIRECT THE ECO BEAM.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "정글 곳곳에 있는 저 탑 장치들이 이코 빔 방향을 바꾸는 게 분명해.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0037:1",
   "src": "LET'S GO FIDDLE WITH THEM!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "가서 만지작거려 보자!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0038:0",
   "src": "HMM, IF BLUE ECO CAN BUILD A BRIDGE, THEN I BET IT'LL OPEN A DOOR!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "흠, 블루 이코로 다리를 놓을 수 있다면, 문도 열 수 있겠지!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0038:1",
   "src": "LET'S GO BACK AND GET YOU JUICED UP AGAIN.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "돌아가서 다시 충전하자.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0039:0",
   "src": "HEY, THERE'S LITTLE LIGHTNING MARKS ON THOSE POSTS",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어이, 저 기둥들에 작은 번개 표시가 있어",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0039:1",
   "src": "AND THERE'S LIGHTNING COMING OUT OF THAT VENT OVER THERE.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그리고 저기 분출구에서 번개가 나오고 있고.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0039:2",
   "src": "ARE YOU THINKING WHAT I'M THINKING?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내 생각이랑 같은 생각이지?",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0040:0",
@@ -3787,17 +3787,17 @@
   "id": "hint:sksp0049:0",
   "src": "LINE UP THE BEAM BY POINTING IT AT THE NEXT TOWER!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "빔이 다음 탑을 가리키게 맞춰!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0050:0",
   "src": "BREAK THE MIRROR, JAK!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "거울을 부숴, 잭!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0051:0",
@@ -3811,33 +3811,33 @@
   "id": "hint:sksp0052:0",
   "src": "LET'S GO TO THE NEXT TOWER AND RECONNECT THE BEAM THERE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "다음 탑으로 가서 거기서 빔을 다시 연결하자!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0053:0",
   "src": "HEY! WE CAN FOLLOW THE BEAM TO FIND THE NEXT TOWER.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "야! 빔을 따라가면 다음 탑을 찾을 수 있어.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0054:0",
   "src": "WE NEED TO CHARGE YOU UP WITH THAT BLUE STUFF TO GET THIS OPEN!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이걸 열려면 그 파란 걸로 널 충전해야 해!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0056:0",
   "src": "HEY! I SEE THE SCULPTOR'S MUSE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "야! 조각가의 뮤즈다!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0059:0",
@@ -3859,49 +3859,49 @@
   "id": "hint:sksp0060:0",
   "src": "(WHIMPERS) THIS PLACE GIVES ME THE CREEPS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "(낑낑) 여긴 소름 끼쳐!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0060:1",
   "src": "AND TRUST ME, IT'S A WHOLE NEW EXPERIENCE",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그리고 내 말 믿어, 온몸이 털투성이면",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0060:2",
   "src": "WHEN YOU'RE COVERED IN FUZZ!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "완전히 새로운 경험이라고!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0062:0",
   "src": "LET'S PLOW INTO THOSE BALLOON LURKERS AND SHRED 'EM!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 풍선 러커들을 들이받아서 박살 내자!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0063:0",
   "src": "I SAID \"SHRED THE LURKERS,\" JAK. NOT THE MINES!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "\"러커를 박살 내\"랬지, 잭. 지뢰 말고!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0063:1",
   "src": "RULE NUMBER ONE: ALWAYS AVOID THE MINES!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "규칙 1번: 지뢰는 무조건 피한다!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0064:0",
@@ -3931,17 +3931,17 @@
   "id": "hint:sksp0069:0",
   "src": "IT'S AN AMBUSH, JAK! IT'S AN AMBUSH!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "매복이야, 잭! 매복이라고!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0070:0",
   "src": "JUMP, THEN DIVE ONTO THE TEETER-TOTTER.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "점프한 다음 시소 위로 내리꽂아.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0071:0",
@@ -4187,9 +4187,9 @@
   "id": "hint:sksp009f:0",
   "src": "GET SOME, GET SOME! HA HA HA!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "맛 좀 봐라, 맛 좀 봐라! 하하하!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:sksp009g:0",
@@ -4227,9 +4227,9 @@
   "id": "hint:sksp0109:0",
   "src": "WOO! WE BEAT THE RECORD TIME!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우후! 기록을 깼어!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0110:0",
@@ -4259,25 +4259,25 @@
   "id": "hint:sksp0112:0",
   "src": "LET'S GO GET OUR POWER CELL FROM THE GEOLOGIST.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "지질학자한테 가서 파워 셀 받자.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0113:0",
   "src": "THOSE MUST BE THE INFESTED PLANTS OL' LOG-NOGGIN WAS TALKIN' ABOUT.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저게 나무토막 영감이 말한 감염된 식물인가 봐.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: N-005; 확정 표기 반영"
  },
  {
   "id": "hint:sksp0114:0",
   "src": "WE HAVE TO USE GREEN ECO TO CURE THOSE PLANTS.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그린 이코로 저 식물들을 치료해야 해.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0115:0",
@@ -4291,17 +4291,17 @@
   "id": "hint:sksp0116:0",
   "src": "THAT'S ONE OF THOSE FLYING LURKERS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "날아다니는 러커다!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0116:1",
   "src": "HE MIGHT HAVE A POWER CELL!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀을 갖고 있을지도 몰라!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0117:0",
@@ -4323,25 +4323,25 @@
   "id": "hint:sksp0119:0",
   "src": "ONE RING DOWN, A BUNCH TO GO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "링 하나 통과, 아직 한참 남았어!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0120:0",
   "src": "HURRY! THERE'S THE NEXT RING!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "서둘러! 다음 링이야!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0121:0",
   "src": "QUICK! YOU'VE GOTTA FLY THROUGH EACH RING BEFORE THEY TURN OFF!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "빨리! 링이 꺼지기 전에 하나씩 통과해야 해!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0122:0",
@@ -4355,25 +4355,25 @@
   "id": "hint:sksp0123:0",
   "src": "QUICK! FOLLOW THAT PIPE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "빨리! 저 파이프를 따라가!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0124:0",
   "src": "I GOT A BAD FEELING ABOUT THIS.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "느낌이 안 좋은데.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0125:0",
   "src": "IT LOOKS LIKE THOSE THINGS NEED A BLUE ECO CHARGE.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저것들은 블루 이코로 충전해야 하나 봐.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0126:0",
@@ -4387,17 +4387,17 @@
   "id": "hint:sksp0127:0",
   "src": "KICK THE LITTLE GUY ON THE TOP!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "위에 있는 꼬맹이를 걷어차!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0128:0",
   "src": "JAK! RUN! THE DARK ECO IS RISING!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잭! 뛰어! 다크 이코가 차오르고 있어!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0129:0",
@@ -4411,17 +4411,17 @@
   "id": "hint:sksp0130:0",
   "src": "UH, I THINK WE HAVE TO SWITCH ON ALL THOSE PLATFORMS OR SOMETHIN'.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어, 저 발판들을 전부 켜든가 해야 할 것 같은데.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:sksp0131:0",
   "src": "HEY! IT LOOKS LIKE YOU COULD JUMP-DIVE ONTO THOSE GUYS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "야! 저 녀석들 위로 점프해서 내리꽂을 수 있겠는데!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0132:0",
@@ -4435,17 +4435,17 @@
   "id": "hint:sksp0133:0",
   "src": "I'LL BET WE CAN GET ALL OF THOSE THINGS CHARGED AT ONCE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저거 한 번에 다 충전할 수 있을 것 같아!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0134:0",
   "src": "HOW 'BOUT WE TAKE IT EASY ON THOSE HOT PIPES?!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 뜨거운 파이프 좀 그만 들이받으면 안 될까?!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:sksp0135:0",
@@ -4475,9 +4475,9 @@
   "id": "hint:sksp0138:0",
   "src": "WE SHOULD SHOOT THOSE BIG BOULDERS HOLDING THE TETHER.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "밧줄을 붙잡고 있는 저 큰 바위들을 쏴야 해.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:sksp0139:0",
@@ -4515,17 +4515,17 @@
   "id": "hint:sksp0143:0",
   "src": "WAAH! BREAK THE TONGUE'S GRIP!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "으악! 혓바닥을 뿌리쳐!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:sksp0144:0",
   "src": "SHOOT THOSE RAT NESTS TO STOP THE RATS FROM COMING OUT.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "쥐 둥지를 쏴서 쥐들이 못 나오게 해.",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0145:0",
@@ -4587,17 +4587,17 @@
   "id": "hint:sksp0151:0",
   "src": "RUN AWAY, JAK!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "도망쳐, 잭!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0152:0",
   "src": "LOOK OUT, JAK! IT'S AN AMBUSH!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "조심해, 잭! 매복이야!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0153:0",
@@ -4635,41 +4635,41 @@
   "id": "hint:sksp0156:0",
   "src": "MAYBE WE CAN DUCK THE BATS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "숙이면 박쥐를 피할 수 있을지도!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 2차 검수 반영"
  },
  {
   "id": "hint:sksp0157:0",
   "src": "DID YOU SEE THAT? ONLY THREE MORE TETHERS TO GO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "봤어? 밧줄 세 개만 더 남았어!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:sksp0158:0",
   "src": "WOW! ONLY TWO MORE TETHERS.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "와! 이제 두 개 남았어.",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:sksp0159:0",
   "src": "THAT DIRIGIBLE'S BARELY HANGIN' ON! LET'S FIND THE LAST TETHER!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 비행선 겨우 매달려 있어! 마지막 밧줄을 찾자!",
+  "state": "needs_review",
+  "note": "초벌 b04 바위 마을 힌트"
  },
  {
   "id": "hint:sksp0160:0",
   "src": "HEY! THERE'S THE FLUT-FLUT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "야! 플럿플럿이다!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
  {
   "id": "hint:sksp0161:0",
@@ -4683,17 +4683,17 @@
   "id": "hint:sksp018a:0",
   "src": "THAT LAZY FARMER OWES US A POWER CELL!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 게으른 농부가 우리한테 파워 셀 빚졌어!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp018a:1",
   "src": "LET'S GO TALK TO HIM!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "가서 얘기 좀 하자!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0300:0",
@@ -4867,17 +4867,17 @@
   "id": "hint:sksp0321:0",
   "src": "WE DID IT! WE STOPPED THEM FROM BLOWIN' UP THE PASS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "해냈다! 놈들이 고갯길을 못 날려 버리게 막았어!",
+  "state": "needs_review",
+  "note": "초벌 b05 분지·도시·늪·산길 힌트; 확정: G-049; 확정 표기 반영"
  },
  {
   "id": "hint:sksp0327:0",
   "src": "I THINK THAT WAS THE LAST DARK ECO CRYSTAL!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그게 마지막 다크 이코 수정이었던 것 같아!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:sksp0328:0",
@@ -4915,25 +4915,25 @@
   "id": "hint:sksp0332:0",
   "src": "DON'T LET THE LIGHTS GO OUT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "불 꺼지면 안 돼!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:sksp0333:0",
   "src": "HIT A CRYSTAL TO GET SOME LIGHT.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "수정을 쳐서 빛을 내!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:sksp0334:0",
   "src": "RUN AWAY! THAT CRYSTAL'S GONNA BLOW!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "도망쳐! 수정이 터진다!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:sksp0335:0",
@@ -4987,9 +4987,9 @@
   "id": "hint:sksp0341:0",
   "src": "I THINK WE'RE IN A SPIDER'S NEST HERE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우리 거미 둥지에 들어온 것 같은데!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:sksp0342:0",
@@ -5011,17 +5011,17 @@
   "id": "hint:sksp0345:0",
   "src": "HOW DO WE GET INSIDE THIS FORT?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 요새엔 어떻게 들어가지?",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:sksp0346:0",
   "src": "MAYBE RED ECO CAN DEFEAT THIS GUY!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "레드 이코로 이 녀석을 이길 수 있을지도!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:sksp0347:0",
@@ -5051,9 +5051,9 @@
   "id": "hint:sksp0350:0",
   "src": "HIT HIM WHEN THE SPIKES ARE IN!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "가시가 들어갔을 때 쳐!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:sksp0351:0",
@@ -5083,9 +5083,9 @@
   "id": "hint:sksp0360:0",
   "src": "ALL RIGHT! WE TURNED ON THE CAPPED YELLOW ECO VENTS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋았어! 막힌 옐로우 이코 분출구를 켰어!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
  {
   "id": "hint:sksp0362:0",
@@ -5531,9 +5531,9 @@
   "id": "hint:sksp0435:0",
   "src": "KNOCK OVER THOSE BONES!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 뼈들을 쓰러뜨려!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0443:0",
@@ -5603,16 +5603,16 @@
   "id": "hint:sksp0b42:0",
   "src": "STOP MISSING THE YELLOW FISH, THEY WEIGH FIVE POUNDS EACH!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "노란 물고기 좀 그만 놓쳐, 한 마리에 5파운드라고!",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
  {
   "id": "hint:sksp0b42:1",
   "src": "AND THAT'S A LOTTA FISH, JAK.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그거 엄청난 양이야, 잭.",
+  "state": "needs_review",
+  "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  }
 ]
