@@ -3,9 +3,9 @@
   "id": "cut:minershort-resolution-2-orbs:0",
   "src": "OOH! OH, I GOT IT THIS TIME! UH...",
   "speaker": "WILLARD",
-  "ko": "오! 오, 이번엔 내가 할래! 어...",
+  "ko": "오! 오, 이번엔 나 알아! 어...",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021"
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021; 2차 검수 반영"
  },
  {
   "id": "cut:minershort-resolution-2-orbs:1",
@@ -35,9 +35,9 @@
   "id": "cut:minershort-resolution-2-orbs:4",
   "src": "YEAH, YEAH... WHAT HE SAID.",
   "speaker": "WILLARD",
-  "ko": "응, 응... 쟤 말대로.",
+  "ko": "응, 응... 그거, 쟤가 말한 거.",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021"
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021; 2차 검수 반영"
  },
  {
   "id": "cut:minershort-resolution-2-orbs:5",

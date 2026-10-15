@@ -11,9 +11,9 @@
   "id": "cut:minershort-introduction-orbs:1",
   "src": "YA THINK, WILLARD? HOWDY, STRANGERS, UH, PASSING THROUGH?",
   "speaker": "GORDY",
-  "ko": "그걸 이제 알았냐, 윌러드? 안녕들 하신가, 그냥 지나가는 길인가?",
+  "ko": "그걸 이제 알았냐, 윌러드? 어이, 낯선 양반들. 그냥 지나가는 길이야?",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020; 2차 검수 반영"
  },
  {
   "id": "cut:minershort-introduction-orbs:2",
@@ -27,9 +27,9 @@
   "id": "cut:minershort-introduction-orbs:3",
   "src": "DUH, I THOUGHT YOU SAID THIS WAS A PRICELESS GEM WORTH-",
   "speaker": "WILLARD",
-  "ko": "어, 이게 엄청 비싼 보석이라고 했잖아, 값이-",
+  "ko": "어, 값을 매길 수도 없는 보석이라며? 값이 무려-",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021"
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021; 2차 검수 반영"
  },
  {
   "id": "cut:minershort-introduction-orbs:4",
@@ -75,17 +75,17 @@
   "id": "cut:minershort-introduction-orbs:9",
   "src": "AND WE MIGHT BE WILLING TO PART WITH THEM FOR...",
   "speaker": "GORDY",
-  "ko": "기꺼이 넘길 수도 있다는 거지...",
+  "ko": "기꺼이 넘길 수도 있다 이거야, 값은...",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020; 2차 검수 반영"
  },
  {
   "id": "cut:minershort-introduction-orbs:10",
   "src": "90 ORBS EACH.",
   "speaker": "GORDY",
-  "ko": "하나에 오브 90개에.",
+  "ko": "하나에 오브 90개.",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020; 2차 검수 반영"
  },
  {
   "id": "cut:minershort-introduction-orbs:11",

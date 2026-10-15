@@ -11,9 +11,9 @@
   "id": "cut:sage-village3-introduction:1",
   "src": "HOLY YAKOW! THE RED SAGE'S LAB LOOKS WORSE THAN THE BLUE'S!",
   "speaker": "SAMOS",
-  "ko": "이런 야카우 같은! 레드 현자 연구실이 블루 쪽보다 더 엉망이구나!",
+  "ko": "야카우가 놀라 자빠지겠구나! 레드 현자 연구실이 블루 쪽보다 더 엉망이다!",
   "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을)"
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 2차 검수 반영"
  },
  {
   "id": "cut:sage-village3-introduction:2",
@@ -107,9 +107,9 @@
   "id": "cut:sage-village3-introduction:13",
   "src": "DON'T WORRY ABOUT YOUR COLORFUL FRIENDS, YOU OLD FOOL.",
   "speaker": "GOL",
-  "ko": "네 알록달록한 친구들 걱정은 마라, 늙은 바보.",
+  "ko": "알록달록한 네 친구들 걱정은 접어 둬, 이 늙은 바보야.",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-022"
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-022; 2차 검수 반영"
  },
  {
   "id": "cut:sage-village3-introduction:14",
@@ -211,9 +211,9 @@
   "id": "cut:sage-village3-introduction:26",
   "src": "BUT THAT'S IMPOSSIBLE! ONLY A PRECURSOR ROBOT-",
   "speaker": "SAMOS",
-  "ko": "하지만 그건 불가능해! 오직 프리커서 로봇만이-",
+  "ko": "하지만 그건 불가능하다! 오직 프리커서 로봇만이-",
   "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을)"
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 2차 검수 반영"
  },
  {
   "id": "cut:sage-village3-introduction:27",
@@ -227,9 +227,9 @@
   "id": "cut:sage-village3-introduction:28",
   "src": "WE'VE GOT BIG PLANS FOR YOU.",
   "speaker": "MAIA",
-  "ko": "당신을 위한 큰 계획이 있으니까.",
+  "ko": "당신한테는 큰 계획이 있거든요.",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-023"
+  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-023; 2차 검수 반영"
  },
  {
   "id": "cut:sage-village3-introduction:29",
@@ -275,9 +275,9 @@
   "id": "cut:sage-village3-introduction:34",
   "src": "I'M DOOMED.",
   "speaker": "DAXTER",
-  "ko": "난 끝났어.",
+  "ko": "난 끝장이야.",
   "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을)"
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 2차 검수 반영"
  },
  {
   "id": "cut:sage-village3-introduction:35",

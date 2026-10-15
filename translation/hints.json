@@ -1443,9 +1443,9 @@
   "id": "hint:MIN-LO01:2",
   "src": "YEAH. WHATEVER.",
   "speaker": "GORDY",
-  "ko": "그래. 아무렴.",
+  "ko": "그래, 그래. 됐고.",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020; 2차 검수 반영"
  },
  {
   "id": "hint:MIN-LO03:0",
@@ -1475,17 +1475,17 @@
   "id": "hint:MIN-LO04:0",
   "src": "DUH, GORDY? CAN I TAKE A BREAK?",
   "speaker": "WILLARD",
-  "ko": "어, 고디? 좀 쉬어도 돼?",
+  "ko": "어, 고디? 허리 좀 펴도 돼?",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021; 2차 검수 반영"
  },
  {
   "id": "hint:MIN-LO04:1",
   "src": "OH, I'LL BREAK SOMETHIN' ALRIGHT. NOW DIG!",
   "speaker": "GORDY",
-  "ko": "쉬긴 뭘 쉬어. 어서 파!",
+  "ko": "허리를 아주 꺾어 줄까? 어서 파!",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020; 2차 검수 반영"
  },
  {
   "id": "hint:MIN-LO05:0",
@@ -1507,17 +1507,17 @@
   "id": "hint:MIN-LO06:0",
   "src": "DUH, GORDY? I NEED A SHARPER PICK.",
   "speaker": "WILLARD",
-  "ko": "어, 고디? 더 날카로운 곡괭이가 필요해.",
+  "ko": "어, 고디? 곡괭이가 너무 무뎌.",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021; 2차 검수 반영"
  },
  {
   "id": "hint:MIN-LO06:1",
   "src": "WHAT YOU NEED IS A SHARPER WIT!",
   "speaker": "GORDY",
-  "ko": "너한테 필요한 건 더 날카로운 머리야!",
+  "ko": "무딘 건 네 머리야!",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020; 2차 검수 반영"
  },
  {
   "id": "hint:MSH-AM01:0",
@@ -1603,17 +1603,17 @@
   "id": "hint:MSH-AM12:0",
   "src": "SO, WILLARD. WHAT ARE YOU GONNA DO WITH",
   "speaker": "GORDY",
-  "ko": "그래서, 윌러드. 네 몫의 절반의",
+  "ko": "그래서, 윌러드. 네 몫으로 뭘 할 거냐?",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020; 2차 검수 반영"
  },
  {
   "id": "hint:MSH-AM12:1",
   "src": "YOUR QUARTER, OF YOUR HALF?",
   "speaker": "GORDY",
-  "ko": "4분의 1로 뭘 할 거냐?",
+  "ko": "네 절반의... 4분의 1 말이야.",
   "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020; 2차 검수 반영"
  },
  {
   "id": "hint:MSH-AM1A:0",
