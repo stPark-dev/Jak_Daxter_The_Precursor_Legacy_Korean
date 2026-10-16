@@ -33,3 +33,30 @@ tools/qa/runtime.sh stop
   매 빌드마다 덮어쓰므로 **편집기에서 한국어 문장을 고치면 안 된다** (수정은 `translation/` 에서).
 - 편집기는 재생·타이밍 참고용으로만 쓴다. 타이밍(meta) 변경이 필요하면 별도 결정으로 다룬다.
 - `subtitle-editor-db.json` 에 없는 컷신(예: `fishermans-boat-ride-to-village1-alt`)은 자동 재생 불가 → 실제 진행으로 확인.
+
+## 재생 DB 결함과 우회 (2026-10-16)
+
+- `subtitle-editor-db.json` 의 green-sagecage-* 는 어부 좌표(move_to 262,2,-231)를 갖고 있어 성채에서 엉뚱한 곳으로 순간이동 → 화면 정지처럼 보였다.
+  `play.py 장면@이어하기지점` 으로 지정하면 DB 위치 대신 그 지점만 쓴다.
+- DB 의 지연 키는 `delay` (편집기는 이를 delay_frames 로 읽음). play.py 가 `delay_frames` 만 읽던 버그 수정.
+- 레벨 이동 후 대기는 `@` 지정 여부와 관계없이 12초.
+- 캡처 전 매번 게임 창(xwininfo)을 확인하고, 창이 없으면 중단한다 (게임이 죽은 뒤 데스크톱이 찍힌 사고 → 즉시 삭제, 2026-10-16).
+- 성채 진입 시 그린 현자 우리 소개가 먼저 자동 재생된다 → 캡처 시간을 50초 늘려 뒤이어 나오는 장면을 확인.
+- 1.5초 안팎의 짧은 줄은 1초 간격 캡처(실제 약 1.8초)에서 빠질 수 있다 → 해당 시점 근처를 다시 촘촘히 확인.
+- 디버그 실행(-debug)에서는 text-id 가 zero 인 힌트에 "UNKNOWN TEXT ID" 가 뜬다 (ambient.gc, `*debug-segment*` 조건). 일반 실행·언어와 무관.
+
+## 2026-10-16 인게임 확인 결과
+
+| 장면 | 방법 | 결과 |
+|---|---|---|
+| fisher-reminder-1 → 낚시 질문(예/아니요) → fisher-reject, fisher-accept | 어부 상태를 직접 전환 (play-anim / play-reject / play-accept) | 전 줄 표시, 질문 화면 한국어 |
+| minershort-introduction-orbs | DB 재생 + 짧은 줄 재확인 | 전 줄 (15줄) |
+| asstvb24@ogre-start | 힌트 재생 | 전 줄 |
+| green-sagecage-introduction, redsage/bluesage/yellowsage-resolution | 이어하기 지점 + 긴 캡처 | 전 줄 |
+| green-sagecage-resolution → outro-preboss | 그린 현자 우리에 play-anim | 전 줄 |
+| finalbosscam-white-eco → daxter-sacrifice | robotboss 를 white-eco-movie 상태로 | 전 줄 |
+| outro-beat-boss-a → b → 엔딩 크레딧 | robotboss 에 white-eco-picked-up 이벤트 | 전 줄. **크레딧은 영어** (번역 대상 밖, 아래) |
+| outro-beat-boss-need-cells / enough-cells / big-finish | 상태 강제 시 sage-finalboss 가 죽음 (강제 조작 부작용) | **미검증** — 실제 진행(크레딧 후 문 앞) 필요 |
+| 진행 메뉴 임무 목록 | 새 게임에선 표시 안 됨, 같은 설정으로 직접 그려 폭 확인 | 실제 메뉴 표시는 미검증 |
+
+크레딧: `game_text.txt` 의 `(credits :begin #x0b00 ...)` 111항목 (제목·역할·인명). base 추출(279)에 포함되지 않았다.

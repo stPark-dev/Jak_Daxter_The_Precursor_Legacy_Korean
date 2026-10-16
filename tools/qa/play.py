@@ -41,7 +41,10 @@ def _position(entry):
     return forms
 
 
-def cutscene_forms(entry):
+def cutscene_forms(entry, continue_name=None):
+    """continue_name overrides the DB position (continue point only, no move_to)."""
+    if continue_name:
+        entry = dict(entry, continue_name=continue_name, move_to=[])
     forms = _reset()
     reqs = [r.replace("__GET-PROCESS__", _proc(entry)) for r in entry.get("requirements", [])]
     if entry.get("move_first"):
@@ -51,7 +54,7 @@ def cutscene_forms(entry):
     if entry.get("execute_code"):
         code = entry["execute_code"].replace("__GET-PROCESS__", _proc(entry))
         forms.append("(send-event *camera* 'teleport)")
-        delay = entry.get("delay_frames", 0)
+        delay = entry.get("delay", entry.get("delay_frames", 0))  # DB key is "delay"
         if delay:
             code = f"(process-spawn-function process (lambda () (dotimes (i {delay}) (suspend)) {code}))"
         forms.append(code)
@@ -75,9 +78,14 @@ def duration_seconds(meta_lines):
     return max(m["frame_start"] for m in meta_lines) / FPS
 
 
+def wait_for(form):
+    """Seconds to wait after sending a form: level changes need loading + the level-name card."""
+    return 12.0 if form.startswith("(start ") else 1.0
+
+
 def forms_for(name, db, hints, continue_name=None):
     if name in db:
-        return cutscene_forms(db[name])
+        return cutscene_forms(db[name], continue_name)
     if name in hints:
         return hint_forms(name, continue_name)
     raise KeyError(f"{name}: not in subtitle-editor-db.json and not a hint")
@@ -92,6 +100,10 @@ def _capture(win, out_dir, seconds, every=1.0):
     out_dir.mkdir(parents=True, exist_ok=True)
     frames, t0 = [], time.time()
     while time.time() - t0 < seconds:
+        # the game window only: if it is gone (crash), stop instead of grabbing whatever is on screen
+        if subprocess.run(["xwininfo", "-id", win], stdout=subprocess.DEVNULL,
+                          stderr=subprocess.DEVNULL).returncode != 0:
+            raise RuntimeError(f"game window {win} is gone; capture stopped")
         f = out_dir / f"f{len(frames):04d}.png"
         subprocess.run(["import", "-window", win, str(f)], check=False, stderr=subprocess.DEVNULL)
         frames.append(f)
@@ -127,7 +139,7 @@ def main():
         name, cont = parse_target(target)
         for form in forms_for(name, db, meta["hints"], cont):
             # after moving to another level, wait out loading and the level-name card
-            _send(form, wait=(12.0 if cont else 3.0) if form.startswith("(start ") else 1.0)
+            _send(form, wait=wait_for(form))
         lines = meta["cutscenes"][name] if name in meta["cutscenes"] else meta["hints"][name]["lines"]
         secs = duration_seconds(lines) + 6
         frames = _capture(win, QA / "frames" / name, secs)
