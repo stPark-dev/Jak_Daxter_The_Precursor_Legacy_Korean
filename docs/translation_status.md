@@ -1,6 +1,7 @@
 # 번역 진행 현황 (authoritative: translation/*.json 의 state, 이 문서는 요약)
 
-분모: 화면 텍스트 279 + OpenGOAL 메뉴 231 + 화자 27 + 자막 1,502 = 2,039 항목 (`tools/translation/cli.py init`).
+분모: 화면 텍스트 397 (메뉴·힌트 279 + 엔딩 크레딧 118) + OpenGOAL 메뉴 232 + 화자 27 + 자막 1,502 = 2,158 항목 (`tools/translation/cli.py init`).
+전 항목 검수 승인 (`distribution_eligible`, D-004). 아래 날짜별 기록의 수치는 당시 기준.
 
 ## 오프닝 (스토리 순서)
 
