@@ -4,15 +4,15 @@
   "src": "OH, GREAT MOVES, KID! I KNEW THAT TIME RECORD WOULD FALL.",
   "speaker": "GAMBLER",
   "ko": "오, 멋진데, 꼬마! 기록이 깨질 줄 알았다니까.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:gambler-resolution-race:1",
   "src": "NOW HERE'S YOUR POWER CELL, AND I CAN GO COLLECT MY BIG PAYOFF!",
   "speaker": "GAMBLER",
   "ko": "자 파워 셀 받아. 이제 나는 한몫 챙기러 가야지!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016; 사용자 일괄 승인 2026-10-16"
  }
 ]

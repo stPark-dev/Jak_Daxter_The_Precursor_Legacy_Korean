@@ -19,7 +19,7 @@
 | 원본 게임 텍스트 (메뉴·힌트·UI) | `decompiler_out/jak1/assets/game_text.txt` (group common, 언어 0–6) | 279 항목 / 영어 6,438자 / 1,157단어, 최장 103자 | 확정 |
 | OpenGOAL 추가 텍스트 | `game/assets/jak1/text/game_custom_text_en-US.json` | 231 문자열 / 552단어 | 확정 |
 | 자막 (cutscenes·hints·speakers) | `game/assets/jak1/subtitle/subtitle_lines_en-US.json` | 대사 1,502줄 + 화자 이름 27 = 1,529 문자열 (고유 1,496) / 11,175단어 | 확정 |
-| 그래픽 텍스트 (로고 등) | 텍스처 | — | 미해결 |
+| 그래픽 텍스트 (로고 등) | 텍스처 | — | 번역하지 않음 (D-004) |
 
 `*_ko-KR.json` 은 en-US 와 바이트 동일 (번역 0%). 합계 약 12,900 영어 단어.
 

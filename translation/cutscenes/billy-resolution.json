@@ -4,15 +4,15 @@
   "src": "WELL FRY MY HIDE! YOU SURE KNOW HOW TO SHOOT!",
   "speaker": "BILLY",
   "ko": "어이쿠야! 총 솜씨 하나는 끝내주는구먼!",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-resolution:1",
   "src": "THANKS A HEAP FOR THE HELP.",
   "speaker": "BILLY",
   "ko": "도와줘서 정말 고맙네.",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 사용자 일괄 승인 2026-10-16"
  }
 ]

@@ -4,23 +4,23 @@
   "src": "SEEK THE PURE LIGHT, FOR WITHIN ITS FLAME THE ANSWERS RESIDE.",
   "speaker": "ORACLE",
   "ko": "순수한 빛을 찾아라. 그 불꽃 안에 답이 있으니.",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을)"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:oracle-intro-3:1",
   "src": "YOU CAN GAIN MY POWER CELLS",
   "speaker": "ORACLE",
   "ko": "내 파워 셀을 얻으려면",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을)"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:oracle-intro-3:2",
   "src": "BY BRINGING 120 PRECURSOR ORBS FOR EACH.",
   "speaker": "ORACLE",
   "ko": "하나마다 프리커서 오브 120개를 가져오라.",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을)"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 사용자 일괄 승인 2026-10-16"
  }
 ]

@@ -4,95 +4,95 @@
   "src": "IT'S ABOUT TIME YOU TWO DECIDED TO SHOW UP!",
   "speaker": "SAMOS",
   "ko": "이제야 나타날 생각을 했구나!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-introduction:1",
   "src": "NICE TO SEE YOU TOO!",
   "speaker": "DAXTER",
   "ko": "나도 반가워!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-introduction:2",
   "src": "DO THEY HAVE YOU MOPPING THE FLOORS NOW?",
   "speaker": "DAXTER",
   "ko": "이젠 놈들이 바닥 걸레질까지 시켜?",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-introduction:3",
   "src": "THERE'S NO TIME FOR JOKES, DAXTER. GOL AND MAIA KIDNAPPED US",
   "speaker": "SAMOS",
   "ko": "농담할 시간 없다, 덱스터. 골과 마이아가 우리를 납치한 건",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-introduction:4",
   "src": "TO SAP OUR ENERGIES TO POWER THEIR ABOMINABLE MACHINE.",
   "speaker": "SAMOS",
   "ko": "우리 에너지를 빨아들여 그 흉측한 기계를 돌리려는 거다.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-introduction:5",
   "src": "IT APPEARS THEY HAVE COMBINED THE FUNCTIONAL REMAINS OF A PRECURSOR ROBOT",
   "speaker": "SAMOS",
   "ko": "놈들은 프리커서 로봇의 아직 작동하는 잔해에",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-introduction:6",
   "src": "WITH SCAVENGED ARTIFACTS FROM ACROSS THE LAND.",
   "speaker": "SAMOS",
   "ko": "온 땅에서 긁어모은 유물을 합친 모양이다.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-introduction:7",
   "src": "THEN THEY ADDED A FEW DIABOLICAL ADDITIONS OF THEIR OWN,",
   "speaker": "SAMOS",
   "ko": "거기에 자기들만의 사악한 장치를 몇 가지 덧붙여서",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-introduction:8",
   "src": "CREATING THE ONE THING CAPABLE OF OPENING THE DARK ECO SILOS.",
   "speaker": "SAMOS",
   "ko": "다크 이코 사일로를 열 수 있는 유일한 물건을 만든 게지.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-introduction:9",
   "src": "IF YOU CAN FREE THE FOUR OF US, WE CAN USE OUR COMBINED POWERS",
   "speaker": "SAMOS",
   "ko": "우리 넷을 풀어 주면, 힘을 합쳐",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-introduction:10",
   "src": "TO BREAK THE FORCE SHIELD SURROUNDING THE ROBOT",
   "speaker": "SAMOS",
   "ko": "로봇을 둘러싼 방어막을 깨뜨릴 수 있다.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-introduction:11",
   "src": "BEFORE THEY USE IT TO DESTROY THE WORLD.",
   "speaker": "SAMOS",
   "ko": "놈들이 그걸로 세상을 파괴하기 전에 말이다.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  }
 ]

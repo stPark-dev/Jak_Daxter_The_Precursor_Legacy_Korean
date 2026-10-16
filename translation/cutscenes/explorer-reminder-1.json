@@ -4,23 +4,23 @@
   "src": "WHAT? YOU DON'T HAVE THE FULL STASH? HARRUMPH!",
   "speaker": "JAK'S UNCLE",
   "ko": "뭐라고? 다 못 모았다고? 에헴!",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:explorer-reminder-1:1",
   "src": "WELL, ANY LESS THAN 90 PRECURSOR ORBS",
   "speaker": "JAK'S UNCLE",
   "ko": "글쎄, 프리커서 오브가 90개보다 하나라도 모자라면",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:explorer-reminder-1:2",
   "src": "AND I SHAN'T HAVE A CHANCE TO GET UNDERWAY, DEAR BOY.",
   "speaker": "JAK'S UNCLE",
   "ko": "출발할 엄두도 못 낸단다, 얘야.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012; 사용자 일괄 승인 2026-10-16"
  }
 ]

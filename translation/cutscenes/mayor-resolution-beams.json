@@ -4,31 +4,31 @@
   "src": "OH HO HO, WHAT A WONDERFUL SIGHT! I THANK YOU!",
   "speaker": "MAYOR",
   "ko": "오 호호, 정말 멋진 광경이로군! 고맙네!",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:mayor-resolution-beams:1",
   "src": "AND THE ENTIRE VILLAGE WILL THANK ME -",
   "speaker": "MAYOR",
   "ko": "온 마을이 나한테 고마워하겠지 -",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:mayor-resolution-beams:2",
   "src": "UH, BOYS, YOU HAVE RESTORED POWER TO THE VILLAGE AND GUARANTEED MY RE-ELECTION!",
   "speaker": "MAYOR",
   "ko": "어, 그러니까 자네들이 마을에 전력을 되살렸고, 내 재선도 확실해졌네!",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:mayor-resolution-beams:3",
   "src": "AND FOR THAT, MY BOY, YOU'VE EARNED A POWER CELL.",
   "speaker": "MAYOR",
   "ko": "그 공으로, 이 파워 셀은 자네 몫일세.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  }
 ]

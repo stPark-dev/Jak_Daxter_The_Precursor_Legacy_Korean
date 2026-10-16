@@ -4,103 +4,103 @@
   "src": "WELL, THE SITUATION HERE STINKS WORSE THAN A LURKER'S ARMPIT.",
   "speaker": "SAMOS",
   "ko": "흠, 여기 상황은 루커 겨드랑이보다 더 고약하구나.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-crop-dusting:1",
   "src": "BEFORE BLUE SAGE'S DISAPPEARANCE,",
   "speaker": "SAMOS",
   "ko": "블루 현자가 사라지기 전에,",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-crop-dusting:2",
   "src": "HE JOURNALED SIGNIFICANT TROUBLE IN ALL OF THE SURROUNDING AREAS.",
   "speaker": "SAMOS",
   "ko": "주변 곳곳에서 심각한 문제가 있다고 기록해 뒀다.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-crop-dusting:3",
   "src": "OF PARTICULAR INTEREST TO ME IS THE DARK ECO INFECTION",
   "speaker": "SAMOS",
   "ko": "특히 내 관심을 끄는 건 다크 이코에 감염된",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-crop-dusting:4",
   "src": "OF SOME INNOCENT PLANTS IN THE PRECURSOR BASIN.",
   "speaker": "SAMOS",
   "ko": "프리커서 분지의 죄 없는 식물들이다.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-036"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-036; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-crop-dusting:5",
   "src": "KEIRA WILL TELEPORT YOUR A-GRAV ZOOMER TO THE NEAREST TRANS-PAD.",
   "speaker": "SAMOS",
   "ko": "케이라가 가장 가까운 트랜스 패드로 네 반중력 주머를 보내 줄 게다.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-crop-dusting:6",
   "src": "RIDE THE ZOOMER TO A GREEN ECO VENT,",
   "speaker": "SAMOS",
   "ko": "주머를 타고 그린 이코 분출구로 가서,",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-crop-dusting:7",
   "src": "AND THEN CARRY THE GREEN ECO TO THE CORRUPTED PLANTS.",
   "speaker": "SAMOS",
   "ko": "그린 이코를 오염된 식물들에게 가져가거라.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-crop-dusting:8",
   "src": "THAT SHOULD HEAL THEM.",
   "speaker": "SAMOS",
   "ko": "그러면 나을 게다.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-crop-dusting:9",
   "src": "DON'T MISS A SINGLE PLANT, OR THE INFECTED ONES WILL SLOWLY RE-INFECT THE HEALTHY ONES.",
   "speaker": "SAMOS",
   "ko": "한 그루도 빠뜨리지 마라. 감염된 것들이 성한 것들을 다시 감염시킬 테니.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-crop-dusting:10",
   "src": "AND, DAXTER...",
   "speaker": "SAMOS",
   "ko": "그리고, 덱스터...",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-crop-dusting:11",
   "src": "START CLEANING UP IN HERE!",
   "speaker": "SAMOS",
   "ko": "여기 청소부터 시작해라!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-crop-dusting:12",
   "src": "AND DON'T FORGET THE CORNERS!",
   "speaker": "SAMOS",
   "ko": "구석구석 빼먹지 말고!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  }
 ]

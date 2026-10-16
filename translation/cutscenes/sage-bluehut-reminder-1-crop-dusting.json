@@ -4,23 +4,23 @@
   "src": "MY EYES MUST BE DECEIVING ME!",
   "speaker": "SAMOS",
   "ko": "내 눈이 날 속이는 게 틀림없구나!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-reminder-1-crop-dusting:1",
   "src": "BECAUSE I KNOW THAT THE TWO OF YOU ARE DEEP IN THE PRECURSOR BASIN,",
   "speaker": "SAMOS",
   "ko": "너희 둘은 지금 프리커서 분지 깊숙한 곳에서",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-036"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-036; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-reminder-1-crop-dusting:2",
   "src": "SAVING THE DARK ECO-INFECTED PLANTS.",
   "speaker": "SAMOS",
   "ko": "다크 이코에 감염된 식물들을 구하고 있을 테니까.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  }
 ]

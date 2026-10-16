@@ -4,55 +4,55 @@
   "src": "OOH! OH, I GOT IT THIS TIME! UH...",
   "speaker": "WILLARD",
   "ko": "오! 오, 이번엔 나 알아! 어...",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-021; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-021; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:minershort-resolution-2-orbs:1",
   "src": "HERE'S A...",
   "speaker": "WILLARD",
   "ko": "여기...",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을)"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:minershort-resolution-2-orbs:2",
   "src": "DUHH.. HERE'S A...!",
   "speaker": "WILLARD",
   "ko": "어어... 여기 그...!",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-021"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-021; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:minershort-resolution-2-orbs:3",
   "src": "A POWER CELL!",
   "speaker": "GORDY",
   "ko": "파워 셀!",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을)"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:minershort-resolution-2-orbs:4",
   "src": "YEAH, YEAH... WHAT HE SAID.",
   "speaker": "WILLARD",
   "ko": "응, 응... 그거, 쟤가 말한 거.",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-021; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-021; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:minershort-resolution-2-orbs:5",
   "src": "THAT'S IT. YOU'VE CLEANED US OUT.",
   "speaker": "GORDY",
   "ko": "이걸로 끝이야. 우리 거 싹 털어 갔네.",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:minershort-resolution-2-orbs:6",
   "src": "NO! MORE! POWER! CELLS!",
   "speaker": "GORDY",
   "ko": "이제! 파워 셀! 없어!",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020; 사용자 일괄 승인 2026-10-16"
  }
 ]

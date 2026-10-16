@@ -4,15 +4,15 @@
   "src": "WE CAN'T LET THE LURKERS GET THEIR HANDS ON THE DARK ECO CANISTERS.",
   "speaker": "SAMOS",
   "ko": "루커들이 다크 이코 통을 손에 넣게 둘 순 없다.",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을)"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-village3-reminder-1-rams:1",
   "src": "GET UP TO THOSE SNOWY PEAKS AND STOP THEM!",
   "speaker": "SAMOS",
   "ko": "저 설산 꼭대기로 올라가서 놈들을 막아라!",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: G-053"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: G-053; 사용자 일괄 승인 2026-10-16"
  }
 ]

@@ -4,63 +4,63 @@
   "src": "HEY, YOU TWO!",
   "speaker": "KEIRA",
   "ko": "어이, 너희 둘!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-robbers:1",
   "src": "I KNOW WHERE YOU CAN FIND ANOTHER POWER CELL!",
   "speaker": "KEIRA",
   "ko": "파워 셀을 하나 더 찾을 수 있는 곳을 알아!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-robbers:2",
   "src": "ACCORDING TO HIS NOTES,",
   "speaker": "KEIRA",
   "ko": "블루 현자 기록에 따르면,",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-robbers:3",
   "src": "A COUPLE OF DAYS AGO FLYING LURKERS STOLE ONE FROM THE BLUE SAGE,",
   "speaker": "KEIRA",
   "ko": "며칠 전에 날아다니는 루커들이 블루 현자한테서 하나를 훔쳐서",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-robbers:4",
   "src": "AND FLEW OFF INTO THE PRECURSOR BASIN.",
   "speaker": "KEIRA",
   "ko": "프리커서 분지로 날아갔대.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-036"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-036; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-robbers:5",
   "src": "I'LL BET YOU COULD RUN THOSE LURKERS DOWN WITH YOUR ZOOMER",
   "speaker": "KEIRA",
   "ko": "주머로 그 루커들을 하나씩 들이받다 보면",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-robbers:6",
   "src": "UNTIL YOU FIND THE ONE WITH THE POWER CELL.",
   "speaker": "KEIRA",
   "ko": "파워 셀을 가진 녀석을 찾을 수 있을 거야.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-robbers:7",
   "src": "YOU'LL FIND THE ZOOMER ON THE TRANS-PAD NEAR THE ENTRANCE TO THE PRECURSOR BASIN.",
   "speaker": "KEIRA",
   "ko": "주머는 프리커서 분지 입구 근처 트랜스 패드에 있을 거야.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-036"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-036; 사용자 일괄 승인 2026-10-16"
  }
 ]

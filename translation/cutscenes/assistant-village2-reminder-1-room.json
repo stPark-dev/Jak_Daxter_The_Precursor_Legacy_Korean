@@ -4,15 +4,15 @@
   "src": "DID YOU SWIM OUT TO THE LOST PRECURSOR CITY YET?",
   "speaker": "KEIRA",
   "ko": "잃어버린 프리커서 도시까지 헤엄쳐 가 봤어?",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-037"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-037; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-reminder-1-room:1",
   "src": "YOU SHOULD REALLY TRY AND RAISE THE ROOM THE BLUE SAGE WAS AFTER.",
   "speaker": "KEIRA",
   "ko": "블루 현자가 노리던 그 방, 꼭 한번 끌어올려 봐.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  }
 ]

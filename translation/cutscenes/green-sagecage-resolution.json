@@ -4,95 +4,95 @@
   "src": "GOOD WORK, BOYS! YOU'RE REAL HEROES NOW.",
   "speaker": "SAMOS",
   "ko": "잘했다, 얘들아! 이제 너희는 진짜 영웅이다.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-resolution:1",
   "src": "I'LL COMBINE MY GREEN ECO POWER WITH THE OTHER THREE SAGES",
   "speaker": "SAMOS",
   "ko": "내 그린 이코 힘을 다른 세 현자와 합쳐서",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-resolution:2",
   "src": "AND TOGETHER WE'LL OPEN THE SHIELD DOOR SURROUNDING THE PRECURSOR ROBOT.",
   "speaker": "SAMOS",
   "ko": "함께 프리커서 로봇을 둘러싼 방어문을 열겠다.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-resolution:3",
   "src": "YEAH YEAH THAT SOUNDS LIKE A GOOD START.",
   "speaker": "DAXTER",
   "ko": "그래, 그래, 시작은 좋네.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-resolution:4",
   "src": "AND THEN AFTER YOU GUYS OPEN THAT SHIELD",
   "speaker": "DAXTER",
   "ko": "그래서 그 방어막을 열고 나면",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-resolution:5",
   "src": "WHAT ARE YOU GONNA DO ABOUT THE ROBOT?",
   "speaker": "DAXTER",
   "ko": "그 로봇은 어떻게 할 건데?",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-resolution:6",
   "src": "NOTHING, DAXTER. WE HAVE TO KEEP THE SHIELD OPEN.",
   "speaker": "SAMOS",
   "ko": "아무것도 못 한다, 덱스터. 우리는 방어막을 열어 둬야 하니까.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-resolution:7",
   "src": "IT'S UP TO YOU TWO TO FIGURE OUT HOW TO DESTROY THE ROBOT.",
   "speaker": "SAMOS",
   "ko": "로봇을 부술 방법은 너희 둘이 알아내야 한다.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-resolution:8",
   "src": "OH, GREAT. I GET TO HELP THE GUY THAT TURNED ME INTO A FURBALL",
   "speaker": "DAXTER",
   "ko": "오, 신나네. 날 털뭉치로 만든 이 녀석을 도와서",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-resolution:9",
   "src": "DESTROY THE ONLY PERSON WHO CAN TURN ME BACK!",
   "speaker": "DAXTER",
   "ko": "날 되돌릴 수 있는 유일한 사람을 해치우라니!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-resolution:10",
   "src": "FIRST, SAVE THE WORLD!",
   "speaker": "SAMOS",
   "ko": "우선 세상부터 구해라!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-resolution:11",
   "src": "THEN WE'LL TRY TO CONVINCE GOL TO HELP DAXTER.",
   "speaker": "SAMOS",
   "ko": "그다음에 골을 설득해서 덱스터를 돕게 해 보마.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  }
 ]

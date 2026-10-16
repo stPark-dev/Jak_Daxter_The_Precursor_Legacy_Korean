@@ -4,15 +4,15 @@
   "src": "I'M SURE THE FLUT-FLUT COULD BE OF USE TO YOU IN THE SWAMP.",
   "speaker": "KEIRA",
   "ko": "늪에선 플럿플럿이 분명 쓸모 있을 거야.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-reminder-1-flutflut:1",
   "src": "FIND THE TRANS-PAD AND I'LL TELEPORT HER TO YOU.",
   "speaker": "KEIRA",
   "ko": "트랜스 패드를 찾으면 그 애를 보내 줄게.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  }
 ]

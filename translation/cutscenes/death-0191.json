@@ -4,15 +4,15 @@
   "src": "THAT LOOKS LIKE IT HURT.",
   "speaker": "DAXTER",
   "ko": "아파 보이는데.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:death-0191:1",
   "src": "SHOULD I CALL FOR BACKUP?",
   "speaker": "DAXTER",
   "ko": "지원 요청할까?",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  }
 ]

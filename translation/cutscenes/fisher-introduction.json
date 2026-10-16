@@ -4,111 +4,111 @@
   "src": "WHAT DO YOU HAVE IN THE BASKET?",
   "speaker": "DAXTER",
   "ko": "바구니에 뭐 들었어?",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fisher-introduction:1",
   "src": "NOTHING TO TALK ABOUT.",
   "speaker": "FISHERMAN",
   "ko": "자랑할 건 하나도 없다.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fisher-introduction:2",
   "src": "THEM MONSTERS PATROLIN' THE OCEAN",
   "speaker": "FISHERMAN",
   "ko": "바다를 순찰하는 그 괴물 놈들이",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fisher-introduction:3",
   "src": "TOOK A BITE OUT OF ME FISHIN' RIG.",
   "speaker": "FISHERMAN",
   "ko": "내 낚시 장비를 한입 뜯어 먹었지.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fisher-introduction:4",
   "src": "AND NOW THEY'RE GOBLIN' UP ME CATCH!",
   "speaker": "FISHERMAN",
   "ko": "이젠 내가 잡은 고기까지 먹어 치우고 있어!",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fisher-introduction:5",
   "src": "NO MATTER WHAT I TRY, I CAN'T SEEM TO CATCH A SINGLE FISH IN THIS RIVER.",
   "speaker": "FISHERMAN",
   "ko": "뭘 해 봐도 이 강에선 물고기 한 마리도 못 잡겠다.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fisher-introduction:6",
   "src": "WHOO! MAYBE... IT'S YOUR BREATH.",
   "speaker": "DAXTER",
   "ko": "후! 혹시... 입 냄새 때문 아냐?",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fisher-introduction:7",
   "src": "YOU THINK YOU CAN DO BETTER?",
   "speaker": "FISHERMAN",
   "ko": "네가 더 잘할 것 같냐?",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fisher-introduction:8",
   "src": "TRY SCOOPIN' UP RIVER FISH WITH A TINY NET!",
   "speaker": "FISHERMAN",
   "ko": "조그만 그물로 강물고기 한번 건져 봐라!",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fisher-introduction:9",
   "src": "I'LL GIVE YOU A POWER CELL",
   "speaker": "FISHERMAN",
   "ko": "파워 셀 하나 주마",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fisher-introduction:10",
   "src": "IF YOU CAN CATCH 200 POUNDS OF THEM CRITTERS!",
   "speaker": "FISHERMAN",
   "ko": "그 녀석들을 200파운드어치 잡으면!",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fisher-introduction:11",
   "src": "AND I'LL LET YOU AND SHRIMP HERE",
   "speaker": "FISHERMAN",
   "ko": "그리고 너랑 여기 멸치 녀석한테",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fisher-introduction:12",
   "src": "USE MY SPEEDBOAT TO GET TO MISTY ISLAND.",
   "speaker": "FISHERMAN",
   "ko": "미스티 섬까지 갈 내 쾌속정도 빌려주지.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fisher-introduction:13",
   "src": "YOU'S WANT TO TRY THE CHALLENGE?",
   "speaker": "FISHERMAN",
   "ko": "한번 해 볼 테냐?",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-009; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  }
 ]

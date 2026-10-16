@@ -4,63 +4,63 @@
   "src": "THOSE TWO COULD PROVE TO BE TROUBLE.",
   "speaker": "OLD MAN",
   "ko": "저 둘은 골칫거리가 될지도 모르겠군.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-014; V-013/V-014 개정 반영(연령 호칭·명령조 제거)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-014; V-013/V-014 개정 반영(연령 호칭·명령조 제거); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fishermans-boat-ride-to-village1-alt:1",
   "src": "DON'T WORRY, DEAR BROTHER. I'LL DISPATCH MY LURKER ARMY TO DEAL WITH THEM.",
   "speaker": "WOMAN",
   "ko": "걱정 말아요, 골. 우린 남매잖아요. 내 루커 군대를 보내 처리할게요.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-013, G-012; V-013/V-014 개정 반영(연령 호칭·명령조 제거); H-001 확정 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-013, G-012; V-013/V-014 개정 반영(연령 호칭·명령조 제거); H-001 확정 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fishermans-boat-ride-to-village1-alt:2",
   "src": "JUST MAKE SURE THEY DON'T GET TOO CLOSE TO OUR NORTHERN OPERATIONS.",
   "speaker": "OLD MAN",
   "ko": "다만 북쪽 작전 근처까지 오게 둬선 안 돼.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-014; V-013/V-014 개정 반영(연령 호칭·명령조 제거)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-014; V-013/V-014 개정 반영(연령 호칭·명령조 제거); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fishermans-boat-ride-to-village1-alt:3",
   "src": "I DOUBT THEY'LL GET THAT FAR.",
   "speaker": "WOMAN",
   "ko": "거기까지 가지도 못할 거예요.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-013; V-013/V-014 개정 반영(연령 호칭·명령조 제거)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-013; V-013/V-014 개정 반영(연령 호칭·명령조 제거); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fishermans-boat-ride-to-village1-alt:4",
   "src": "BUT IF THEY DO, A SURPRISE WILL BE WAITING FOR THEM IN ROCK VILLAGE.",
   "speaker": "WOMAN",
   "ko": "만약 간다 해도, 바위 마을에서 깜짝 선물이 기다리고 있을 테니까요.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-013, G-029; V-013/V-014 개정 반영(연령 호칭·명령조 제거)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-013, G-029; V-013/V-014 개정 반영(연령 호칭·명령조 제거); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fishermans-boat-ride-to-village1-alt:5",
   "src": "SO... YOU'RE GOING TO LET KLAWW OUT OF HIS CAGE?",
   "speaker": "OLD MAN",
   "ko": "그럼... 클로를 우리에서 풀어 주겠다는 거야?",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-014; V-013/V-014 개정 반영(연령 호칭·명령조 제거)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-014; V-013/V-014 개정 반영(연령 호칭·명령조 제거); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fishermans-boat-ride-to-village1-alt:6",
   "src": "I THINK IT'S WORTH THE RISK.",
   "speaker": "WOMAN",
   "ko": "위험을 감수할 만하다고 봐요.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-013; V-013/V-014 개정 반영(연령 호칭·명령조 제거)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-013; V-013/V-014 개정 반영(연령 호칭·명령조 제거); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:fishermans-boat-ride-to-village1-alt:7",
   "src": "INDEED.",
   "speaker": "OLD MAN",
   "ko": "그렇군.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-014; V-013/V-014 개정 반영(연령 호칭·명령조 제거)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-014; V-013/V-014 개정 반영(연령 호칭·명령조 제거); 사용자 일괄 승인 2026-10-16"
  }
 ]

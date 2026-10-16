@@ -4,175 +4,175 @@
   "src": "WHAT IN GREEN TARNATION DO YOU TWO WANT?",
   "speaker": "SAMOS",
   "ko": "이런 초록 날벼락을 봤나! 너희 둘, 뭘 원하느냐?",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:1",
   "src": "WE- WE- WE WAS- THEY WAS- I'M- I WAS-",
   "speaker": "DAXTER",
   "ko": "우, 우리가- 쟤가- 내가-",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:2",
   "src": "DON'T TELL ME! INSTEAD OF HEEDING MY WISDOM",
   "speaker": "SAMOS",
   "ko": "말 안 해도 안다! 내 지혜로운 충고는 귓등으로 듣고",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:3",
   "src": "THE TWO OF YOU WENT MUCKING AROUND",
   "speaker": "SAMOS",
   "ko": "둘이서 쏘다니며 말썽을 피웠겠지.",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:4",
   "src": "IN THE ONLY PLACE THAT I TOLD YOU NOT TO GO: MISTY ISLAND!",
   "speaker": "SAMOS",
   "ko": "그것도 내가 가지 말라고 한 딱 한 곳, 미스티 섬에서!",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:5",
   "src": "THAT'S RIGHT! AND THEN-",
   "speaker": "DAXTER",
   "ko": "맞아! 그러고 나서-",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:6",
   "src": "AND, DAXTER, YOU FINALLY TOOK A MUCH-NEEDED BATH",
   "speaker": "SAMOS",
   "ko": "그리고 덱스터, 네 녀석은 드디어 밀린 목욕을 했구나.",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:7",
   "src": "BUT IN A BATHTUB FILLED WITH DARK ECO.",
   "speaker": "SAMOS",
   "ko": "그것도 다크 이코가 가득 찬 욕조에서 말이다.",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:8",
   "src": "LOOK, OLD MAN, ARE YOU GONNA KEEP YAPPIN'",
   "speaker": "DAXTER",
   "ko": "이봐, 영감. 계속 잔소리만 할 거야",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:9",
   "src": "OR YOU GONNA HELP ME OUTTA THIS MESS!?",
   "speaker": "DAXTER",
   "ko": "아니면 이 꼴 좀 어떻게 해 줄 거야!?",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:10",
   "src": "I'M GONNA KEEP YAPPIN'! BECAUSE IN MY PROFESSIONAL OPINION",
   "speaker": "SAMOS",
   "ko": "계속 잔소리할 거다! 전문가인 내가 보기엔",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:11",
   "src": "THE CHANGE IS AN IMPROVEMENT.",
   "speaker": "SAMOS",
   "ko": "오히려 지금 꼴이 더 낫거든.",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:12",
   "src": "AND BESIDES... I COULDN'T HELP YOU IF I WANTED TO.",
   "speaker": "SAMOS",
   "ko": "게다가... 도와주고 싶어도 도와줄 수가 없다.",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:13",
   "src": "WHAT!?",
   "speaker": "DAXTER",
   "ko": "뭐!?",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:14",
   "src": "THERE'S ONLY ONE PERSON WHO HAS STUDIED DARK ECO LONG ENOUGH",
   "speaker": "SAMOS",
   "ko": "다크 이코를 오래 연구해서 너를 원래 모습으로",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:15",
   "src": "TO HAVE A CHANCE AT RETURNING YOU TO YOUR PREVIOUS FORM:",
   "speaker": "SAMOS",
   "ko": "되돌릴 가망이 있는 사람은 딱 하나뿐이다.",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:16",
   "src": "GOL ACHERON, THE SAGE.",
   "speaker": "SAMOS",
   "ko": "현자 골 아크론.",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:17",
   "src": "BUT HE LIVES FAR TO THE NORTH. FAR, FAR TO THE NORTH.",
   "speaker": "SAMOS",
   "ko": "하지만 그 양반은 저 멀리 북쪽에 산다. 아주, 아주 먼 북쪽에.",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:18",
   "src": "NOBODY HAS SPOKEN TO HIM IN AGES.",
   "speaker": "SAMOS",
   "ko": "아무도 그 양반과 연락을 못 한 지 오래다.",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:19",
   "src": "I WOULD TELEPORT YOU THERE, BUT I CAN'T DO THAT EITHER.",
   "speaker": "SAMOS",
   "ko": "거기로 순간이동이라도 시켜 주련만, 그것도 안 된다.",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:20",
   "src": "NONE OF THE THREE SAGES THAT MAINTAIN THE OTHER TELEPORTER GATES",
   "speaker": "SAMOS",
   "ko": "다른 워프 게이트를 맡은 현자 셋이 하나같이",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-intro-sequence-d1:21",
   "src": "HAVE SEEN FIT TO TURN THEIR ENDS ON FOR QUITE A WHILE!",
   "speaker": "SAMOS",
   "ko": "한참째 자기 쪽 게이트를 켜지 않고 있거든!",
-  "state": "needs_review",
-  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정"
+  "state": "distribution_eligible",
+  "note": "오프닝 조건부 승인 반영 (2026-10-15). 용어 G-003/G-005/G-015/G-016 패치 확정; 사용자 일괄 승인 2026-10-16"
  }
 ]

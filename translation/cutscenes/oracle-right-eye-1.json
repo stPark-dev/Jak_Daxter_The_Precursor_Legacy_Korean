@@ -4,7 +4,7 @@
   "src": "FOR YOUR GIFT, ANOTHER POWER CELL IS YOURS.",
   "speaker": "ORACLE",
   "ko": "그 선물에 대한 답례로, 파워 셀을 하나 더 주겠다.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-018; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-018; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  }
 ]

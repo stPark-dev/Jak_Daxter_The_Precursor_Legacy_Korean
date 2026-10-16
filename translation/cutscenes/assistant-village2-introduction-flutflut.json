@@ -4,79 +4,79 @@
   "src": "BACK AGAIN, BOYS?",
   "speaker": "KEIRA",
   "ko": "또 왔어, 꼬마들?",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-flutflut:1",
   "src": "\"BOY\"?",
   "speaker": "DAXTER",
   "ko": "꼬마?",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-flutflut:2",
   "src": "HEY BABE, I'M A FULL-GROWN...",
   "speaker": "DAXTER",
   "ko": "이봐 자기, 난 다 큰...",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-flutflut:3",
   "src": "AH...",
   "speaker": "DAXTER",
   "ko": "아...",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-flutflut:4",
   "src": "SOMETHIN'... SOMETHIN' FUZZY.",
   "speaker": "DAXTER",
   "ko": "뭔가... 뭔가 털북숭이지.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-flutflut:5",
   "src": "OH, GUESS WHAT? WITH PERMISSION FROM OUR VILLAGE BIRDWATCHER,",
   "speaker": "KEIRA",
   "ko": "아, 그거 알아? 우리 마을 탐조가 허락을 받아서,",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-flutflut:6",
   "src": "I'VE OUTFITTED THE BABY FLUT-FLUT WITH A RIDING SADDLE.",
   "speaker": "KEIRA",
   "ko": "아기 플럿플럿한테 안장을 달아 놨어.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-flutflut:7",
   "src": "IT APPEARS THERE'S A PRECURSOR TRANS-PAD IN THE BOGGY SWAMP.",
   "speaker": "KEIRA",
   "ko": "진창 늪에 프리커서 트랜스 패드가 있는 것 같아.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-035; G-035/G-040 확정 표기 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-035; G-035/G-040 확정 표기 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-flutflut:8",
   "src": "IF YOU CAN FIND IT, I'LL SEND YOU THE FLUT-FLUT IN FULL RIDING REGALIA.",
   "speaker": "KEIRA",
   "ko": "그걸 찾으면 안장까지 다 갖춘 플럿플럿을 보내 줄게.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction-flutflut:9",
   "src": "HER LONG JUMP MIGHT COME IN HANDY WHEN YOU'RE CROSSING THE TAR.",
   "speaker": "KEIRA",
   "ko": "타르 위를 건널 때 그 애의 멀리뛰기가 쓸모 있을 거야.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  }
 ]

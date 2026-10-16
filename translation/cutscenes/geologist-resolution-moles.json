@@ -4,23 +4,23 @@
   "src": "THANK YOU FOR SAVING THOSE MOLES, THAT'S AWFULLY GOOD OF YOU.",
   "speaker": "GEOLOGIST",
   "ko": "두더지들을 구해 줘서 고마워요, 정말 친절하시네요.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:geologist-resolution-moles:1",
   "src": "HERE'S A POWER CELL TO HELP YOU OUT.",
   "speaker": "GEOLOGIST",
   "ko": "도움이 되게 파워 셀을 드릴게요.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:geologist-resolution-moles:2",
   "src": "NOW I CAN GET BACK TO MY RESEARCH!",
   "speaker": "GEOLOGIST",
   "ko": "이제 연구로 돌아갈 수 있겠어요!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017; 사용자 일괄 승인 2026-10-16"
  }
 ]

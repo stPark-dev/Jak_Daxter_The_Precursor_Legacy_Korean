@@ -4,39 +4,39 @@
   "src": "LIGHT ECO! THAT COULD BE THE STUFF TO CHANGE ME BACK!",
   "speaker": "DAXTER",
   "ko": "라이트 이코! 저거면 날 되돌릴 수 있을지도!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-daxter-sacrifice:1",
   "src": "OR... IT MIGHT STOP THAT ROBOT.",
   "speaker": "DAXTER",
   "ko": "아니면... 저 로봇을 막을 수도 있고.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-daxter-sacrifice:2",
   "src": "STAY FUZZY, SAVE THE WORLD... CHOICES...",
   "speaker": "DAXTER",
   "ko": "털북숭이로 남아서 세상을 구하느냐... 고민되네...",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-daxter-sacrifice:3",
   "src": "OKAY, FINE, WE'LL SAVE THE WORLD.",
   "speaker": "DAXTER",
   "ko": "그래, 좋아, 세상을 구하자.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-daxter-sacrifice:4",
   "src": "BUT DO IT QUICKLY BEFORE I CHANGE MY MIND!",
   "speaker": "DAXTER",
   "ko": "근데 내 마음 바뀌기 전에 빨리 해!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  }
 ]

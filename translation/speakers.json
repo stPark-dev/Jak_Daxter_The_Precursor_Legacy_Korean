@@ -3,189 +3,189 @@
   "id": "speaker:???",
   "src": "???",
   "ko": "???",
-  "state": "needs_review",
-  "note": "L-004"
+  "state": "distribution_eligible",
+  "note": "L-004; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:BILLY",
   "src": "BILLY",
   "ko": "빌리",
-  "state": "needs_review",
-  "note": "확정: S-015"
+  "state": "distribution_eligible",
+  "note": "확정: S-015; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:BIRDWATCHER",
   "src": "BIRDWATCHER",
   "ko": "탐조가",
-  "state": "needs_review",
-  "note": "확정: S-008 (표시명만, 화자 ID 유지)"
+  "state": "distribution_eligible",
+  "note": "확정: S-008 (표시명만, 화자 ID 유지); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:BLUE SAGE",
   "src": "BLUE SAGE",
   "ko": "블루 현자",
-  "state": "needs_review",
-  "note": "G-030 확정 표기"
+  "state": "distribution_eligible",
+  "note": "G-030 확정 표기; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:DAXTER",
   "src": "DAXTER",
   "ko": "덱스터",
-  "state": "needs_review",
-  "note": "G-003/G-002/G-004 확정"
+  "state": "distribution_eligible",
+  "note": "G-003/G-002/G-004 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:FARMER",
   "src": "FARMER",
   "ko": "농부",
-  "state": "needs_review",
-  "note": "확정: S-007 (표시명만, 화자 ID 유지)"
+  "state": "distribution_eligible",
+  "note": "확정: S-007 (표시명만, 화자 ID 유지); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:FISHERMAN",
   "src": "FISHERMAN",
   "ko": "어부",
-  "state": "needs_review",
-  "note": "확정: S-006 (표시명만, 화자 ID 유지)"
+  "state": "distribution_eligible",
+  "note": "확정: S-006 (표시명만, 화자 ID 유지); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:FLUT-FLUT",
   "src": "FLUT-FLUT",
   "ko": "플럿플럿",
-  "state": "needs_review",
-  "note": "확정: G-014 (표시명만, 화자 ID 유지)"
+  "state": "distribution_eligible",
+  "note": "확정: G-014 (표시명만, 화자 ID 유지); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:GAMBLER",
   "src": "GAMBLER",
   "ko": "도박꾼",
-  "state": "needs_review",
-  "note": "확정: S-013"
+  "state": "distribution_eligible",
+  "note": "확정: S-013; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:GEOLOGIST",
   "src": "GEOLOGIST",
   "ko": "지질학자",
-  "state": "needs_review",
-  "note": "확정: S-014"
+  "state": "distribution_eligible",
+  "note": "확정: S-014; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:GOL",
   "src": "GOL",
   "ko": "골",
-  "state": "needs_review",
-  "note": "G-005 확정 (골)"
+  "state": "distribution_eligible",
+  "note": "G-005 확정 (골); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:GORDY",
   "src": "GORDY",
   "ko": "고디",
-  "state": "needs_review",
-  "note": "확정: S-016"
+  "state": "distribution_eligible",
+  "note": "확정: S-016; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:JAK",
   "src": "JAK",
   "ko": "잭",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:JAK'S UNCLE",
   "src": "JAK'S UNCLE",
   "ko": "잭의 삼촌",
-  "state": "needs_review",
-  "note": "확정: S-010 (표시명만, 화자 ID 유지)"
+  "state": "distribution_eligible",
+  "note": "확정: S-010 (표시명만, 화자 ID 유지); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:KEIRA",
   "src": "KEIRA",
   "ko": "케이라",
-  "state": "needs_review",
-  "note": "G-003/G-002/G-004 확정"
+  "state": "distribution_eligible",
+  "note": "G-003/G-002/G-004 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:MAIA",
   "src": "MAIA",
   "ko": "마이아",
-  "state": "needs_review",
-  "note": "확정: G-005a"
+  "state": "distribution_eligible",
+  "note": "확정: G-005a; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:MAYOR",
   "src": "MAYOR",
   "ko": "시장",
-  "state": "needs_review",
-  "note": "확정: S-005 (표시명만, 화자 ID 유지)"
+  "state": "distribution_eligible",
+  "note": "확정: S-005 (표시명만, 화자 ID 유지); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:MINER",
   "src": "MINER",
   "ko": "윌러드",
-  "state": "needs_review",
-  "note": "확정: S-018 (유일한 줄이 윌러드 — 표시명만 통일, ID 유지)"
+  "state": "distribution_eligible",
+  "note": "확정: S-018 (유일한 줄이 윌러드 — 표시명만 통일, ID 유지); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:OLD MAN",
   "src": "OLD MAN",
   "ko": "노인",
-  "state": "needs_review",
-  "note": "S-002/S-003 확정 (표시명만, 화자 ID 유지)"
+  "state": "distribution_eligible",
+  "note": "S-002/S-003 확정 (표시명만, 화자 ID 유지); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:ORACLE",
   "src": "ORACLE",
   "ko": "오라클",
-  "state": "needs_review",
-  "note": "확정: S-011"
+  "state": "distribution_eligible",
+  "note": "확정: S-011; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:RED SAGE",
   "src": "RED SAGE",
   "ko": "레드 현자",
-  "state": "needs_review",
-  "note": "G-030 확정 표기"
+  "state": "distribution_eligible",
+  "note": "G-030 확정 표기; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:SAMOS",
   "src": "SAMOS",
   "ko": "사모스",
-  "state": "needs_review",
-  "note": "G-003/G-002/G-004 확정"
+  "state": "distribution_eligible",
+  "note": "G-003/G-002/G-004 확정; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:SCULPTOR",
   "src": "SCULPTOR",
   "ko": "조각가",
-  "state": "needs_review",
-  "note": "확정: S-009 (표시명만, 화자 ID 유지)"
+  "state": "distribution_eligible",
+  "note": "확정: S-009 (표시명만, 화자 ID 유지); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:WARRIOR",
   "src": "WARRIOR",
   "ko": "전사",
-  "state": "needs_review",
-  "note": "확정: S-012"
+  "state": "distribution_eligible",
+  "note": "확정: S-012; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:WILLARD",
   "src": "WILLARD",
   "ko": "윌러드",
-  "state": "needs_review",
-  "note": "확정: S-017"
+  "state": "distribution_eligible",
+  "note": "확정: S-017; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:WOMAN",
   "src": "WOMAN",
   "ko": "여인",
-  "state": "needs_review",
-  "note": "S-002/S-003 확정 (표시명만, 화자 ID 유지)"
+  "state": "distribution_eligible",
+  "note": "S-002/S-003 확정 (표시명만, 화자 ID 유지); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "speaker:YELLOW SAGE",
   "src": "YELLOW SAGE",
   "ko": "옐로우 현자",
-  "state": "needs_review",
-  "note": "G-030 확정 표기"
+  "state": "distribution_eligible",
+  "note": "G-030 확정 표기; 사용자 일괄 승인 2026-10-16"
  }
 ]

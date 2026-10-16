@@ -4,47 +4,47 @@
   "src": "HEY BABY, WHAT'CHA WORKIN' ON?",
   "speaker": "DAXTER",
   "ko": "어이 자기, 뭐 만들어?",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-introduction-race-bike:1",
   "src": "BE CAREFUL WITH THAT! I'M TRYING TO FIGURE HOW TO TRANSPORT THE ZOOMER",
   "speaker": "KEIRA",
   "ko": "그거 조심해! 주머를 옮길 방법을 궁리하는 중이거든.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-005"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-005; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-introduction-race-bike:2",
   "src": "USING THE TRANS-PADS THE PRECURSORS LEFT ALL OVER THE WORLD.",
   "speaker": "KEIRA",
   "ko": "프리커서들이 세상 곳곳에 남긴 트랜스 패드를 써서 말이야.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-022, V-005"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-022, V-005; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-introduction-race-bike:3",
   "src": "IF YOU COME ACROSS ONE OF THESE PADS I CAN LOCK ON TO YOUR COMMUNICATOR'S LOCATION",
   "speaker": "KEIRA",
   "ko": "이 패드를 찾으면 네 통신기 위치를 잡아서",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-022, V-005"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-022, V-005; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-introduction-race-bike:4",
   "src": "AND SEND YOU THE ZOOMER!",
   "speaker": "KEIRA",
   "ko": "주머를 보내 줄 수 있어!",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-005"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-005; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-introduction-race-bike:5",
   "src": "KEEP AN EYE OUT FOR A TRANS-PAD WHEN YOU EXPLORE MISTY ISLAND, AND WHEREVER ELSE YOU GO!",
   "speaker": "KEIRA",
   "ko": "미스티 섬을 탐험할 때도, 어디를 가든 트랜스 패드를 잘 찾아봐!",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-022, V-005"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-022, V-005; 사용자 일괄 승인 2026-10-16"
  }
 ]

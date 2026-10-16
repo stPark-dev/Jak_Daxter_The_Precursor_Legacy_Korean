@@ -4,13 +4,14 @@ PS2 『Jak and Daxter: The Precursor Legacy』(잭 1편)를 PC 포트 [OpenGOAL]
 
 ![표지](cover_ko.png)
 
-> 진행 중인 작업입니다. 현황은 [docs/translation_status.md](docs/translation_status.md)를 보세요.
+> 번역 전체(2,158항목) 완료·검수 승인. 현황은 [docs/translation_status.md](docs/translation_status.md)를 보세요.
 
 ## 무엇을 하나
 
 - **한글 표시**: 1편 폰트에는 한글이 없어서, 폰트 텍스처를 확장하고 새 코드페이지(리드 바이트 2·4–9·11·12·14·15 + 글리프 바이트)를 엔진에 추가했습니다. 최대 2,035 음절.
 - **서체**: 메뉴는 배민 주아체, 자막은 Pretendard SemiBold (둘 다 OFL).
-- **번역 범위**: 메뉴·힌트 텍스트, OpenGOAL 추가 메뉴, 컷신·힌트 자막 (총 2,039 항목). 음성은 영어 원본 그대로.
+- **번역 범위**: 메뉴·힌트 텍스트, OpenGOAL 추가 메뉴, 컷신·힌트 자막, 엔딩 크레딧 제목·역할명 (총 2,158 항목). 음성은 영어 원본 그대로.
+- **번역하지 않은 것**: 텍스처로 그려진 글자(타이틀 로고, 진행 메뉴의 "AUTO SAVE OFF" 등), 크레딧의 인명·회사명.
 - **언어**: OpenGOAL 의 예약 언어 ID 17(korean)로 텍스트·자막 언어에 추가.
 
 ## 필요한 것
@@ -18,15 +19,33 @@ PS2 『Jak and Daxter: The Precursor Legacy』(잭 1편)를 PC 포트 [OpenGOAL]
 - 본인 소유의 **Jak and Daxter: The Precursor Legacy NTSC-U (SCUS-97124, Black Label) ISO**. 게임 데이터는 이 저장소에 포함되지 않습니다.
 - Linux, clang, cmake, ninja, nasm, python3 (+ Pillow, pytest), `libssl-dev` 등 [OpenGOAL 빌드 요구 사항](https://github.com/open-goal/jak-project#building-and-running-the-game)
 
-## 빌드
+## 설치
 
-```bash
-tools/setup_opengoal.sh /path/to/jak1.iso   # OpenGOAL 받기 + 패치 적용 + 빌드 + ISO 추출
-tools/build_kr.sh dev                        # 번역 내보내기 → 한글 폰트 생성 → 게임 빌드
-```
+1. 이 저장소를 받습니다.
+   ```bash
+   git clone https://github.com/stPark-dev/Jak_Daxter_The_Precursor_Legacy_Korean.git
+   cd Jak_Daxter_The_Precursor_Legacy_Korean
+   ```
+2. OpenGOAL 을 받아 한글 패치를 적용하고 빌드한 뒤, 본인 ISO 를 추출합니다 (처음 한 번, 수십 분 걸림).
+   ```bash
+   tools/setup_opengoal.sh /path/to/jak1.iso
+   ```
+3. 한글 폰트를 만들고 번역을 넣어 게임을 빌드합니다.
+   ```bash
+   tools/build_kr.sh release
+   ```
+   (`dev` 는 작업용으로 미번역 줄을 영어 원문으로 채웁니다. `release` 는 모든 줄이 검수 승인일 때만 성공합니다.)
+4. 실행합니다.
+   ```bash
+   jak-project/build/Release/bin/game/gk -- -boot -fakeiso
+   ```
+5. 게임에서 START → 옵션 → 게임 옵션으로 가서 **텍스트 언어**와 **자막 언어**를 **한국어**로 바꿉니다.
+   "음성 언어"는 영어 그대로 두세요 (음성은 영어만 있습니다).
 
-실행은 `jak-project/build/Release/bin/game/gk -- -boot -fakeiso` 후 설정에서 텍스트·자막 언어를 한국어(17)로 바꿉니다.
-(`dev` 빌드는 미번역 줄을 영어 원문으로 채우며 배포용이 아닙니다. `release` 는 모든 줄이 검수 완료일 때만 성공합니다.)
+### 문제 해결
+
+- `setup_opengoal.sh` 는 OpenGOAL `b6c8430` 에 패치를 적용합니다. 이미 `jak-project/` 에 다른 수정이 있으면 패치가 실패하니 지우고 다시 실행하세요.
+- 확인한 ISO 는 NTSC-U Black Label (SCUS-97124) 뿐입니다. 다른 판(Greatest Hits, PAL, 일본판)은 확인하지 않았습니다.
 
 ## 저장소 구성
 

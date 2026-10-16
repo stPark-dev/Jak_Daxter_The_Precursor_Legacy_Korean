@@ -4,15 +4,15 @@
   "src": "DID YOU HERD THOSE LIGHTNING MOLES BACK UNDERGROUND?",
   "speaker": "GEOLOGIST",
   "ko": "번개 두더지들 다시 땅속으로 몰아넣었어요?",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017, G-039"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017, G-039; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:geologist-reminder-moles:1",
   "src": "YOU SHOULD HURRY - THE DIRECT SUNLIGHT ISN'T GOOD FOR THEM!",
   "speaker": "GEOLOGIST",
   "ko": "서둘러 주세요. 직사광선은 두더지들한테 안 좋거든요!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-017; 사용자 일괄 승인 2026-10-16"
  }
 ]

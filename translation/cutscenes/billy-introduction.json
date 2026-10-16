@@ -4,127 +4,127 @@
   "src": "HOWDY, FRIENDS! ENJOYIN' MY BEAUTIFUL SWAMP?",
   "speaker": "BILLY",
   "ko": "반갑구먼, 친구들! 내 멋진 늪 맘에 드나?",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: S-015, V-019"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: S-015, V-019; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:1",
   "src": "I OWN THESE HERE PARTS.",
   "speaker": "BILLY",
   "ko": "이 일대가 다 내 땅이지.",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:2",
   "src": "EVERYTHING THAT DOESN'T SINK INTO THE MUD, THAT IS! HA HA HA...",
   "speaker": "BILLY",
   "ko": "진흙에 안 가라앉는 건 전부 말이지! 하하하...",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:3",
   "src": "JUDGING BY THE SMELL, I'D WAGER YOUR",
   "speaker": "DAXTER",
   "ko": "냄새로 봐선 아저씨네 욕조는",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:4",
   "src": "BATHTUB SANK IN THE MUD LONG AGO.",
   "speaker": "DAXTER",
   "ko": "진작에 진흙 속에 가라앉았겠는걸.",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:5",
   "src": "WHAT'S A BATHTUB?",
   "speaker": "BILLY",
   "ko": "욕조가 뭔데?",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:6",
   "src": "ANYWAY I GOT BIGGER PROBLEMS NOW...",
   "speaker": "BILLY",
   "ko": "아무튼 지금 더 큰 문제가 생겼어...",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:7",
   "src": "SEEMS SOME NASTY LURKER VARMINTS ARE GROUSIN' ABOUTS,",
   "speaker": "BILLY",
   "ko": "고약한 루커 놈들이 이 근처를 어슬렁거리면서",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:8",
   "src": "SNATCHIN' EVERYTHING THEY CAN GET THEIR GRUBBY LITTLE PAWS ON.",
   "speaker": "BILLY",
   "ko": "그 더러운 앞발에 닿는 건 죄다 훔쳐 가고 있거든.",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:9",
   "src": "AND SCARIN' AWAY MY PET HIPHOG, FARTHY.",
   "speaker": "BILLY",
   "ko": "게다가 내 애완 힙호그 뿡돌이까지 겁줘서 쫓아 버렸어.",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019, G-047, G-048; 확정 표기 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019, G-047, G-048; 확정 표기 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:10",
   "src": "HE'S BEEN MISSIN' FOR NIGH ON TO A COON'S AGE.",
   "speaker": "BILLY",
   "ko": "그 녀석 안 보인 지 한세월은 됐구먼.",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:11",
   "src": "I'VE BEEN PUTTIN' OUT HIS FAVORITE SNACK,",
   "speaker": "BILLY",
   "ko": "그 녀석이 제일 좋아하는 간식을 내놓고 있는데,",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:12",
   "src": "BUT THOSE ORNERY SWAMP RATS KEEP STEALIN' EM!",
   "speaker": "BILLY",
   "ko": "그 성질 고약한 늪 쥐들이 자꾸 훔쳐 가!",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:13",
   "src": "IF YOU COULD KEEP THOSE PESKY CRITTERS AWAY LONG ENOUGH,",
   "speaker": "BILLY",
   "ko": "그 귀찮은 놈들을 한동안만 쫓아내 주면,",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:14",
   "src": "I JUST KNOW FARTHY WOULD SMELL THEM VITTLES AND COME BACK!",
   "speaker": "BILLY",
   "ko": "뿡돌이가 간식 냄새를 맡고 분명 돌아올 거야!",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019, G-047; 확정 표기 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019, G-047; 확정 표기 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-introduction:15",
   "src": "WILL YA HELP ME OUT?",
   "speaker": "BILLY",
   "ko": "좀 도와주겠나?",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 사용자 일괄 승인 2026-10-16"
  }
 ]

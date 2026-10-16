@@ -4,47 +4,47 @@
   "src": "GOTTA MILK THOSE YAKOWS, GOTTA MILK THOSE YAKOWS...",
   "speaker": "FARMER",
   "ko": "야카우 젖 짜야지, 야카우 젖 짜야지...",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-021, V-008"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-021, V-008; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:farmer-introduction:1",
   "src": "OH! IT'S YOU... JUST RESTIN' MY TIRED BONES.",
   "speaker": "FARMER",
   "ko": "오! 자네로구먼... 지친 뼈마디 좀 쉬고 있었어.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-008"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-008; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:farmer-introduction:2",
   "src": "I'VE BEEN TRYING TO GET THOSE ORNERY YAKOWS",
   "speaker": "FARMER",
   "ko": "그 고집 센 야카우들을",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-021, V-008"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-021, V-008; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:farmer-introduction:3",
   "src": "BACK INTO THE PEN ALL DAY!",
   "speaker": "FARMER",
   "ko": "온종일 우리에 도로 넣느라 애먹었지!",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-008"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-008; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:farmer-introduction:4",
   "src": "SOME STRANGE CREATURES TRIED TO STEAL 'EM EARLIER.",
   "speaker": "FARMER",
   "ko": "아까 웬 이상한 놈들이 훔쳐 가려고 했거든.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-008"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-008; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:farmer-introduction:5",
   "src": "YOU THINK YOU CAN HELP AN OLD MAN TRY TO GET 'EM BACK INTO THE CORRAL?",
   "speaker": "FARMER",
   "ko": "이 늙은이가 녀석들을 우리에 몰아넣는 것 좀 도와주겠나?",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-008"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-008; 사용자 일괄 승인 2026-10-16"
  }
 ]

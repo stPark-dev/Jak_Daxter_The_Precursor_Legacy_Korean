@@ -4,63 +4,63 @@
   "src": "WELL, I HOPE YOU'VE PACKED A LUNCH. 'CAUSE WE'RE JUST GETTING STARTED.",
   "speaker": "SAMOS",
   "ko": "도시락은 챙겼겠지. 이제 겨우 시작이니까.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-prec-arm:1",
   "src": "ACCORDING TO THE BLUE SAGE'S NOTES,",
   "speaker": "SAMOS",
   "ko": "블루 현자의 기록에 따르면,",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-prec-arm:2",
   "src": "LURKERS HAVE INFESTED THE SWAMP ACROSS THE BAY.",
   "speaker": "SAMOS",
   "ko": "만 건너편 늪에 루커들이 득시글거린다는구나.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-prec-arm:3",
   "src": "APPARENTLY, THEY'RE PLANNING TO USE A DIRIGIBLE",
   "speaker": "SAMOS",
   "ko": "아무래도 비행선을 써서",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-prec-arm:4",
   "src": "TO LIFT AN IMPORTANT PRECURSOR ARTIFACT FROM THE MUCK.",
   "speaker": "SAMOS",
   "ko": "진흙 속에서 중요한 프리커서 유물을 끌어올릴 작정인 모양이다.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-prec-arm:5",
   "src": "YOU'RE GOING TO HAVE TO GET OVER THERE TO DISLODGE THEIR TETHERS.",
   "speaker": "SAMOS",
   "ko": "거기로 가서 놈들의 밧줄을 풀어 버려야 한다.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-prec-arm:6",
   "src": "WHO KNOWS WHAT THEY MIGHT WANT WITH THE ARTIFACT,",
   "speaker": "SAMOS",
   "ko": "그 유물로 뭘 하려는지는 모르겠지만,",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-introduction-prec-arm:7",
   "src": "BUT LIKE ORANGE STUFF HERE'S BREATH, IT JUST CAN'T BE GOOD.",
   "speaker": "SAMOS",
   "ko": "여기 이 주황 녀석 입 냄새처럼, 좋을 리가 없지.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: N-003"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: N-003; 사용자 일괄 승인 2026-10-16"
  }
 ]

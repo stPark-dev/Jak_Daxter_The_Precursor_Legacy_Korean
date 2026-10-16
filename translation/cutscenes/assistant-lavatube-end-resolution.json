@@ -4,127 +4,127 @@
   "src": "HEY! WHERE'S OL' SHORT, GREEN AND WRINKLY?",
   "speaker": "DAXTER",
   "ko": "어이! 쪼끄만 초록 쭈글이 영감은 어디 갔어?",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: N-007; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: N-007; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:1",
   "src": "THIS IS TERRIBLE! FATHER IS MISSING!",
   "speaker": "KEIRA",
   "ko": "큰일이야! 아빠가 사라졌어!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:2",
   "src": "I THINK GOL AND MAIA MAY HAVE KIDNAPPED HIM AS WELL!",
   "speaker": "KEIRA",
   "ko": "골이랑 마이아가 아빠까지 납치한 것 같아!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:3",
   "src": "RELAX, SWEETHEART. I GOT EVERYTHING UNDER CONTROL.",
   "speaker": "DAXTER",
   "ko": "진정해, 자기. 내가 다 알아서 하고 있으니까.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:4",
   "src": "UNDER CONTROL?!",
   "speaker": "KEIRA",
   "ko": "알아서 한다고?!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:5",
   "src": "LURKER ARMIES CONTINUE TO GROW ACROSS THE LAND,",
   "speaker": "KEIRA",
   "ko": "루커 군대는 온 땅에서 계속 불어나고 있고,",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:6",
   "src": "THE SAGES HAVE BEEN KIDNAPPED,",
   "speaker": "KEIRA",
   "ko": "현자님들은 납치당했고,",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:7",
   "src": "GOL AND MAIA HAVE GATHERED ENOUGH ECO",
   "speaker": "KEIRA",
   "ko": "골이랑 마이아는 이코를 충분히 모아서",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:8",
   "src": "TO COMPLETE THEIR TERRIBLE PLAN,",
   "speaker": "KEIRA",
   "ko": "그 끔찍한 계획을 끝낼 참이야.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:9",
   "src": "AND TO STOP THEM, YOU'RE GOING TO HAVE TO",
   "speaker": "KEIRA",
   "ko": "그걸 막으려면 너희는",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:10",
   "src": "FIGHT YOUR WAY THROUGH THEIR CITADEL!",
   "speaker": "KEIRA",
   "ko": "놈들의 성채를 뚫고 들어가야 한다고!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:11",
   "src": "UH... YEAH. THAT ABOUT, UH... SUMS IT UP.",
   "speaker": "DAXTER",
   "ko": "어... 그래. 대충, 어... 그렇게 정리되네.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:12",
   "src": "YOU'VE GOT TO RESCUE MY FATHER BEFORE IT'S TOO LATE!",
   "speaker": "KEIRA",
   "ko": "늦기 전에 아빠를 구해 줘!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:13",
   "src": "AND JAK...",
   "speaker": "KEIRA",
   "ko": "그리고 잭...",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:14",
   "src": "BE CAREFUL.",
   "speaker": "KEIRA",
   "ko": "조심해.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:15",
   "src": "YEAH. WE WILL BE!",
   "speaker": "DAXTER",
   "ko": "그래. 우리 조심할게!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  }
 ]

@@ -4,79 +4,79 @@
   "src": "OH MY, I HOPE THE POOR DEAR'S OKAY.",
   "speaker": "BIRDWATCHER",
   "ko": "어머나, 가엾은 것이 무사해야 할 텐데.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bird-lady-beach-resolution:1",
   "src": "HERE'S A POWER CELL FOR YOUR VALOR.",
   "speaker": "BIRDWATCHER",
   "ko": "용기를 낸 보답으로 파워 셀을 주마.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bird-lady-beach-resolution:2",
   "src": "MAMA!",
   "speaker": "FLUT-FLUT",
   "ko": "엄마!",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bird-lady-beach-resolution:3",
   "src": "MAMA!",
   "speaker": "FLUT-FLUT",
   "ko": "엄마!",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bird-lady-beach-resolution:4",
   "src": "OH NO! NO, NO, NO, NO!",
   "speaker": "DAXTER",
   "ko": "아 안 돼! 안 돼, 안 돼, 안 돼, 안 돼!",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bird-lady-beach-resolution:5",
   "src": "LOOK... ISN'T THAT CUTE? IT THINKS YOU'RE ITS MAMA.",
   "speaker": "BIRDWATCHER",
   "ko": "어머... 귀엽지 않니? 널 엄마로 생각하나 봐.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bird-lady-beach-resolution:6",
   "src": "EH? I'M NOT YOUR MOM! YOU SEE ANY FEATHERS HERE?",
   "speaker": "DAXTER",
   "ko": "에? 난 네 엄마 아니거든! 여기 깃털 보여?",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bird-lady-beach-resolution:7",
   "src": "OH, LOVE AT FIRST SIGHT! AH...",
   "speaker": "BIRDWATCHER",
   "ko": "오, 첫눈에 반했구나! 아...",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bird-lady-beach-resolution:8",
   "src": "LISTEN, BOYS, I'LL TAKE THIS LITTLE CHICK BACK TO THE VILLAGE WITH ME",
   "speaker": "BIRDWATCHER",
   "ko": "얘들아, 이 아기 새는 내가 마을로 데려가서",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bird-lady-beach-resolution:9",
   "src": "AND WORK WITH THE SAGE TO TAKE CARE OF HER.",
   "speaker": "BIRDWATCHER",
   "ko": "현자님이랑 함께 돌볼게.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-010; 사용자 일괄 승인 2026-10-16"
  }
 ]

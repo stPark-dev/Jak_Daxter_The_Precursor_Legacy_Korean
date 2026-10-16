@@ -4,15 +4,15 @@
   "src": "HEY, JAK! CAN I...",
   "speaker": "DAXTER",
   "ko": "어이, 잭! 나...",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:death-0182:1",
   "src": "HAVE YOUR INSECT COLLECTION?",
   "speaker": "DAXTER",
   "ko": "네 곤충 수집품 가져도 돼?",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  }
 ]

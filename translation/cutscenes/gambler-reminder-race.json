@@ -4,31 +4,31 @@
   "src": "WELL, WHAT ARE YOU WAITIN' FOR?",
   "speaker": "GAMBLER",
   "ko": "뭘 꾸물거려?",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:gambler-reminder-race:1",
   "src": "THIS BARREL'S GETTIN' ITCHY!",
   "speaker": "GAMBLER",
   "ko": "이 통 안이 근질근질하다고!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:gambler-reminder-race:2",
   "src": "BEAT THE BEST TIME DOWN DEAD MAN'S GORGE,",
   "speaker": "GAMBLER",
   "ko": "죽은 자의 협곡 최고 기록만 깨면,",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016, G-040; G-035/G-040 확정 표기 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016, G-040; G-035/G-040 확정 표기 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:gambler-reminder-race:3",
   "src": "AND WE'LL BOTH BE WINNERS!",
   "speaker": "GAMBLER",
   "ko": "우리 둘 다 승자야!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016; 사용자 일괄 승인 2026-10-16"
  }
 ]

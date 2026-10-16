@@ -4,39 +4,39 @@
   "src": "WHAT ARE YOU DOING BACK HERE ALREADY?",
   "speaker": "SAMOS",
   "ko": "벌써 돌아와서 뭐 하는 게냐?",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-reminder-1-prec-arm:1",
   "src": "I CAN SEE FROM THE BALCONY",
   "speaker": "SAMOS",
   "ko": "발코니에서 보니",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-reminder-1-prec-arm:2",
   "src": "THAT THE LURKER DIRIGIBLE IS STILL FLOATING ABOVE THE SWAMP.",
   "speaker": "SAMOS",
   "ko": "루커 비행선이 아직 늪 위에 떠 있더구나.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-reminder-1-prec-arm:3",
   "src": "YOU OBVIOUSLY HAVEN'T COMPLETED YOUR TASK.",
   "speaker": "SAMOS",
   "ko": "아직 일을 못 끝낸 게 뻔하지.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-bluehut-reminder-1-prec-arm:4",
   "src": "GET MOVING!",
   "speaker": "SAMOS",
   "ko": "어서 움직여라!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  }
 ]

@@ -4,15 +4,15 @@
   "src": "OH, MY MUSE! YOU SAVED HER! AW, YOU REALLY ARE THE BEST!",
   "speaker": "SCULPTOR",
   "ko": "오, 내 뮤즈! 구해 왔구나! 아, 너희 진짜 최고다!",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-011"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-011; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sculptor-resolution:1",
   "src": "HERE, TAKE THIS POWER CELL. I WON'T NEED IT NOW THAT I HAVE MY INSPIRATION BACK!",
   "speaker": "SCULPTOR",
   "ko": "자, 이 파워 셀 받아. 창작 의욕이 돌아왔으니 이제 필요 없거든!",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-011"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-011; 사용자 일괄 승인 2026-10-16"
  }
 ]

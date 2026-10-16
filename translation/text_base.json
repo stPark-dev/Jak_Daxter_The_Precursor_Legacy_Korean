@@ -3,2779 +3,2779 @@
   "id": "base:103",
   "src": "<PAD_X> = YES, <PAD_TRIANGLE> = NO",
   "ko": "<PAD_X> = 예, <PAD_TRIANGLE> = 아니요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:104",
   "src": "PRESS <PAD_CIRCLE> TO TALK.",
   "ko": "<PAD_CIRCLE> 버튼으로 대화하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:105",
   "src": "PRESS <PAD_CIRCLE> TO USE.",
   "ko": "<PAD_CIRCLE> 버튼으로 사용하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:106",
   "src": "DO YOU WANT TO PLAY?",
   "ko": "플레이하시겠습니까?",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:107",
   "src": "DO YOU WANT TO PLAY AGAIN?",
   "ko": "다시 플레이하시겠습니까?",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:108",
   "src": "QUIT",
   "ko": "종료",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:109",
   "src": "PAUSE",
   "ko": "일시 정지",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:10a",
   "src": "SFX VOLUME",
   "ko": "효과음 볼륨",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:10b",
   "src": "MUSIC VOLUME",
   "ko": "음악 볼륨",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:10c",
   "src": "SPEECH VOLUME",
   "ko": "음성 볼륨",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:10d",
   "src": "LANGUAGE",
   "ko": "음성 언어",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:10e",
   "src": "VIBRATIONS",
   "ko": "진동",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:10f",
   "src": "PLAY HINTS",
   "ko": "힌트 재생",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:110",
   "src": "CENTER SCREEN",
   "ko": "화면 위치 조정",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:111",
   "src": "ON",
   "ko": "켬",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:112",
   "src": "OFF",
   "ko": "끔",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:113",
   "src": "MOVE D-PAD",
   "ko": "방향 버튼으로 이동",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:114",
   "src": "ENGLISH",
   "ko": "ENGLISH",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:115",
   "src": "FRANÇAIS",
   "ko": "FRANÇAIS",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:116",
   "src": "DEUTSCH",
   "ko": "DEUTSCH",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:117",
   "src": "ESPAÑOL",
   "ko": "ESPAÑOL",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:118",
   "src": "ITALIANO",
   "ko": "ITALIANO",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:119",
   "src": "にほんご",
   "ko": "にほんご",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:11a",
   "src": "PRESS <PAD_CIRCLE> TO TRADE 90 ORBS FOR A POWER CELL.",
   "ko": "<PAD_CIRCLE> 버튼으로 오브 90개를 파워 셀과 교환하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:11b",
   "src": "PRESS <PAD_CIRCLE> TO TRADE 120 ORBS FOR A POWER CELL.",
   "ko": "<PAD_CIRCLE> 버튼으로 오브 120개를 파워 셀과 교환하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:11c",
   "src": "PRESS <PAD_CIRCLE> TO WARP.",
   "ko": "<PAD_CIRCLE> 버튼으로 워프하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:11d",
   "src": "PRESS <PAD_TRIANGLE> TO EXIT.",
   "ko": "<PAD_TRIANGLE> 버튼으로 나가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:11e",
   "src": "GEYSER ROCK",
   "ko": "가이저 록",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:11f",
   "src": "GREEN SAGE'S HUT",
   "ko": "그린 현자의 오두막",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:120",
   "src": "BLUE SAGE'S HUT",
   "ko": "블루 현자의 오두막",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:121",
   "src": "RED SAGE'S HUT",
   "ko": "레드 현자의 오두막",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:122",
   "src": "GOL AND MAIA'S CITADEL",
   "ko": "골과 마이아의 성채",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:123",
   "src": "PRESS <PAD_CIRCLE> TO TALK TO SAMOS",
   "ko": "<PAD_CIRCLE> 버튼으로 사모스와 대화하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:124",
   "src": "PRESS <PAD_CIRCLE> TO TALK TO KEIRA",
   "ko": "<PAD_CIRCLE> 버튼으로 케이라와 대화하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:125",
   "src": "ASPECT RATIO",
   "ko": "화면 비율",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:126",
   "src": "VIDEO MODE",
   "ko": "비디오 모드",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:127",
   "src": "GAME OPTIONS",
   "ko": "게임 옵션",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:128",
   "src": "GRAPHIC OPTIONS",
   "ko": "그래픽 옵션",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:129",
   "src": "SOUND OPTIONS",
   "ko": "사운드 옵션",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:12a",
   "src": "4X3",
   "ko": "4X3",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:12b",
   "src": "16X9",
   "ko": "16X9",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:12c",
   "src": "60HZ",
   "ko": "60HZ",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:12d",
   "src": "50HZ",
   "ko": "50HZ",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:12e",
   "src": "JAK AND DAXTER",
   "ko": "잭 앤 덱스터",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:12f",
   "src": "FIND THE HIDDEN POWER CELL",
   "ko": "숨겨진 파워 셀 찾기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:130",
   "src": "INSUFFICIENT SPACE ON MEMORY_CARD_(PS2) INSERTED IN MEMORY_CARD_SLOT_~D",
   "ko": "메모리 카드 슬롯 ~D의 메모리 카드(PS2)에 빈 공간이 부족합니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:131",
   "src": "NO MEMORY_CARD_(PS2) INSERTED IN MEMORY_CARD_SLOT_~D",
   "ko": "메모리 카드 슬롯 ~D에 메모리 카드(PS2)가 꽂혀 있지 않습니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:132",
   "src": "MEMORY_CARD_(PS2) IN MEMORY_CARD_SLOT_~D IS UNFORMATTED",
   "ko": "메모리 카드 슬롯 ~D의 메모리 카드(PS2)가 포맷되지 않았습니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:133",
   "src": "JAK AND DAXTER REQUIRES ~DKB OF FREE SPACE",
   "ko": "잭 앤 덱스터를 저장하려면 ~DKB의 빈 공간이 필요합니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:134",
   "src": "PLEASE INSERT A MEMORY_CARD_(PS2) CONTAINING SUFFICIENT SPACE OR YOU WILL NOT BE ABLE TO SAVE GAME DATA",
   "ko": "빈 공간이 충분한 메모리 카드(PS2)를 꽂아 주세요. 그렇지 않으면 게임 데이터를 저장할 수 없습니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:135",
   "src": "IF YOU DO NOT FORMAT IT THEN YOU WILL NOT BE ABLE TO SAVE GAME DATA",
   "ko": "포맷하지 않으면 게임 데이터를 저장할 수 없습니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:136",
   "src": "SAVING DATA",
   "ko": "저장 중",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:137",
   "src": "LOADING DATA",
   "ko": "불러오는 중",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:138",
   "src": "PLEASE DO NOT REMOVE THE MEMORY_CARD_(PS2) IN MEMORY_CARD_SLOT_~D OR TURN OFF YOUR SYSTEM",
   "ko": "메모리 카드 슬롯 ~D의 메모리 카드(PS2)를 빼거나 전원을 끄지 마세요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:139",
   "src": "DO YOU WISH TO OVERWRITE THIS?",
   "ko": "덮어쓰시겠습니까?",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:13a",
   "src": "FORMAT?",
   "ko": "포맷하시겠습니까?",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:13c",
   "src": "YES",
   "ko": "예",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:13d",
   "src": "NO",
   "ko": "아니요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:13e",
   "src": "BACK",
   "ko": "뒤로",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:13f",
   "src": "CONTINUE WITHOUT SAVING",
   "ko": "저장하지 않고 계속하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:140",
   "src": "SELECT FILE TO SAVE TO",
   "ko": "저장할 파일을 선택하세요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:141",
   "src": "SELECT SAVE FILE TO LOAD",
   "ko": "불러올 파일을 선택하세요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:142",
   "src": "A JAK AND DAXTER SAVE GAME ALREADY EXISTS IN THE SAVE FILE YOU HAVE SELECTED",
   "ko": "선택한 파일에 이미 잭 앤 덱스터 저장 데이터가 있습니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:143",
   "src": "PLEASE INSERT A MEMORY_CARD_(PS2) IN MEMORY_CARD_SLOT_~D THAT CONTAINS JAK AND DAXTER GAME DATA",
   "ko": "잭 앤 덱스터 게임 데이터가 있는 메모리 카드(PS2)를 메모리 카드 슬롯 ~D에 꽂아 주세요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:144",
   "src": "CONTINUE?",
   "ko": "계속하시겠습니까?",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:14b",
   "src": "LOAD GAME",
   "ko": "게임 불러오기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:14c",
   "src": "SAVE GAME",
   "ko": "게임 저장",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:14d",
   "src": "FORMATTING",
   "ko": "포맷 중",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:14e",
   "src": "CREATING SAVE GAME FILE",
   "ko": "저장 파일 생성 중",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:14f",
   "src": "EMPTY",
   "ko": "비어 있음",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:150",
   "src": "OPTIONS",
   "ko": "옵션",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:151",
   "src": "ERROR WHILE LOADING",
   "ko": "불러오기 오류",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:152",
   "src": "ERROR WHILE SAVING",
   "ko": "저장 오류",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:153",
   "src": "ERROR WHILE FORMATTING",
   "ko": "포맷 오류",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:154",
   "src": "ERROR WHILE CREATING SAVE GAME FILE",
   "ko": "저장 파일 생성 오류",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:156",
   "src": "MEMORY_CARD_(PS2) IN MEMORY_CARD_SLOT_~D WAS REMOVED",
   "ko": "메모리 카드 슬롯 ~D의 메모리 카드(PS2)가 제거되었습니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:157",
   "src": "AUTO-SAVE HAS BEEN DISABLED",
   "ko": "자동 저장이 꺼졌습니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:158",
   "src": "USE THE SAVE GAME OPTION TO MANUALLY SAVE YOUR GAME AND RE-ENABLE AUTO-SAVE",
   "ko": "게임 저장 메뉴로 직접 저장하면 자동 저장이 다시 켜집니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:159",
   "src": "NO JAK AND DAXTER GAME DATA ON THE MEMORY_CARD_(PS2) INSERTED IN MEMORY_CARD_SLOT_~D",
   "ko": "메모리 카드 슬롯 ~D의 메모리 카드(PS2)에 잭 앤 덱스터 게임 데이터가 없습니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:15a",
   "src": "WOULD YOU LIKE TO CREATE A JAK AND DAXTER SAVE FILE?",
   "ko": "잭 앤 덱스터 저장 파일을 만드시겠습니까?",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:15b",
   "src": "PLEASE CHECK THE MEMORY_CARD_(PS2) IN MEMORY_CARD_SLOT_~D",
   "ko": "메모리 카드 슬롯 ~D의 메모리 카드(PS2)를 확인하세요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:15c",
   "src": "NEW GAME",
   "ko": "새 게임",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:15d",
   "src": "GO BACK?",
   "ko": "돌아가시겠습니까?",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:15e",
   "src": "OK",
   "ko": "확인",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:15f",
   "src": "EXIT DEMO",
   "ko": "데모 종료",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:160",
   "src": "WHEN THE FOLLOWING ICON APPEARS, YOUR PROGRESS IS BEING SAVED",
   "ko": "다음 아이콘이 나타나면 진행 상황이 저장되고 있다는 뜻입니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:161",
   "src": "WHILE THIS ICON IS ON SCREEN, DO NOT REMOVE THE MEMORY_CARD_(PS2) OR TURN OFF YOUR SYSTEM",
   "ko": "이 아이콘이 화면에 있는 동안 메모리 카드(PS2)를 빼거나 전원을 끄지 마세요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:162",
   "src": "TASK COMPLETED",
   "ko": "임무 완료",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:163",
   "src": "PLEASE CHECK THE MEMORY_CARD_(PS2) IN MEMORY_CARD_SLOT_~D AND TRY AGAIN",
   "ko": "메모리 카드 슬롯 ~D의 메모리 카드(PS2)를 확인하고 다시 시도하세요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:164",
   "src": "THE SCREEN WILL NOW CHANGE TO 60HZ",
   "ko": "화면이 60HZ로 바뀝니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:165",
   "src": "IF THE IMAGE IS DISPLAYED INCORRECTLY THEN YOUR TELEVISION DOES NOT SUPPORT THIS MODE",
   "ko": "화면이 제대로 나오지 않으면 TV가 이 모드를 지원하지 않는 것입니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:166",
   "src": "IF SO, PLEASE WAIT 10 SECONDS AND THE SCREEN WILL CHANGE BACK",
   "ko": "그럴 경우 10초만 기다리면 원래 화면으로 돌아갑니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:167",
   "src": "THE DISPLAY IS NOW IN 60HZ MODE",
   "ko": "화면이 60HZ 모드로 바뀌었습니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:168",
   "src": "WOULD YOU LIKE TO KEEP THIS MODE?",
   "ko": "이 모드를 유지하시겠습니까?",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:169",
   "src": "USE D-PAD TO SELECT LEVEL",
   "ko": "방향 버튼으로 레벨 선택",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:16a",
   "src": "THE DISC WAS REMOVED",
   "ko": "디스크가 제거되었습니다",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:16b",
   "src": "PLEASE INSERT THE JAK AND DAXTER DISC TO CONTINUE PLAYING",
   "ko": "계속 플레이하려면 잭 앤 덱스터 디스크를 넣어 주세요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:16c",
   "src": "ERROR WHILE READING DATA",
   "ko": "데이터 읽기 오류",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:16d",
   "src": "PLEASE CHECK THE JAK AND DAXTER DISC AND TRY AGAIN",
   "ko": "잭 앤 덱스터 디스크를 확인하고 다시 시도하세요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:16e",
   "src": "PRESS START",
   "ko": "START 버튼을 누르세요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:16f",
   "src": "QUIT GAME",
   "ko": "게임 종료",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:170",
   "src": "ARE YOU SURE YOU WANT TO QUIT?",
   "ko": "정말 종료하시겠습니까?",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:171",
   "src": "TOTAL COLLECTED:",
   "ko": "총 수집 개수:",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:200",
   "src": "BRING 90 ORBS TO THE MAYOR",
   "ko": "시장에게 오브 90개 가져다주기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:201",
   "src": "BRING 90 ORBS TO YOUR UNCLE",
   "ko": "삼촌에게 오브 90개 가져다주기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:202",
   "src": "HERD THE YAKOWS INTO THEIR PEN",
   "ko": "야카우를 우리로 몰아넣기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:203",
   "src": "RETURN TO THE FARMER",
   "ko": "농부에게 돌아가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:204",
   "src": "BRING 120 ORBS TO THE ORACLE",
   "ko": "오라클에게 오브 120개 가져다주기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:205",
   "src": "UNBLOCK THE ECO HARVESTERS",
   "ko": "막힌 이코 수집기 뚫기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:206",
   "src": "PUSH THE FLUT FLUT EGG OFF THE CLIFF",
   "ko": "플럿플럿 알을 절벽 아래로 밀기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:207",
   "src": "MEET THE BIRD WATCHER BY THE EGG",
   "ko": "알 옆에서 탐조가와 만나기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:208",
   "src": "GET THE POWER CELL FROM THE PELICAN",
   "ko": "펠리컨에게서 파워 셀 되찾기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:209",
   "src": "CHASE THE SEAGULLS",
   "ko": "갈매기 쫓기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:20a",
   "src": "LAUNCH UP TO THE CANNON TOWER",
   "ko": "대포 탑까지 날아오르기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:20b",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:20c",
   "src": "CONNECT THE ECO BEAMS",
   "ko": "이코 빔 연결하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:20d",
   "src": "GET TO THE TOP OF THE TEMPLE",
   "ko": "신전 꼭대기까지 올라가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:20e",
   "src": "FIND THE BLUE VENT SWITCH",
   "ko": "블루 이코 분출구 스위치 찾기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:20f",
   "src": "DEFEAT THE DARK ECO PLANT",
   "ko": "다크 이코 식물 물리치기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:210",
   "src": "CATCH 200 POUNDS OF FISH",
   "ko": "물고기 200파운드 잡기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:211",
   "src": "CATCH THE SCULPTOR'S MUSE",
   "ko": "조각가의 뮤즈 잡기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:212",
   "src": "RETURN THE MUSE TO THE SCULPTOR",
   "ko": "뮤즈를 조각가에게 돌려주기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:213",
   "src": "CLIMB THE LURKER SHIP",
   "ko": "루커 배에 오르기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:214",
   "src": "STOP THE CANNON",
   "ko": "대포 멈추기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:215",
   "src": "RETURN TO THE DARK ECO POOL",
   "ko": "다크 이코 웅덩이로 돌아가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:216",
   "src": "FIND THE TRANS-PAD",
   "ko": "트랜스 패드 찾기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:217",
   "src": "DESTROY THE BALLOON LURKERS",
   "ko": "풍선 루커 파괴하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:218",
   "src": "FARMER'S HOUSE",
   "ko": "농부의 집",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:219",
   "src": "MAYOR'S HOUSE",
   "ko": "시장의 집",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:21a",
   "src": "BIRD WATCHER'S HOUSE",
   "ko": "탐조가의 집",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:21b",
   "src": "SCULPTOR'S HOUSE",
   "ko": "조각가의 집",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:21c",
   "src": "JAK'S UNCLE'S HOUSE",
   "ko": "잭의 삼촌네 집",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:21d",
   "src": "FISHERMAN'S HOUSE",
   "ko": "어부의 집",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:21e",
   "src": "GREEN SAGE'S LAB",
   "ko": "그린 현자의 연구실",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:21f",
   "src": "KEIRA'S GARAGE",
   "ko": "케이라의 차고",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:220",
   "src": "SANDOVER VILLAGE",
   "ko": "샌드오버 마을",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:221",
   "src": "SENTINEL BEACH",
   "ko": "센티넬 해변",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:222",
   "src": "FORBIDDEN JUNGLE",
   "ko": "금단의 정글",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:223",
   "src": "MISTY ISLAND",
   "ko": "미스티 섬",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:224",
   "src": "FIRE CANYON",
   "ko": "불의 협곡",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:225",
   "src": "FORBIDDEN TEMPLE",
   "ko": "금단의 신전",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:226",
   "src": "<PAD_X> YES",
   "ko": "<PAD_X> 예",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:227",
   "src": "<PAD_CIRCLE> NO",
   "ko": "<PAD_CIRCLE> 아니요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:228",
   "src": "FLUT FLUT",
   "ko": "플럿플럿",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:229",
   "src": "ORB ORACLE",
   "ko": "오라클",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:22a",
   "src": "TRANS-PAD",
   "ko": "트랜스 패드",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:22b",
   "src": "GREEN ECO HARVESTERS",
   "ko": "그린 이코 수집기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:22c",
   "src": "PRECURSOR ORB",
   "ko": "프리커서 오브",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:22d",
   "src": "POWER CELL",
   "ko": "파워 셀",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:22e",
   "src": "GET THE FALLEN POWER CELL",
   "ko": "떨어진 파워 셀 줍기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:22f",
   "src": "UNBLOCK THE ECO BEAM",
   "ko": "막힌 이코 빔 뚫기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:230",
   "src": "RETURN TO THE MAYOR",
   "ko": "시장에게 돌아가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:262",
   "src": "EXPLORE THE BEACH",
   "ko": "해변 탐험하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:263",
   "src": "CLIMB THE SENTINEL",
   "ko": "센티넬 오르기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:264",
   "src": "FOLLOW THE CANYON TO THE SEA",
   "ko": "협곡을 따라 바다까지 가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:265",
   "src": "OPEN THE LOCKED TEMPLE DOOR",
   "ko": "잠긴 신전 문 열기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:266",
   "src": "USE ZOOMER TO REACH POWER CELL",
   "ko": "주머를 타고 파워 셀 얻기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:267",
   "src": "USE BLUE ECO TO REACH POWER CELL",
   "ko": "블루 이코로 파워 셀 얻기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:2a9",
   "src": "DO YOU WANT TO FISH?",
   "ko": "낚시하시겠습니까?",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:2b3",
   "src": "COLLECT 20 POWER CELLS TO CROSS FIRE CANYON",
   "ko": "파워 셀 20개를 모아 불의 협곡 건너기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:2b4",
   "src": "CAUGHT:",
   "ko": "잡은 수:",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:2b5",
   "src": "MISSED:",
   "ko": "놓친 수:",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:2b6",
   "src": "LOSE!",
   "ko": "실패!",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:300",
   "src": "BRING 90 ORBS TO THE GAMBLER",
   "ko": "도박꾼에게 오브 90개 가져다주기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:301",
   "src": "BRING 90 ORBS TO THE GEOLOGIST",
   "ko": "지질학자에게 오브 90개 가져다주기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:302",
   "src": "BRING 90 ORBS TO THE WARRIOR",
   "ko": "전사에게 오브 90개 가져다주기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:303",
   "src": "BRING 120 ORBS TO THE ORACLE",
   "ko": "오라클에게 오브 120개 가져다주기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:304",
   "src": "BREAK THE TETHERS TO THE ZEPPELIN",
   "ko": "비행선을 묶은 밧줄 끊기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:305",
   "src": "GET TO THE CENTER OF THE SWAMP",
   "ko": "늪 한가운데까지 가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:306",
   "src": "SWING ON THE POLES TO CROSS THE TAR",
   "ko": "기둥을 타고 타르 건너기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:307",
   "src": "RIDE THE FLUT FLUT",
   "ko": "플럿플럿 타기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:308",
   "src": "BLAST BOULDERS IN TAR",
   "ko": "타르 속 바위 부수기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:309",
   "src": "PROTECT FARTHY'S SNACKS",
   "ko": "뿡돌이의 간식 지키기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:30a",
   "src": "RAISE THE CHAMBER",
   "ko": "방을 물 위로 끌어올리기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:30b",
   "src": "GET TO ROOF OF RAISED CHAMBER",
   "ko": "떠오른 방 지붕에 오르기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:30c",
   "src": "FOLLOW THE COLORED PIPES",
   "ko": "색깔 파이프 따라가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:30d",
   "src": "CLIMB THE SLIDE TUBE",
   "ko": "미끄럼 관 오르기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:30e",
   "src": "QUICKLY CROSS THE DANGEROUS POOL",
   "ko": "위험한 웅덩이 빨리 건너기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:30f",
   "src": "MATCH THE PLATFORM COLORS",
   "ko": "발판 색깔 맞추기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:310",
   "src": "HERD THE MOLES INTO THEIR HOLE",
   "ko": "두더지를 굴로 몰아넣기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:311",
   "src": "RETURN TO THE GEOLOGIST",
   "ko": "지질학자에게 돌아가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:312",
   "src": "CATCH THE FLYING LURKERS",
   "ko": "날아다니는 루커 잡기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:313",
   "src": "BEAT RECORD TIME ON THE GORGE",
   "ko": "협곡 기록 깨기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:314",
   "src": "RETURN TO THE GAMBLER",
   "ko": "도박꾼에게 돌아가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:315",
   "src": "GET THE POWER CELL OVER THE LAKE",
   "ko": "호수 위 파워 셀 얻기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:316",
   "src": "CURE DARK ECO INFECTED PLANTS",
   "ko": "다크 이코에 감염된 식물 치료하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:317",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:318",
   "src": "BLUE SAGE'S LAB",
   "ko": "블루 현자의 연구실",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:319",
   "src": "ROCK VILLAGE",
   "ko": "바위 마을",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:31a",
   "src": "LEVITATING MACHINE",
   "ko": "부양 장치",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:31b",
   "src": "PRECURSOR BASIN",
   "ko": "프리커서 분지",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:31c",
   "src": "BOGGY SWAMP",
   "ko": "진창 늪",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:31d",
   "src": "LOST PRECURSOR CITY",
   "ko": "잃어버린 프리커서 도시",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:31e",
   "src": "MOUNTAIN PASS",
   "ko": "고갯길",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:31f",
   "src": "<PAD_X> YES",
   "ko": "<PAD_X> 예",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:320",
   "src": "<PAD_CIRCLE> NO",
   "ko": "<PAD_CIRCLE> 아니요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:321",
   "src": "DEFEAT THE LURKER AMBUSH",
   "ko": "매복한 루커 물리치기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:322",
   "src": "REACH THE BOTTOM OF THE CITY",
   "ko": "도시 맨 아래까지 가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:323",
   "src": "REACH THE CENTER OF THE COMPLEX",
   "ko": "시설 중심부까지 가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:324",
   "src": "NAVIGATE THE PURPLE PRECURSOR RINGS",
   "ko": "보라색 프리커서 링 통과하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:325",
   "src": "NAVIGATE THE BLUE PRECURSOR RINGS",
   "ko": "파란색 프리커서 링 통과하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:372",
   "src": "COLLECT 45 POWER CELLS TO FUEL THE LEVITATOR",
   "ko": "파워 셀 45개를 모아 부양 장치 가동하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:373",
   "src": "TIME:",
   "ko": "시간:",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:374",
   "src": "RECORD:",
   "ko": "기록:",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:375",
   "src": "NEW RECORD",
   "ko": "신기록",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:376",
   "src": "TRY AGAIN",
   "ko": "다시 도전",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:377",
   "src": "RACE ABORTED",
   "ko": "레이스 중단",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:400",
   "src": "BRING 90 ORBS TO THE MINERS",
   "ko": "광부들에게 오브 90개 가져다주기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:401",
   "src": "BRING 120 ORBS TO THE ORACLE",
   "ko": "오라클에게 오브 120개 가져다주기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:402",
   "src": "STOP THE 3 LURKER GLACIER TROOPS",
   "ko": "루커 빙하 부대 3개 막기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:403",
   "src": "STOP THE 2 LURKER GLACIER TROOPS",
   "ko": "루커 빙하 부대 2개 막기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:404",
   "src": "STOP THE LAST LURKER GLACIER TROOP",
   "ko": "마지막 루커 빙하 부대 막기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:405",
   "src": "GET THROUGH THE LURKER FORT",
   "ko": "루커 요새 통과하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:406",
   "src": "SURVIVE THE LURKER INFESTED CAVE",
   "ko": "루커가 들끓는 동굴에서 살아남기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:407",
   "src": "FIND THE RED VENT SWITCH",
   "ko": "레드 이코 분출구 스위치 찾기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:408",
   "src": "OPEN THE LURKER FORT GATE",
   "ko": "루커 요새 문 열기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:409",
   "src": "PROTECT THE MINERS' GEMS IN THE STUMP",
   "ko": "그루터기 속 광부들의 보석 지키기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:40a",
   "src": "STOP THE DRILLING LURKERS",
   "ko": "땅 파는 루커 막기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:40b",
   "src": "REACH THE TOP OF THE MOUNTAIN",
   "ko": "산꼭대기까지 오르기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:40c",
   "src": "STOP THE LURKER ATTACK TROOP",
   "ko": "루커 공격 부대 막기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:40d",
   "src": "STOP THE LURKER ATTACK TROOP",
   "ko": "루커 공격 부대 막기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:40e",
   "src": "CLIMB THE GIANT ROBOT",
   "ko": "거대 로봇 오르기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:40f",
   "src": "EXPLORE THE DARK CAVE",
   "ko": "어둠 동굴 탐험하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:410",
   "src": "USE YOUR GOGGLES TO SHOOT THE GNAWING LURKERS",
   "ko": "고글을 써서 갉아 먹는 루커 쏘기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:411",
   "src": "DESTROY THE DARK ECO CRYSTALS",
   "ko": "다크 이코 수정 파괴하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:412",
   "src": "DEFEAT THE CAVE BATS",
   "ko": "동굴 박쥐 물리치기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:413",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:414",
   "src": "RED SAGE'S LAB",
   "ko": "레드 현자의 연구실",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:415",
   "src": "VOLCANIC CRATER",
   "ko": "화산 분화구",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-031"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-031; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:416",
   "src": "MOUNTAIN GONDOLA",
   "ko": "산악 곤돌라",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:417",
   "src": "SNOWY MOUNTAIN",
   "ko": "설산",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:418",
   "src": "ROCK LAKE",
   "ko": "바위 호수",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:419",
   "src": "SPIDER CAVE",
   "ko": "거미 동굴",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:41a",
   "src": "MOUNTAIN PASS",
   "ko": "고갯길",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:41b",
   "src": "LAVA TUBE",
   "ko": "용암 터널",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:41c",
   "src": "RIDE THE GONDOLA?",
   "ko": "곤돌라를 타시겠습니까?",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:41d",
   "src": "<PAD_X> YES",
   "ko": "<PAD_X> 예",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:41e",
   "src": "<PAD_CIRCLE> NO",
   "ko": "<PAD_CIRCLE> 아니요",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:41f",
   "src": "STOP THE LURKER GLACIER TROOP",
   "ko": "루커 빙하 부대 막기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:420",
   "src": "JUMP OVER THE LAKE",
   "ko": "호수 뛰어넘기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:421",
   "src": "FIND THE YELLOW VENT SWITCH",
   "ko": "옐로우 이코 분출구 스위치 찾기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:422",
   "src": "SHOOT THE BIRDS",
   "ko": "새 쏘기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:423",
   "src": "NAVIGATE THE SPIDER TUNNEL",
   "ko": "거미 터널 통과하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:424",
   "src": "CLIMB THE PRECURSOR PLATFORMS",
   "ko": "프리커서 발판 오르기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:426",
   "src": "LAUNCH TO THE POLES",
   "ko": "발사대로 기둥까지 날아가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:42b",
   "src": "OPEN THE FROZEN CRATE",
   "ko": "얼어붙은 상자 열기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:42c",
   "src": "DEACTIVATE THE PRECURSOR BLOCKERS",
   "ko": "프리커서 차단기 끄기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:455",
   "src": "COLLECT 72 POWER CELLS TO CROSS THE LAVA TUBE",
   "ko": "파워 셀 72개를 모아 용암 터널 건너기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:500",
   "src": "REACH THE END OF FIRE CANYON",
   "ko": "불의 협곡 끝까지 가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:501",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:50c",
   "src": "FIRE CANYON",
   "ko": "불의 협곡",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:600",
   "src": "REACH THE END OF THE MOUNTAIN PASS",
   "ko": "고갯길 끝까지 가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:601",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:602",
   "src": "MOUNTAIN PASS",
   "ko": "고갯길",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:603",
   "src": "DEFEAT KLAWW",
   "ko": "클로 물리치기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:700",
   "src": "REACH THE END OF THE LAVA TUBE",
   "ko": "용암 터널 끝까지 가기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:701",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:702",
   "src": "LAVA TUBE",
   "ko": "용암 터널",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:800",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:801",
   "src": "GOL AND MAIA'S CITADEL",
   "ko": "골과 마이아의 성채",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:802",
   "src": "FREE THE BLUE SAGE",
   "ko": "블루 현자 풀어 주기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:803",
   "src": "FREE THE RED SAGE",
   "ko": "레드 현자 풀어 주기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:804",
   "src": "FREE THE YELLOW SAGE",
   "ko": "옐로우 현자 풀어 주기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:805",
   "src": "FREE THE GREEN SAGE",
   "ko": "그린 현자 풀어 주기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:91b",
   "src": "FIND THE CELL ON THE PATH",
   "ko": "길 위의 파워 셀 찾기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:91c",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:91d",
   "src": "OPEN THE PRECURSOR DOOR",
   "ko": "프리커서 문 열기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:91e",
   "src": "CLIMB UP THE CLIFF",
   "ko": "절벽 오르기",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:91f",
   "src": "GEYSER ROCK",
   "ko": "가이저 록",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:f00",
   "src": "SONY COMPUTER ENTERTAINMENT",
   "ko": "SONY COMPUTER ENTERTAINMENT",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:f01",
   "src": "AMERICA",
   "ko": "AMERICA",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:f02",
   "src": "PRESENTS",
   "ko": "제공",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:f03",
   "src": "A",
   "ko": " ",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:f04",
   "src": "NAUGHTY DOG",
   "ko": "NAUGHTY DOG",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:f05",
   "src": "GAME",
   "ko": "게임",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:f06",
   "src": "JAK AND DAXTER:",
   "ko": "잭 앤 덱스터:",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:f07",
   "src": "THE PRECURSOR LEGACY™",
   "ko": "구세계의 유산™",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:f10",
   "src": "INC.",
   "ko": "INC.",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:f11",
   "src": "EUROPE",
   "ko": "EUROPE",
-  "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b00",
   "src": "~33LCREATED AND DEVELOPED BY",
   "ko": "~33L기획 및 개발",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b29",
   "src": "~34LADDITIONAL GAME DESIGN AND PROGRAMMING",
   "ko": "~34L추가 게임 디자인 및 프로그래밍",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b2c",
   "src": "~34LMUSIC BY MUTATO MUZIKA",
   "ko": "~34L음악: MUTATO MUZIKA",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b30",
   "src": "~34LSOUND EFFECTS BY",
   "ko": "~34L효과음",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b31",
   "src": "WARNER BROTHERS POST PRODUCTION",
   "ko": "WARNER BROTHERS POST PRODUCTION",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b35",
   "src": "~34LADDITIONAL CHARACTER DESIGN",
   "ko": "~34L추가 캐릭터 디자인",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b39",
   "src": "~33LVOICE ACTORS",
   "ko": "~33L목소리 출연",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b3b",
   "src": "~34LDAXTER",
   "ko": "~34L덱스터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b3c",
   "src": "MAX CASELLA",
   "ko": "MAX CASELLA",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b3e",
   "src": "~34LSAMOS THE SAGE",
   "ko": "~34L현자 사모스",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b3f",
   "src": "WARREN BURTON",
   "ko": "WARREN BURTON",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b41",
   "src": "~34LGOL",
   "ko": "~34L골",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b42",
   "src": "DEE SNIDER",
   "ko": "DEE SNIDER",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b44",
   "src": "~34LKEIRA",
   "ko": "~34L케이라",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b45",
   "src": "ANNA GARDUÑO",
   "ko": "ANNA GARDUÑO",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b47",
   "src": "~34LMAIA",
   "ko": "~34L마이아",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b48",
   "src": "JENNIFER HAGOOD",
   "ko": "JENNIFER HAGOOD",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b4a",
   "src": "~34LMAYOR",
   "ko": "~34L시장",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b4b",
   "src": "BOB HASTINGS",
   "ko": "BOB HASTINGS",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b4d",
   "src": "~34LUNCLE",
   "ko": "~34L잭의 삼촌",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b4e",
   "src": "JACK CARTER",
   "ko": "JACK CARTER",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b50",
   "src": "~34LFARMER",
   "ko": "~34L농부",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b51",
   "src": "WILLIAM MINKIN",
   "ko": "WILLIAM MINKIN",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b53",
   "src": "~34LFISHERMAN",
   "ko": "~34L어부",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b54",
   "src": "KEVIN CONROY",
   "ko": "KEVIN CONROY",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b56",
   "src": "~34LBIRDWATCHER",
   "ko": "~34L탐조가",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b57",
   "src": "LAURIE FRASER",
   "ko": "LAURIE FRASER",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b59",
   "src": "~34LSCULPTOR",
   "ko": "~34L조각가",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b5a",
   "src": "DAVID HERMAN",
   "ko": "DAVID HERMAN",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b5c",
   "src": "~34LORACLE",
   "ko": "~34L오라클",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b5d",
   "src": "MICHAEL GOLLOM",
   "ko": "MICHAEL GOLLOM",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b5f",
   "src": "~34LBOGGY BILLY",
   "ko": "~34L빌리",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b60",
   "src": "DAVID HERMAN",
   "ko": "DAVID HERMAN",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b62",
   "src": "~34LGAMBLER",
   "ko": "~34L도박꾼",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b63",
   "src": "BRIAN PECK",
   "ko": "BRIAN PECK",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b65",
   "src": "~34LGEOLOGIST",
   "ko": "~34L지질학자",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b66",
   "src": "CAROLE RUGGIER",
   "ko": "CAROLE RUGGIER",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b68",
   "src": "~34LWARRIOR",
   "ko": "~34L전사",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b69",
   "src": "MARC WORDEN",
   "ko": "MARC WORDEN",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b6b",
   "src": "~34LGORDY",
   "ko": "~34L고디",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b6c",
   "src": "PAUL PARDUCCI",
   "ko": "PAUL PARDUCCI",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b6e",
   "src": "~34LWILLARD",
   "ko": "~34L윌러드",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b6f",
   "src": "ALAN BLUMENFELD",
   "ko": "ALAN BLUMENFELD",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b71",
   "src": "~34LBLUE SAGE",
   "ko": "~34L블루 현자",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b72",
   "src": "JOHN DI CROSTA",
   "ko": "JOHN DI CROSTA",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b74",
   "src": "~34LRED SAGE",
   "ko": "~34L레드 현자",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b75",
   "src": "SHERMAN HOWARD",
   "ko": "SHERMAN HOWARD",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b77",
   "src": "~34LYELLOW SAGE",
   "ko": "~34L옐로우 현자",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b78",
   "src": "JASON HARRIS",
   "ko": "JASON HARRIS",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b7a",
   "src": "~34LTESTERS",
   "ko": "~34L테스터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b8e",
   "src": "~34LSPECIAL THANKS",
   "ko": "~34L특별 감사",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b9a",
   "src": "RUTHIE HILL",
   "ko": "RUTHIE HILL",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b9b",
   "src": "AND THE STUDENTS OF RANCHO CAÑADA ELEMENTARY SCHOOL",
   "ko": "RANCHO CAÑADA 초등학교 학생 여러분",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:b9e",
   "src": "~33LPRODUCED AND PUBLISHED BY",
   "ko": "~33L제작 및 유통",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:ba0",
   "src": "~33LSONY COMPUTER ENTERTAINMENT AMERICA INC.",
   "ko": "~33LSONY COMPUTER ENTERTAINMENT AMERICA INC.",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:ba2",
   "src": "~34LSENIOR PRODUCER",
   "ko": "~34L시니어 프로듀서",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:ba5",
   "src": "~34LASSOCIATE PRODUCER",
   "ko": "~34L어소시에이트 프로듀서",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:ba8",
   "src": "~34LASSISTANT PRODUCER",
   "ko": "~34L어시스턴트 프로듀서",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bab",
   "src": "~34LDIRECTOR OF PRODUCT DEVELOPMENT",
   "ko": "~34L제품 개발 디렉터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bae",
   "src": "~34LVP OF PRODUCT DEVELOPMENT",
   "ko": "~34L제품 개발 부사장",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bb1",
   "src": "~34LDIRECTOR OF MARKETING",
   "ko": "~34L마케팅 디렉터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bb4",
   "src": "~34LMARKETING SPECIALIST",
   "ko": "~34L마케팅 스페셜리스트",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bb7",
   "src": "~34LLEGAL AND INTELLECTUAL PROPERTY",
   "ko": "~34L법무 및 지식재산",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bbd",
   "src": "~34LMARKET RESEARCH",
   "ko": "~34L시장 조사",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bc0",
   "src": "~34LPUBLIC RELATIONS",
   "ko": "~34L홍보",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bc5",
   "src": "~34L989 AUDIO ENGINE",
   "ko": "~34L989 오디오 엔진",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bc8",
   "src": "~34LINTERACTIVE MUSIC PROGRAMMING",
   "ko": "~34L인터랙티브 음악 프로그래밍",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bcb",
   "src": "~34LDIRECTOR OF QA",
   "ko": "~34LQA 디렉터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bce",
   "src": "~34LSENIOR MANAGER OF QA",
   "ko": "~34LQA 시니어 매니저",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bd1",
   "src": "~34LUSABILITY MANAGER OF QA",
   "ko": "~34LQA 사용성 매니저",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bd4",
   "src": "~34LCORE MANAGER OF QA",
   "ko": "~34LQA 코어 매니저",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bd7",
   "src": "~34LTECHNOLOGY MANAGER",
   "ko": "~34L기술 매니저",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bda",
   "src": "~34LTECHNICAL COORDINATOR",
   "ko": "~34L기술 코디네이터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bdd",
   "src": "~34LTECHNICAL SUPPORT",
   "ko": "~34L기술 지원",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:be0",
   "src": "~34LPROJECT COORDINATOR",
   "ko": "~34L프로젝트 코디네이터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:be3",
   "src": "~34LLEAD QA ANALYST",
   "ko": "~34L리드 QA 분석가",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:be6",
   "src": "~34LASSISTANT LEAD QA ANALYSTS",
   "ko": "~34L어시스턴트 리드 QA 분석가",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:bec",
   "src": "~34LQA ANALYSTS",
   "ko": "~34LQA 분석가",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c0b",
   "src": "~34LSPECIAL THANKS",
   "ko": "~34L특별 감사",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c15",
   "src": "~33LSONY COMPUTER ENTERTAINMENT INC. (JAPAN)",
   "ko": "~33LSONY COMPUTER ENTERTAINMENT INC. (JAPAN)",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c17",
   "src": "~34LEXECUTIVE PRODUCER",
   "ko": "~34L총괄 프로듀서",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c1a",
   "src": "~34LPRODUCER",
   "ko": "~34L프로듀서",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c1e",
   "src": "~34LASSOCIATE PRODUCER",
   "ko": "~34L어소시에이트 프로듀서",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c21",
   "src": "~34LPROMOTION",
   "ko": "~34L프로모션",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c25",
   "src": "~34LPACKAGE AND INSTRUCTION MANUAL",
   "ko": "~34L패키지 및 설명서",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c2d",
   "src": "~34LJAPANESE LOGO",
   "ko": "~34L일본판 로고",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c30",
   "src": "~34LQA MANAGER",
   "ko": "~34LQA 매니저",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c33",
   "src": "~34LQA TESTERS",
   "ko": "~34LQA 테스터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c3d",
   "src": "~34LSOUND SUPERVISOR",
   "ko": "~34L사운드 슈퍼바이저",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c40",
   "src": "~34LJAPANESE SOUND ENGINEERS",
   "ko": "~34L일본판 사운드 엔지니어",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c44",
   "src": "~34LVOICE TALENTS MANAGEMENT",
   "ko": "~34L성우 매니지먼트",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c4b",
   "src": "~34LSPECIAL THANKS",
   "ko": "~34L특별 감사",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c59",
   "src": "~33LSONY COMPUTER ENTERTAINMENT EUROPE",
   "ko": "~33LSONY COMPUTER ENTERTAINMENT EUROPE",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c5b",
   "src": "~34LPRODUCER",
   "ko": "~34L프로듀서",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c5e",
   "src": "~34LEUROPEAN SOFTWARE MANAGER",
   "ko": "~34L유럽 소프트웨어 매니저",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c61",
   "src": "~34LEUROPEAN PR MANAGER",
   "ko": "~34L유럽 홍보 매니저",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c64",
   "src": "~34LHEAD OF SOFTWARE PR",
   "ko": "~34L소프트웨어 홍보 책임자",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c67",
   "src": "~34LPACKAGING AND MANUAL DESIGN",
   "ko": "~34L패키지 및 설명서 디자인",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c6a",
   "src": "~34LCOPYWRITER",
   "ko": "~34L카피라이터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c6d",
   "src": "~34LNEW RELEASE MANAGER",
   "ko": "~34L신작 출시 매니저",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c70",
   "src": "~34LQA MANAGER",
   "ko": "~34LQA 매니저",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c73",
   "src": "~34LINTERNAL QA MANAGER",
   "ko": "~34L내부 QA 매니저",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c76",
   "src": "~34LINTERNAL QA SUPERVISOR",
   "ko": "~34L내부 QA 슈퍼바이저",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c79",
   "src": "~34LTEAM LEADER",
   "ko": "~34L팀 리더",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c7c",
   "src": "~34LTRC AUDITORS",
   "ko": "~34LTRC 심사관",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c80",
   "src": "~34LLEAD TESTERS",
   "ko": "~34L리드 테스터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c84",
   "src": "~34LTESTERS",
   "ko": "~34L테스터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c94",
   "src": "~34LQA SUBMISSIONS MANAGERS",
   "ko": "~34LQA 제출 매니저",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c98",
   "src": "~34LLOCALISATION MANAGER",
   "ko": "~34L현지화 매니저",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c9b",
   "src": "~34LLOCALISATION COORDINATOR",
   "ko": "~34L현지화 코디네이터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:c9e",
   "src": "~34LLOCALISATION LEAD TESTER",
   "ko": "~34L현지화 리드 테스터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:ca1",
   "src": "~34LFRENCH LOCALISATION TESTERS",
   "ko": "~34L프랑스어 현지화 테스터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:ca5",
   "src": "~34LGERMAN LOCALISATION TESTERS",
   "ko": "~34L독일어 현지화 테스터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:caa",
   "src": "~34LITALIAN LOCALISATION TESTERS",
   "ko": "~34L이탈리아어 현지화 테스터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:cae",
   "src": "~34LSPANISH LOCALISATION TESTERS",
   "ko": "~34L스페인어 현지화 테스터",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:cb3",
   "src": "~34LSPECIAL THANKS",
   "ko": "~34L특별 감사",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:cbc",
   "src": "REBECCA RICE AND",
   "ko": "REBECCA RICE",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "base:cbd",
   "src": "ALL AT SUBMISSIONS QA LIVERPOOL",
   "ko": "리버풀 QA 제출팀 여러분",
-  "state": "needs_review",
-  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  }
 ]

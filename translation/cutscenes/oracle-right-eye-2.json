@@ -4,7 +4,7 @@
   "src": "HERE IS ANOTHER POWER CELL FOR YOUR QUEST.",
   "speaker": "ORACLE",
   "ko": "너의 여정을 위해 파워 셀을 하나 더 주겠다.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-018"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-018; 사용자 일괄 승인 2026-10-16"
  }
 ]

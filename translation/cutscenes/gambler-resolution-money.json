@@ -4,23 +4,23 @@
   "src": "HEH HEH HEH! OH, YEAH!",
   "speaker": "GAMBLER",
   "ko": "헤헤헤! 오, 좋았어!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:gambler-resolution-money:1",
   "src": "THESE ORBS'LL HELP ME WIN MY WAY BACK OUTTA THIS BARREL!",
   "speaker": "GAMBLER",
   "ko": "이 오브면 다시 따서 이 통에서 빠져나갈 수 있겠어!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:gambler-resolution-money:2",
   "src": "HERE'S THE POWER CELL I PROMISED!",
   "speaker": "GAMBLER",
   "ko": "약속한 파워 셀이야!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: V-016; 사용자 일괄 승인 2026-10-16"
  }
 ]

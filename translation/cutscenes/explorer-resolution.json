@@ -4,31 +4,31 @@
   "src": "I SEE YOU TWO ARE BACK TO MAKE THE TRADE. GOOD, GOOD, JOLLY GOOD!",
   "speaker": "JAK'S UNCLE",
   "ko": "거래하러 돌아왔구나. 좋아, 좋아, 아주 훌륭하구나!",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:explorer-resolution:1",
   "src": "EH, YOU HAVE THE UH, PRECURSOR ORBS THAT WE AGREED ON?",
   "speaker": "JAK'S UNCLE",
   "ko": "어, 우리가 약속한 그, 프리커서 오브는 가져왔느냐?",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:explorer-resolution:2",
   "src": "I HOPE YOU PUT THIS HARD-EARNED POWER CELL TO GOOD USE.",
   "speaker": "JAK'S UNCLE",
   "ko": "힘들게 얻은 이 파워 셀, 요긴하게 쓰거라.",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:explorer-resolution:3",
   "src": "CHEERIO, TA TA, BYE BYE!",
   "speaker": "JAK'S UNCLE",
   "ko": "그럼 잘 있거라, 안녕, 또 보자!",
-  "state": "needs_review",
-  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012"
+  "state": "distribution_eligible",
+  "note": "초벌 b02b 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-012; 사용자 일괄 승인 2026-10-16"
  }
 ]

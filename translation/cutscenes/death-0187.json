@@ -4,15 +4,15 @@
   "src": "WELL, UH...",
   "speaker": "DAXTER",
   "ko": "뭐, 어...",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:death-0187:1",
   "src": "BETTER YOU THAN ME.",
   "speaker": "DAXTER",
   "ko": "내가 아니라 다행이지.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  }
 ]

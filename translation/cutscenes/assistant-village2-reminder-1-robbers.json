@@ -4,15 +4,15 @@
   "src": "I'LL TELEPORT YOUR ZOOMER TO YOU BY THE PRECURSOR BASIN,",
   "speaker": "KEIRA",
   "ko": "프리커서 분지 쪽으로 주머를 보내 줄게.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-036"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: G-036; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-reminder-1-robbers:1",
   "src": "SO YOU CAN CHASE DOWN THOSE FLYING LURKERS WE WERE TALKING ABOUT.",
   "speaker": "KEIRA",
   "ko": "아까 얘기한 날아다니는 루커들을 쫓을 수 있게.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  }
 ]

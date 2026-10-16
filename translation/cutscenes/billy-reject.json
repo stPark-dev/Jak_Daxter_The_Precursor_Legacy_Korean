@@ -4,15 +4,15 @@
   "src": "WELL, IF YOU CHANGE YOUR MIND, YOU KNOW WHERE TO FIND ME!",
   "speaker": "BILLY",
   "ko": "뭐, 마음 바뀌면 어디서 날 찾을지 알지!",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리); 확정: V-019"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 확정: V-019; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:billy-reject:1",
   "src": "HE HE HE HE HEH...",
   "speaker": "BILLY",
   "ko": "헤헤헤헤헤...",
-  "state": "needs_review",
-  "note": "초벌 b05 진창 늪(빌리)"
+  "state": "distribution_eligible",
+  "note": "초벌 b05 진창 늪(빌리); 사용자 일괄 승인 2026-10-16"
  }
 ]

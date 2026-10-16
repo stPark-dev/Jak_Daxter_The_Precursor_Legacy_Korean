@@ -4,71 +4,71 @@
   "src": "GOOD WORK, FELLOWS! OLD SAMOS WAS RIGHT ABOUT YOU!",
   "speaker": "BLUE SAGE",
   "ko": "잘했네, 친구들! 늙은 사모스 말이 맞았군!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bluesage-resolution:1",
   "src": "GREAT PILES OF PRECURSOR METAL!",
   "speaker": "BLUE SAGE",
   "ko": "이런 프리커서 금속 산더미를 봤나!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bluesage-resolution:2",
   "src": "THAT INSIDIOUS MECHANICAL CREATION",
   "speaker": "BLUE SAGE",
   "ko": "저 음험한 기계 창조물이",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bluesage-resolution:3",
   "src": "MUST NOT BE ALLOWED TO WREAK ITS TERRIBLE HAVOC!",
   "speaker": "BLUE SAGE",
   "ko": "끔찍한 파괴를 일으키게 둬서는 안 되네!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bluesage-resolution:4",
   "src": "I WILL TRY TO ACTUATE THE SHIELD DOOR",
   "speaker": "BLUE SAGE",
   "ko": "나와 아래쪽 거대한 포털 사이에",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bluesage-resolution:5",
   "src": "BY ELICITING A CONDUIT OF ENERGY",
   "speaker": "BLUE SAGE",
   "ko": "에너지 도관을 유도하여",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bluesage-resolution:6",
   "src": "BETWEEN MYSELF AND THE VAST PORTAL BELOW!",
   "speaker": "BLUE SAGE",
   "ko": "방어문을 작동시켜 보겠네!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bluesage-resolution:7",
   "src": "UH... YEAH. YOU DO THAT. WE'LL UH... JUST GO FIND MORE HELP.",
   "speaker": "DAXTER",
   "ko": "어... 그래. 그렇게 해. 우린, 어... 다른 도움이나 찾으러 갈게.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:bluesage-resolution:8",
   "src": "WEIRDO!",
   "speaker": "DAXTER",
   "ko": "괴짜 같으니!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  }
 ]

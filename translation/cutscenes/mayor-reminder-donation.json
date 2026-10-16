@@ -4,15 +4,15 @@
   "src": "AH, HERE TO MAKE A DONATION TO MY CAMPAIGN, OH HO HO HO.",
   "speaker": "MAYOR",
   "ko": "아, 내 캠페인에 기부하러 왔나, 오 호호호.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:mayor-reminder-donation:1",
   "src": "90 PRECURSOR ORBS BUYS YOU A POWER CELL, THANK YOU.",
   "speaker": "MAYOR",
   "ko": "프리커서 오브 90개면 파워 셀 하나일세. 고맙네.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: V-007; 사용자 일괄 승인 2026-10-16"
  }
 ]

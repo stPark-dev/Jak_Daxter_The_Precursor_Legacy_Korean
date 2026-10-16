@@ -4,103 +4,103 @@
   "src": "YOU'RE TOO LATE, SAMOS.",
   "speaker": "GOL",
   "ko": "늦었어, 사모스.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-outro-preboss:1",
   "src": "ONCE I POSSESS LIMITLESS DARK ECO",
   "speaker": "GOL",
   "ko": "무한한 다크 이코를 손에 넣으면",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-outro-preboss:2",
   "src": "I WILL HAVE THE KEY TO CREATION ITSELF!",
   "speaker": "GOL",
   "ko": "창조 그 자체의 열쇠를 갖게 될 거다!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-outro-preboss:3",
   "src": "THIS IS MADNESS!",
   "speaker": "SAMOS",
   "ko": "이건 미친 짓이다!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-outro-preboss:4",
   "src": "RELEASING THAT MUCH DARK ECO WILL DESTROY EVERYTHING WE KNOW!",
   "speaker": "SAMOS",
   "ko": "그만한 다크 이코를 풀면 우리가 아는 모든 게 파괴될 거다!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-outro-preboss:5",
   "src": "JUST LOOK WHAT IT'S DONE TO YOU!",
   "speaker": "SAMOS",
   "ko": "그게 너희를 어떻게 만들었는지 봐라!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-outro-preboss:6",
   "src": "IT HAS GIVEN US A BEAUTY BEYOND ANYTHING YOU COULD UNDERSTAND.",
   "speaker": "MAIA",
   "ko": "당신은 이해도 못 할 아름다움을 우리에게 주었죠.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-outro-preboss:7",
   "src": "BEAUTY? HAVE YOU TWO LOOKED IN THE MIRROR LATELY?",
   "speaker": "DAXTER",
   "ko": "아름다움? 너희 둘 요즘 거울은 봤어?",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-outro-preboss:8",
   "src": "JUST WAIT UNTIL WE OPEN THE SILOS, LITTLE ONE.",
   "speaker": "MAIA",
   "ko": "사일로를 열 때까지 기다려 봐요, 꼬마.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-outro-preboss:9",
   "src": "YOU THINK SHORT AND FUZZY IS BAD?",
   "speaker": "MAIA",
   "ko": "작고 털북숭이인 게 최악인 줄 알죠?",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-outro-preboss:10",
   "src": "AND TO THINK, YOU TWO TRAVELLED ALL THIS WAY FOR MY HELP.",
   "speaker": "GOL",
   "ko": "우습구나. 내 도움을 받겠다고 여기까지 오다니.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-outro-preboss:11",
   "src": "FOOLS! ENJOY YOUR FRONT ROW SEATS TO THE RECREATION OF THE WORLD!",
   "speaker": "GOL",
   "ko": "멍청한 것들! 세상의 재창조를 맨 앞자리에서 즐겨라!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:green-sagecage-outro-preboss:12",
   "src": "JAK! TAKE THE ELEVATOR UP AND STOP THAT ROBOT!",
   "speaker": "SAMOS",
   "ko": "잭! 승강기를 타고 올라가서 저 로봇을 막아라!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  }
 ]

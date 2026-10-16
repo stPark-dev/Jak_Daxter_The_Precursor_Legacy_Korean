@@ -4,87 +4,87 @@
   "src": "OH, IT'S THE CONQUERING HEROES.",
   "speaker": "SAMOS",
   "ko": "오, 위대한 영웅 나리들 납셨구나.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:1",
   "src": "GOOD, I WANTED TO TALK WITH YOU TWO ABOUT SOMETHING SERIOUS.",
   "speaker": "SAMOS",
   "ko": "마침 잘 왔다. 너희 둘과 진지하게 할 얘기가 있었다.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:2",
   "src": "THERE APPEARS TO BE QUITE A BIT OF LURKER ACTIVITY ON MISTY ISLAND.",
   "speaker": "SAMOS",
   "ko": "미스티 섬에서 루커들 움직임이 심상치 않다.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-012"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-012; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:3",
   "src": "I CAN SEE THEM BOMBARDING THE PRECURSOR SILO FROM MY LOOKOUT TOWER.",
   "speaker": "SAMOS",
   "ko": "내 망루에서 보니 놈들이 프리커서 사일로에 포격을 퍼붓고 있더구나.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-020"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-020; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:4",
   "src": "IF THE LURKERS OPEN IT UP AND RELEASE THE DARK ECO, WE COULD ALL END UP",
   "speaker": "SAMOS",
   "ko": "루커들이 그걸 열어 다크 이코를 풀어놓으면, 우리 모두",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-012"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-012; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:5",
   "src": "RUNNING AROUND LOOKING AS RIDICULOUS AS THIS ANNOYING LITTLE SPECIMEN.",
   "speaker": "SAMOS",
   "ko": "이 성가신 꼬맹이처럼 우스꽝스러운 꼴로 뛰어다니게 될 게다.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:6",
   "src": "JAK, IT'S TIME FOR YOU TO PROVE YOUR WORTH.",
   "speaker": "SAMOS",
   "ko": "잭, 이제 네 가치를 증명할 때다.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:7",
   "src": "GET THE FISHERMAN TO LET YOU TAKE HIS BOAT BACK TO MISTY ISLAND",
   "speaker": "SAMOS",
   "ko": "어부를 설득해 배를 빌려서 미스티 섬으로 돌아가",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: S-006"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: S-006; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:8",
   "src": "GET TO THE TOP OF THE PRECURSOR SILO AND TAKE OUT THAT CANNON.",
   "speaker": "SAMOS",
   "ko": "프리커서 사일로 꼭대기에 올라가 그 대포를 박살 내거라.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-020"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 확정: G-020; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:9",
   "src": "AND... WHAT ABOUT ME?",
   "speaker": "DAXTER",
   "ko": "그럼... 나는?",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:sage-introduction-misty-cannon:10",
   "src": "YOU? WHY DON'T YOU MOP MY FLOORS? THEY SEEM TO HAVE LOST THEIR SHINE LATELY.",
   "speaker": "SAMOS",
   "ko": "너? 내 바닥 걸레질이나 하지 그러냐? 요즘 광이 영 안 나더구나.",
-  "state": "needs_review",
-  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준)"
+  "state": "distribution_eligible",
+  "note": "초벌 b02a 샌드오버 (2026-10-15 확정 용어 기준); 사용자 일괄 승인 2026-10-16"
  }
 ]

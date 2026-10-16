@@ -4,103 +4,103 @@
   "src": "WHOA!",
   "speaker": "SAMOS",
   "ko": "우왓!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction:1",
   "src": "I DON'T THINK I'LL EVER GET USED TO THAT TELEPORTER TINGLING SENSATION.",
   "speaker": "SAMOS",
   "ko": "순간이동할 때 찌릿찌릿한 이 느낌엔 영 익숙해지질 않는구나.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction:2",
   "src": "HEY!",
   "speaker": "SAMOS",
   "ko": "어이!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction:3",
   "src": "IT LOOKS LIKE THE BLUE SAGE THREW A PARTY.",
   "speaker": "SAMOS",
   "ko": "블루 현자가 파티라도 벌였나 보군.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction:4",
   "src": "OH MY! ROCK VILLAGE IS ON FIRE!",
   "speaker": "KEIRA",
   "ko": "어머! 바위 마을에 불이 났어요!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction:5",
   "src": "ONE HECK OF A PARTY.",
   "speaker": "SAMOS",
   "ko": "어지간히 요란한 파티로구나.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction:6",
   "src": "NO, NO! I MEAN ROCK VILLAGE IS BEING BOMBARDED WITH FLAMING BOULDERS!",
   "speaker": "KEIRA",
   "ko": "아니, 아니요! 바위 마을에 불붙은 바위가 쏟아지고 있다고요!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction:7",
   "src": "OH! AND IT LOOKS LIKE THE BLUE SAGE IS WORKING ON A LEVITATION MACHINE TO MOVE THEM.",
   "speaker": "KEIRA",
   "ko": "아! 그리고 블루 현자는 그걸 옮길 부양 장치를 만들고 있었나 봐요.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction:8",
   "src": "ASSUMING IT'S OPERATIONAL, WE'RE GONNA NEED POWER CELLS TO FUEL IT.",
   "speaker": "KEIRA",
   "ko": "작동만 한다면, 거기 넣을 파워 셀이 필요할 거예요.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction:9",
   "src": "I GUESS YOU TWO ARE GOING TO HAVE TO FIND SOME MORE.",
   "speaker": "KEIRA",
   "ko": "너희 둘이 좀 더 찾아와야겠네.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction:10",
   "src": "WE'D BETTER TAKE A LOOK AT HIS NOTES.",
   "speaker": "SAMOS",
   "ko": "그 양반 기록부터 살펴봐야겠다.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction:11",
   "src": "JAK, GO CHECK ON THE VILLAGERS, THEN COME BACK AND GIVE US AN UPDATE.",
   "speaker": "SAMOS",
   "ko": "잭, 마을 사람들 상태를 살피고 돌아와서 알려 다오.",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:assistant-village2-introduction:12",
   "src": "AND TAKE THE FURBALL WITH YOU!",
   "speaker": "SAMOS",
   "ko": "그 털뭉치도 데려가고!",
-  "state": "needs_review",
-  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: N-004"
+  "state": "distribution_eligible",
+  "note": "초벌 b04 바위 마을·불의 협곡·오라클; 확정: N-004; 사용자 일괄 승인 2026-10-16"
  }
 ]

@@ -4,15 +4,15 @@
   "src": "DON'T WORRY! I'LL AVENGE YOU!",
   "speaker": "DAXTER",
   "ko": "걱정 마! 내가 복수해 줄게!",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:death-0186:1",
   "src": "...NOT.",
   "speaker": "DAXTER",
   "ko": "뻥이야.",
-  "state": "needs_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 읽기 속도 단축; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 읽기 속도 단축; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  }
 ]

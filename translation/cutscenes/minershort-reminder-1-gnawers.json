@@ -4,23 +4,23 @@
   "src": "WOULD YOU TAKE CARE OF THOSE LURKERS",
   "speaker": "GORDY",
   "ko": "어둠 동굴 지지대를 갉아 먹는 루커들 좀",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020, G-058"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020, G-058; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:minershort-reminder-1-gnawers:1",
   "src": "CHEWIN' AT THE DARK CAVE SUPPORT BEAMS ALREADY!",
   "speaker": "GORDY",
   "ko": "얼른 좀 처리하라고!",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020; 2차 검수 반영"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020; 2차 검수 반영; 사용자 일괄 승인 2026-10-16"
  },
  {
   "id": "cut:minershort-reminder-1-gnawers:2",
   "src": "THOSE BEAMS CAN'T TAKE THAT KIND OF ABUSE FOREVER!",
   "speaker": "GORDY",
   "ko": "지지대가 그런 걸 언제까지나 버틸 수는 없다고!",
-  "state": "needs_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020"
+  "state": "distribution_eligible",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020; 사용자 일괄 승인 2026-10-16"
  }
 ]
