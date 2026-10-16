@@ -559,6 +559,21 @@ index bdba6d91..8205b002 100644
                (goto cfg-48)))
            (when (= cur-char #\~)
              (set! cur-char (-> arg0 data 0))
+diff --git a/goal_src/jak1/engine/ui/credits.gc b/goal_src/jak1/engine/ui/credits.gc
+index acebdc2c..5d04f299 100644
+--- a/goal_src/jak1/engine/ui/credits.gc
++++ b/goal_src/jak1/engine/ui/credits.gc
+@@ -66,7 +66,9 @@
+     (disable-level-text-file-loading)
+     (protect ((-> *pc-settings* text-language))
+       ;; swap language and load new text files
+-      (set! (-> *pc-settings* text-language) (the pc-language (-> *setting-control* current language)))
++      ;; og:kr korean has its own credit headings, keep them
++      (if (!= (-> *pc-settings* text-language) (pc-language korean))
++        (set! (-> *pc-settings* text-language) (the pc-language (-> *setting-control* current language))))
+       (load-level-text-files 0)))
+   (let ((s4-0 (+ (- arg0) (the int (* 1.5 (the float (-> *video-parms* screen-sy))))))
+         (gp-0 2815)
 diff --git a/goal_src/jak1/engine/ui/text-h.gc b/goal_src/jak1/engine/ui/text-h.gc
 index 52f8d240..35455b3d 100644
 --- a/goal_src/jak1/engine/ui/text-h.gc

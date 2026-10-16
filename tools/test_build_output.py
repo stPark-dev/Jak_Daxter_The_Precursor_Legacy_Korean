@@ -67,3 +67,14 @@ def test_every_custom_text_file_names_korean():
 
 def test_korean_language_name_is_encoded_in_korean_common_text():
     assert b"".join(bytes(MENU_MAP[c]) for c in "한국어") in COMMON
+
+
+def test_credits_keep_korean_text_language():
+    # credits.gc swaps text-language to the voice language during credits; Korean has its own
+    # credit headings (base b00..cbd), so Korean must not be swapped to English (2026-10-16)
+    src = (GOAL / "engine/ui/credits.gc").read_text(encoding="utf-8")
+    assert "(pc-language korean)" in src
+
+
+def test_korean_base_text_has_credit_headings():
+    assert KO_BASE.get("b39", "").startswith("~33L") and KO_BASE["b39"] != "~33LVOICE ACTORS"

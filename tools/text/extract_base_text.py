@@ -17,6 +17,32 @@ def _unescape(s):
     return re.sub(r"\\(.)", r"\1", s)
 
 
+CREDITS = re.compile(r"\(credits :begin #x([0-9a-fA-F]+)")
+HEADING = re.compile(r"~3\d+L")
+CREDIT_ITEM = re.compile(r"\(((?:\s*\"(?:[^\"\\]|\\.)*\")+)\s*\)|\"((?:[^\"\\]|\\.)*)\"|(\))")
+
+
+def _credits(text, column):
+    """og:kr per-language lines of a (credits :begin #x...) block. Ids advance on every line;
+    single strings are the same in every language: names and blanks are left out, headings
+    (starting with a ~3nL size token, e.g. ~34LDAXTER) are kept so they can be translated."""
+    out = {}
+    for m in CREDITS.finditer(text):
+        cur = int(m.group(1), 16)
+        for item in CREDIT_ITEM.finditer(text, m.end()):
+            if item.group(3):  # end of the credits block
+                break
+            if item.group(1) is not None:
+                strings = STRING.findall(item.group(1))
+                if column >= len(strings):
+                    raise ValueError(f"#x{cur:x} has no column {column}")
+                out[format(cur, "x")] = _unescape(strings[column])
+            elif HEADING.match(item.group(2)):
+                out[format(cur, "x")] = _unescape(item.group(2))
+            cur += 1
+    return out
+
+
 def extract(text, column):
     out = {}
     for hex_id, body in ENTRY.findall(text):
@@ -24,6 +50,7 @@ def extract(text, column):
         if column >= len(strings):
             raise ValueError(f"#x{hex_id} has no column {column}")
         out[format(int(hex_id, 16), "x")] = _unescape(strings[column])
+    out.update(_credits(text, column))
     return out
 
 

@@ -72,9 +72,9 @@
  {
   "id": "base:10d",
   "src": "LANGUAGE",
-  "ko": "언어",
+  "ko": "음성 언어",
   "state": "needs_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
  },
  {
   "id": "base:10e",
@@ -1951,5 +1951,831 @@
   "ko": "EUROPE",
   "state": "needs_review",
   "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
+ },
+ {
+  "id": "base:b00",
+  "src": "~33LCREATED AND DEVELOPED BY",
+  "ko": "~33L기획 및 개발",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b29",
+  "src": "~34LADDITIONAL GAME DESIGN AND PROGRAMMING",
+  "ko": "~34L추가 게임 디자인 및 프로그래밍",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b2c",
+  "src": "~34LMUSIC BY MUTATO MUZIKA",
+  "ko": "~34L음악: MUTATO MUZIKA",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b30",
+  "src": "~34LSOUND EFFECTS BY",
+  "ko": "~34L효과음",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b31",
+  "src": "WARNER BROTHERS POST PRODUCTION",
+  "ko": "WARNER BROTHERS POST PRODUCTION",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b35",
+  "src": "~34LADDITIONAL CHARACTER DESIGN",
+  "ko": "~34L추가 캐릭터 디자인",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b39",
+  "src": "~33LVOICE ACTORS",
+  "ko": "~33L목소리 출연",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b3b",
+  "src": "~34LDAXTER",
+  "ko": "~34L덱스터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b3c",
+  "src": "MAX CASELLA",
+  "ko": "MAX CASELLA",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b3e",
+  "src": "~34LSAMOS THE SAGE",
+  "ko": "~34L현자 사모스",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b3f",
+  "src": "WARREN BURTON",
+  "ko": "WARREN BURTON",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b41",
+  "src": "~34LGOL",
+  "ko": "~34L골",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b42",
+  "src": "DEE SNIDER",
+  "ko": "DEE SNIDER",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b44",
+  "src": "~34LKEIRA",
+  "ko": "~34L케이라",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b45",
+  "src": "ANNA GARDUÑO",
+  "ko": "ANNA GARDUÑO",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b47",
+  "src": "~34LMAIA",
+  "ko": "~34L마이아",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b48",
+  "src": "JENNIFER HAGOOD",
+  "ko": "JENNIFER HAGOOD",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b4a",
+  "src": "~34LMAYOR",
+  "ko": "~34L시장",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b4b",
+  "src": "BOB HASTINGS",
+  "ko": "BOB HASTINGS",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b4d",
+  "src": "~34LUNCLE",
+  "ko": "~34L잭의 삼촌",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b4e",
+  "src": "JACK CARTER",
+  "ko": "JACK CARTER",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b50",
+  "src": "~34LFARMER",
+  "ko": "~34L농부",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b51",
+  "src": "WILLIAM MINKIN",
+  "ko": "WILLIAM MINKIN",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b53",
+  "src": "~34LFISHERMAN",
+  "ko": "~34L어부",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b54",
+  "src": "KEVIN CONROY",
+  "ko": "KEVIN CONROY",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b56",
+  "src": "~34LBIRDWATCHER",
+  "ko": "~34L탐조가",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b57",
+  "src": "LAURIE FRASER",
+  "ko": "LAURIE FRASER",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b59",
+  "src": "~34LSCULPTOR",
+  "ko": "~34L조각가",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b5a",
+  "src": "DAVID HERMAN",
+  "ko": "DAVID HERMAN",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b5c",
+  "src": "~34LORACLE",
+  "ko": "~34L오라클",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b5d",
+  "src": "MICHAEL GOLLOM",
+  "ko": "MICHAEL GOLLOM",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b5f",
+  "src": "~34LBOGGY BILLY",
+  "ko": "~34L빌리",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b60",
+  "src": "DAVID HERMAN",
+  "ko": "DAVID HERMAN",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b62",
+  "src": "~34LGAMBLER",
+  "ko": "~34L도박꾼",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b63",
+  "src": "BRIAN PECK",
+  "ko": "BRIAN PECK",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b65",
+  "src": "~34LGEOLOGIST",
+  "ko": "~34L지질학자",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b66",
+  "src": "CAROLE RUGGIER",
+  "ko": "CAROLE RUGGIER",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b68",
+  "src": "~34LWARRIOR",
+  "ko": "~34L전사",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b69",
+  "src": "MARC WORDEN",
+  "ko": "MARC WORDEN",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b6b",
+  "src": "~34LGORDY",
+  "ko": "~34L고디",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b6c",
+  "src": "PAUL PARDUCCI",
+  "ko": "PAUL PARDUCCI",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b6e",
+  "src": "~34LWILLARD",
+  "ko": "~34L윌러드",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b6f",
+  "src": "ALAN BLUMENFELD",
+  "ko": "ALAN BLUMENFELD",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b71",
+  "src": "~34LBLUE SAGE",
+  "ko": "~34L블루 현자",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b72",
+  "src": "JOHN DI CROSTA",
+  "ko": "JOHN DI CROSTA",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b74",
+  "src": "~34LRED SAGE",
+  "ko": "~34L레드 현자",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b75",
+  "src": "SHERMAN HOWARD",
+  "ko": "SHERMAN HOWARD",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b77",
+  "src": "~34LYELLOW SAGE",
+  "ko": "~34L옐로우 현자",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b78",
+  "src": "JASON HARRIS",
+  "ko": "JASON HARRIS",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b7a",
+  "src": "~34LTESTERS",
+  "ko": "~34L테스터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b8e",
+  "src": "~34LSPECIAL THANKS",
+  "ko": "~34L특별 감사",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b9a",
+  "src": "RUTHIE HILL",
+  "ko": "RUTHIE HILL",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b9b",
+  "src": "AND THE STUDENTS OF RANCHO CAÑADA ELEMENTARY SCHOOL",
+  "ko": "RANCHO CAÑADA 초등학교 학생 여러분",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:b9e",
+  "src": "~33LPRODUCED AND PUBLISHED BY",
+  "ko": "~33L제작 및 유통",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:ba0",
+  "src": "~33LSONY COMPUTER ENTERTAINMENT AMERICA INC.",
+  "ko": "~33LSONY COMPUTER ENTERTAINMENT AMERICA INC.",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:ba2",
+  "src": "~34LSENIOR PRODUCER",
+  "ko": "~34L시니어 프로듀서",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:ba5",
+  "src": "~34LASSOCIATE PRODUCER",
+  "ko": "~34L어소시에이트 프로듀서",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:ba8",
+  "src": "~34LASSISTANT PRODUCER",
+  "ko": "~34L어시스턴트 프로듀서",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bab",
+  "src": "~34LDIRECTOR OF PRODUCT DEVELOPMENT",
+  "ko": "~34L제품 개발 디렉터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bae",
+  "src": "~34LVP OF PRODUCT DEVELOPMENT",
+  "ko": "~34L제품 개발 부사장",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bb1",
+  "src": "~34LDIRECTOR OF MARKETING",
+  "ko": "~34L마케팅 디렉터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bb4",
+  "src": "~34LMARKETING SPECIALIST",
+  "ko": "~34L마케팅 스페셜리스트",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bb7",
+  "src": "~34LLEGAL AND INTELLECTUAL PROPERTY",
+  "ko": "~34L법무 및 지식재산",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bbd",
+  "src": "~34LMARKET RESEARCH",
+  "ko": "~34L시장 조사",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bc0",
+  "src": "~34LPUBLIC RELATIONS",
+  "ko": "~34L홍보",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bc5",
+  "src": "~34L989 AUDIO ENGINE",
+  "ko": "~34L989 오디오 엔진",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bc8",
+  "src": "~34LINTERACTIVE MUSIC PROGRAMMING",
+  "ko": "~34L인터랙티브 음악 프로그래밍",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bcb",
+  "src": "~34LDIRECTOR OF QA",
+  "ko": "~34LQA 디렉터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bce",
+  "src": "~34LSENIOR MANAGER OF QA",
+  "ko": "~34LQA 시니어 매니저",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bd1",
+  "src": "~34LUSABILITY MANAGER OF QA",
+  "ko": "~34LQA 사용성 매니저",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bd4",
+  "src": "~34LCORE MANAGER OF QA",
+  "ko": "~34LQA 코어 매니저",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bd7",
+  "src": "~34LTECHNOLOGY MANAGER",
+  "ko": "~34L기술 매니저",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bda",
+  "src": "~34LTECHNICAL COORDINATOR",
+  "ko": "~34L기술 코디네이터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bdd",
+  "src": "~34LTECHNICAL SUPPORT",
+  "ko": "~34L기술 지원",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:be0",
+  "src": "~34LPROJECT COORDINATOR",
+  "ko": "~34L프로젝트 코디네이터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:be3",
+  "src": "~34LLEAD QA ANALYST",
+  "ko": "~34L리드 QA 분석가",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:be6",
+  "src": "~34LASSISTANT LEAD QA ANALYSTS",
+  "ko": "~34L어시스턴트 리드 QA 분석가",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:bec",
+  "src": "~34LQA ANALYSTS",
+  "ko": "~34LQA 분석가",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c0b",
+  "src": "~34LSPECIAL THANKS",
+  "ko": "~34L특별 감사",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c15",
+  "src": "~33LSONY COMPUTER ENTERTAINMENT INC. (JAPAN)",
+  "ko": "~33LSONY COMPUTER ENTERTAINMENT INC. (JAPAN)",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c17",
+  "src": "~34LEXECUTIVE PRODUCER",
+  "ko": "~34L총괄 프로듀서",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c1a",
+  "src": "~34LPRODUCER",
+  "ko": "~34L프로듀서",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c1e",
+  "src": "~34LASSOCIATE PRODUCER",
+  "ko": "~34L어소시에이트 프로듀서",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c21",
+  "src": "~34LPROMOTION",
+  "ko": "~34L프로모션",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c25",
+  "src": "~34LPACKAGE AND INSTRUCTION MANUAL",
+  "ko": "~34L패키지 및 설명서",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c2d",
+  "src": "~34LJAPANESE LOGO",
+  "ko": "~34L일본판 로고",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c30",
+  "src": "~34LQA MANAGER",
+  "ko": "~34LQA 매니저",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c33",
+  "src": "~34LQA TESTERS",
+  "ko": "~34LQA 테스터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c3d",
+  "src": "~34LSOUND SUPERVISOR",
+  "ko": "~34L사운드 슈퍼바이저",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c40",
+  "src": "~34LJAPANESE SOUND ENGINEERS",
+  "ko": "~34L일본판 사운드 엔지니어",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c44",
+  "src": "~34LVOICE TALENTS MANAGEMENT",
+  "ko": "~34L성우 매니지먼트",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c4b",
+  "src": "~34LSPECIAL THANKS",
+  "ko": "~34L특별 감사",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c59",
+  "src": "~33LSONY COMPUTER ENTERTAINMENT EUROPE",
+  "ko": "~33LSONY COMPUTER ENTERTAINMENT EUROPE",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c5b",
+  "src": "~34LPRODUCER",
+  "ko": "~34L프로듀서",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c5e",
+  "src": "~34LEUROPEAN SOFTWARE MANAGER",
+  "ko": "~34L유럽 소프트웨어 매니저",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c61",
+  "src": "~34LEUROPEAN PR MANAGER",
+  "ko": "~34L유럽 홍보 매니저",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c64",
+  "src": "~34LHEAD OF SOFTWARE PR",
+  "ko": "~34L소프트웨어 홍보 책임자",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c67",
+  "src": "~34LPACKAGING AND MANUAL DESIGN",
+  "ko": "~34L패키지 및 설명서 디자인",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c6a",
+  "src": "~34LCOPYWRITER",
+  "ko": "~34L카피라이터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c6d",
+  "src": "~34LNEW RELEASE MANAGER",
+  "ko": "~34L신작 출시 매니저",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c70",
+  "src": "~34LQA MANAGER",
+  "ko": "~34LQA 매니저",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c73",
+  "src": "~34LINTERNAL QA MANAGER",
+  "ko": "~34L내부 QA 매니저",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c76",
+  "src": "~34LINTERNAL QA SUPERVISOR",
+  "ko": "~34L내부 QA 슈퍼바이저",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c79",
+  "src": "~34LTEAM LEADER",
+  "ko": "~34L팀 리더",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c7c",
+  "src": "~34LTRC AUDITORS",
+  "ko": "~34LTRC 심사관",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c80",
+  "src": "~34LLEAD TESTERS",
+  "ko": "~34L리드 테스터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c84",
+  "src": "~34LTESTERS",
+  "ko": "~34L테스터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c94",
+  "src": "~34LQA SUBMISSIONS MANAGERS",
+  "ko": "~34LQA 제출 매니저",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c98",
+  "src": "~34LLOCALISATION MANAGER",
+  "ko": "~34L현지화 매니저",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c9b",
+  "src": "~34LLOCALISATION COORDINATOR",
+  "ko": "~34L현지화 코디네이터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:c9e",
+  "src": "~34LLOCALISATION LEAD TESTER",
+  "ko": "~34L현지화 리드 테스터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:ca1",
+  "src": "~34LFRENCH LOCALISATION TESTERS",
+  "ko": "~34L프랑스어 현지화 테스터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:ca5",
+  "src": "~34LGERMAN LOCALISATION TESTERS",
+  "ko": "~34L독일어 현지화 테스터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:caa",
+  "src": "~34LITALIAN LOCALISATION TESTERS",
+  "ko": "~34L이탈리아어 현지화 테스터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:cae",
+  "src": "~34LSPANISH LOCALISATION TESTERS",
+  "ko": "~34L스페인어 현지화 테스터",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:cb3",
+  "src": "~34LSPECIAL THANKS",
+  "ko": "~34L특별 감사",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:cbc",
+  "src": "REBECCA RICE AND",
+  "ko": "REBECCA RICE",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
+ },
+ {
+  "id": "base:cbd",
+  "src": "ALL AT SUBMISSIONS QA LIVERPOOL",
+  "ko": "리버풀 QA 제출팀 여러분",
+  "state": "needs_review",
+  "note": "초벌 b11 크레딧 제목·역할명, 음성 언어, 2차 검수 반영"
  }
 ]

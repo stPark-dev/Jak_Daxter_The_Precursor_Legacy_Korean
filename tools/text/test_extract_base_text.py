@@ -47,3 +47,36 @@ def test_counts_every_entry():
 def test_missing_column_fails():
     with pytest.raises(ValueError):
         X.extract(SAMPLE, column=9)
+
+
+CREDITS = SAMPLE + '''
+(credits :begin #x0b00
+  ("~33LCREATED AND DEVELOPED BY"
+   "~33LCREE PAR" "x" "x" "x" "x" "x"
+   )
+  "NAUGHTY DOG, INC."
+  ""
+  ("~34LVOICE ACTORS" "y" "y" "y" "y" "y" "y")
+  "~34LDAXTER"
+  )
+'''
+
+
+def test_credits_lists_are_extracted_with_running_ids():
+    # og:kr per-language credit headings; ids count every line, names and blanks included
+    d = X.extract(CREDITS, 0)
+    assert d["b00"] == "~33LCREATED AND DEVELOPED BY"
+    assert d["b03"] == "~34LVOICE ACTORS"
+    assert X.extract(CREDITS, 1)["b00"] == "~33LCREE PAR"
+
+
+def test_credits_single_strings_are_not_translatable():
+    # names are the same in every language: left to the original text
+    d = X.extract(CREDITS, 0)
+    assert "b01" not in d and "b02" not in d
+
+
+def test_credits_single_headings_are_translatable():
+    # a heading (starts with a ~3nL size token) shared by all languages, e.g. ~34LDAXTER
+    assert X.extract(CREDITS, 0)["b04"] == "~34LDAXTER"
+    assert X.extract(CREDITS, 3)["b04"] == "~34LDAXTER"

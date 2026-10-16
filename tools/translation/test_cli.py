@@ -11,7 +11,7 @@ JAK = str(Path(__file__).resolve().parents[2] / "jak-project")
 def test_init_creates_full_denominator(tmp_path):
     cli.init(JAK, tmp_path)
     counts = cli.counts(tmp_path)
-    assert counts["text/base"] == 279
+    assert counts["text/base"] == 397  # +118 credits headings (og:kr)
     assert counts["text/custom"] == 232  # +1121 KOREAN (og:kr)
     assert counts["speakers"] == 27
     assert counts["subtitles"] == 1502  # + 27 speakers = 1529 strings

@@ -74,6 +74,11 @@ def allowed_chars(font_db_path, source_texts=()):
         chars |= set(PAD_TOKEN.sub("", FORMAT_TOKEN.sub("", t)))
     passthru = src[src.index("passthrus_jak1"):src.index("std::vector<EncodeInfo> encode_info_jak1 ")]
     chars |= set(re.findall(r"'(.)'", passthru))
+    # replace_info_jak1 {game sequence, utf8}: composed glyphs such as Ñ, shared by v1 and v2
+    replace = src[src.index("std::vector<ReplaceInfo> replace_info_jak1"):src.index("std::vector<EncodeInfo> encode_info_jak1_v2")]
+    for _, utf8 in _PAIR.findall(replace):
+        if len(utf8) == 1:
+            chars.add(utf8)
     encode_v2 = src[src.index("std::vector<EncodeInfo> encode_info_jak1_v2"):]
     for utf8, _ in _PAIR.findall(encode_v2):
         if len(utf8) == 1:

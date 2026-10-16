@@ -102,4 +102,10 @@ def test_text_kept_identical_to_source_skips_the_char_check():
     # e.g. language names (ESPAÑOL, にほんご): drawn by the original encoder exactly as in English
     allowed = ws.allowed_chars(FONT_DB)
     assert ws.check_entry({"id": "x", "src": "ESPAÑOL", "ko": "ESPAÑOL"}, allowed) == []
-    assert ws.check_entry({"id": "x", "src": "ESPAÑOL", "ko": "에스파ÑOL"}, allowed) != []
+    assert ws.check_entry({"id": "x", "src": "ESPAÑOL", "ko": "에스파뇰…"}, allowed) != []
+
+
+def test_composed_glyphs_from_the_replace_table_are_allowed():
+    # Ñ is drawn by replace_info_jak1 (N + tilde), shared by the v1 and v2 banks
+    allowed = ws.allowed_chars(FONT_DB)
+    assert "Ñ" in allowed
