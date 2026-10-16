@@ -73,4 +73,4 @@ tools/qa/runtime.sh stop
 - GitHub 에서 새로 clone → `tools/setup_opengoal.sh <ISO>` → `tools/build_kr.sh release` → 도구 테스트 65개 통과.
 - 결과물(17COMMON.TXT, 17SUBTIT.TXT, 0COMMON.TXT, kr-font-data.gc, 코드표 2개, 폰트 텍스처)이 작업 트리 빌드와 바이트 동일 → 재현 가능.
 - README 실행 명령(`gk -- -boot -fakeiso`, 디버그 없음)으로 타이틀까지 한국어 표시 확인.
-- 진행 메뉴 임무 목록: 실제 플레이 중 표시는 미확인 (같은 글꼴·폭 설정으로 직접 그려 한 줄에 들어감은 확인).
+- 진행 메뉴 임무 목록: 샌드오버 임무 상태를 소개 완료로 바꾼 뒤 진행 메뉴에서 "시장에게 오브 90개 가져다주기" + 상태 "임무 완료" 표시 확인.
