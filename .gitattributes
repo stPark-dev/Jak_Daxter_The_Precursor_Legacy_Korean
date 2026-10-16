@@ -1,0 +1,4 @@
+# og:kr Windows Git (core.autocrlf=true) must not turn these into CRLF:
+# bash scripts would break and the OpenGOAL patch would not apply.
+*.sh text eol=lf
+*.patch text eol=lf

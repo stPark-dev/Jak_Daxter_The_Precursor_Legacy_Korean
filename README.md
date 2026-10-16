@@ -17,9 +17,10 @@ PS2 『Jak and Daxter: The Precursor Legacy』(잭 1편)를 PC 포트 [OpenGOAL]
 ## 필요한 것
 
 - 본인 소유의 **Jak and Daxter: The Precursor Legacy NTSC-U (SCUS-97124, Black Label) ISO**. 게임 데이터는 이 저장소에 포함되지 않습니다.
-- Linux, clang, cmake, ninja, nasm, python3 (+ Pillow, pytest), `libssl-dev` 등 [OpenGOAL 빌드 요구 사항](https://github.com/open-goal/jak-project#building-and-running-the-game)
+- Linux: clang, cmake, ninja, nasm, python3 (+ Pillow, pytest), `libssl-dev` 등 [OpenGOAL 빌드 요구 사항](https://github.com/open-goal/jak-project#building-and-running-the-game)
+- Windows: 아래 [Windows 설치](#windows-설치-미검증) 참고
 
-## 설치
+## 설치 (Linux)
 
 1. 이 저장소를 받습니다.
    ```bash
@@ -46,6 +47,38 @@ PS2 『Jak and Daxter: The Precursor Legacy』(잭 1편)를 PC 포트 [OpenGOAL]
 
 - `setup_opengoal.sh` 는 OpenGOAL `b6c8430` 에 패치를 적용합니다. 이미 `jak-project/` 에 다른 수정이 있으면 패치가 실패하니 지우고 다시 실행하세요.
 - 확인한 ISO 는 NTSC-U Black Label (SCUS-97124) 뿐입니다. 다른 판(Greatest Hits, PAL, 일본판)은 확인하지 않았습니다.
+
+## Windows 설치 (미검증)
+
+> **이 순서는 Windows 에서 직접 시험하지 않았습니다.** OpenGOAL 의 Windows 빌드 문서와 CI 설정을 바탕으로 썼고,
+> 스크립트의 Windows 경로 처리만 Linux 에서 테스트했습니다. 막히는 곳이 있으면 오류 메시지와 함께 알려 주세요.
+
+1. **Visual Studio 2022 Community** 를 설치하고 "C++를 사용한 데스크톱 개발" 워크로드를 선택합니다.
+2. [Scoop](https://scoop.sh/) 을 설치한 뒤 PowerShell 에서 도구를 받습니다.
+   ```powershell
+   scoop install git llvm nasm python ninja cmake
+   python -m pip install pillow pytest
+   ```
+3. 시작 메뉴에서 **x64 Native Tools Command Prompt for VS 2022** 를 열고, 그 안에서 Git Bash 를 실행합니다
+   (컴파일러 환경을 물려받아야 합니다).
+   ```bat
+   "%USERPROFILE%\scoop\apps\git\current\bin\bash.exe"
+   ```
+4. Git Bash 에서 Linux 와 같은 순서로 진행합니다. 경로는 `/c/...` 형식으로 씁니다.
+   ```bash
+   git clone https://github.com/stPark-dev/Jak_Daxter_The_Precursor_Legacy_Korean.git
+   cd Jak_Daxter_The_Precursor_Legacy_Korean
+   tools/setup_opengoal.sh /c/Games/jak1.iso
+   tools/build_kr.sh release
+   ```
+5. 실행합니다.
+   ```bash
+   jak-project/out/build/Release/bin/gk.exe -boot -fakeiso
+   ```
+6. 게임에서 START → 옵션 → 게임 옵션 → **텍스트 언어**·**자막 언어**를 **한국어**로 바꿉니다.
+
+참고: 스크립트는 Git Bash 에서 실행되면 Windows 빌드 설정(`Release-windows-clang`)과 출력 경로(`out/build/Release/bin`)를 자동으로 씁니다.
+이 저장소와 OpenGOAL 은 줄 끝 변환 없이(LF) 받아야 패치가 적용됩니다 (`.gitattributes`, `core.autocrlf=false` 로 처리).
 
 ## 저장소 구성
 
