@@ -18,7 +18,7 @@ PS2 『Jak and Daxter: The Precursor Legacy』(잭 1편)를 PC 포트 [OpenGOAL]
 
 - 본인 소유의 **Jak and Daxter: The Precursor Legacy NTSC-U (SCUS-97124, Black Label) ISO**. 게임 데이터는 이 저장소에 포함되지 않습니다.
 - Linux: clang, cmake, ninja, nasm, python3 (+ Pillow, pytest), `libssl-dev` 등 [OpenGOAL 빌드 요구 사항](https://github.com/open-goal/jak-project#building-and-running-the-game)
-- Windows: 아래 [Windows 설치](#windows-설치-미검증) 참고
+- Windows: 아래 [Windows 설치](#windows-설치) 참고
 
 ## 설치 (Linux)
 
@@ -48,36 +48,45 @@ PS2 『Jak and Daxter: The Precursor Legacy』(잭 1편)를 PC 포트 [OpenGOAL]
 - `setup_opengoal.sh` 는 OpenGOAL `b6c8430` 에 패치를 적용합니다. 이미 `jak-project/` 에 다른 수정이 있으면 패치가 실패하니 지우고 다시 실행하세요.
 - 확인한 ISO 는 NTSC-U Black Label (SCUS-97124) 뿐입니다. 다른 판(Greatest Hits, PAL, 일본판)은 확인하지 않았습니다.
 
-## Windows 설치 (미검증)
+## Windows 설치
 
-> **이 순서는 Windows 에서 직접 시험하지 않았습니다.** OpenGOAL 의 Windows 빌드 문서와 CI 설정을 바탕으로 썼고,
-> 스크립트의 Windows 경로 처리만 Linux 에서 테스트했습니다. 막히는 곳이 있으면 오류 메시지와 함께 알려 주세요.
+Windows 10 에서 설치부터 한글 표시까지 확인했습니다 (2026-10-16, VS 2022 Build Tools 17.14 + LLVM 23.1.3).
 
-1. **Visual Studio 2022 Community** 를 설치하고 "C++를 사용한 데스크톱 개발" 워크로드를 선택합니다.
-2. [Scoop](https://scoop.sh/) 을 설치한 뒤 PowerShell 에서 도구를 받습니다.
+1. PowerShell 에서 빌드 도구를 설치합니다. 관리자 권한(UAC) 창이 뜨면 허용하세요.
    ```powershell
-   scoop install git llvm nasm python ninja cmake
+   winget install --id Microsoft.VisualStudio.2022.BuildTools -e --override "--wait --passive --add Microsoft.VisualStudio.Workload.VCTools --includeRecommended"
+   winget install --id Git.Git -e
+   winget install --id LLVM.LLVM -e
+   winget install --id Kitware.CMake -e
+   winget install --id Ninja-build.Ninja -e
+   winget install --id NASM.NASM -e
+   winget install --id Python.Python.3.11 -e
    python -m pip install pillow pytest
    ```
-3. 시작 메뉴에서 **x64 Native Tools Command Prompt for VS 2022** 를 열고, 그 안에서 Git Bash 를 실행합니다
-   (컴파일러 환경을 물려받아야 합니다).
+   설치 후에는 새 터미널을 여세요 (PATH 갱신).
+2. 저장소를 받습니다.
    ```bat
-   "%USERPROFILE%\scoop\apps\git\current\bin\bash.exe"
-   ```
-4. Git Bash 에서 Linux 와 같은 순서로 진행합니다. 경로는 `/c/...` 형식으로 씁니다.
-   ```bash
    git clone https://github.com/stPark-dev/Jak_Daxter_The_Precursor_Legacy_Korean.git
    cd Jak_Daxter_The_Precursor_Legacy_Korean
-   tools/setup_opengoal.sh /c/Games/jak1.iso
-   tools/build_kr.sh release
+   ```
+3. OpenGOAL 을 받아 한글 패치를 적용하고 빌드한 뒤, 본인 ISO 를 추출합니다 (처음 한 번, 16코어 기준 약 40분).
+   ```bat
+   tools\kr.bat setup C:\Games\jak1.iso
+   ```
+4. 한글 폰트를 만들고 번역을 넣어 게임을 빌드합니다.
+   ```bat
+   tools\kr.bat build release
    ```
 5. 실행합니다.
-   ```bash
-   jak-project/out/build/Release/bin/gk.exe -boot -fakeiso
+   ```bat
+   tools\kr.bat run
    ```
+   (직접 실행하려면 `jak-project\out\build\Release\bin\gk.exe -- -boot -fakeiso`)
 6. 게임에서 START → 옵션 → 게임 옵션 → **텍스트 언어**·**자막 언어**를 **한국어**로 바꿉니다.
 
-참고: 스크립트는 Git Bash 에서 실행되면 Windows 빌드 설정(`Release-windows-clang`)과 출력 경로(`out/build/Release/bin`)를 자동으로 씁니다.
+`tools\kr.bat` 는 Visual Studio C++ 환경(`vcvars64`)을 불러오고, winget 이 PATH 에 넣지 않는 LLVM·NASM 경로를 더한 뒤
+Git Bash 로 Linux 와 같은 스크립트(`setup_opengoal.sh`, `build_kr.sh`)를 실행합니다.
+Git Bash 의 `link` 명령이 MSVC 링커를 가리지 않도록 MSVC 경로를 앞에 둡니다.
 이 저장소와 OpenGOAL 은 줄 끝 변환 없이(LF) 받아야 패치가 적용됩니다 (`.gitattributes`, `core.autocrlf=false` 로 처리).
 
 ## 저장소 구성

@@ -2,3 +2,4 @@
 # bash scripts would break and the OpenGOAL patch would not apply.
 *.sh text eol=lf
 *.patch text eol=lf
+*.bat text eol=crlf

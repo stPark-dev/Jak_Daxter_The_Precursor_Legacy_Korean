@@ -1,13 +1,22 @@
 """Tests for tools/platform.sh (Linux / Windows Git Bash paths used by setup and build scripts)."""
+import os
 import subprocess
 from pathlib import Path
 
 PLATFORM = Path(__file__).resolve().parent / "platform.sh"
 
 
+def _bash():
+    # on Windows a bare "bash" is System32's WSL launcher; use the Git Bash next to git instead
+    if os.name != "nt":
+        return "bash"
+    exec_path = subprocess.run(["git", "--exec-path"], capture_output=True, text=True, check=True).stdout
+    return str(Path(exec_path.strip()).parents[2] / "bin" / "bash.exe")  # <git>/mingw64/libexec/git-core
+
+
 def _vars(uname, root, *names):
     script = f'source "{PLATFORM}"; kr_platform "{root}"; ' + "; ".join(f'echo "${n}"' for n in names)
-    out = subprocess.run(["bash", "-c", script], env={"KR_UNAME": uname, "PATH": "/usr/bin:/bin"},
+    out = subprocess.run([_bash(), "-c", script], env={"KR_UNAME": uname, "PATH": "/usr/bin:/bin"},
                          capture_output=True, text=True, check=True).stdout
     return out.splitlines()
 
