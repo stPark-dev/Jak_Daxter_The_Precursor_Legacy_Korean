@@ -2068,8 +2068,8 @@
   "src": "MEET ME BACK IN THE VOLCANIC CRATER.",
   "speaker": "KEIRA",
   "ko": "화산 분화구로 돌아와.",
-  "state": "needs_human_review",
-  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; hold: G-031"
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 보류 해제(사용자 승인 2026-10-16): G-031"
  },
  {
   "id": "hint:asstv101:3",
@@ -2116,8 +2116,8 @@
   "src": "YOU'VE GOT TO GO INTO THE RED SAGE'S LAB",
   "speaker": "KEIRA",
   "ko": "화산 분화구 한가운데에 있는",
-  "state": "needs_human_review",
-  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; hold: G-031"
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 보류 해제(사용자 승인 2026-10-16): G-031"
  },
  {
   "id": "hint:asstv103:2",
@@ -2156,8 +2156,8 @@
   "src": "WE WANNA JOIN YOU IN THE VOLCANIC CRATER!",
   "speaker": "KEIRA",
   "ko": "우리도 화산 분화구로 가고 싶어!",
-  "state": "needs_human_review",
-  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; hold: G-031"
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 보류 해제(사용자 승인 2026-10-16): G-031"
  },
  {
   "id": "hint:asstv105:1",
@@ -2476,8 +2476,8 @@
   "src": "WHEN YOU REACH THE VOLCANIC CRATER,",
   "speaker": "KEIRA",
   "ko": "화산 분화구에 도착하면,",
-  "state": "needs_human_review",
-  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; hold: G-031"
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 보류 해제(사용자 승인 2026-10-16): G-031"
  },
  {
   "id": "hint:asstvb23:7",
@@ -2692,8 +2692,8 @@
   "src": "HEY, YOU FOUND ONE OF MY SCOUT FLIES!",
   "speaker": "KEIRA",
   "ko": "어, 내 스카우트 플라이를 하나 찾았구나!",
-  "state": "needs_human_review",
-  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; hold: G-011; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 보류 해제(사용자 승인 2026-10-16): G-011; 2차 검수 반영"
  },
  {
   "id": "hint:asstvb44:1",
@@ -2716,8 +2716,8 @@
   "src": "WOW! THAT LAST SCOUT FLY HAD A POWER CELL!",
   "speaker": "KEIRA",
   "ko": "와! 마지막 스카우트 플라이가 파워 셀을 갖고 있었어!",
-  "state": "needs_human_review",
-  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; hold: G-011"
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 보류 해제(사용자 승인 2026-10-16): G-011"
  },
  {
   "id": "hint:asstvb45:1",
@@ -3348,8 +3348,8 @@
   "src": "I BET IF WE FOUND ALL OF THOSE SICKLY CUTE SCOUT FLIES ON EACH LEVEL",
   "speaker": "DAXTER",
   "ko": "지역마다 그 징그럽게 귀여운 스카우트 플라이를 다 찾으면",
-  "state": "needs_human_review",
-  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); hold: G-011"
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 보류 해제(사용자 승인 2026-10-16): G-011"
  },
  {
   "id": "hint:sksp0003:1",
@@ -3436,8 +3436,8 @@
   "src": "HEY! LET'S GO CHECK OUT OL' FISH BREATH'S SPEED-BOAT AT THE DOCK!",
   "speaker": "DAXTER",
   "ko": "어이! 부두에 있는 생선 냄새 아저씨 쾌속정 구경 가자!",
-  "state": "needs_human_review",
-  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); hold: N-009"
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 보류 해제(사용자 승인 2026-10-16): N-009"
  },
  {
   "id": "hint:sksp0011:0",
@@ -4140,8 +4140,8 @@
   "src": "THERE'S SCOUT FLIES OUT HERE, TOO!",
   "speaker": "DAXTER",
   "ko": "여기에도 스카우트 플라이가 있어!",
-  "state": "needs_human_review",
-  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); hold: G-011"
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 보류 해제(사용자 승인 2026-10-16): G-011"
  },
  {
   "id": "hint:sksp009a:0",
@@ -4204,24 +4204,24 @@
   "src": "DID WE FIND ALL THE SCOUT FLIES IN THIS AREA?",
   "speaker": "DAXTER",
   "ko": "이 지역 스카우트 플라이는 다 찾았나?",
-  "state": "needs_human_review",
-  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); hold: G-011"
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 보류 해제(사용자 승인 2026-10-16): G-011"
  },
  {
   "id": "hint:sksp009j:0",
   "src": "HEY! IT LOOKS LIKE SCOUT FLIES ARE ALWAYS IN RED BOXES.",
   "speaker": "DAXTER",
   "ko": "어이! 스카우트 플라이는 항상 빨간 상자 안에 있나 봐.",
-  "state": "needs_human_review",
-  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); hold: G-011"
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 보류 해제(사용자 승인 2026-10-16): G-011"
  },
  {
   "id": "hint:sksp009k:0",
   "src": "ALRIGHT! YOU FOUND ALL THE SCOUT FLIES IN THIS AREA!",
   "speaker": "DAXTER",
   "ko": "좋았어! 이 지역 스카우트 플라이를 다 찾았어!",
-  "state": "needs_human_review",
-  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); hold: G-011"
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 보류 해제(사용자 승인 2026-10-16): G-011"
  },
  {
   "id": "hint:sksp0109:0",

@@ -801,8 +801,8 @@
   "id": "base:20b",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_human_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; hold: G-011"
+  "state": "needs_review",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
  },
  {
   "id": "base:20c",
@@ -1305,8 +1305,8 @@
   "id": "base:317",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_human_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; hold: G-011"
+  "state": "needs_review",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
  },
  {
   "id": "base:318",
@@ -1585,8 +1585,8 @@
   "id": "base:413",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_human_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; hold: G-011"
+  "state": "needs_review",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
  },
  {
   "id": "base:414",
@@ -1599,8 +1599,8 @@
   "id": "base:415",
   "src": "VOLCANIC CRATER",
   "ko": "화산 분화구",
-  "state": "needs_human_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; hold: G-031"
+  "state": "needs_review",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-031"
  },
  {
   "id": "base:416",
@@ -1746,8 +1746,8 @@
   "id": "base:501",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_human_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; hold: G-011"
+  "state": "needs_review",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
  },
  {
   "id": "base:50c",
@@ -1767,8 +1767,8 @@
   "id": "base:601",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_human_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; hold: G-011"
+  "state": "needs_review",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
  },
  {
   "id": "base:602",
@@ -1795,8 +1795,8 @@
   "id": "base:701",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_human_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; hold: G-011"
+  "state": "needs_review",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
  },
  {
   "id": "base:702",
@@ -1809,8 +1809,8 @@
   "id": "base:800",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_human_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; hold: G-011"
+  "state": "needs_review",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
  },
  {
   "id": "base:801",
@@ -1858,8 +1858,8 @@
   "id": "base:91c",
   "src": "FREE 7 SCOUT FLIES",
   "ko": "스카우트 플라이 7마리 구출하기",
-  "state": "needs_human_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; hold: G-011"
+  "state": "needs_review",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-011"
  },
  {
   "id": "base:91d",

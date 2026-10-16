@@ -1368,8 +1368,8 @@
   "id": "custom:151a",
   "src": "VOLCANIC CRATER IL",
   "ko": "화산 분화구 IL",
-  "state": "needs_human_review",
-  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; hold: G-031"
+  "state": "needs_review",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영; 보류 해제(사용자 승인 2026-10-16): G-031"
  },
  {
   "id": "custom:151b",
