@@ -11,9 +11,9 @@
   "id": "cut:evilbro-misty-end:1",
   "src": "DON'T WORRY DEAR BROTHER, I'LL DISPATCH MY LURKER ARMY TO DEAL WITH THEM.",
   "speaker": "WOMAN",
-  "ko": "걱정 말아요. 내 러커 군대를 보내 처리할 테니.",
+  "ko": "걱정 말아요, 골. 우린 남매잖아요. 내 러커 군대를 보내 처리할게요.",
   "state": "needs_review",
-  "note": "fishermans-boat-ride-to-village1-alt 와 같은 대사 (재사용); V-013/V-014 개정 반영(연령 호칭·명령조 제거)"
+  "note": "fishermans-boat-ride-to-village1-alt 와 같은 대사 (재사용); V-013/V-014 개정 반영(연령 호칭·명령조 제거); H-001 확정 반영"
  },
  {
   "id": "cut:evilbro-misty-end:2",

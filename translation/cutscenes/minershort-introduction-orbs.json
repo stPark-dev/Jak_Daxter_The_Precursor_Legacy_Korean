@@ -4,32 +4,32 @@
   "src": "HEY GORDY, DUH, I THINK WE GOT VISITORS.",
   "speaker": "MINER",
   "ko": "어, 고디, 손님 온 것 같은데.",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: S-018, V-021"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: S-018, V-021"
  },
  {
   "id": "cut:minershort-introduction-orbs:1",
   "src": "YA THINK, WILLARD? HOWDY, STRANGERS, UH, PASSING THROUGH?",
   "speaker": "GORDY",
   "ko": "그걸 이제 알았냐, 윌러드? 어이, 낯선 양반들. 그냥 지나가는 길이야?",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020; 2차 검수 반영"
  },
  {
   "id": "cut:minershort-introduction-orbs:2",
   "src": "UH, US, TOO. WELL, WE GOTTA BE MOVIN' ON, NOTHIN' TO SEE HERE.",
   "speaker": "GORDY",
   "ko": "어, 우리도 그래. 자, 우린 이만 가 봐야겠네. 볼 거 없어.",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020"
  },
  {
   "id": "cut:minershort-introduction-orbs:3",
   "src": "DUH, I THOUGHT YOU SAID THIS WAS A PRICELESS GEM WORTH-",
   "speaker": "WILLARD",
   "ko": "어, 값을 매길 수도 없는 보석이라며? 값이 무려-",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-021; 2차 검수 반영"
  },
  {
   "id": "cut:minershort-introduction-orbs:4",
@@ -52,40 +52,40 @@
   "src": "WE GOT FOUR OF 'EM. DUH, YOU WANT 'EM?",
   "speaker": "WILLARD",
   "ko": "우리 네 개 있는데. 어, 줄까?",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-021"
  },
  {
   "id": "cut:minershort-introduction-orbs:7",
   "src": "WHAT BIRD-BRAIN HERE IS TRYING TO SAY IS,",
   "speaker": "GORDY",
   "ko": "여기 새대가리가 하려는 말은,",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020"
  },
  {
   "id": "cut:minershort-introduction-orbs:8",
   "src": "WE MAY HAVE A FEW POWER CELLS LAYING AROUND,",
   "speaker": "GORDY",
   "ko": "우리한테 파워 셀이 몇 개 굴러다닐지도 모르고,",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020"
  },
  {
   "id": "cut:minershort-introduction-orbs:9",
   "src": "AND WE MIGHT BE WILLING TO PART WITH THEM FOR...",
   "speaker": "GORDY",
   "ko": "기꺼이 넘길 수도 있다 이거야, 값은...",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020; 2차 검수 반영"
  },
  {
   "id": "cut:minershort-introduction-orbs:10",
   "src": "90 ORBS EACH.",
   "speaker": "GORDY",
   "ko": "하나에 오브 90개.",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020; 2차 검수 반영"
  },
  {
   "id": "cut:minershort-introduction-orbs:11",
@@ -108,15 +108,15 @@
   "src": "WELL, SMARTYPANTS, WE GOT TWELVE MORE YEARS OF DIGGIN' TO FIGURE THAT OUT.",
   "speaker": "GORDY",
   "ko": "흥, 잘난 척쟁이 같으니. 그거야 12년 더 파면서 생각할 거다.",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020"
  },
  {
   "id": "cut:minershort-introduction-orbs:14",
   "src": "UHH... GORDY, WOULDN'T IT TAKE LESS TIME IF YOU DUG, TOO?",
   "speaker": "WILLARD",
   "ko": "어어... 고디, 너도 같이 파면 시간이 덜 걸리지 않을까?",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-021"
  }
 ]

@@ -12,7 +12,7 @@
   "src": "GET UP TO THOSE SNOWY PEAKS AND STOP THEM!",
   "speaker": "SAMOS",
   "ko": "저 설산 꼭대기로 올라가서 놈들을 막아라!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: G-053"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: G-053"
  }
 ]

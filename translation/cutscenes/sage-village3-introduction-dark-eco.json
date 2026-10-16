@@ -12,8 +12,8 @@
   "src": "THERE SEEMS TO BE A LARGE LURKER PRESENCE IN THE SPIDER CAVES!",
   "speaker": "SAMOS",
   "ko": "거미 동굴에 러커들이 잔뜩 몰려 있는 것 같구나!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: G-050"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: G-050"
  },
  {
   "id": "cut:sage-village3-introduction-dark-eco:2",
@@ -28,16 +28,16 @@
   "src": "LET ME GUESS. THERE ARE SPIDERS IN THE SPIDER CAVES, RIGHT?",
   "speaker": "DAXTER",
   "ko": "맞혀 볼까. 거미 동굴엔 거미가 있다, 맞지?",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: G-050"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: G-050"
  },
  {
   "id": "cut:sage-village3-introduction-dark-eco:4",
   "src": "OF COURSE THERE ARE SPIDERS IN SPIDER CAVES!",
   "speaker": "SAMOS",
   "ko": "당연히 거미 동굴엔 거미가 있지!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: G-050"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: G-050"
  },
  {
   "id": "cut:sage-village3-introduction-dark-eco:5",

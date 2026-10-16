@@ -100,16 +100,16 @@
   "src": "HUH... WHAT ARE GOL AND MAIA UP TO?",
   "speaker": "KEIRA",
   "ko": "음... 골이랑 마이아는 대체 무슨 짓을 꾸미는 거지?",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: G-005a"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: G-005a"
  },
  {
   "id": "hint:ASSTLP35:0",
   "src": "HMM... WE'VE GOTTA GET TO PRECURSOR CITY.",
   "speaker": "KEIRA",
   "ko": "흠... 프리커서 도시까지 가야 해.",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: G-059"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: G-059"
  },
  {
   "id": "hint:ASSTLP36:0",
@@ -1428,288 +1428,288 @@
   "src": "ONE OF THESE DAYS I'LL BE RICH...",
   "speaker": "GORDY",
   "ko": "언젠가는 내가 부자가 될 거야...",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MIN-LO01:1",
   "src": "YOU MEAN WE'LL BE RICH!",
   "speaker": "WILLARD",
   "ko": "우리가 부자가 된다는 거지!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-021"
  },
  {
   "id": "hint:MIN-LO01:2",
   "src": "YEAH. WHATEVER.",
   "speaker": "GORDY",
   "ko": "그래, 그래. 됐고.",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020; 2차 검수 반영"
  },
  {
   "id": "hint:MIN-LO03:0",
   "src": "DIG, WILLARD! DIG!",
   "speaker": "GORDY",
   "ko": "파, 윌러드! 파!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MIN-LO03:1",
   "src": "YEAH, BUT YOU'RE NOT DIGGING!",
   "speaker": "WILLARD",
   "ko": "응, 근데 너는 안 파잖아!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-021"
  },
  {
   "id": "hint:MIN-LO03:2",
   "src": "THAT'S 'CAUSE I'M DOIN' THE THINKIN'!",
   "speaker": "GORDY",
   "ko": "그건 내가 머리를 쓰고 있어서지!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MIN-LO04:0",
   "src": "DUH, GORDY? CAN I TAKE A BREAK?",
   "speaker": "WILLARD",
   "ko": "어, 고디? 허리 좀 펴도 돼?",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-021; 2차 검수 반영"
  },
  {
   "id": "hint:MIN-LO04:1",
   "src": "OH, I'LL BREAK SOMETHIN' ALRIGHT. NOW DIG!",
   "speaker": "GORDY",
   "ko": "허리를 아주 꺾어 줄까? 어서 파!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020; 2차 검수 반영"
  },
  {
   "id": "hint:MIN-LO05:0",
   "src": "I'M STARVING, GORDY!",
   "speaker": "WILLARD",
   "ko": "배고파 죽겠어, 고디!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-021"
  },
  {
   "id": "hint:MIN-LO05:1",
   "src": "EAT YOUR BIRD!",
   "speaker": "GORDY",
   "ko": "네 새나 먹어!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MIN-LO06:0",
   "src": "DUH, GORDY? I NEED A SHARPER PICK.",
   "speaker": "WILLARD",
   "ko": "어, 고디? 곡괭이가 너무 무뎌.",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-021; 2차 검수 반영"
  },
  {
   "id": "hint:MIN-LO06:1",
   "src": "WHAT YOU NEED IS A SHARPER WIT!",
   "speaker": "GORDY",
   "ko": "무딘 건 네 머리야!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020; 2차 검수 반영"
  },
  {
   "id": "hint:MSH-AM01:0",
   "src": "WAH-HA-HA-HA-HA! I'M GONNA BE RICH!",
   "speaker": "GORDY",
   "ko": "와하하하하! 난 부자가 될 거야!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MSH-AM02:0",
   "src": "DIG, DIG, DIG!",
   "speaker": "GORDY",
   "ko": "파, 파, 파!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MSH-AM03:0",
   "src": "WILLARD! WORK HARDER, NOT SMARTER!",
   "speaker": "GORDY",
   "ko": "윌러드! 머리 말고 몸을 써!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MSH-AM04:0",
   "src": "AH-HAH, I'LL BE THE RICHEST MAN IN THE WORLD! AH HA HA...",
   "speaker": "GORDY",
   "ko": "아하, 내가 세상에서 제일가는 부자가 될 거야! 아하하...",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MSH-AM05:0",
   "src": "OH HO HO! NOBODY'S EVEN SEEN A GEM THIS SIZE! AH HA HA!",
   "speaker": "GORDY",
   "ko": "오호호! 이만한 보석은 아무도 본 적 없을걸! 아하하!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MSH-AM06:0",
   "src": "EASY STREET, HERE I COME!",
   "speaker": "GORDY",
   "ko": "팔자 고칠 날이 온다!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MSH-AM07:0",
   "src": "MY GEMS! ALL MY GEMS!",
   "speaker": "GORDY",
   "ko": "내 보석! 내 보석 전부!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MSH-AM09:0",
   "src": "(CHUCKLING) I CAN'T WAIT TO CASH THIS BABY IN!",
   "speaker": "GORDY",
   "ko": "(킬킬) 이 녀석을 얼른 돈으로 바꾸고 싶어!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MSH-AM10:0",
   "src": "THIS LOOKS LIKE A RARE CRYSTITE ZLARCONIA! OH-HO-HO!",
   "speaker": "GORDY",
-  "ko": "이건 귀한 크리스타이트 즐라코니아 같은데! 오호호!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020, G-055"
+  "ko": "이건 귀한 큐빅 즐라코니아 같은데! 오호호!",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020, G-055; 확정 표기 반영"
  },
  {
   "id": "hint:MSH-AM11:0",
   "src": "NOW WAIT A MINUTE! THEY'RE ALL MINE! MINE, I TELL YA!",
   "speaker": "GORDY",
   "ko": "잠깐만! 전부 내 거야! 내 거라고!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MSH-AM12:0",
   "src": "SO, WILLARD. WHAT ARE YOU GONNA DO WITH",
   "speaker": "GORDY",
   "ko": "그래서, 윌러드. 네 몫으로 뭘 할 거냐?",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020; 2차 검수 반영"
  },
  {
   "id": "hint:MSH-AM12:1",
   "src": "YOUR QUARTER, OF YOUR HALF?",
   "speaker": "GORDY",
   "ko": "네 절반의... 4분의 1 말이야.",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020; 2차 검수 반영"
  },
  {
   "id": "hint:MSH-AM1A:0",
   "src": "I'M GONNA BE RICH!",
   "speaker": "GORDY",
   "ko": "난 부자가 될 거야!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MSH-AM2A:0",
   "src": "DIG, DIG, DIG!",
   "speaker": "GORDY",
   "ko": "파, 파, 파!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MSH-AM3A:0",
   "src": "WORK HARDER, NOT SMARTER!",
   "speaker": "GORDY",
   "ko": "머리 말고 몸을 써!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-020"
  },
  {
   "id": "hint:MTA-AM01:0",
   "src": "DUH, ARE WE ALMOST DONE?",
   "speaker": "WILLARD",
   "ko": "어, 거의 다 끝났어?",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-021"
  },
  {
   "id": "hint:MTA-AM02:0",
   "src": "GEE, CAN WE TAKE A BREAK?",
   "speaker": "WILLARD",
   "ko": "에이, 좀 쉬면 안 돼?",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-021"
  },
  {
   "id": "hint:MTA-AM03:0",
   "src": "AWW, I'M HUNGRY...",
   "speaker": "WILLARD",
   "ko": "아우, 배고파...",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-021"
  },
  {
   "id": "hint:MTA-AM04:0",
   "src": "DUH... I THINK BIRDIE'S CAGE NEEDS CLEANING...",
   "speaker": "WILLARD",
-  "ko": "어... 버디 새장 청소해야 할 것 같아...",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021, G-057"
+  "ko": "어... 짹짹이 새장 청소해야 할 것 같아...",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-021, G-057; 확정 표기 반영"
  },
  {
   "id": "hint:MTA-AM05:0",
   "src": "GEE, THAT'S AN AWFULLY BIG GEM!",
   "speaker": "WILLARD",
   "ko": "와, 진짜 엄청 큰 보석이다!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-021"
  },
  {
   "id": "hint:MTA-AM06:0",
   "src": "DUH... I ALWAYS WANTED TO BE A LUMBERJACK...",
   "speaker": "WILLARD",
   "ko": "어... 난 늘 나무꾼이 되고 싶었는데...",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-021"
  },
  {
   "id": "hint:MTA-AM07:0",
   "src": "DUH, GORDY PROMISED TO GIVE ME HALF OF WHATEVER I COULD CARRY!",
   "speaker": "WILLARD",
   "ko": "어, 고디가 내가 들고 갈 수 있는 것의 절반을 주기로 했어!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-021"
  },
  {
   "id": "hint:MTA-AM08:0",
   "src": "EH HEH... BIRDIE IS MY BEST FRIEND...",
   "speaker": "WILLARD",
-  "ko": "에헤헤... 버디는 내 제일 친한 친구야...",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021, G-057"
+  "ko": "에헤헤... 짹짹이는 내 제일 친한 친구야...",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-021, G-057; 확정 표기 반영"
  },
  {
   "id": "hint:MTA-AM09:0",
   "src": "I LOVE MY LITTLE BIRDIE...",
   "speaker": "WILLARD",
-  "ko": "난 우리 귀여운 버디가 좋아...",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: V-021, G-057"
+  "ko": "난 우리 귀여운 짹짹이가 좋아...",
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: V-021, G-057; 확정 표기 반영"
  },
  {
   "id": "hint:RED-AM01:0",
@@ -1852,8 +1852,8 @@
   "src": "MAIA AND GOL HAVE GOTTEN IN OVER THEIR HEADS!",
   "speaker": "SAMOS",
   "ko": "마이아와 골이 감당 못 할 일에 손을 댔구나!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: G-005a"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: G-005a"
  },
  {
   "id": "hint:SAGELP34:0",
@@ -2860,8 +2860,8 @@
   "src": "I'VE REACTIVATED THE GONDOLA. IT CAN TAKE YOU TO SNOWY MOUNTAIN!",
   "speaker": "KEIRA",
   "ko": "곤돌라를 다시 작동시켰어. 설산까지 데려다줄 거야!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; hold: G-053"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트; 확정: G-053"
  },
  {
   "id": "hint:asstvb76:1",

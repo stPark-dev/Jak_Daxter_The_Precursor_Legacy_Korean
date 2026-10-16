@@ -80,8 +80,8 @@
   "id": "speaker:GORDY",
   "src": "GORDY",
   "ko": "고디",
-  "state": "needs_human_review",
-  "note": "hold: S-016"
+  "state": "needs_review",
+  "note": "확정: S-016"
  },
  {
   "id": "speaker:JAK",
@@ -108,8 +108,8 @@
   "id": "speaker:MAIA",
   "src": "MAIA",
   "ko": "마이아",
-  "state": "needs_human_review",
-  "note": "hold: G-005a"
+  "state": "needs_review",
+  "note": "확정: G-005a"
  },
  {
   "id": "speaker:MAYOR",
@@ -121,9 +121,9 @@
  {
   "id": "speaker:MINER",
   "src": "MINER",
-  "ko": "광부",
-  "state": "needs_human_review",
-  "note": "hold: S-018"
+  "ko": "윌러드",
+  "state": "needs_review",
+  "note": "확정: S-018 (유일한 줄이 윌러드 — 표시명만 통일, ID 유지)"
  },
  {
   "id": "speaker:OLD MAN",
@@ -171,8 +171,8 @@
   "id": "speaker:WILLARD",
   "src": "WILLARD",
   "ko": "윌러드",
-  "state": "needs_human_review",
-  "note": "hold: S-017"
+  "state": "needs_review",
+  "note": "확정: S-017"
  },
  {
   "id": "speaker:WOMAN",

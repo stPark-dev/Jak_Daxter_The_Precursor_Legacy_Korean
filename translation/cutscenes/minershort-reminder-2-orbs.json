@@ -4,15 +4,15 @@
   "src": "DUH, GORDY?",
   "speaker": "WILLARD",
   "ko": "어, 고디?",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-021"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-021"
  },
  {
   "id": "cut:minershort-reminder-2-orbs:1",
   "src": "90 ORBS A POWER CELL, WILLARD! URGH!",
   "speaker": "GORDY",
   "ko": "파워 셀 하나에 오브 90개라고, 윌러드! 으윽!",
-  "state": "needs_human_review",
-  "note": "초벌 b06 화산 분화구(세 번째 마을); hold: V-020"
+  "state": "needs_review",
+  "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020"
  }
 ]
