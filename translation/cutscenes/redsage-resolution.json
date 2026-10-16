@@ -3,64 +3,64 @@
   "id": "cut:redsage-resolution:0",
   "src": "HE-HE-HEH... YOU'VE FINALLY COME TO RESCUE ME.",
   "speaker": "RED SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "헤헤헤... 드디어 구하러 왔구나.",
+  "state": "needs_human_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-025; 2차 검수 반영"
  },
  {
   "id": "cut:redsage-resolution:1",
   "src": "DO YOU KNOW HOW LONG I'VE BEEN IN HERE?",
   "speaker": "RED SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내가 여기 얼마나 갇혀 있었는지 아느냐?",
+  "state": "needs_human_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-025"
  },
  {
   "id": "cut:redsage-resolution:2",
   "src": "WHAT TOOK YOU SO LONG? AND UH, HE-HE-HEH...",
   "speaker": "RED SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "왜 이리 늦었느냐? 그리고 어, 헤헤헤...",
+  "state": "needs_human_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-025"
  },
  {
   "id": "cut:redsage-resolution:3",
   "src": "WHAT ARE YOUR NAMES?",
   "speaker": "RED SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "너희 이름이 뭐냐?",
+  "state": "needs_human_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-025"
  },
  {
   "id": "cut:redsage-resolution:4",
   "src": "I'M DAXTER! HE'S JAK, HE'S WITH ME.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "난 덱스터! 얘는 잭, 내 일행이야.",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:redsage-resolution:5",
   "src": "GOOD JOB, DAXTER. YOU'RE A REAL HERO.",
   "speaker": "RED SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잘했다, 덱스터. 넌 진짜 영웅이구나.",
+  "state": "needs_human_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-025"
  },
  {
   "id": "cut:redsage-resolution:6",
   "src": "YOU'VE GOT TO STOP GOL FROM LAUNCHING THE ROBOT.",
   "speaker": "RED SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "골이 로봇을 띄우지 못하게 막아야 한다.",
+  "state": "needs_human_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-025"
  },
  {
   "id": "cut:redsage-resolution:7",
   "src": "I'LL USE MY ECO POWER TO HELP OPEN THE SHIELD DOOR.",
   "speaker": "RED SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내 이코 힘으로 방어문 여는 걸 돕겠다.",
+  "state": "needs_human_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-025"
  }
 ]

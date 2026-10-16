@@ -531,25 +531,25 @@
   "id": "hint:BLU-AM01:0",
   "src": "A LITTLE BIT OF HELP WOULD BE GOOD!",
   "speaker": "BLUE SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좀 도와주면 좋겠네!",
+  "state": "needs_human_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-024; 2차 검수 반영"
  },
  {
   "id": "hint:BLU-AM02:0",
   "src": "OH, THIS IS A FINE MESS.",
   "speaker": "BLUE SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "허, 이거 참 난처하게 됐군.",
+  "state": "needs_human_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-024"
  },
  {
   "id": "hint:BLU-AM03:0",
   "src": "HMM, QUITE AN ENIGMA WE'RE FACING.",
   "speaker": "BLUE SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "흠, 실로 난해한 수수께끼로군.",
+  "state": "needs_human_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-024"
  },
  {
   "id": "hint:CHI-AM01:0",
@@ -1195,233 +1195,233 @@
   "id": "hint:GOL-AM01:0",
   "src": "YOU JUST WON'T GIVE UP, WILL YOU?",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "포기를 모르는구나, 응?",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM02:0",
   "src": "SOON, THE DARK ECO WILL BE OURS!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "곧 다크 이코는 우리 것이 된다!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM03:0",
   "src": "FINISH THEM!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "끝장내!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM04:0",
   "src": "FIRE!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "쏴!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM05:0",
   "src": "BLAST THEM!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "날려 버려!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM06:0",
   "src": "WHAT? THEM AGAIN!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "뭐? 또 너희냐!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM07:0",
   "src": "IT'S TOO LATE!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이미 늦었다!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM08:0",
   "src": "YOU ARE MINE!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "넌 내 거다!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM09:0",
   "src": "I HAVE YOU NOW!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잡았다!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM10:0",
   "src": "AH HA HA HA HA!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아하하하하!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM11:0",
   "src": "NO MERCY!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "자비는 없다!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM12:0",
   "src": "TAKE THAT!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "받아라!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM13:0",
   "src": "NICE TRY!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어림없다!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM14:0",
   "src": "STAND STILL!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "가만있어!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM15:0",
   "src": "PATHETIC!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "한심하군!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM16:0",
   "src": "NOOO!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "안 돼!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; 읽기 속도 단축"
  },
  {
   "id": "hint:GOL-AM17:0",
   "src": "AHHH!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "으아아!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM18:0",
   "src": "WE'LL OPEN THE SILO ALL THE WAY AND DESTROY YOU TWO!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "사일로를 활짝 열어서 너희 둘을 없애 주마!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM19:0",
   "src": "LIGHT ECO! IT DOES EXIST!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "라이트 이코! 정말 있었구나!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:GOL-AM20:0",
   "src": "WE'RE NOT GONNA TAKE IT!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이대로 당하진 않아!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:MAI-AM01:0",
   "src": "FINISH THEM BOTH OFF ONCE AND FOR ALL!",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "둘 다 이번에 확실히 끝장내!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:MAI-AM02:0",
   "src": "TAKE THEM OUT!",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "처치해!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:MAI-AM03:0",
   "src": "HA HA HA!",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하하하!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:MAI-AM04:0",
   "src": "ECO WON'T PROTECT YOU NOW!",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이제 이코도 널 지켜 주지 못해!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:MAI-AM05:0",
   "src": "DO SOMETHING!",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어떻게 좀 해 봐요!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:MAI-AM06:0",
   "src": "AGH!",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "윽!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:MAI-AM07:0",
   "src": "NOOOOO!",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "안 돼에!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; 읽기 속도 단축"
  },
  {
   "id": "hint:MAI-AM08:0",
   "src": "WE'LL OPEN THE SILO ALL THE WAY AND DESTROY YOU TWO!",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "사일로를 활짝 열어서 너희 둘을 없애 주겠어!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:MAI-AM09:0",
   "src": "THEY MUST NOT BE ALLOWED TO GET IT!",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "놈들이 저걸 손에 넣게 둬선 안 돼요!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:MIN-LO01:0",
@@ -1715,25 +1715,25 @@
   "id": "hint:RED-AM01:0",
   "src": "IS ANYBODY THERE?",
   "speaker": "RED SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "거기 누구 있느냐?",
+  "state": "needs_human_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-025"
  },
  {
   "id": "hint:RED-AM02:0",
   "src": "WELL...",
   "speaker": "RED SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "흠...",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:RED-AM03:0",
   "src": "WHAT KEPT YOU?",
   "speaker": "RED SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "왜 이리 늦었느냐?",
+  "state": "needs_human_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-025"
  },
  {
   "id": "hint:SAGELP03:0",
@@ -1995,25 +1995,25 @@
   "id": "hint:YEL-AM01:0",
   "src": "TIME IS RUNNIN' OUT!",
   "speaker": "YELLOW SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "시간이 없다고!",
+  "state": "needs_human_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-026"
  },
  {
   "id": "hint:YEL-AM02:0",
   "src": "HEY! GET ME OUTTA HERE!",
   "speaker": "YELLOW SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어이! 여기서 꺼내 줘!",
+  "state": "needs_human_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-026"
  },
  {
   "id": "hint:YEL-AM03:0",
   "src": "WHEN I GET OUTTA HERE, SOME SHOOTIN'S GONNA START!",
   "speaker": "YELLOW SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "여기서 나가기만 하면, 총질 좀 시작될 줄 알아!",
+  "state": "needs_human_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-026"
  },
  {
   "id": "hint:asstv100:0",
@@ -2195,25 +2195,25 @@
   "id": "hint:asstva74:0",
   "src": "YOU DON'T HAVE ENOUGH POWER CELLS TO GET THROUGH THIS LAVA!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 용암을 지나가기엔 파워 셀이 부족해!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:asstva74:1",
   "src": "YOU CAN'T GET THROUGH TO GOL AND MAIA'S CITADEL",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀 72개를 모으기 전엔",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:asstva74:2",
   "src": "UNTIL YOU'VE COLLECTED 72 POWER CELLS!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "골과 마이아의 성채로 갈 수 없어!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:asstvb02:0",
@@ -5195,9 +5195,9 @@
   "id": "hint:sksp0375:0",
   "src": "SHOOT THE POWER SPHERES TO OPEN THE DOOR!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 구체를 쏴서 문을 열어!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:sksp0376:0",
@@ -5235,9 +5235,9 @@
   "id": "hint:sksp0381:0",
   "src": "BREAK THE GENERATOR TO FREE THE SAGE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "발전기를 부숴서 현자를 풀어 줘!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:sksp0382:0",
@@ -5251,17 +5251,17 @@
   "id": "hint:sksp0383:0",
   "src": "WE GOT COMPANY, JAK. LOOOTS OF LURKERS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "손님이 왔어, 잭. 러커가 엄~청 많아!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:sksp0384:0",
   "src": "DESTROY THOSE GENERATORS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 발전기들을 부숴!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:sksp0385:0",
@@ -5283,9 +5283,9 @@
   "id": "hint:sksp0387:0",
   "src": "LET'S GO CLIMB UP THOSE PLATFORMS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 발판들 위로 올라가자!",
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트"
  },
  {
   "id": "hint:sksp0388:0",

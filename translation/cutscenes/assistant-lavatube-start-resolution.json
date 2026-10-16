@@ -3,120 +3,120 @@
   "id": "cut:assistant-lavatube-start-resolution:0",
   "src": "HA HA! ALL RIGHT!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하하! 좋았어!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:assistant-lavatube-start-resolution:1",
   "src": "WITH THESE ADDITIONAL POWER CELLS, I SHOULD BE ABLE TO SUPPLY THE HEAT SHIELD",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀이 이만큼 더 있으면 열 차단막에",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:assistant-lavatube-start-resolution:2",
   "src": "WITH ENOUGH POWER TO STAND UP TO THIS LAVA.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 용암을 버틸 만큼 전력을 넣을 수 있을 거야.",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:assistant-lavatube-start-resolution:3",
   "src": "BUT THE SHIELD STILL HAS A LIMIT.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래도 차단막엔 한계가 있어.",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:assistant-lavatube-start-resolution:4",
   "src": "IT WILL NOW WITHSTAND TEMPERATURES UP TO 800 DEGREES, BUT NO MORE.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이제 800도까지는 버티지만, 그 이상은 안 돼.",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:assistant-lavatube-start-resolution:5",
   "src": "SO KEEP AN EYE ON YOUR GAUGE.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그러니까 게이지를 잘 봐.",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:assistant-lavatube-start-resolution:6",
   "src": "I DON'T WANNA THINK ABOUT WHAT THOSE TEMPERATURES WOULD DO TO YOUR ZOOMER",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "차단막이 못 버티면 그 온도에 네 주머가",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 2차 검수 반영"
  },
  {
   "id": "cut:assistant-lavatube-start-resolution:7",
   "src": "IF THE SHIELD GIVES OUT.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어떻게 될지 생각도 싫어.",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 읽기 속도 단축; 2차 검수 반영"
  },
  {
   "id": "cut:assistant-lavatube-start-resolution:8",
   "src": "YEAH, THE HEAT...",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래, 열기가...",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:assistant-lavatube-start-resolution:9",
   "src": "WHAT? THE ZOOMER? HEY! WHAT ABOUT US?!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "뭐? 주머? 야! 우리는?!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:assistant-lavatube-start-resolution:10",
   "src": "DON'T YOU THINK WE COULD LOOK FOR A SAFER ROUTE TO GOL'S CITADEL?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "골의 성채로 가는 더 안전한 길을 찾아보는 건 어때?",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:assistant-lavatube-start-resolution:11",
   "src": "LOOK, I'VE RELEASED MORE COOLING BALLOONS INTO THE TUBE.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "있잖아, 터널 안에 냉각 풍선을 더 띄워 놨어.",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:assistant-lavatube-start-resolution:12",
   "src": "SO YOU CAN USE THEM TO KEEP THE TEMPERATURE DOWN.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그걸로 온도를 낮출 수 있어.",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:assistant-lavatube-start-resolution:13",
   "src": "AND DON'T FORGET TO ACTIVATE THE TELEPORT GATE IN THE YELLOW SAGE'S LAB.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그리고 옐로우 현자 연구실에 있는 워프 게이트 켜는 거 잊지 마.",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:assistant-lavatube-start-resolution:14",
   "src": "WE'RE COUNTING ON YOU.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "다들 너희만 믿고 있어.",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  }
 ]

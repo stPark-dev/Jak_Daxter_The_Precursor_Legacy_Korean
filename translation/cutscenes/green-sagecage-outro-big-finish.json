@@ -3,24 +3,24 @@
   "id": "cut:green-sagecage-outro-big-finish:0",
   "src": "WOW! WHAT IS IT?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "와! 저게 뭐야?",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:green-sagecage-outro-big-finish:1",
   "src": "IT'S SO BEAUTIFUL...",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "정말 아름다워...",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:green-sagecage-outro-big-finish:2",
   "src": "BY THE PRECURSORS...",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오, 프리커서시여...",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  }
 ]

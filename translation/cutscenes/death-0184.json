@@ -3,16 +3,16 @@
   "id": "cut:death-0184:0",
   "src": "WHILE YOU'RE DOWN THERE, EHM...",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "거기 누운 김에, 어...",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:death-0184:1",
   "src": "COULD YA RUB MY FEET?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내 발 좀 주물러 줄래?",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  }
 ]

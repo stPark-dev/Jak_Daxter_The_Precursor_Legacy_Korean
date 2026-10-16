@@ -3,24 +3,24 @@
   "id": "cut:death-0193:0",
   "src": "STEP ONE: STAY ALIVE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "1단계: 살아남는다!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:death-0193:1",
   "src": "STEP TWO...",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "2단계...",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:death-0193:2",
   "src": "THINK ABOUT NOT DOING SOMETHING LIKE THAT AGAIN!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "다시는 그런 짓 안 하는 걸 생각해 본다!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  }
 ]

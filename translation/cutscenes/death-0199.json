@@ -3,16 +3,16 @@
   "id": "cut:death-0199:0",
   "src": "I'LL SAY SOMETHING REALLY TEARY AT THE FUNERAL, LIKE...",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "장례식에서 아주 눈물 나는 말을 할게. 이를테면...",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:death-0199:1",
   "src": "...\"HOW AM I GONNA GET CHANGED BACK NOW?!\"",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "...\"이제 난 어떻게 원래대로 돌아가라고?!\"",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  }
 ]

@@ -3,32 +3,32 @@
   "id": "cut:green-sagecage-outro-beat-boss-need-cells:0",
   "src": "HOLY YAKOW! WHAT COULD THAT BE?",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "야카우가 놀라 자빠지겠구나! 저게 대체 뭐지?",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:green-sagecage-outro-beat-boss-need-cells:1",
   "src": "WOW, IT'S AN ANCIENT PRECURSOR DOOR!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "와, 고대 프리커서 문이에요!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:green-sagecage-outro-beat-boss-need-cells:2",
   "src": "IT LOOKS LIKE IT WILL ONLY OPEN IF WE FILL ALL 100 HOLES WITH POWER CELLS!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "구멍 100개를 전부 파워 셀로 채워야만 열리는 것 같아요!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:green-sagecage-outro-beat-boss-need-cells:3",
   "src": "OH BOY... HERE WE GO AGAIN!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아이고... 또 시작이네!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  }
 ]

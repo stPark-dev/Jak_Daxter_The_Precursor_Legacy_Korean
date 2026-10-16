@@ -3,16 +3,16 @@
   "id": "cut:green-sagecage-outro-beat-boss-a:0",
   "src": "DO SOMETHING!",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어떻게 좀 해 봐요!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:green-sagecage-outro-beat-boss-a:1",
   "src": "NOOO!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "안 돼!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 읽기 속도 단축"
  }
 ]

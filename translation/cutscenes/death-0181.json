@@ -3,8 +3,8 @@
   "id": "cut:death-0181:0",
   "src": "DON'T STEP INTO THE LIGHT, JAK! DON'T STEP INTO THE LIGHT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "빛 쪽으로 가지 마, 잭! 빛 쪽으로 가지 마!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  }
 ]

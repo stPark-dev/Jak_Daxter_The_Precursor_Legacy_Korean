@@ -3,16 +3,16 @@
   "id": "cut:finalbosscam-white-eco:0",
   "src": "LIGHT ECO! IT DOES EXIST!",
   "speaker": "GOL",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "라이트 이코! 정말 있었구나!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:finalbosscam-white-eco:1",
   "src": "THEY MUST NOT BE ALLOWED TO GET IT!",
   "speaker": "MAIA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "놈들이 저걸 손에 넣게 둬선 안 돼요!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  }
 ]

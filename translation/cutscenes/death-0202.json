@@ -3,8 +3,8 @@
   "id": "cut:death-0202:0",
   "src": "SAY GOODNIGHT, JAK!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잘 자, 잭!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  }
 ]

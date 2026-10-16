@@ -3,16 +3,16 @@
   "id": "cut:death-0195:0",
   "src": "I WAS RIGHT BEHIND YA, JAK!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "바로 뒤에 있었어, 잭!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  },
  {
   "id": "cut:death-0195:1",
   "src": "...REALLY. I WAS.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "...진짜야. 진짜라니까.",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사"
  }
 ]

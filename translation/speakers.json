@@ -23,9 +23,9 @@
  {
   "id": "speaker:BLUE SAGE",
   "src": "BLUE SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 현자",
+  "state": "needs_review",
+  "note": "G-030 확정 표기"
  },
  {
   "id": "speaker:DAXTER",
@@ -142,9 +142,9 @@
  {
   "id": "speaker:RED SAGE",
   "src": "RED SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "레드 현자",
+  "state": "needs_review",
+  "note": "G-030 확정 표기"
  },
  {
   "id": "speaker:SAMOS",
@@ -184,8 +184,8 @@
  {
   "id": "speaker:YELLOW SAGE",
   "src": "YELLOW SAGE",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "옐로우 현자",
+  "state": "needs_review",
+  "note": "G-030 확정 표기"
  }
 ]
