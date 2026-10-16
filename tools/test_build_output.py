@@ -39,3 +39,31 @@ def test_no_glyph_byte_is_rewritten_by_subtitle_wrap():
     # subtitle.gc print-game-subtitle turns '_' (0x5F) into a space ("라" bug, 2026-10-15)
     for m in (MENU_MAP, SUB_MAP):
         assert all(trail != 0x5F for _, trail in m.values())
+
+
+# og:kr the Korean language needs a name in the options menu (was "UNKNOWN ID 0", 2026-10-16)
+GOAL = J / "goal_src/jak1"
+TEXT_DIR = J / "game/assets/jak1/text"
+
+
+def test_korean_has_a_language_name_text_id():
+    assert "(korean #x1121)" in (GOAL / "engine/ui/text-h.gc").read_text(encoding="utf-8")
+
+
+def test_korean_is_listed_in_pc_language_menus():
+    src = (GOAL / "pc/progress-pc.gc").read_text(encoding="utf-8")
+    for name in ("*language-remap-info-pc*", "*text-languages*", "*subtitle-languages*"):
+        block = src[src.index(name):]
+        block = block[:block.index("))")]
+        assert "korean" in block.split(), name
+
+
+def test_every_custom_text_file_names_korean():
+    for p in TEXT_DIR.glob("game_custom_text_*.json"):
+        d = json.loads(p.read_text(encoding="utf-8"))
+        want = "한국어" if p.name.endswith("ko-KR.json") else "KOREAN"
+        assert d.get("1121") == want, p.name
+
+
+def test_korean_language_name_is_encoded_in_korean_common_text():
+    assert b"".join(bytes(MENU_MAP[c]) for c in "한국어") in COMMON

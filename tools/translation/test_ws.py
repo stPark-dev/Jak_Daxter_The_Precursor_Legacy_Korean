@@ -96,3 +96,10 @@ def test_chars_used_by_the_english_source_are_allowed():
     allowed = ws.allowed_chars(FONT_DB, source_texts=['SAY "HI"'])
     assert '"' in allowed
     assert ws.check_entry({"id": "x", "src": 'SAY "HI"', "ko": '"안녕"'}, allowed) == []
+
+
+def test_text_kept_identical_to_source_skips_the_char_check():
+    # e.g. language names (ESPAÑOL, にほんご): drawn by the original encoder exactly as in English
+    allowed = ws.allowed_chars(FONT_DB)
+    assert ws.check_entry({"id": "x", "src": "ESPAÑOL", "ko": "ESPAÑOL"}, allowed) == []
+    assert ws.check_entry({"id": "x", "src": "ESPAÑOL", "ko": "에스파ÑOL"}, allowed) != []

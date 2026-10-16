@@ -119,6 +119,18 @@ index a6934b1c..268042ad 100644
  };
  
  extern const std::unordered_map<std::string, GameTextVersion> sTextVerEnumMap;
+diff --git a/decompiler/config/jak1/all-types.gc b/decompiler/config/jak1/all-types.gc
+index 1d84f489..b8e7eb25 100644
+--- a/decompiler/config/jak1/all-types.gc
++++ b/decompiler/config/jak1/all-types.gc
+@@ -1632,6 +1632,7 @@
+   (croatian #x111e)
+   (galician #x111f)
+   (bosnian #x1120)
++  (korean #x1121) ;; og:kr
+   (scene-0                      #x1200)
+   (scene-255                    #x12ff)
+   (hint-0                       #x1300)
 diff --git a/game/assets/jak1/game_subtitle.gp b/game/assets/jak1/game_subtitle.gp
 index 6987a020..54a99e42 100644
 --- a/game/assets/jak1/game_subtitle.gp
@@ -152,6 +164,294 @@ index 310b5bb9..df842d62 100644
 +  (file-json 17 jak1-v2 "common" '("game/assets/jak1/text/game_custom_text_ko-KR.json"
 +                                   "game/assets/jak1/text/game_base_text_ko-KR.json"))
  )
+diff --git a/game/assets/jak1/text/game_custom_text_bs-BA.json b/game/assets/jak1/text/game_custom_text_bs-BA.json
+index 916f9573..afcd626c 100644
+--- a/game/assets/jak1/text/game_custom_text_bs-BA.json
++++ b/game/assets/jak1/text/game_custom_text_bs-BA.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "MOD ZA SPEEDRUNNERE",
+   "138": "NE ISKLJUČUJ KONTROLERE, IGRU ILI RAČUNAR",
+   "161": "NE ISKLJUČUJ RAČUNAR ILI IGRU DOK JE OVA IKONA NA EKRANU.",
+diff --git a/game/assets/jak1/text/game_custom_text_ca-ES.json b/game/assets/jak1/text/game_custom_text_ca-ES.json
+index ca4859ff..3357f398 100644
+--- a/game/assets/jak1/text/game_custom_text_ca-ES.json
++++ b/game/assets/jak1/text/game_custom_text_ca-ES.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "MODE SPEEDRUN",
+   "138": "NO RETIRI/INSEREIXI CAP PERIFÈRIC, APAGUI EL SISTEMA NI TANQUI EL JOC, SI US PLAU",
+   "161": "MENTRE AQUESTA ICONA ESTIGUI EN PANTALLA, NO RETIRI/INSEREIXI CAP PERIFÈRIC, APAGUI EL SISTEMA NI TANQUI EL JOC",
+diff --git a/game/assets/jak1/text/game_custom_text_cs-CZ.json b/game/assets/jak1/text/game_custom_text_cs-CZ.json
+index 3c7faa86..4bce41c2 100644
+--- a/game/assets/jak1/text/game_custom_text_cs-CZ.json
++++ b/game/assets/jak1/text/game_custom_text_cs-CZ.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "SPEEDRUNNER MÓD",
+   "138": "NEODPOJUJTE ANI NEVKLÁDEJTE ZAŘÍZENÍ, NEVYPÍNEJTE SYSTÉM ANI HRU.",
+   "161": "POKUD JE TATO IKONA NA OBRAZOVCE, NEZAPOJUJTE NEBO NEVYPOJUJTE PŘÍSLUŠENSTVÍ, NEVYPÍNEJTE SYSTÉM NEBO HRU.",
+diff --git a/game/assets/jak1/text/game_custom_text_da-DK.json b/game/assets/jak1/text/game_custom_text_da-DK.json
+index fc838224..f5df8834 100644
+--- a/game/assets/jak1/text/game_custom_text_da-DK.json
++++ b/game/assets/jak1/text/game_custom_text_da-DK.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "SPEEDRUNNER TILSTAND",
+   "138": "FJERN VENLIGST IKKE, INDSÆT EKSTRA ENHEDER, ELLER SLUKKE SYSTEMET ELLER SPILLET",
+   "161": "MENS DETTE IKON ER PÅ SKÆRMEN, MÅ DU IKKE FJERNE ELLER INDSÆTTE NOGEN EKSTRA ENHEDER, SLUKKE SYSTEMET ELLER SLUKKE SPILLET",
+diff --git a/game/assets/jak1/text/game_custom_text_de-DE.json b/game/assets/jak1/text/game_custom_text_de-DE.json
+index 6dc317ec..9dfb9a44 100644
+--- a/game/assets/jak1/text/game_custom_text_de-DE.json
++++ b/game/assets/jak1/text/game_custom_text_de-DE.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "SPEEDRUNNER-MODUS",
+   "138": "BITTE SCHALTE NICHT DAS SYSTEM ODER DAS SPIEL AUS UND ENTFERNE/VERBINDE KEIN ZUBEHÖR",
+   "161": "WÄHREND DIESES SYMBOL ANGEZEIGT WIRD, BITTE SCHALTE NICHT DAS SYSTEM ODER DAS SPIEL AUS UND ENTFERNE/VERBINDE KEIN ZUBEHÖR",
+diff --git a/game/assets/jak1/text/game_custom_text_en-GB.json b/game/assets/jak1/text/game_custom_text_en-GB.json
+index 6dccaa02..a76eca38 100644
+--- a/game/assets/jak1/text/game_custom_text_en-GB.json
++++ b/game/assets/jak1/text/game_custom_text_en-GB.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "SPEEDRUNNER MODE",
+   "138": "PLEASE DO NOT REMOVE OR INSERT ANY PERIPHERALS, TURN OFF YOUR SYSTEM OR SHUT DOWN THE GAME",
+   "161": "WHILE THIS ICON IS ON SCREEN, DO NOT REMOVE OR INSERT ANY PERIPHERALS, TURN OFF YOUR SYSTEM OR SHUT DOWN THE GAME",
+diff --git a/game/assets/jak1/text/game_custom_text_en-US.json b/game/assets/jak1/text/game_custom_text_en-US.json
+index 5ed1cddc..1d6e2643 100644
+--- a/game/assets/jak1/text/game_custom_text_en-US.json
++++ b/game/assets/jak1/text/game_custom_text_en-US.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "SPEEDRUNNER MODE",
+   "138": "PLEASE DO NOT REMOVE OR INSERT ANY PERIPHERALS, TURN OFF YOUR SYSTEM OR SHUT DOWN THE GAME",
+   "161": "WHILE THIS ICON IS ON SCREEN, DO NOT REMOVE OR INSERT ANY PERIPHERALS, TURN OFF YOUR SYSTEM OR SHUT DOWN THE GAME",
+diff --git a/game/assets/jak1/text/game_custom_text_es-ES.json b/game/assets/jak1/text/game_custom_text_es-ES.json
+index 6aafc674..a551e363 100644
+--- a/game/assets/jak1/text/game_custom_text_es-ES.json
++++ b/game/assets/jak1/text/game_custom_text_es-ES.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "MODO DE SPEEDRUNNER",
+   "138": "POR FAVOR NO QUITES/INSERTES NINGÚN PERIFÉRICO, APAGUES EL SISTEMA NI CIERRES EL JUEGO",
+   "161": "MIENTRAS ESTE ICONO ESTÉ EN PANTALLA, NO QUITES/INSERTES NINGÚN PERIFÉRICO, APAGUES EL SISTEMA NI CIERRES EL JUEGO",
+diff --git a/game/assets/jak1/text/game_custom_text_fi-FI.json b/game/assets/jak1/text/game_custom_text_fi-FI.json
+index 5fb56d9b..fb75ede7 100644
+--- a/game/assets/jak1/text/game_custom_text_fi-FI.json
++++ b/game/assets/jak1/text/game_custom_text_fi-FI.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "SPEEDRUN-TILA",
+   "138": "ÄLÄ LISÄÄ TAI POISTA MITÄÄN OHEISLAITTEITA, SAMMUTA LAITETTASI TAI SAMMUTA PELIÄ",
+   "161": "KUN TÄMÄ KUVAKE ON RUUDULLA, ÄLÄ LISÄÄ TAI POISTA MITÄÄN OHEISLAITTEITA, SAMMUTA LAITETTASI TAI SAMMUTA PELIÄ",
+diff --git a/game/assets/jak1/text/game_custom_text_fr-FR.json b/game/assets/jak1/text/game_custom_text_fr-FR.json
+index 5445d9ab..1b270efd 100644
+--- a/game/assets/jak1/text/game_custom_text_fr-FR.json
++++ b/game/assets/jak1/text/game_custom_text_fr-FR.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "MODE SPEEDRUN",
+   "138": "VEUILLEZ NE PAS RETIRER OU INSÉRER DE PÉRIPHÉRIQUES, ÉTEINDRE VOTRE SYSTÈME OU ARRÊTER LE JEU",
+   "161": "NE PAS RETIRER OU INSÉRER DE PÉRIPHÉRIQUES, ÉTEINDRE VOTRE SYSTÈME OU ARRÊTER LE JEU LORSQUE CE SYMBOLE S'AFFICHE",
+diff --git a/game/assets/jak1/text/game_custom_text_gl-ES.json b/game/assets/jak1/text/game_custom_text_gl-ES.json
+index 7deaf754..909075a2 100644
+--- a/game/assets/jak1/text/game_custom_text_gl-ES.json
++++ b/game/assets/jak1/text/game_custom_text_gl-ES.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "MODO SPEEDRUNNER",
+   "138": "POR FAVOR, NON QUITES NIN INSIRAS NINGÚN PERIFÉRICO, APAGUES O SISTEMA OU PECHES O XOGO",
+   "161": "MENTRAS ESTA ICONA ESTEA NA PANTALLA, NON QUITES NIN INSIRAS NINGÚN PERIFÉRICO, APAGUES O SISTEMA OU PECHES O XOGO",
+diff --git a/game/assets/jak1/text/game_custom_text_hr-HR.json b/game/assets/jak1/text/game_custom_text_hr-HR.json
+index 14655c15..a7884185 100644
+--- a/game/assets/jak1/text/game_custom_text_hr-HR.json
++++ b/game/assets/jak1/text/game_custom_text_hr-HR.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "NAČIN SPEEDRUNNERA",
+   "138": "MOLIMO DA NE UKLANJAŠ ILI SPAJAŠ BILO KOJU PERIFERIJU, ISKLJUČUJEŠ SVOJ SUSTAV ILI ZATVORIŠ IGRU",
+   "161": "DOK JE OVA IKONA NA EKRANU, NEMOJ UKLANJATI ILI SPAJATI BILO KOJU PERIFERIJU, ISKLJUČITI SVOJ SUSTAV ILI ZATVORITI IGRU",
+diff --git a/game/assets/jak1/text/game_custom_text_hu-HU.json b/game/assets/jak1/text/game_custom_text_hu-HU.json
+index f825ca66..fcfc7f1f 100644
+--- a/game/assets/jak1/text/game_custom_text_hu-HU.json
++++ b/game/assets/jak1/text/game_custom_text_hu-HU.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "SPEEDRUNNER-MÓD",
+   "138": "NE HELYEZZ BE VAGY TÁVOLÍTS EL SEMMILYEN PERIFÉRIÁT, NE ÁLLÍTSD LE A RENDSZERT, ÉS NE ZÁRD BE A JÁTÉKOT",
+   "161": "AMÉG EZ AZ IKON A KÉPEN VAN, NE HELYEZZ BE VAGY TÁVOLÍTS EL SEMMILYEN PERIFÉRIÁT, NE ÁLLÍTSD LE A RENDSZERT, ÉS NE ZÁRD BE A JÁTÉKOT",
+diff --git a/game/assets/jak1/text/game_custom_text_is-IS.json b/game/assets/jak1/text/game_custom_text_is-IS.json
+index 5ed1cddc..1d6e2643 100644
+--- a/game/assets/jak1/text/game_custom_text_is-IS.json
++++ b/game/assets/jak1/text/game_custom_text_is-IS.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "SPEEDRUNNER MODE",
+   "138": "PLEASE DO NOT REMOVE OR INSERT ANY PERIPHERALS, TURN OFF YOUR SYSTEM OR SHUT DOWN THE GAME",
+   "161": "WHILE THIS ICON IS ON SCREEN, DO NOT REMOVE OR INSERT ANY PERIPHERALS, TURN OFF YOUR SYSTEM OR SHUT DOWN THE GAME",
+diff --git a/game/assets/jak1/text/game_custom_text_it-IT.json b/game/assets/jak1/text/game_custom_text_it-IT.json
+index 4b031122..3a85ba0d 100644
+--- a/game/assets/jak1/text/game_custom_text_it-IT.json
++++ b/game/assets/jak1/text/game_custom_text_it-IT.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "MODALITÀ SPEEDRUN",
+   "138": "NON RIMUOVERE O INSERIRE ALCUNA PERIFERICA, SPEGNERE IL SISTEMA O CHIUDERE IL GIOCO",
+   "161": "QUANDO QUESTA ICONA APPARE SULLO SCHERMO, NON RIMUOVERE O INSERIRE ALCUNA PERIFERICA, SPEGNERE IL SISTEMA O CHIUDERE IL GIOCO",
+diff --git a/game/assets/jak1/text/game_custom_text_ja-JP.json b/game/assets/jak1/text/game_custom_text_ja-JP.json
+index 0a62a57c..d97c1f25 100644
+--- a/game/assets/jak1/text/game_custom_text_ja-JP.json
++++ b/game/assets/jak1/text/game_custom_text_ja-JP.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "スピードラン モード",
+   "138": "しゅうへんききをぬいたり, さしたり, でんげんを きったりは しないでください",
+   "161": "このアイコンが あらわれているあいだ、しゅうへんききをぬいたり, さしたり, でんげんを きったりは しないでください",
+diff --git a/game/assets/jak1/text/game_custom_text_lt-LT.json b/game/assets/jak1/text/game_custom_text_lt-LT.json
+index 8c70489e..b73f218a 100644
+--- a/game/assets/jak1/text/game_custom_text_lt-LT.json
++++ b/game/assets/jak1/text/game_custom_text_lt-LT.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "SPEEDRUNNER MODE",
+   "138": "NEIŠIMKITE IR NEĮDĖKITE JOKIŲ PERIFERINIŲ ĮRENGINIŲ, NEIŠJUNKITE SISTEMOS IR NEIŠJUNKITE ŽAIDIMO.",
+   "161": "KOL ŠI IKONAS RODOMAS EKRANE, NEIŠIMKITE IR NEĮDĖKITE JOKIŲ PERIFERINIŲ ĮRENGINIŲ, NEIŠJUNKITE SISTEMOS IR NEIŠJUNKITE ŽAIDIMO.",
+diff --git a/game/assets/jak1/text/game_custom_text_nl-NL.json b/game/assets/jak1/text/game_custom_text_nl-NL.json
+index 1411aace..c34c696a 100644
+--- a/game/assets/jak1/text/game_custom_text_nl-NL.json
++++ b/game/assets/jak1/text/game_custom_text_nl-NL.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "SPEEDRUNNER MODUS",
+   "138": "GELIEVE GEEN RANDAPPARATUUR TE VERWIJDEREN OF AAN TE SLUITEN, UW SYSTEEM NIET UIT TE SCHAKELEN EN HET SPEL NIET AF TE SLUITEN",
+   "161": "WANNEER DIT PICTOGRAM OP HET SCHERM GETOOND WORDT, GELIEVE GEEN RANDAPPARATUUR TE VERWIJDEREN OF AAN TE SLUITEN, UW SYSTEEM NIET UIT TE SCHAKELEN EN HET SPEL NIET AF TE SLUITEN",
+diff --git a/game/assets/jak1/text/game_custom_text_no-NO.json b/game/assets/jak1/text/game_custom_text_no-NO.json
+index 3ba65c9e..eece98d4 100644
+--- a/game/assets/jak1/text/game_custom_text_no-NO.json
++++ b/game/assets/jak1/text/game_custom_text_no-NO.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "SPEEDRUNNER MODUS",
+   "138": "VENNLIGST IKKE FJERN ELLER SETT INN NOE PERIFERI, SKRU AV SYSTEMET, ELLER SKRU AV SPILLET",
+   "161": "I MENS DETTE IKONET ER PÅ SKJERMEN, IKKE FJERN ELLER SETT INN NOE PERIFERI, SKRU AV SYSTEMET, ELLER SKRU AV SPILLET",
+diff --git a/game/assets/jak1/text/game_custom_text_pl-PL.json b/game/assets/jak1/text/game_custom_text_pl-PL.json
+index 1bdc73ef..9be340dd 100644
+--- a/game/assets/jak1/text/game_custom_text_pl-PL.json
++++ b/game/assets/jak1/text/game_custom_text_pl-PL.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "TRYB SPEEDRUNNERA",
+   "138": "PROSZĘ NIE ODŁĄCZAĆ ANI PODŁĄCZAĆ ŻADNYCH URZĄDZEŃ, WYŁĄCZAĆ SYSTEMU ORAZ NIE WYŁĄCZAĆ GRY",
+   "161": "KIEDY TA IKONA JEST NA EKRANIE, PROSZĘ NIE ODŁĄCZAĆ ANI PODŁĄCZAĆ ŻADNYCH URZĄDZEŃ, WYŁĄCZAĆ SYSTEMU ORAZ NIE WYŁĄCZAĆ GRY",
+diff --git a/game/assets/jak1/text/game_custom_text_pt-BR.json b/game/assets/jak1/text/game_custom_text_pt-BR.json
+index 08eb11e3..b1f65d5d 100644
+--- a/game/assets/jak1/text/game_custom_text_pt-BR.json
++++ b/game/assets/jak1/text/game_custom_text_pt-BR.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "MODO SPEEDRUN",
+   "138": "POR FAVOR NÃO REMOVA OU INSIRA NENHUM PERIFÉRICO, DESLIGUE O SEU SISTEMA OU REMOVA O JOGO",
+   "161": "ENQUANTO ESTE ÍCONE ESTIVER NA TELA, POR FAVOR NÃO REMOVA OU INSIRA NENHUM PERIFÉRICO, DESLIGUE O SEU SISTEMA OU REMOVA O JOGO",
+diff --git a/game/assets/jak1/text/game_custom_text_pt-PT.json b/game/assets/jak1/text/game_custom_text_pt-PT.json
+index 146eacf1..3f4ee5a3 100644
+--- a/game/assets/jak1/text/game_custom_text_pt-PT.json
++++ b/game/assets/jak1/text/game_custom_text_pt-PT.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "MODO DE SPEEDRUN",
+   "138": "POR FAVOR NÃO REMOVA OU INSIRA QUALQUER PERIFÉRICO, NÃO DESLIGUE O SISTEMA OU FECHE O JOGO",
+   "161": "ENQUANTO ESTE ÍCONE ESTIVER NO ECRÃ, NÃO REMOVA OU INSIRA QUALQUER PERIFÉRICO, NÃO DESLIGUE O SISTEMA OU FECHE O JOGO",
+diff --git a/game/assets/jak1/text/game_custom_text_ro-RO.json b/game/assets/jak1/text/game_custom_text_ro-RO.json
+index 5ed1cddc..1d6e2643 100644
+--- a/game/assets/jak1/text/game_custom_text_ro-RO.json
++++ b/game/assets/jak1/text/game_custom_text_ro-RO.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "SPEEDRUNNER MODE",
+   "138": "PLEASE DO NOT REMOVE OR INSERT ANY PERIPHERALS, TURN OFF YOUR SYSTEM OR SHUT DOWN THE GAME",
+   "161": "WHILE THIS ICON IS ON SCREEN, DO NOT REMOVE OR INSERT ANY PERIPHERALS, TURN OFF YOUR SYSTEM OR SHUT DOWN THE GAME",
+diff --git a/game/assets/jak1/text/game_custom_text_sv-SE.json b/game/assets/jak1/text/game_custom_text_sv-SE.json
+index a790ea6c..b6c469ce 100644
+--- a/game/assets/jak1/text/game_custom_text_sv-SE.json
++++ b/game/assets/jak1/text/game_custom_text_sv-SE.json
+@@ -97,6 +97,7 @@
+   "111e": "HRVATSKI",
+   "111f": "GALEGO",
+   "1120": "BOSANSKI",
++  "1121": "KOREAN",
+   "1500": "SPEEDRUNNER-LÄGE",
+   "138": "TA INTE BORT ELLER LÄGG TILL NÅGRA TILLBEHÖR, STÄNG AV DIN KONSOL ELLER AVSLUTA SPELET",
+   "161": "TA INTE BORT ELLER LÄGG TILL NÅGRA TILLBEHÖR, STÄNG AV DIN KONSOL ELLER AVSLUTA SPELET MEDAN DEN HÄR IKONEN ÄR SYNLIG",
 diff --git a/goal_src/jak1/dgos/game.gd b/goal_src/jak1/dgos/game.gd
 index 640e81b9..143b7da2 100644
 --- a/goal_src/jak1/dgos/game.gd
@@ -259,6 +559,18 @@ index bdba6d91..8205b002 100644
                (goto cfg-48)))
            (when (= cur-char #\~)
              (set! cur-char (-> arg0 data 0))
+diff --git a/goal_src/jak1/engine/ui/text-h.gc b/goal_src/jak1/engine/ui/text-h.gc
+index 52f8d240..35455b3d 100644
+--- a/goal_src/jak1/engine/ui/text-h.gc
++++ b/goal_src/jak1/engine/ui/text-h.gc
+@@ -728,6 +728,7 @@
+   (croatian #x111e)
+   (galician #x111f)
+   (bosnian #x1120)
++  (korean #x1121) ;; og:kr
+   (scene-0 #x1200)
+   (scene-255 #x12ff)
+   (hint-0 #x1300)
 diff --git a/goal_src/jak1/game.gp b/goal_src/jak1/game.gp
 index 61100d91..9f7578b5 100644
 --- a/goal_src/jak1/game.gp
@@ -315,6 +627,40 @@ index 00000000..4dd4e081
 +  0)
 +
 +(kr-font-install)
+diff --git a/goal_src/jak1/pc/progress-pc.gc b/goal_src/jak1/pc/progress-pc.gc
+index 4d66265a..49a785d6 100644
+--- a/goal_src/jak1/pc/progress-pc.gc
++++ b/goal_src/jak1/pc/progress-pc.gc
+@@ -1119,7 +1119,8 @@
+                                   czech
+                                   croatian
+                                   galician
+-								  bosnian))
++								  bosnian
++								  korean))
+ 
+ (define *text-languages*
+   (static-text-list-array english
+@@ -1142,7 +1143,8 @@
+                           czech
+                           croatian
+                           galician
+-						  bosnian))
++						  bosnian
++						  korean))
+ 
+ (define *subtitle-languages*
+   (static-text-list-array english
+@@ -1161,7 +1163,8 @@
+                           czech
+                           croatian
+                           galician
+-						  bosnian))
++						  bosnian
++						  korean))
+ 
+ ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ ;;  DYNAMIC MENU THINGS
 diff --git a/goalc/data_compiler/game_text_common.cpp b/goalc/data_compiler/game_text_common.cpp
 index 1fc3c533..86254ba9 100644
 --- a/goalc/data_compiler/game_text_common.cpp

@@ -86,9 +86,9 @@
  {
   "id": "speaker:JAK",
   "src": "JAK",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잭",
+  "state": "needs_review",
+  "note": "초벌 b10 화면 텍스트, 2차 검수 반영"
  },
  {
   "id": "speaker:JAK'S UNCLE",

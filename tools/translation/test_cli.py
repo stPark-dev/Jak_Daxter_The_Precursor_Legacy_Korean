@@ -12,7 +12,7 @@ def test_init_creates_full_denominator(tmp_path):
     cli.init(JAK, tmp_path)
     counts = cli.counts(tmp_path)
     assert counts["text/base"] == 279
-    assert counts["text/custom"] == 231
+    assert counts["text/custom"] == 232  # +1121 KOREAN (og:kr)
     assert counts["speakers"] == 27
     assert counts["subtitles"] == 1502  # + 27 speakers = 1529 strings
     e = json.loads((tmp_path / "text_base.json").read_text(encoding="utf-8"))[0]

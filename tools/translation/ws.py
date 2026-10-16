@@ -93,7 +93,7 @@ def check_entry(e, allowed):
         problems.append(f"format tokens differ: {FORMAT_TOKEN.findall(e['src'])} vs {FORMAT_TOKEN.findall(ko)}")
     if sorted(PAD_TOKEN.findall(e["src"])) != sorted(PAD_TOKEN.findall(ko)):
         problems.append("token set differs (<PAD_*>)")
-    bare = PAD_TOKEN.sub("", FORMAT_TOKEN.sub("", ko))
+    bare = "" if ko == e["src"] else PAD_TOKEN.sub("", FORMAT_TOKEN.sub("", ko))
     bad = sorted({c for c in bare if not is_hangul(c) and c not in allowed})
     if bad:
         problems.append(f"char not drawable by the Jak 1 font: {bad!r}")
