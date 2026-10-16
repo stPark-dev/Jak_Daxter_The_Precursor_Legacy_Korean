@@ -67,9 +67,9 @@
   "id": "hint:ASSTLP30:0",
   "src": "HM, LET'S SEE...",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "흠, 어디 보자...",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:ASSTLP31:0",
@@ -315,17 +315,17 @@
   "id": "hint:BIL-TA06:0",
   "src": "AND ANOTHER...",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그리고 또 하나...",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:BIL-TA07:0",
   "src": "THERE'S ONLY ONE LEFT...",
   "speaker": "BILLY",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이제 하나 남았어...",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:BIL-TA08:0",
@@ -499,25 +499,25 @@
   "id": "hint:BIR-LO01:0",
   "src": "(KISS) (WHISTLE)",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "(쪽) (휘파람)",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:BIR-LO02:0",
   "src": "OH MY, THAT'S A PRETTY ONE.",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어머나, 예쁜 녀석이네.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:BIR-LO03:0",
   "src": "OH LOOK, A MUCKY-MUCK.",
   "speaker": "BIRDWATCHER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어머, 저기 높으신 진흙새 좀 봐.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:BIR-am08:0",
@@ -532,24 +532,24 @@
   "src": "A LITTLE BIT OF HELP WOULD BE GOOD!",
   "speaker": "BLUE SAGE",
   "ko": "좀 도와주면 좋겠네!",
-  "state": "needs_human_review",
-  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-024; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; 확정: V-024; 2차 검수 반영"
  },
  {
   "id": "hint:BLU-AM02:0",
   "src": "OH, THIS IS A FINE MESS.",
   "speaker": "BLUE SAGE",
   "ko": "허, 이거 참 난처하게 됐군.",
-  "state": "needs_human_review",
-  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-024"
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; 확정: V-024"
  },
  {
   "id": "hint:BLU-AM03:0",
   "src": "HMM, QUITE AN ENIGMA WE'RE FACING.",
   "speaker": "BLUE SAGE",
   "ko": "흠, 실로 난해한 수수께끼로군.",
-  "state": "needs_human_review",
-  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-024"
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; 확정: V-024"
  },
  {
   "id": "hint:CHI-AM01:0",
@@ -1716,8 +1716,8 @@
   "src": "IS ANYBODY THERE?",
   "speaker": "RED SAGE",
   "ko": "거기 누구 있느냐?",
-  "state": "needs_human_review",
-  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-025"
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; 확정: V-025"
  },
  {
   "id": "hint:RED-AM02:0",
@@ -1732,8 +1732,8 @@
   "src": "WHAT KEPT YOU?",
   "speaker": "RED SAGE",
   "ko": "왜 이리 늦었느냐?",
-  "state": "needs_human_review",
-  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-025"
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; 확정: V-025"
  },
  {
   "id": "hint:SAGELP03:0",
@@ -1996,200 +1996,200 @@
   "src": "TIME IS RUNNIN' OUT!",
   "speaker": "YELLOW SAGE",
   "ko": "시간이 없다고!",
-  "state": "needs_human_review",
-  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-026"
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; 확정: V-026"
  },
  {
   "id": "hint:YEL-AM02:0",
   "src": "HEY! GET ME OUTTA HERE!",
   "speaker": "YELLOW SAGE",
   "ko": "어이! 여기서 꺼내 줘!",
-  "state": "needs_human_review",
-  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-026"
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; 확정: V-026"
  },
  {
   "id": "hint:YEL-AM03:0",
   "src": "WHEN I GET OUTTA HERE, SOME SHOOTIN'S GONNA START!",
   "speaker": "YELLOW SAGE",
   "ko": "여기서 나가기만 하면, 총질 좀 시작될 줄 알아!",
-  "state": "needs_human_review",
-  "note": "초벌 b07 성채·용암 터널 힌트; hold: V-026"
+  "state": "needs_review",
+  "note": "초벌 b07 성채·용암 터널 힌트; 확정: V-026"
  },
  {
   "id": "hint:asstv100:0",
   "src": "OKAY, YOU HAVE ENOUGH CELLS TO INCREASE THE POWER ON THE HEAT SHIELD.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋아, 열 차단막 출력을 높일 만큼 파워 셀을 모았어.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstv100:1",
   "src": "RIDE THE WOODEN MINECART DOWN THE SHAFT BY THE LAVA GEYSER.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "용암 간헐천 옆 갱도로 나무 광차를 타고 내려와.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstv100:2",
   "src": "I'LL MEET YOU BY THE ENTRANCE TO THE LAVA TUBE,",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "용암 터널 입구에서 만나자,",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstv100:3",
   "src": "SO I CAN MODIFY THE ZOOMER. HURRY!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "주머를 개조해야 하거든. 서둘러!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstv101:0",
   "src": "HAHA, OKAY! YOU HAVE ENOUGH CELLS TO INCREASE",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하하, 좋아! 열 차단막 출력을 높일 만큼",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstv101:1",
   "src": "THE POWER ON THE HEAT SHIELD.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀을 모았구나.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstv101:2",
   "src": "MEET ME BACK IN THE VOLCANIC CRATER.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "화산 분화구로 돌아와.",
+  "state": "needs_human_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; hold: G-031"
  },
  {
   "id": "hint:asstv101:3",
   "src": "I'LL BE WAITING BY THE LAVA TUBE DOWN THE SHAFT BY THE LAVA GEYSER.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "용암 간헐천 옆 갱도 아래, 용암 터널 앞에서 기다릴게.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstv101:4",
   "src": "BRING ME THE POWER CELLS!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀 가져와!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstv102:0",
   "src": "HURRY UP WITH THOSE POWER CELLS!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀 가지고 빨리 와!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstv102:1",
   "src": "I'M WAITING BY THE WOODEN MINECART SHAFT NEAR THE LAVA GEYSER.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "용암 간헐천 옆 나무 광차 갱도 쪽에서 기다릴게.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:asstv103:0",
   "src": "DON'T FORGET TO TURN ON THE TELEPORT GATE TO LET US THROUGH.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우리가 건너갈 수 있게 워프 게이트 켜는 거 잊지 마.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstv103:1",
   "src": "YOU'VE GOT TO GO INTO THE RED SAGE'S LAB",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "화산 분화구 한가운데에 있는",
+  "state": "needs_human_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; hold: G-031"
  },
  {
   "id": "hint:asstv103:2",
   "src": "IN THE CENTER OF THE VOLCANIC CRATER TO TURN IT ON.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "레드 현자 연구실에 들어가서 켜야 해.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstv103:3",
   "src": "WE CAN'T COME THROUGH UNTIL IT'S BACK ONLINE.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "다시 켜지기 전엔 우리가 못 건너가.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstv104:0",
   "src": "HEY, WE'RE STILL BACK IN ROCK VILLAGE!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "야, 우리 아직 바위 마을에 있다고!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:asstv104:1",
   "src": "TURN ON THE TELEPORT GATE!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "워프 게이트 켜 줘!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstv105:0",
   "src": "WE WANNA JOIN YOU IN THE VOLCANIC CRATER!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우리도 화산 분화구로 가고 싶어!",
+  "state": "needs_human_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; hold: G-031"
  },
  {
   "id": "hint:asstv105:1",
   "src": "GO INTO THE RED SAGE'S LAB AND TURN ON THE GATE.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "레드 현자 연구실에 가서 게이트를 켜 줘.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstva73:0",
   "src": "HEY GUYS! BY MY CALCULATIONS, IT'S GOING TO TAKE",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "얘들아! 내 계산으로는",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstva73:1",
   "src": "72 POWER CELLS TO FUEL THE HEAT SHIELD",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "골과 마이아의 성채로 가는 길의 용암을 버티려면",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstva73:2",
   "src": "AGAINST THE LAVA ON THE WAY TO GOL AND MAIA'S CITADEL.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "열 차단막에 파워 셀 72개가 필요해.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstva74:0",
@@ -2251,25 +2251,25 @@
   "id": "hint:asstvb03:0",
   "src": "GOOD! YOU STOPPED ALL THE MINE-DROPPING LURKERS!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋아! 지뢰를 뿌리던 러커들을 다 해치웠구나!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb03:1",
   "src": "THEY'VE BEEN THREATENING THE WATERS AROUND OUR VILLAGE FOR WEEKS.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "몇 주째 우리 마을 앞바다를 위협하던 놈들이야.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb03:2",
   "src": "BRING YOUR ZOOMER BACK TO THE TRANS-PAD AND I'LL TELEPORT IT BACK!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "주머를 트랜스 패드로 가져오면 내가 다시 전송해 줄게!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:asstvb04:0",
@@ -2355,49 +2355,49 @@
   "id": "hint:asstvb20:0",
   "src": "GOOD FLYING! THOSE LURKERS WERE NO MATCH FOR YOUR ZOOMER!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잘 날았어! 그 러커들은 네 주머 상대가 안 됐어!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb20:1",
   "src": "THAT'S ONE MORE POWER CELL!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀 하나 더!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb21:0",
   "src": "GOOD WORK! AREN'T YOU GUYS HAPPY",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잘했어! 우리 꼬마 플럿플럿 친구를",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb21:1",
   "src": "YOU SAVED OUR LITTLE FLUT-FLUT FRIEND?",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "구해서 기쁘지 않아?",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb21:2",
   "src": "SHE MAY COME IN HANDY AGAIN SOMETIME.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 애가 언젠가 또 도움이 될 거야.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:asstvb21:3",
   "src": "NOW, GO BACK TO THE TRANS-PAD, AND I'LL BRING HER HOME.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "자, 트랜스 패드로 돌아가. 그 애를 집에 데려갈게.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb22:0",
@@ -2427,73 +2427,73 @@
   "id": "hint:asstvb23:0",
   "src": "GREAT WORK! THE PEOPLE OF ROCK VILLAGE ARE BREATHING",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잘했어! 바위 마을 사람들이 다 같이",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb23:1",
   "src": "A COLLECTIVE SIGH OF RELIEF!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "안도의 한숨을 쉬고 있어!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb23:2",
   "src": "BUT THERE'S NO TIME TO CELEBRATE! USE YOUR ZOOMER",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하지만 축하할 시간은 없어! 주머를 타고",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb23:3",
   "src": "TO NAVIGATE THE MOUNTAIN PASS UP AHEAD.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "앞에 있는 고갯길을 지나가.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb23:4",
   "src": "BE CAREFUL, IT LOOKS LIKE THE LURKERS HAVE RIGGED",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "조심해, 러커들이 고갯길 전체에",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb23:5",
   "src": "THE WHOLE PASS WITH EXPLOSIVES!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "폭탄을 설치해 놓은 것 같아!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb23:6",
   "src": "WHEN YOU REACH THE VOLCANIC CRATER,",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "화산 분화구에 도착하면,",
+  "state": "needs_human_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; hold: G-031"
  },
  {
   "id": "hint:asstvb23:7",
   "src": "BE SURE TO VISIT THE RED SAGE'S LAB",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "꼭 레드 현자 연구실에 들러서",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb23:8",
   "src": "AND ACTIVATE THE TELEPORT GATE SO THAT FATHER AND I CAN JOIN YOU.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "워프 게이트를 켜 줘. 그래야 아빠랑 나도 갈 수 있어.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb24:0",
@@ -2547,97 +2547,97 @@
   "id": "hint:asstvb25:0",
   "src": "GOOD WORK! YOU BEAT THEM TO THE DETONATOR!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잘했어! 놈들보다 먼저 기폭 장치에 도착했구나!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb25:1",
   "src": "THE RED SAGE'S LAB IS JUST AHEAD.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "레드 현자 연구실이 바로 앞이야.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb25:2",
   "src": "GO TURN ON THE TELEPORT GATE SO WE CAN JOIN YOU.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "워프 게이트를 켜 줘. 그래야 우리도 갈 수 있어.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb28:0",
   "src": "HEY! DON'T FORGET ABOUT THE SAGE AND ME!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "야! 아빠랑 나 잊지 마!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:asstvb28:1",
   "src": "YOU HAVE TO TURN ON THE TELEPORT GATE TO LET US THROUGH!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우리가 건너갈 수 있게 워프 게이트를 켜 줘야 해!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb28:2",
   "src": "IT'S IN THE BLUE SAGE'S LAB, BY THE END OF FIRE CANYON.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "불의 협곡 끝, 블루 현자 연구실에 있어.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb28:3",
   "src": "IF YOU DON'T LET US THROUGH, THEN WE CAN'T HELP YOU!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우리가 못 건너가면 도와줄 수가 없다고!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb29:0",
   "src": "HEY! WE'RE STILL WAITING!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "야! 우리 아직 기다리고 있어!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:asstvb29:1",
   "src": "TURN ON THE TELEPORT GATE!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "워프 게이트 켜 줘!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb30:0",
   "src": "HEY! WE CAN'T COME THROUGH UNTIL THE TELEPORT GATE'S ON!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "야! 워프 게이트가 켜지기 전엔 우리 못 건너가!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:asstvb40:0",
   "src": "THIS DEVICE IS A COMMUNICATOR. WITH IT, MY FATHER AND I",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 장치는 통신기야. 이걸로 아빠랑 내가",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb40:1",
   "src": "CAN GIVE YOU ADVICE AT ANY TIME DURING YOUR QUEST.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "모험하는 동안 언제든 조언해 줄 수 있어.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb41:0",
@@ -2691,89 +2691,89 @@
   "id": "hint:asstvb44:0",
   "src": "HEY, YOU FOUND ONE OF MY SCOUT FLIES!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어, 내 스카우트 플라이를 하나 찾았구나!",
+  "state": "needs_human_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; hold: G-011; 2차 검수 반영"
  },
  {
   "id": "hint:asstvb44:1",
   "src": "I SENT 7 OF THEM TO EACH AREA TO LOOK FOR POWER CELLS",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀을 찾으라고 지역마다 7마리씩 보냈는데",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb44:2",
   "src": "BUT THE LURKERS MUST HAVE CAPTURED THEM ALL!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "러커들이 전부 잡아간 게 분명해!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb45:0",
   "src": "WOW! THAT LAST SCOUT FLY HAD A POWER CELL!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "와! 마지막 스카우트 플라이가 파워 셀을 갖고 있었어!",
+  "state": "needs_human_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; hold: G-011"
  },
  {
   "id": "hint:asstvb45:1",
   "src": "I'LL BET IF YOU COLLECT ALL 7 IN EACH AREA",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "지역마다 7마리를 전부 모으면",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb45:2",
   "src": "YOU CAN FIND EVEN MORE POWER CELLS.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀을 더 찾을 수 있을 거야.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb46:0",
   "src": "BE CAREFUL IN THE OCEAN, THE WATERS ARE CHOCK-FULL OF",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "바다에선 조심해, 물속엔",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb46:1",
   "src": "LURKER SHARKS AND I'VE NEVER SEEN ANYONE DEFEAT ONE.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "러커 상어가 득실득실하고, 그걸 이긴 사람은 한 번도 못 봤어.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb46:2",
   "src": "STAY CLEAR OF THEM IF YOU KNOW WHAT'S GOOD FOR YOU!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "살고 싶으면 근처에도 가지 마!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:asstvb47:0",
   "src": "REMEMBER, THAT'S A POWER CELL.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "기억해, 그게 파워 셀이야.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb47:1",
   "src": "YOU NEED TO COLLECT AS MANY OF THOSE AS YOU CAN.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "최대한 많이 모아야 해.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb48:0",
@@ -2819,25 +2819,25 @@
   "id": "hint:asstvb72:0",
   "src": "UNTIL WE FIND OUT WHY THE BLUE SAGE DISAPPEARED,",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 현자가 왜 사라졌는지 알아낼 때까지,",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb72:1",
   "src": "YOU'RE GOING TO NEED TO COLLECT 45 POWER CELLS TO FUEL HIS MACHINE.",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그분 장치에 넣을 파워 셀 45개를 모아야 해.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb72:2",
   "src": "GO GET 'EM!",
   "speaker": "KEIRA",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어서 가!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:asstvb75:0",
@@ -2875,145 +2875,145 @@
   "id": "hint:sagevb01:0",
   "src": "WELL, I SEE THAT YOU TWO HAVE FINALLY",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "흠, 너희 둘이 드디어",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb01:1",
   "src": "DECIDED TO UNBLOCK MY COLLECTORS.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내 이코 수집기를 뚫어 줄 마음이 들었나 보구나.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb01:2",
   "src": "I WOULD OFFER MY CONGRATULATIONS",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "축하라도 해 주고 싶다만",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb01:3",
   "src": "BUT YOU HAVE SO MUCH TO DO I WON'T WASTE YOUR TIME.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "할 일이 산더미니 시간 뺏지 않겠다.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb01:4",
   "src": "BY THE WAY, IF THINGS DON'T WORK OUT,",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그건 그렇고, 일이 잘 안 풀리면",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb01:5",
   "src": "DAXTER COULD ALWAYS GET A JOB CONTROLLING THE VILLAGE RAT PROBLEM.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "덱스터는 언제든 마을 쥐잡이로 취직하면 되겠구나.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb01:6",
   "src": "NYEH HA HA HA HA HA.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "크헤헤헤헤헤.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb02:0",
   "src": "I HAVE TO ADMIT, I'M IMPRESSED. YOU TWO DIDN'T SCREW UP!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "인정하지, 감탄했다. 너희 둘이 일을 망치지 않다니!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb02:1",
   "src": "NOW THAT THE LURKERS CAN'T OPEN THAT SILO",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이제 러커들이 그 사일로를 열 수 없으니",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb02:2",
   "src": "THEY CAN'T FLOOD THE WORLD WITH DARK ECO",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "세상을 다크 이코로 뒤덮어",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb02:3",
   "src": "AND CAUSE UNTOLD DESTRUCTION.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "엄청난 파괴를 일으킬 수도 없게 됐다.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb02:4",
   "src": "WIPE THAT RIDICULOUS GRIN OFF YOUR FACE, DAXTER!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 바보 같은 히죽 웃음 좀 지워라, 덱스터!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb02:5",
   "src": "THE TWO OF YOU HAVE PLENTY TO DO.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "너희 둘은 할 일이 산더미다.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb02:6",
   "src": "GET ON WITH IT!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "꾸물대지 말고 움직여라!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb03:0",
   "src": "YOU KEEP ON IMPRESSING ME. BUT THEN MAYBE IT'S JUST BECAUSE",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "또 날 놀라게 하는구나. 하긴 그건 그냥",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb03:1",
   "src": "I'VE GOT LOW EXPECTATIONS.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내 기대치가 워낙 낮아서일지도 모르지.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb03:2",
   "src": "OKAY, YOUR MOMENT OF GLOATING IS OVER.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "자, 우쭐댈 시간은 끝났다.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb03:3",
   "src": "GET ON WITH IT!",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "꾸물대지 말고 움직여라!",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb04:0",
@@ -3123,17 +3123,17 @@
   "id": "hint:sagevb23:0",
   "src": "NOTICE HOW EACH BLUE ECO CLUSTER YOU PICK UP",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 이코 덩어리를 하나 주울 때마다",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb23:1",
   "src": "INCREASES THE TIME YOU CAN USE ITS POWER.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 힘을 쓸 수 있는 시간이 늘어나는 걸 봐라.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb24:0",
@@ -3163,33 +3163,33 @@
   "id": "hint:sagevb25:0",
   "src": "GOOD WORK, THE BLUE ECO CAUSED THE DOOR TO OPEN.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잘했다, 블루 이코가 문을 열었구나.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb25:1",
   "src": "WITH BLUE ECO, YOU CAN BREATHE ENERGY INTO ALL KINDS",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 이코로는 오랫동안 잠들어 있던",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb25:2",
   "src": "OF PRECURSOR ARTIFACTS THAT HAVE LAIN DORMANT FOR YEARS.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "온갖 프리커서 유물에 에너지를 불어넣을 수 있다.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb26:0",
   "src": "USE YOUR GOGGLES TO VIEW YOUR PROGRESS DURING THE ADVENTURE.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "모험하는 동안 고글을 쓰면 진행 상황을 볼 수 있다.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb27:0",
@@ -3203,97 +3203,97 @@
   "id": "hint:sagevb28:0",
   "src": "WHEN YOU'RE SURROUNDED BY ENEMIES, USE YOUR SPIN KICK.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "적에게 둘러싸이면 회전 차기를 써라.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb29:0",
   "src": "THAT'S NOT A SPIN KICK! TRY AGAIN.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그건 회전 차기가 아니다! 다시 해 봐라.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb30:0",
   "src": "COME ON, JAK! DO A SPIN KICK.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어서, 잭! 회전 차기를 해 봐라.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb31:0",
   "src": "GOOD WORK. USE THE SPIN KICK WHEN YOU WANT A GOOD ALL-ROUND ATTACK.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잘했다. 사방을 공격하고 싶을 땐 회전 차기를 써라.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb32:0",
   "src": "FOR A STRAIGHT LINE, MOVING ATTACK, USE YOUR FIST TO PUNCH.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "직선으로 돌진하며 공격하려면 주먹 지르기를 써라.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb33:0",
   "src": "THAT'S NOT A PUNCH ATTACK! LET'S SEE YOU PUNCH ALREADY.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그건 주먹 지르기가 아니다! 어서 주먹을 질러 봐라.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb34:0",
   "src": "JAK! USE A PUNCH.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잭! 주먹 지르기를 써라.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb35:0",
   "src": "GREAT JOB. USE THE PUNCH TO CLOSE DISTANCE QUICKLY IN A TOUGH SPOT.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아주 좋다. 궁지에선 주먹 지르기로 재빨리 거리를 좁혀라.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb36:0",
   "src": "SOMETIMES YOU'LL WANT TO HIT THINGS WITH A GREATER FORCE.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "때로는 더 세게 쳐야 할 때가 있다.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb36:1",
   "src": "TO BREAK ONE OF THESE BOXES, YOU SHOULD JUMP IN THE AIR",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이런 상자를 부수려면 공중으로 뛰어오른 다음",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
  {
   "id": "hint:sagevb36:2",
   "src": "AND THEN DIVE DOWN ONTO IT, HANDS FIRST.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "손을 앞세워 상자 위로 몸을 내리꽂아라.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb37:0",
   "src": "WHEN YOU GET SOME CONFIDENCE, TRY USING SOME OF YOUR MOVES IN COMBINATIONS.",
   "speaker": "SAMOS",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "자신감이 붙으면 기술들을 연계해서 써 봐라.",
+  "state": "needs_review",
+  "note": "초벌 b08 케이라·사모스 통신 힌트, 기타; 2차 검수 반영"
  },
  {
   "id": "hint:sagevb38:0",
@@ -3331,209 +3331,209 @@
   "id": "hint:sksp0001:0",
   "src": "HEY! THAT SWEET-LOOKING BABE KEIRA WAS RIGHT! THERE ARE TRANS-PADS OUT HERE.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어이! 그 끝내주는 미녀 케이라 말이 맞았어! 여기 트랜스 패드가 있잖아.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0002:0",
   "src": "TRUST ME, THOSE DARK ECO BOXES ARE BAD NEWS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내 말 믿어, 저 다크 이코 상자는 위험해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0003:0",
   "src": "I BET IF WE FOUND ALL OF THOSE SICKLY CUTE SCOUT FLIES ON EACH LEVEL",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "지역마다 그 징그럽게 귀여운 스카우트 플라이를 다 찾으면",
+  "state": "needs_human_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); hold: G-011"
  },
  {
   "id": "hint:sksp0003:1",
   "src": "AT LEAST ONE WILL HAVE A POWER CELL!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "적어도 하나는 파워 셀을 갖고 있을걸!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0004:0",
   "src": "ALL RIGHT, TREASURE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋았어, 보물이다!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0005:0",
   "src": "THESE WOOD AND METAL BOXES DON'T LOOK THAT TOUGH!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 나무랑 쇠로 된 상자는 별로 안 튼튼해 보이는데!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0005:1",
   "src": "I'LL BET THEY'LL BREAK IF YOU JUMP DIVE ONTO THEM.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "점프해서 내리꽂으면 부서질 거야.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0006:0",
   "src": "THOSE ALL-METAL BOXES ARE THICKER THAN A YAKOW SKULL!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 쇠 상자들은 야카우 두개골보다 두꺼워!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0006:1",
   "src": "BUT THERE MUST BE SOMETHING THAT CAN BUST 'EM OPEN.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래도 저걸 부술 방법이 분명 있을 거야.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0007:0",
   "src": "TWO WORDS: POWER CELLS. WE NEED TO FIND 'EM AND WE AREN'T LOOKIN' SO GOOD RIGHT NOW.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "두 단어로 말하지. 파워 셀. 그걸 찾아야 하는데 지금 영 형편없잖아.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0008:0",
   "src": "WE NEED ORBS. ORBS, JAK! HOW ARE EVER GONNA BUY POWER CELLS IF WE DON'T COLLECT ORBS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오브가 필요해. 오브, 잭! 오브를 안 모으면 파워 셀을 무슨 수로 사겠어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0009:0",
   "src": "WHAT A WEIRD-LOOKING THING! I'LL BET WE CAN GET THIS OPEN",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이상하게 생긴 물건이네! 그 찌릿찌릿한 블루 이코로",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0009:1",
   "src": "IF YOU'RE POWERED UP WITH THAT ZAPPY BLUE ECO STUFF.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "충전돼 있으면 이걸 열 수 있을 거야.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0010:0",
   "src": "HEY! LET'S GO CHECK OUT OL' FISH BREATH'S SPEED-BOAT AT THE DOCK!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어이! 부두에 있는 생선 냄새 아저씨 쾌속정 구경 가자!",
+  "state": "needs_human_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); hold: N-009"
  },
  {
   "id": "hint:sksp0011:0",
   "src": "WE SHOULD ASK THE FISHERMAN DOWN BY THE JUNGLE RIVER",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "정글 강가에 있는 어부한테 가서",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0011:1",
   "src": "IF WE CAN BORROW HIS SPEEDBOAT TO ZOOM ON OVER TO MISTY ISLAND!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "미스티 섬까지 쌩 하고 갈 수 있게 쾌속정 좀 빌려 달라고 하자!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0013:0",
   "src": "DID YOU SEE THE SIZE OF THE BITE",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 러커 상어가 어부 배를",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0013:1",
   "src": "THAT LURKER SHARK TOOK OUT OF THE FISHERMAN'S BOAT?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "얼마나 크게 한입 뜯어 갔는지 봤어?",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0013:2",
   "src": "WE BEST STAY WAY CLEAR OF THEM!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그놈들 근처엔 얼씬도 하지 말자!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0013:3",
   "src": "I DON'T THINK WE CAN TACKLE A CREATURE THAT DAG NASTY.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그렇게 지독한 놈은 우리가 못 당해.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0014:0",
   "src": "WE SCROUNGED ENOUGH ORBS TO TRADE FOR A POWER CELL.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "파워 셀이랑 바꿀 만큼 오브를 긁어모았어.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0014:1",
   "src": "LET'S GET BACK AND MAKE THE SWITCH ALREADY!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "얼른 돌아가서 바꾸자!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0015:0",
   "src": "THIS MUST BE A PRECURSOR ORACLE LIKE THE SAGE ALWAYS GOES ON ABOUT.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이게 그 현자 영감이 맨날 떠들던 프리커서 오라클인가 봐.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0015:1",
   "src": "I HOPE THEY WEREN'T AS UGLY IN PERSON!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "실물이 이렇게 못생기진 않았길 바라!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0017:0",
   "src": "WHOA! CHECK OUT THAT FUNKY SCULPTURE",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "우와! 저기 바위 위에 있는",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0017:1",
   "src": "SITTIN' ON THE ROCKS OVER THERE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "희한한 조각상 좀 봐!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0018:0",
@@ -3571,9 +3571,9 @@
   "id": "hint:sksp0021:0",
   "src": "THERE'RE THOSE SEAGULLS AGAIN. LET'S GET 'EM!!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "또 그 갈매기들이다. 혼내 주자!!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0022:0",
@@ -3635,9 +3635,9 @@
   "id": "hint:sksp0028:0",
   "src": "KICK THE EGG! HEE-HEE! KICK IT! KICK IT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "알을 차! 히히! 차 버려! 차 버려!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0029:0",
@@ -3659,41 +3659,41 @@
   "id": "hint:sksp0030:0",
   "src": "HEY, TRY PUNCHING THE ROCKS TO GET 'EM OUT OF THE WAY!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어이, 바위를 주먹으로 쳐서 치워 봐!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0031:0",
   "src": "OOH! LET'S USE THE CANNON TO BLOW THINGS UP!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오! 대포로 다 날려 버리자!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0034:0",
   "src": "AWOOGA! AWOOGA! DIVE FOR THOSE ORBS, JAK, DIVE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "뿌우! 뿌우! 오브 쪽으로 잠수해, 잭, 잠수!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0035:0",
   "src": "YEAH, SO WE GOT A PRECURSOR LAUNCHER HERE",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래, 여기 프리커서 발사대가 있긴 한데",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0035:1",
   "src": "BUT YOU AREN'T POWERED UP WITH THE BLUE STUFF. SO IT AIN'T GONNA HELP US!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "넌 파란 걸로 충전이 안 돼 있잖아. 그러니 쓸모없어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0037:0",
@@ -3755,33 +3755,33 @@
   "id": "hint:sksp0040:0",
   "src": "LET'S GET UP ON THAT MACHINE AND BREAK THE MIRROR DIVERTING THE PRECURSOR BEAM!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 장치 위로 올라가서 이코 빔 방향을 틀고 있는 거울을 부수자!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0041:0",
   "src": "WE NEED TO GET TO THE TOP OF THAT TOWER!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 탑 꼭대기로 올라가야 해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0043:0",
   "src": "MAYBE WE SHOULD GO ROOT OUT THE FISHERMAN.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어부를 찾아보는 게 좋겠어.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0043:1",
   "src": "I HEARD HE WAS IN THE JUNGLE FISHING BY THE LOWER RIVER!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "정글 아래쪽 강에서 낚시하고 있다던데!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0049:0",
@@ -3803,9 +3803,9 @@
   "id": "hint:sksp0051:0",
   "src": "GET THE BUGS, JAK! GET THE BUGS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "벌레를 잡아, 잭! 벌레를 잡아!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0052:0",
@@ -3843,17 +3843,17 @@
   "id": "hint:sksp0059:0",
   "src": "THIS PLACE GIVES ME THE WILLIES!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "여긴 소름 돋아!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0059:1",
   "src": "LET'S KEEP YOU OUT OF THE OOZE, OKAY?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 시커먼 끈적이엔 빠지지 말자, 알았지?",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0060:0",
@@ -3907,25 +3907,25 @@
   "id": "hint:sksp0064:0",
   "src": "WATCH YOUR BACK! YOU REMEMBER WHAT HAPPENED THE LAST TIME WE WERE HERE.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "뒤 조심해! 지난번에 여기 왔을 때 무슨 일 있었는지 기억하지?",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0067:0",
   "src": "DON'T FALL INTO THE MIST BELOW US!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아래 안개 속으로 떨어지지 마!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0067:1",
   "src": "'CAUSE I DON'T THINK WE'LL MAKE IT BACK.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "다시는 못 돌아올 것 같으니까.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0069:0",
@@ -3947,241 +3947,241 @@
   "id": "hint:sksp0071:0",
   "src": "GET THE RED ECO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "레드 이코를 먹어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0072:0",
   "src": "RED ECO MAKES YOUR ATTACKS STRONGER.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "레드 이코를 먹으면 공격이 세져.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0073:0",
   "src": "WE NEED BLUE ECO TO CHARGE THIS PLATFORM UP!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 발판을 충전하려면 블루 이코가 필요해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0076:0",
   "src": "JAK! HIT SOME JUMPS TO KEEP US OFF THE HOT GROUND.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잭! 점프대를 밟아서 뜨거운 땅에 닿지 않게 해.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0077:0",
   "src": "BALLOONS GOOD, BURNING HOT MAGMA BAD!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "풍선 좋아, 펄펄 끓는 용암 나빠!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0078:0",
   "src": "RIDE ON THE RAISED PRECURSOR STUFF TO KEEP US COOL.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "솟아오른 프리커서 구조물을 타고 가면 시원할 거야.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0079:0",
   "src": "AHH! I'M GONNA DIE! I'M A COMING, GRANDPAP!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "으악! 나 죽는다! 할아버지, 저도 곧 가요!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
  {
   "id": "hint:sksp0079:1",
   "src": "YOU HAVE TO GET THIS THING TO THE OTHER SIDE BEFORE IT OVERHEATS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "과열되기 전에 이걸 건너편까지 몰고 가야 해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
  {
   "id": "hint:sksp0080:0",
   "src": "USE THE HOP-TURN TO STEER HARDER!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "점프하면서 꺾어야 더 크게 돌아!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0081:0",
   "src": "AHH! MAYBE I SHOULD DRIVE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "으악! 차라리 내가 운전할까!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0082:0",
   "src": "YOU ARE TRYING TO AVOID THOSE DARK ECO BOXES, RIGHT?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 다크 이코 상자 피하려는 거 맞지?",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0083:0",
   "src": "OOH! SEE IF WE CAN CATCH AIR OFF THOSE LURKERS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오! 저 러커들 밟고 붕 떠 보자!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0084:0",
   "src": "TOO CLOSE, TOO CLOSE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "너무 가까워, 너무 가까워!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0085:0",
   "src": "WHOA! THIS BABY'S GETTING WAY TOO HOT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "워! 이 녀석 너무 뜨거워지고 있어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0086:0",
   "src": "A FEW MORE SECONDS AND WE'RE FRIED FLUT-FLUT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "몇 초만 더 있으면 우리 플럿플럿 튀김 된다!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
  {
   "id": "hint:sksp0087:0",
   "src": "HIT THOSE BALLOONS TO COOL OFF!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "풍선을 들이받아서 식혀!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0088:0",
   "src": "HERE COMES ANOTHER BALLOON!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "풍선 또 온다!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0089:0",
   "src": "I WISH I SLEPT IN THIS MORNING!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "오늘 아침에 늦잠이나 잘걸!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0090:0",
   "src": "YOU MISSED A BALLOON! WE NEED THOSE OR WE'RE COOKED!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "풍선 하나 놓쳤잖아! 그거 없으면 우리 익어 버린다고!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0091:0",
   "src": "THIS PUPPY'S GETTING TOO HOT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 녀석 너무 뜨거워지고 있어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0092:0",
   "src": "DO YOU SMELL SOMETHING BURNING?!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "뭐 타는 냄새 안 나?!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0093:0",
   "src": "I THINK MY TAIL'S ON FIRE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "내 꼬리에 불붙은 것 같아!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0094:0",
   "src": "SHE'S GONNA BLOW!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "터진다!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0095:0",
   "src": "WAHOO! WE MADE IT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "와후! 해냈다!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0096:0",
   "src": "THERE'S SCOUT FLIES OUT HERE, TOO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "여기에도 스카우트 플라이가 있어!",
+  "state": "needs_human_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); hold: G-011"
  },
  {
   "id": "hint:sksp009a:0",
   "src": "HA HA! WE SHOWED HIM A THING OR TWO.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하하! 본때를 보여 줬지.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp009b:0",
   "src": "ALL RIGHT, MORE ORBS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋았어, 오브 더!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp009c:0",
   "src": "DO ME A FAVOR AND KEEP AWAY FROM THOSE DARK ECO BOXES!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "부탁인데 저 다크 이코 상자 근처엔 가지 마!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp009d:0",
   "src": "YEAH-HA-HA-HA!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "예이-하하하!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp009e:0",
   "src": "WA-HOO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "와-후!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp009f:0",
@@ -4195,33 +4195,33 @@
   "id": "hint:sksp009g:0",
   "src": "RIGHT BEHIND YA, JAK!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "바로 뒤에 있어, 잭!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp009i:0",
   "src": "DID WE FIND ALL THE SCOUT FLIES IN THIS AREA?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 지역 스카우트 플라이는 다 찾았나?",
+  "state": "needs_human_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); hold: G-011"
  },
  {
   "id": "hint:sksp009j:0",
   "src": "HEY! IT LOOKS LIKE SCOUT FLIES ARE ALWAYS IN RED BOXES.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어이! 스카우트 플라이는 항상 빨간 상자 안에 있나 봐.",
+  "state": "needs_human_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); hold: G-011"
  },
  {
   "id": "hint:sksp009k:0",
   "src": "ALRIGHT! YOU FOUND ALL THE SCOUT FLIES IN THIS AREA!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋았어! 이 지역 스카우트 플라이를 다 찾았어!",
+  "state": "needs_human_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); hold: G-011"
  },
  {
   "id": "hint:sksp0109:0",
@@ -4235,25 +4235,25 @@
   "id": "hint:sksp0110:0",
   "src": "I'VE SAID IT BEFORE, I'LL SAY IT AGAIN...",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "전에도 말했지만, 또 말할게...",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0110:1",
   "src": "AVOID THE DARK ECO BOXES!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "다크 이코 상자는 피해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0111:0",
   "src": "LET'S CHASE THOSE MOLES BACK UNDERGROUND.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "두더지들을 땅속으로 다시 몰아넣자.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0112:0",
@@ -4283,9 +4283,9 @@
   "id": "hint:sksp0115:0",
   "src": "JAK, DRIVE THROUGH THE GREEN ECO VENT.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잭, 그린 이코 분출구를 지나가.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0116:0",
@@ -4307,17 +4307,17 @@
   "id": "hint:sksp0117:0",
   "src": "THERE'S THE MOLE HOLE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저기 두더지 굴이다!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0118:0",
   "src": "NOW, LET'S FLY OVER THE INFECTED PLANTS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "자, 감염된 식물 위로 날아가자!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0119:0",
@@ -4347,9 +4347,9 @@
   "id": "hint:sksp0122:0",
   "src": "HEY! THAT GRASS SLOWS US DOWN...",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어이! 저 풀 때문에 느려져...",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0123:0",
@@ -4379,9 +4379,9 @@
   "id": "hint:sksp0126:0",
   "src": "LET'S GET THE POWER CELL ON THE ROOF OF THIS THING!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이거 지붕 위에 있는 파워 셀을 챙기자!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0127:0",
@@ -4403,9 +4403,9 @@
   "id": "hint:sksp0129:0",
   "src": "AHH! THAT DARK ECO'S GETTING CLOSE",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "으악! 다크 이코가 가까워지고 있어",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0130:0",
@@ -4427,9 +4427,9 @@
   "id": "hint:sksp0132:0",
   "src": "EE-EE! WHOA! WHO-AH! WHO-AHH!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이-이! 워! 우-아! 우-아아!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0133:0",
@@ -4451,25 +4451,25 @@
   "id": "hint:sksp0135:0",
   "src": "THAT WATER LOOKS DANGEROUS WHEN IT CHANGES COLOR!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "물 색깔이 바뀌면 위험해 보여!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0136:0",
   "src": "YOU GOTTA GET OUT OF THE WATER BEFORE IT CHANGES COLOR!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "물 색깔이 바뀌기 전에 나와야 해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0137:0",
   "src": "I BET WE COULD SHOOT THOSE BOULDERS IF WE'RE CHARGED UP WITH YELLOW ECO.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "옐로우 이코로 충전하면 저 바위들을 쏠 수 있을 거야.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0138:0",
@@ -4483,33 +4483,33 @@
   "id": "hint:sksp0139:0",
   "src": "MAYBE WE SHOULD HELP THAT WEIRDO FIND HIS PET.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 괴짜가 애완동물 찾는 거 도와주는 게 좋겠어.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0140:0",
   "src": "THE FLUT-FLUT CAN GLIDE FARTHER IF SHE JUMPS AGAIN IN THE AIR!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "플럿플럿은 공중에서 한 번 더 뛰면 더 멀리 활공할 수 있어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0141:0",
   "src": "DON'T TOUCH THAT BLACK HOT TAR, OR YOU'LL GET HURT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 시커멓고 뜨거운 타르는 만지지 마, 다쳐!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0142:0",
   "src": "THE WATER'S SAFE TO WAIT IN.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "물속에서 기다리는 건 안전해.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0143:0",
@@ -4531,57 +4531,57 @@
   "id": "hint:sksp0145:0",
   "src": "WOW! YOU CAN SHOOT FIREBALLS",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "와! 옐로우 이코로 충전하면",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0145:1",
   "src": "WHEN YOU'RE POWERED UP WITH YELLOW ECO.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "불덩이를 쏠 수 있구나.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0146:0",
   "src": "HEY! THAT'S YELLOW ECO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어이! 옐로우 이코다!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0147:0",
   "src": "YOU CAN SWING ON THAT POLE OVER THERE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저기 기둥에 매달려서 건너갈 수 있어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0148:0",
   "src": "WATCH OUT, THAT BRAMBLE IS PRICKLY!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "조심해, 저 가시덤불 따가워!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0149:0",
   "src": "HEY, THAT LOOKS LIKE A TETHER HOLDING THE DIRIGIBLE IN PLACE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어이, 저게 비행선을 붙잡아 두는 밧줄인가 봐!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0150:0",
   "src": "WATCH OUT WHEN THAT FROG IS CHARGED UP!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 개구리가 충전됐을 땐 조심해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0151:0",
@@ -4603,33 +4603,33 @@
   "id": "hint:sksp0153:0",
   "src": "HEY, THAT MUST BE THE PRECURSOR ARTIFACT THE LURKERS ARE AFTER!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "어이, 저게 러커들이 노리는 프리커서 유물인가 봐!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0153:1",
   "src": "IT LOOKS LIKE A GIANT ROBOT ARM!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "거대한 로봇 팔처럼 생겼는데!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0154:0",
   "src": "THAT BLACK TAR LOOKS HOT AND DANGEROUS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 시커먼 타르, 뜨겁고 위험해 보여!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0155:0",
   "src": "SHOOT THE BATS WITH THAT YELLOW ECO STUFF!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그 옐로우 이코로 박쥐들을 쏴!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0156:0",
@@ -4675,9 +4675,9 @@
   "id": "hint:sksp0161:0",
   "src": "I HATE RATS! AND I'M ALMOST ONE OF THEM.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "쥐는 질색이야! 나도 거의 쥐나 다름없지만.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
  {
   "id": "hint:sksp018a:0",
@@ -4699,169 +4699,169 @@
   "id": "hint:sksp0300:0",
   "src": "WE HAVE TO BEAT THOSE LURKERS TO THE END OF THE PASS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "러커들보다 먼저 고갯길 끝에 도착해야 해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
  {
   "id": "hint:sksp0301:0",
   "src": "DON'T HIT THOSE EXPLOSIVES!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 폭탄 건드리지 마!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0302:0",
   "src": "STAY AHEAD OF THEM AND WE GOT IT MADE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "놈들보다 앞서기만 하면 문제없어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0303:0",
   "src": "HIT THE BLUE ECO TO GET SPEED BOOSTS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 이코를 먹으면 속도가 빨라져!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0304:0",
   "src": "AVOID THE TREES, JAK! THEY SLOW US DOWN!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "나무 피해, 잭! 속도 떨어져!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0305:0",
   "src": "THE MORE BLUE ECO WE HIT, THE FASTER WE GO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 이코를 많이 먹을수록 빨라져!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0306:0",
   "src": "WATCH OUT FOR THOSE EXPLOSIVES!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "폭탄 조심해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0307:0",
   "src": "STAY CLEAR OF THE PITS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "구덩이 피해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0308:0",
   "src": "MAYBE I SHOULD DRIVE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "차라리 내가 운전할까!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0309:0",
   "src": "THERE'S ONE OF THE LURKERS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "러커 하나 저기 있다!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0310:0",
   "src": "CATCH 'EM, JAK!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잡아, 잭!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0311:0",
   "src": "WE PASSED ONE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "하나 제쳤어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0312:0",
   "src": "WAH, ONE OF THE LURKERS PASSED US!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "으악, 러커 하나가 우릴 제쳤어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0313:0",
   "src": "THEY'RE WAY AHEAD!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "놈들이 한참 앞서 있어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0314:0",
   "src": "YEAH, WE'RE IN THE LEAD!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋아, 우리가 선두야!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0315:0",
   "src": "FASTER, JAK, FASTER!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "더 빨리, 잭, 더 빨리!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0316:0",
   "src": "BIG JUMP, BIG JUMP!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "크게 점프, 크게 점프!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0317:0",
   "src": "HANG ON!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "꽉 잡아!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0318:0",
   "src": "YAAHH!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "야아아!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0319:0",
   "src": "IT'S GONNA BE CLOSE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아슬아슬하겠는데!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0320:0",
   "src": "THEY'RE GONNA BEAT US TO THE DETONATOR!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "놈들이 우리보다 먼저 기폭 장치에 닿겠어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0321:0",
@@ -4883,33 +4883,33 @@
   "id": "hint:sksp0328:0",
   "src": "MAYBE YOU CAN SHOOT BETTER IF YOU AIM THROUGH YOUR GOGGLES.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "고글로 조준하면 더 잘 쏠 수 있을 거야.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0329:0",
   "src": "OH, NO! MORE DARK ECO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "안 돼! 다크 이코가 또 있어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0330:0",
   "src": "I DON'T THINK WE GOT ALL OF THOSE DARK ECO CRYSTALS.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "다크 이코 수정을 다 못 찾은 것 같아.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0331:0",
   "src": "SHOOT THE LURKERS EATING THE POLES!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "기둥을 갉아 먹는 러커들을 쏴!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0332:0",
@@ -4939,49 +4939,49 @@
   "id": "hint:sksp0335:0",
   "src": "EWH, THEY FOUND A PRECURSOR ROBOT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "으엑, 놈들이 프리커서 로봇을 찾았어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0336:0",
   "src": "POP THE EGGS, BEFORE THEY HATCH!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "알이 부화하기 전에 터뜨려!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0337:0",
   "src": "IT'S SPOOKY IN HERE...",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "여긴 으스스해...",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0338:0",
   "src": "LOOKS LIKE SPIDER WEBS BREAK AFTER TWO BOUNCES.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "거미줄은 두 번 튕기면 끊어지나 봐.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0339:0",
   "src": "I. HATE. SPIDERS...",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "난. 거미가. 싫어...",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0340:0",
   "src": "BABY SPIDERS ARE COMING!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "새끼 거미들이 온다!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0341:0",
@@ -4995,17 +4995,17 @@
   "id": "hint:sksp0342:0",
   "src": "LOOK OUT, MORE SPIDERS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "조심해, 거미가 더 있어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0343:0",
   "src": "LET'S GET OUTTA HERE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "여기서 나가자!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0345:0",
@@ -5027,25 +5027,25 @@
   "id": "hint:sksp0347:0",
   "src": "WE NEED TO DO A ROLL JUMP!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "구르기 점프를 해야 해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0348:0",
   "src": "WE NEED TO FIND A WAY TO OPEN THIS VENT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 분출구를 열 방법을 찾아야 해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0349:0",
   "src": "THAT LOOKS LIKE AN ECO SWITCH DOWN THERE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 아래 이코 스위치 같은 게 있어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0350:0",
@@ -5059,25 +5059,25 @@
   "id": "hint:sksp0351:0",
   "src": "PUSH THE BUTTON!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "버튼을 눌러!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0352:0",
   "src": "QUICK! BEFORE THEY DROP BACK DOWN!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "빨리! 다시 내려가기 전에!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0359:0",
   "src": "YOU GOTTA USE RED ECO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "레드 이코를 써야 해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0360:0",
@@ -5091,105 +5091,105 @@
   "id": "hint:sksp0362:0",
   "src": "LOOK! A FROZEN POWER CELL!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "봐! 얼어붙은 파워 셀이야!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0363:0",
   "src": "ONLY A FLUT-FLUT CAN JUMP THAT FAR!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저렇게 멀리는 플럿플럿만 뛸 수 있어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0364:0",
   "src": "WE GOTTA HURRY, OR WE'RE TOAST!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "서둘러, 안 그러면 우리 통구이 된다!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0365:0",
   "src": "PICK A PATH, ANY PATH!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아무 길이나 골라, 아무 길이나!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0366:0",
   "src": "AVOID, OR SHOOT THE MINES, JAK!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "지뢰를 피하거나 쏴, 잭!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0367:0",
   "src": "FIND A WAY THROUGH THOSE DARK ECO BARRELS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 다크 이코 통 사이로 지나갈 길을 찾아!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0368:0",
   "src": "KEEP HITTING THOSE COOLING BALLOONS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "냉각 풍선을 계속 들이받아!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0369:0",
   "src": "WE'RE GETTING TOO HOT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "너무 뜨거워지고 있어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0370:0",
   "src": "SHE'S GONNA BLOW!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "터진다!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0371:0",
   "src": "GO FOR THE BLUE ECO, JAK!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 이코를 노려, 잭!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0372:0",
   "src": "SHOOT YOUR WAY THROUGH!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "쏘면서 뚫고 나가!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0373:0",
   "src": "WAHOO! WHAT A RIDE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "와후! 끝내주는 질주였어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0374:0",
   "src": "YES! TURN AND BURN, BABY!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그렇지! 꺾고 밟는 거야!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
  {
   "id": "hint:sksp0375:0",
@@ -5203,33 +5203,33 @@
   "id": "hint:sksp0376:0",
   "src": "SHOOT THE POWER SPHERES BEFORE WE BURN UP!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "타 버리기 전에 파워 구체를 쏴!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0378:0",
   "src": "THE DOOR'S OPEN, LET'S GET GOING!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "문이 열렸어, 가자!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0379:0",
   "src": "ZOOMING!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "쌩쌩!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0380:0",
   "src": "WE MADE IT THROUGH!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "통과했어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0381:0",
@@ -5243,9 +5243,9 @@
   "id": "hint:sksp0382:0",
   "src": "JUST HANG ON TO THE EDGE!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "가장자리에 매달려 있어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0383:0",
@@ -5267,17 +5267,17 @@
   "id": "hint:sksp0385:0",
   "src": "PUSH THE BUTTON!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "버튼을 눌러!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0386:0",
   "src": "THAT ROBOT DOESN'T SCARE ME!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 로봇 하나도 안 무서워!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0387:0",
@@ -5291,241 +5291,241 @@
   "id": "hint:sksp0388:0",
   "src": "DON'T MISS THE NEXT LAUNCHER!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "다음 발사대 놓치지 마!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0389:0",
   "src": "WATCH IT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "조심해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0390:0",
   "src": "WE HAVE TO RESCUE ALL THE SAGES!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "현자들을 전부 구해야 해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0391:0",
   "src": "DO YOU THINK GOL WILL STILL CHANGE ME BACK?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "골이 그래도 날 원래대로 돌려줄까?",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0392:0",
   "src": "SO THIS IS GOL AND MAIA'S CITADEL. NICE AND COZY.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "여기가 골과 마이아의 성채구나. 참~ 아늑하기도 하네.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
  {
   "id": "hint:sksp0393:0",
   "src": "LAND ON THE NEXT LAUNCHER!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "다음 발사대에 착지해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0394:0",
   "src": "GRAB THE YELLOW ECO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "옐로우 이코를 먹어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0395:0",
   "src": "SHOOT THE ROBOT, JAK!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "로봇을 쏴, 잭!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0396:0",
   "src": "SHOOT HIS ARM!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "팔을 쏴!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0397:0",
   "src": "SHOOT HIS GUN!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "총을 쏴!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0398:0",
   "src": "SHOOT HIS HEAD!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "머리를 쏴!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0399:0",
   "src": "WATCH OUT FOR THE BLAST!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "폭발 조심해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0400:0",
   "src": "HE'S CHARGING UP!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "힘을 모으고 있어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0401:0",
   "src": "GET THE BLUE ECO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "블루 이코를 먹어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0402:0",
   "src": "GET THE RED ECO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "레드 이코를 먹어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0403:0",
   "src": "I HAVE A BAD FEELING ABOUT THIS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "느낌이 안 좋은데!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0404:0",
   "src": "USE THE LAUNCHER, QUICK!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "발사대를 써, 빨리!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0405:0",
   "src": "NOW YOU'VE MADE THE ANIMAL MAD!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이제 저놈 단단히 열받았다!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
  {
   "id": "hint:sksp0406:0",
   "src": "WE CAN'T TOUCH THESE GUYS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이 녀석들한텐 공격이 안 먹혀!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
  {
   "id": "hint:sksp0407:0",
   "src": "USE THE YELLOW ECO!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "옐로우 이코를 써!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0408:0",
   "src": "SHOOT THOSE GUYS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "저 녀석들을 쏴!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0409:0",
   "src": "GET THE LIGHT ECO, JAK!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "라이트 이코를 먹어, 잭!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0410:0",
   "src": "HE LOOKS ANGRY!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "화난 것 같은데!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0411:0",
   "src": "JUMP TO AVOID THE EXPLOSIONS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "점프해서 폭발을 피해!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0412:0",
   "src": "NOW WE TAKE CARE OF BUSINESS!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "이제 끝장내자!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
  {
   "id": "hint:sksp0413:0",
   "src": "GOOD SHOOTING, PARTNER!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "명중이야, 파트너!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
  {
   "id": "hint:sksp0414:0",
   "src": "THAT HURT HIM!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아파하는데!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0415:0",
   "src": "HERE HE COMES!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "온다!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0416:0",
   "src": "YEAH! YOU DID IT!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "좋았어! 해냈어!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0417:0",
   "src": "SAY \"GOOD NIGHT,\" GOL AND MAIA!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "잘 자, 골, 마이아!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
  {
   "id": "hint:sksp0435:0",
@@ -5539,65 +5539,65 @@
   "id": "hint:sksp0443:0",
   "src": "PUNCH THOSE POLES UP FROM BELOW!",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "아래에서 기둥을 주먹으로 쳐서 올려!",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0444:0",
   "src": "WE'RE WAITING. HELLO?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "기다리고 있잖아. 여보세요?",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0449:0",
   "src": "PRESS START TO PLAY.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "시작 버튼을 눌러.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
  {
   "id": "hint:sksp0450:0",
   "src": "YOU WANNA STOP PLAYING?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그만할 거야?",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0451:0",
   "src": "I DIDN'T THINK SO.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그럴 리가 없지.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
  {
   "id": "hint:sksp0452:0",
   "src": "OKAY, SEE YA LATER.",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "그래, 나중에 봐.",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0455:0",
   "src": "MAN, WHO ARE ALL THESE PEOPLE?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "와, 이 사람들은 다 누구야?",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0466:0",
   "src": "I WAS GOOD. WASN'T I, GIRLS?",
   "speaker": "DAXTER",
-  "ko": "",
-  "state": "untranslated",
-  "note": ""
+  "ko": "나 잘했지? 그렇지, 아가씨들?",
+  "state": "needs_review",
+  "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
  {
   "id": "hint:sksp0b42:0",

@@ -4,40 +4,40 @@
   "src": "WHO WOULDA THOUGHT I'D LIVE TO SEE THE DAY",
   "speaker": "YELLOW SAGE",
   "ko": "내가 살다 살다 이런 날을 보게 될 줄 누가 알았겠어",
-  "state": "needs_human_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-026"
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-026"
  },
  {
   "id": "cut:yellowsage-resolution:1",
   "src": "WHEN I NEEDED TO BE RESCUED BY A BOY AND HIS MUSKRAT!",
   "speaker": "YELLOW SAGE",
   "ko": "꼬마랑 그 사향쥐한테 구조를 받다니!",
-  "state": "needs_human_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-026, N-008"
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-026, N-008"
  },
  {
   "id": "cut:yellowsage-resolution:2",
   "src": "AHH... I'M GONNA GIVE GOL AND MAIA",
   "speaker": "YELLOW SAGE",
   "ko": "아아... 골이랑 마이아한테",
-  "state": "needs_human_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-026"
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-026"
  },
  {
   "id": "cut:yellowsage-resolution:3",
   "src": "A LITTLE PAYBACK FOR THIS EMBARRASSMENT!",
   "speaker": "YELLOW SAGE",
-  "ko": "이 망신에 대한 앙갚음을 좀 해 줘야겠군!",
-  "state": "needs_human_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-026"
+  "ko": "이 망신 톡톡히 갚아 줘야겠어!",
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-026; V-026 말투 일관성(블루 현자 ~군 과 구분)"
  },
  {
   "id": "cut:yellowsage-resolution:4",
   "src": "THEN WE'LL SEE ABOUT COOKING UP SOME MUSKRAT STEW...",
   "speaker": "YELLOW SAGE",
   "ko": "그다음엔 사향쥐 스튜나 끓여 볼까...",
-  "state": "needs_human_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-026, N-008"
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-026, N-008"
  },
  {
   "id": "cut:yellowsage-resolution:5",

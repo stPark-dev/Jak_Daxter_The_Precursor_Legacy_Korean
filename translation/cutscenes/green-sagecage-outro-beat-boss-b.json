@@ -44,48 +44,48 @@
   "src": "JAK, YOU HAVE AN INCREDIBLE TALENT FOR CHANNELLING ECO!",
   "speaker": "BLUE SAGE",
   "ko": "잭, 자네는 이코를 다루는 데 놀라운 재능이 있네!",
-  "state": "needs_human_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-024"
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024"
  },
  {
   "id": "cut:green-sagecage-outro-beat-boss-b:6",
   "src": "SAMOS, YOU MAY HAVE BEEN RIGHT ABOUT THIS ONE AFTER ALL!",
   "speaker": "BLUE SAGE",
   "ko": "사모스, 결국 이 친구에 대해선 자네 말이 맞았는지도 모르겠군!",
-  "state": "needs_human_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-024"
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-024"
  },
  {
   "id": "cut:green-sagecage-outro-beat-boss-b:7",
   "src": "AND KEIRA, WITHOUT YOUR HELP AND INGENUITY",
   "speaker": "RED SAGE",
   "ko": "그리고 케이라, 네 도움과 재치가 없었다면",
-  "state": "needs_human_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-025"
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-025"
  },
  {
   "id": "cut:green-sagecage-outro-beat-boss-b:8",
   "src": "NONE OF THIS WOULD HAVE BEEN POSSIBLE.",
   "speaker": "RED SAGE",
   "ko": "이 모든 건 불가능했을 거다.",
-  "state": "needs_human_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-025"
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-025"
  },
  {
   "id": "cut:green-sagecage-outro-beat-boss-b:9",
   "src": "HM-HM-HM. PERHAPS WE FOUND ANOTHER SAGE",
   "speaker": "RED SAGE",
   "ko": "흐흐흐. 어쩌면 새로운 현자를 찾은 건지도 모르겠구나,",
-  "state": "needs_human_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-025"
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-025"
  },
  {
   "id": "cut:green-sagecage-outro-beat-boss-b:10",
   "src": "NOW THAT GOL AND MAIA ARE LOST...",
   "speaker": "RED SAGE",
   "ko": "골과 마이아를 잃은 지금...",
-  "state": "needs_human_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: V-025"
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: V-025"
  },
  {
   "id": "cut:green-sagecage-outro-beat-boss-b:11",

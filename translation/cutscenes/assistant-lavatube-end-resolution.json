@@ -4,8 +4,8 @@
   "src": "HEY! WHERE'S OL' SHORT, GREEN AND WRINKLY?",
   "speaker": "DAXTER",
   "ko": "어이! 쪼끄만 초록 쭈글이 영감은 어디 갔어?",
-  "state": "needs_human_review",
-  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; hold: N-007; 2차 검수 반영"
+  "state": "needs_review",
+  "note": "초벌 b07 용암 터널·성채·최종전·덱스터 사망 대사; 확정: N-007; 2차 검수 반영"
  },
  {
   "id": "cut:assistant-lavatube-end-resolution:1",
