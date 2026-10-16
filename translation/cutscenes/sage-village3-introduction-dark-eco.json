@@ -11,7 +11,7 @@
   "id": "cut:sage-village3-introduction-dark-eco:1",
   "src": "THERE SEEMS TO BE A LARGE LURKER PRESENCE IN THE SPIDER CAVES!",
   "speaker": "SAMOS",
-  "ko": "거미 동굴에 러커들이 잔뜩 몰려 있는 것 같구나!",
+  "ko": "거미 동굴에 루커들이 잔뜩 몰려 있는 것 같구나!",
   "state": "needs_review",
   "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: G-050"
  },
@@ -51,7 +51,7 @@
   "id": "cut:sage-village3-introduction-dark-eco:6",
   "src": "THE LURKERS ARE AFTER CRYSTALS OF CONCENTRATED DARK ECO.",
   "speaker": "SAMOS",
-  "ko": "러커들은 농축된 다크 이코 수정을 노리고 있다.",
+  "ko": "루커들은 농축된 다크 이코 수정을 노리고 있다.",
   "state": "needs_review",
   "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },

@@ -3,7 +3,7 @@
   "id": "cut:sage-village3-introduction-rams:0",
   "src": "I'M GLAD YOU TWO ARE HERE. THERE'S LURKER MOVEMENT IN THE MOUNTAINS.",
   "speaker": "SAMOS",
-  "ko": "마침 잘 왔다. 산에서 러커들이 움직이고 있다.",
+  "ko": "마침 잘 왔다. 산에서 루커들이 움직이고 있다.",
   "state": "needs_review",
   "note": "초벌 b06 화산 분화구(세 번째 마을)"
  },
@@ -35,7 +35,7 @@
   "id": "cut:sage-village3-introduction-rams:4",
   "src": "STOP THOSE LURKERS, AND KEEP A LITTLE MORE DARK ECO OUT OF GOL'S HANDS.",
   "speaker": "SAMOS",
-  "ko": "러커들을 막아서 골 손에 다크 이코가 더 들어가지 않게 해라.",
+  "ko": "루커들을 막아서 골 손에 다크 이코가 더 들어가지 않게 해라.",
   "state": "needs_review",
   "note": "초벌 b06 화산 분화구(세 번째 마을)"
  }

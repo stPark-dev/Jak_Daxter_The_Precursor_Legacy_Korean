@@ -1147,7 +1147,7 @@
   "id": "hint:GEO-AM05:0",
   "src": "NASTY LURKERS...",
   "speaker": "GEOLOGIST",
-  "ko": "고약한 러커들...",
+  "ko": "고약한 루커들...",
   "state": "needs_review",
   "note": "초벌 b04 바위 마을 힌트; 확정: V-017"
  },
@@ -1803,7 +1803,7 @@
   "id": "hint:SAGELP21:0",
   "src": "THE LURKERS MUST BE STOPPED.",
   "speaker": "SAMOS",
-  "ko": "러커들을 막아야 한다.",
+  "ko": "루커들을 막아야 한다.",
   "state": "needs_review",
   "note": "초벌 b04 바위 마을 힌트"
  },
@@ -1875,7 +1875,7 @@
   "id": "hint:SAGELP36:0",
   "src": "AH! THERE'S LURKER TROOPS IN THE MOUNTAINS!",
   "speaker": "SAMOS",
-  "ko": "아! 산에 러커 부대가 있구나!",
+  "ko": "아! 산에 루커 부대가 있구나!",
   "state": "needs_review",
   "note": "초벌 b06 화산 분화구·거미 동굴·설산 힌트"
  },
@@ -2251,7 +2251,7 @@
   "id": "hint:asstvb03:0",
   "src": "GOOD! YOU STOPPED ALL THE MINE-DROPPING LURKERS!",
   "speaker": "KEIRA",
-  "ko": "좋아! 지뢰를 뿌리던 러커들을 다 해치웠구나!",
+  "ko": "좋아! 지뢰를 뿌리던 루커들을 다 해치웠구나!",
   "state": "needs_review",
   "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
@@ -2307,7 +2307,7 @@
   "id": "hint:asstvb04:4",
   "src": "MY FATHER SAYS HE'S SEEN MORE LURKERS AROUND!",
   "speaker": "KEIRA",
-  "ko": "아빠가 러커들이 더 많아졌대!",
+  "ko": "아빠가 루커들이 더 많아졌대!",
   "state": "needs_review",
   "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
@@ -2355,7 +2355,7 @@
   "id": "hint:asstvb20:0",
   "src": "GOOD FLYING! THOSE LURKERS WERE NO MATCH FOR YOUR ZOOMER!",
   "speaker": "KEIRA",
-  "ko": "잘 날았어! 그 러커들은 네 주머 상대가 안 됐어!",
+  "ko": "잘 날았어! 그 루커들은 네 주머 상대가 안 됐어!",
   "state": "needs_review",
   "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
@@ -2459,7 +2459,7 @@
   "id": "hint:asstvb23:4",
   "src": "BE CAREFUL, IT LOOKS LIKE THE LURKERS HAVE RIGGED",
   "speaker": "KEIRA",
-  "ko": "조심해, 러커들이 고갯길 전체에",
+  "ko": "조심해, 루커들이 고갯길 전체에",
   "state": "needs_review",
   "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
@@ -2499,7 +2499,7 @@
   "id": "hint:asstvb24:0",
   "src": "OH MY! THOSE LURKERS MUST BE HEADED",
   "speaker": "KEIRA",
-  "ko": "어머! 저 러커들은 분명",
+  "ko": "어머! 저 루커들은 분명",
   "state": "needs_review",
   "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
@@ -2707,7 +2707,7 @@
   "id": "hint:asstvb44:2",
   "src": "BUT THE LURKERS MUST HAVE CAPTURED THEM ALL!",
   "speaker": "KEIRA",
-  "ko": "러커들이 전부 잡아간 게 분명해!",
+  "ko": "루커들이 전부 잡아간 게 분명해!",
   "state": "needs_review",
   "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
@@ -2747,7 +2747,7 @@
   "id": "hint:asstvb46:1",
   "src": "LURKER SHARKS AND I'VE NEVER SEEN ANYONE DEFEAT ONE.",
   "speaker": "KEIRA",
-  "ko": "러커 상어가 득실득실하고, 그걸 이긴 사람은 한 번도 못 봤어.",
+  "ko": "루커 상어가 득실득실하고, 그걸 이긴 사람은 한 번도 못 봤어.",
   "state": "needs_review",
   "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
@@ -2939,7 +2939,7 @@
   "id": "hint:sagevb02:1",
   "src": "NOW THAT THE LURKERS CAN'T OPEN THAT SILO",
   "speaker": "SAMOS",
-  "ko": "이제 러커들이 그 사일로를 열 수 없으니",
+  "ko": "이제 루커들이 그 사일로를 열 수 없으니",
   "state": "needs_review",
   "note": "초벌 b08 케이라·사모스 통신 힌트, 기타"
  },
@@ -3043,7 +3043,7 @@
   "id": "hint:sagevb04:3",
   "src": "I CAN'T IMAGINE WHAT THE LURKERS WANTED WITH IT,",
   "speaker": "SAMOS",
-  "ko": "러커들이 그걸로 뭘 하려던 건지 상상도 안 가지만,",
+  "ko": "루커들이 그걸로 뭘 하려던 건지 상상도 안 가지만,",
   "state": "needs_review",
   "note": "초벌 b04 바위 마을 힌트"
  },
@@ -3459,7 +3459,7 @@
   "id": "hint:sksp0013:0",
   "src": "DID YOU SEE THE SIZE OF THE BITE",
   "speaker": "DAXTER",
-  "ko": "그 러커 상어가 어부 배를",
+  "ko": "그 루커 상어가 어부 배를",
   "state": "needs_review",
   "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
@@ -3883,7 +3883,7 @@
   "id": "hint:sksp0062:0",
   "src": "LET'S PLOW INTO THOSE BALLOON LURKERS AND SHRED 'EM!",
   "speaker": "DAXTER",
-  "ko": "저 풍선 러커들을 들이받아서 박살 내자!",
+  "ko": "저 풍선 루커들을 들이받아서 박살 내자!",
   "state": "needs_review",
   "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
@@ -3891,7 +3891,7 @@
   "id": "hint:sksp0063:0",
   "src": "I SAID \"SHRED THE LURKERS,\" JAK. NOT THE MINES!",
   "speaker": "DAXTER",
-  "ko": "\"러커를 박살 내\"랬지, 잭. 지뢰 말고!",
+  "ko": "\"루커를 박살 내\"랬지, 잭. 지뢰 말고!",
   "state": "needs_review",
   "note": "초벌 b03 가이저록·샌드오버·해변·정글·미스티 힌트"
  },
@@ -4035,7 +4035,7 @@
   "id": "hint:sksp0083:0",
   "src": "OOH! SEE IF WE CAN CATCH AIR OFF THOSE LURKERS!",
   "speaker": "DAXTER",
-  "ko": "오! 저 러커들 밟고 붕 떠 보자!",
+  "ko": "오! 저 루커들 밟고 붕 떠 보자!",
   "state": "needs_review",
   "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
@@ -4291,7 +4291,7 @@
   "id": "hint:sksp0116:0",
   "src": "THAT'S ONE OF THOSE FLYING LURKERS!",
   "speaker": "DAXTER",
-  "ko": "날아다니는 러커다!",
+  "ko": "날아다니는 루커다!",
   "state": "needs_review",
   "note": "초벌 b05 분지·도시·늪·산길 힌트"
  },
@@ -4603,7 +4603,7 @@
   "id": "hint:sksp0153:0",
   "src": "HEY, THAT MUST BE THE PRECURSOR ARTIFACT THE LURKERS ARE AFTER!",
   "speaker": "DAXTER",
-  "ko": "어이, 저게 러커들이 노리는 프리커서 유물인가 봐!",
+  "ko": "어이, 저게 루커들이 노리는 프리커서 유물인가 봐!",
   "state": "needs_review",
   "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
@@ -4699,7 +4699,7 @@
   "id": "hint:sksp0300:0",
   "src": "WE HAVE TO BEAT THOSE LURKERS TO THE END OF THE PASS!",
   "speaker": "DAXTER",
-  "ko": "러커들보다 먼저 고갯길 끝에 도착해야 해!",
+  "ko": "루커들보다 먼저 고갯길 끝에 도착해야 해!",
   "state": "needs_review",
   "note": "초벌 b09 덱스터 힌트(위치 미특정 포함); 2차 검수 반영"
  },
@@ -4771,7 +4771,7 @@
   "id": "hint:sksp0309:0",
   "src": "THERE'S ONE OF THE LURKERS!",
   "speaker": "DAXTER",
-  "ko": "러커 하나 저기 있다!",
+  "ko": "루커 하나 저기 있다!",
   "state": "needs_review",
   "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
@@ -4795,7 +4795,7 @@
   "id": "hint:sksp0312:0",
   "src": "WAH, ONE OF THE LURKERS PASSED US!",
   "speaker": "DAXTER",
-  "ko": "으악, 러커 하나가 우릴 제쳤어!",
+  "ko": "으악, 루커 하나가 우릴 제쳤어!",
   "state": "needs_review",
   "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
@@ -4907,7 +4907,7 @@
   "id": "hint:sksp0331:0",
   "src": "SHOOT THE LURKERS EATING THE POLES!",
   "speaker": "DAXTER",
-  "ko": "기둥을 갉아 먹는 러커들을 쏴!",
+  "ko": "기둥을 갉아 먹는 루커들을 쏴!",
   "state": "needs_review",
   "note": "초벌 b09 덱스터 힌트(위치 미특정 포함)"
  },
@@ -5251,7 +5251,7 @@
   "id": "hint:sksp0383:0",
   "src": "WE GOT COMPANY, JAK. LOOOTS OF LURKERS!",
   "speaker": "DAXTER",
-  "ko": "손님이 왔어, 잭. 러커가 엄~청 많아!",
+  "ko": "손님이 왔어, 잭. 루커가 엄~청 많아!",
   "state": "needs_review",
   "note": "초벌 b07 성채·용암 터널 힌트"
  },

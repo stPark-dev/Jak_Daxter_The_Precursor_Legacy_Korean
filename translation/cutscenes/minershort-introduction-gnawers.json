@@ -11,7 +11,7 @@
   "id": "cut:minershort-introduction-gnawers:1",
   "src": "LURKERS HAVE BEEN EXCAVATIN' THE DARK CAVES OVER THERE.",
   "speaker": "GORDY",
-  "ko": "러커들이 저쪽 어둠 동굴을 파헤치고 있어.",
+  "ko": "루커들이 저쪽 어둠 동굴을 파헤치고 있어.",
   "state": "needs_review",
   "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020, G-058"
  },
@@ -75,7 +75,7 @@
   "id": "cut:minershort-introduction-gnawers:9",
   "src": "IF YOU TAKE OUT THE LURKERS CHEWIN' AT THE SUPPORT BEAMS,",
   "speaker": "GORDY",
-  "ko": "지지대를 갉아 먹는 러커들을 해치우면,",
+  "ko": "지지대를 갉아 먹는 루커들을 해치우면,",
   "state": "needs_review",
   "note": "초벌 b06 화산 분화구(세 번째 마을); 확정: V-020"
  },
