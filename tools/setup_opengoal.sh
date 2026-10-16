@@ -20,4 +20,4 @@ git -C "$J" apply "$ROOT/patches/opengoal-kr.patch"
 (cd "$J" && build/Release/bin/decompiler/extractor -e -v -d --disable-ansi "$ROOT/source/jak1.iso" \
    --decomp-config-override '{"save_texture_pngs": true}')
 python3 "$ROOT/tools/translation/cli.py" init "$J" "$ROOT/translation"
-echo "OpenGOAL ready. Next: tools/build_kr.sh dev"
+echo "OpenGOAL ready. Next: tools/build_kr.sh release"

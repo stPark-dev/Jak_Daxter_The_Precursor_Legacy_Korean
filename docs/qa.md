@@ -56,7 +56,9 @@ tools/qa/runtime.sh stop
 | green-sagecage-resolution → outro-preboss | 그린 현자 우리에 play-anim | 전 줄 |
 | finalbosscam-white-eco → daxter-sacrifice | robotboss 를 white-eco-movie 상태로 | 전 줄 |
 | outro-beat-boss-a → b → 엔딩 크레딧 | robotboss 에 white-eco-picked-up 이벤트 | 전 줄. **크레딧은 영어** (번역 대상 밖, 아래) |
-| outro-beat-boss-need-cells / enough-cells / big-finish | 상태 강제 시 sage-finalboss 가 죽음 (강제 조작 부작용) | **미검증** — 실제 진행(크레딧 후 문 앞) 필요 |
+| outro-beat-boss-need-cells | 크레딧을 끝까지 흘려보냄 (강제 조작 없음) | 전 줄 |
+| outro-big-finish → 잭 2 예고 → 타이틀 | 파워 셀 100 설정 후 play-anim 이벤트 | 전 줄, 타이틀 "START 버튼을 누르세요" |
+| outro-beat-boss-enough-cells | 게임이 big-finish 로 바로 넘어가 재생되지 않음 | 앞 4줄은 need-cells 와 같아 확인됨. **마지막 줄 1개("어, 우리 영웅이잖아...") 화면 미확인** |
 | 진행 메뉴 임무 목록 | 새 게임에선 표시 안 됨, 같은 설정으로 직접 그려 폭 확인 | 실제 메뉴 표시는 미검증 |
 
 크레딧: `game_text.txt` 의 `(credits :begin #x0b00 ...)` 111항목 (제목·역할·인명). base 추출(279)에 포함되지 않았다.
@@ -65,3 +67,10 @@ tools/qa/runtime.sh stop
 
 - `credits.gc` 가 크레딧 동안 텍스트 언어를 음성 언어(영어)로 바꿔서 한국어 크레딧이 표시되지 않았다 → 한국어일 때는 바꾸지 않도록 엔진 수정 (patches/opengoal-kr.patch).
 - 확인: 제목·역할명 한국어 표시, 악센트 인명(PÅL 등) 정상. 한글 제목이 영문 제목보다 작아 보임 → 사람 확인 필요.
+
+## 배포 빌드 검증 (2026-10-16)
+
+- GitHub 에서 새로 clone → `tools/setup_opengoal.sh <ISO>` → `tools/build_kr.sh release` → 도구 테스트 65개 통과.
+- 결과물(17COMMON.TXT, 17SUBTIT.TXT, 0COMMON.TXT, kr-font-data.gc, 코드표 2개, 폰트 텍스처)이 작업 트리 빌드와 바이트 동일 → 재현 가능.
+- README 실행 명령(`gk -- -boot -fakeiso`, 디버그 없음)으로 타이틀까지 한국어 표시 확인.
+- 진행 메뉴 임무 목록: 실제 플레이 중 표시는 미확인 (같은 글꼴·폭 설정으로 직접 그려 한 줄에 들어감은 확인).
