@@ -24,7 +24,8 @@ PS2 『Jak and Daxter: The Precursor Legacy』(잭 1편)를 PC 포트 [OpenGOAL]
 
 빌드 도구 없이 설치하는 방법입니다. 패키지에는 게임 데이터가 없고, 본인 ISO 로 설치할 때 한글 폰트를 합성합니다.
 
-1. 릴리스 페이지에서 `jak1-korean-<버전>-windows.zip` 을 받아 원하는 폴더에 풉니다.
+1. [최신 릴리스](https://github.com/stPark-dev/Jak_Daxter_The_Precursor_Legacy_Korean/releases/latest)에서 `jak1-korean-<버전>-windows.zip` 을 받아 원하는 폴더에 풉니다.
+   (Linux 는 `jak1-korean-<버전>-linux.tar.gz` 를 받아 `./install.sh <ISO>` → `./play.sh`, 실행 미검증)
 2. ISO 파일을 `install.bat` 에 끌어다 놓습니다 (추출·빌드에 몇 분 걸림).
 3. `play.bat` 으로 실행하고, 게임 옵션에서 **텍스트 언어**·**자막 언어**를 **한국어**로 바꿉니다.
 
