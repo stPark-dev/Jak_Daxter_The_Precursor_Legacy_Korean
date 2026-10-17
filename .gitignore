@@ -12,3 +12,5 @@ __pycache__/
 .pytest_cache/
 .qa/
 source_jak2/
+# 배포 패키지 (tools/package_kr.sh)
+/dist/

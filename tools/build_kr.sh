@@ -26,4 +26,5 @@ rm -f "$J/game/assets/fonts/jak1_korean_charmap.json"
 rm -rf "$J/custom_assets/jak1/texture_replacements/gamefontnew"
 (cd "$J" && "$KR_EXTRACTOR" -d -c --disable-ansi "$KR_ISO" > "$ROOT/build_kr.log" 2>&1) \
   || { grep -a -i "error" "$ROOT/build_kr.log" | head; exit 1; }
+echo "$POLICY" > "$ROOT/source/last_build"  # package_kr.sh only ships release builds
 echo "built ($POLICY); log: $ROOT/build_kr.log"

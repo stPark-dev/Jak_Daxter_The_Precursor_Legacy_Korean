@@ -3,6 +3,7 @@ rem Windows entry point: loads the VS 2022 C++ environment, then runs the Git Ba
 rem usage: tools\kr.bat setup C:\Games\jak1.iso   (OpenGOAL build + ISO extract, once)
 rem        tools\kr.bat build [dev^|release]       (Korean font + translations)
 rem        tools\kr.bat run                        (start the game)
+rem        tools\kr.bat package ^<version^>        (prebuilt patch zip in dist\, after build release)
 setlocal
 set "ROOT=%~dp0.."
 set "GK=%ROOT%\jak-project\out\build\Release\bin\gk.exe"
@@ -14,8 +15,8 @@ if /i "%~1"=="run" (
   popd
   exit /b 0
 )
-if /i "%~1"=="setup" (set "SCRIPT=tools/setup_opengoal.sh") else if /i "%~1"=="build" (set "SCRIPT=tools/build_kr.sh") else (
-  echo usage: tools\kr.bat setup ^<jak1.iso^> ^| build [dev^|release] ^| run
+if /i "%~1"=="setup" (set "SCRIPT=tools/setup_opengoal.sh") else if /i "%~1"=="build" (set "SCRIPT=tools/build_kr.sh") else if /i "%~1"=="package" (set "SCRIPT=tools/package_kr.sh") else (
+  echo usage: tools\kr.bat setup ^<jak1.iso^> ^| build [dev^|release] ^| package ^<version^> ^| run
   exit /b 1
 )
 

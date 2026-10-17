@@ -20,6 +20,16 @@ PS2 『Jak and Daxter: The Precursor Legacy』(잭 1편)를 PC 포트 [OpenGOAL]
 - Linux: clang, cmake, ninja, nasm, python3 (+ Pillow, pytest), `libssl-dev` 등 [OpenGOAL 빌드 요구 사항](https://github.com/open-goal/jak-project#building-and-running-the-game)
 - Windows: 아래 [Windows 설치](#windows-설치) 참고
 
+## 간편 설치 (미리 빌드한 패키지)
+
+빌드 도구 없이 설치하는 방법입니다. 패키지에는 게임 데이터가 없고, 본인 ISO 로 설치할 때 한글 폰트를 합성합니다.
+
+1. 릴리스 페이지에서 `jak1-korean-<버전>-windows.zip` 을 받아 원하는 폴더에 풉니다.
+2. ISO 파일을 `install.bat` 에 끌어다 놓습니다 (추출·빌드에 몇 분 걸림).
+3. `play.bat` 으로 실행하고, 게임 옵션에서 **텍스트 언어**·**자막 언어**를 **한국어**로 바꿉니다.
+
+설정과 세이브는 패키지 폴더 안에 저장됩니다 (`--portable`). 자세한 안내는 패키지의 `README.txt` 를 보세요.
+
 ## 설치 (Linux)
 
 1. 이 저장소를 받습니다.
@@ -89,11 +99,22 @@ Git Bash 로 Linux 와 같은 스크립트(`setup_opengoal.sh`, `build_kr.sh`)�
 Git Bash 의 `link` 명령이 MSVC 링커를 가리지 않도록 MSVC 경로를 앞에 둡니다.
 이 저장소와 OpenGOAL 은 줄 끝 변환 없이(LF) 받아야 패치가 적용됩니다 (`.gitattributes`, `core.autocrlf=false` 로 처리).
 
+## 배포 패키지 만들기
+
+`build release` 뒤에 실행합니다. 정적 링크 바이너리를 따로 빌드하고(`out/build/Release-static`), `dist/` 에 zip 을 만듭니다.
+
+```bat
+tools\kr.bat package 1.0.0
+```
+
+(Linux: `tools/package_kr.sh 1.0.0` → `tar.gz`, 미검증.) 패키지에 ISO 에서 나온 파일이 섞이면 실패합니다.
+
 ## 저장소 구성
 
 | 경로 | 내용 |
 |---|---|
 | `patches/opengoal-kr.patch` | OpenGOAL `b6c8430` 기준 엔진 수정 (폰트 코드페이지, 한국어 텍스트·자막 컴파일, 언어 17 등록, 텍스처 오버레이, 테스트) |
+| `tools/package_kr.sh`, `tools/dist/` | 배포 패키지 생성 스크립트와 패키지에 들어가는 설치·실행 스크립트 |
 | `tools/kr_font/` | 한글 폰트 텍스처·코드표 생성기 (한글 글자만 그린 오버레이를 만들고, 추출 때 원본 폰트 위에 합성) |
 | `tools/translation/` | 번역 워크스페이스 도구 (검사·내보내기·읽기 속도 점검) |
 | `translation/` | 번역 원문·번역문·검수 상태 |

@@ -38,6 +38,17 @@ def test_windows_git_bash_paths():
     assert gk == "out/build/Release/bin/gk.exe"
 
 
+
+def test_static_package_paths():
+    # package_kr.sh: static build next to the dev build, binaries per OS
+    names = ("KR_STATIC_PRESET", "KR_STATIC_BUILD_DIR", "KR_DIST_OS")
+    assert _vars("Linux", "/r", *names, "{KR_STATIC_BINS[*]}") == [
+        "Release-linux-clang-static", "build/Release-static", "linux",
+        "game/gk goalc/goalc decompiler/extractor"]
+    assert _vars("MINGW64_NT-10.0-19045", "/r", *names, "{KR_STATIC_BINS[*]}") == [
+        "Release-windows-clang-static", "out/build/Release-static", "windows",
+        "bin/gk.exe bin/goalc.exe bin/extractor.exe"]
+
 def test_iso_path_is_read_from_the_recorded_file(tmp_path):
     (tmp_path / "source").mkdir()
     (tmp_path / "source" / "iso_path").write_text("/games/jak1.iso\n")

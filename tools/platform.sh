@@ -1,4 +1,4 @@
-# Platform paths shared by setup_opengoal.sh and build_kr.sh (source this file, then call kr_platform).
+# Platform paths shared by setup_opengoal.sh, build_kr.sh and package_kr.sh (source this file, then call kr_platform).
 # Linux, or Windows through Git Bash (MINGW/MSYS). KR_UNAME overrides `uname -s` (tests).
 
 kr_platform() {
@@ -10,6 +10,10 @@ kr_platform() {
       KR_EXTRACTOR=out/build/Release/bin/extractor.exe
       KR_GK=out/build/Release/bin/gk.exe
       KR_PYTHON=python
+      KR_STATIC_PRESET=Release-windows-clang-static
+      KR_STATIC_BUILD_DIR=out/build/Release-static
+      KR_STATIC_BINS=(bin/gk.exe bin/goalc.exe bin/extractor.exe)
+      KR_DIST_OS=windows
       ;;
     *)
       KR_PRESET=Release-linux-clang
@@ -17,6 +21,10 @@ kr_platform() {
       KR_EXTRACTOR=build/Release/bin/decompiler/extractor
       KR_GK=build/Release/bin/game/gk
       KR_PYTHON=python3
+      KR_STATIC_PRESET=Release-linux-clang-static
+      KR_STATIC_BUILD_DIR=build/Release-static
+      KR_STATIC_BINS=(game/gk goalc/goalc decompiler/extractor)
+      KR_DIST_OS=linux
       ;;
   esac
   # the ISO path is recorded by setup_opengoal.sh (no symlink: Git Bash would copy the whole ISO)
