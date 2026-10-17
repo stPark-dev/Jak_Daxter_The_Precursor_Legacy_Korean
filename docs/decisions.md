@@ -44,3 +44,12 @@
   3. **텍스처(그래픽) 글자는 번역하지 않는다** (예: 진행 메뉴 "AUTO SAVE OFF", 타이틀 로고). 영문 유지.
   4. 설치 방법 정리, 배포 빌드 생성과 검증.
 - **effects**: release 빌드 가능. 그래픽 글자는 배포 범위 밖 → README 에 영문으로 남는다고 명시.
+
+## D-005 배포물에 원본 게임 데이터를 넣지 않는 폰트 텍스처
+
+- **state**: adopted (2026-10-17)
+- **context**: 미리 빌드한 패치 배포(사용자 빌드 불필요)를 준비. 기존 폰트 시트는 원본 `gamefontnew` 시트를 2배 확대해 바탕에 깔고 한글을 그린 완성본이라 원본 그림이 섞여 있었다.
+- **decision**: `tools/kr_font` 는 한글 글자만 그린 투명 시트(`custom_assets/jak1/texture_overlays/gamefontnew/`)를 만든다.
+  패치된 디컴파일러가 추출 때 사용자 ISO 의 원본 시트를 2배 확대해 왼쪽 위에 넣고 오버레이를 합성한다 (`TextureDB::overlay_texture`).
+- **effects**: 합성 결과는 이전 완성본과 4장 모두 픽셀 단위로 같음을 확인. `setup` 의 텍스처 PNG 저장(`save_texture_pngs`)이 더는 필요 없다.
+  예전 `texture_replacements/gamefontnew` 는 오버레이보다 우선하므로 `build_kr.sh` 가 지운다.

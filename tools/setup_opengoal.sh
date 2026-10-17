@@ -21,7 +21,6 @@ git -C "$J" checkout --detach "$OPENGOAL_COMMIT"
 git -C "$J" apply "$ROOT/patches/opengoal-kr.patch"
 
 (cd "$J" && cmake --preset="$KR_PRESET" && cmake --build "$KR_BUILD_DIR" -j"$(nproc)")
-(cd "$J" && "$KR_EXTRACTOR" -e -v -d --disable-ansi "$KR_ISO" \
-   --decomp-config-override '{"save_texture_pngs": true}')
+(cd "$J" && "$KR_EXTRACTOR" -e -v -d --disable-ansi "$KR_ISO")
 "$KR_PYTHON" "$ROOT/tools/translation/cli.py" init "$J" "$ROOT/translation"
 echo "OpenGOAL ready. Next: tools/build_kr.sh release"

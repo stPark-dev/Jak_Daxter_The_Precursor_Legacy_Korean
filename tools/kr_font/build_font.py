@@ -1,10 +1,14 @@
 """Build the Jak 1 Korean font: texture sheets, GOAL table data and a charmap.
 
 Usage:
-  python3 build_font.py --orig-dir <decompiler_out/jak1/textures/gamefontnew>
+  python3 build_font.py
       --set menu <menu text file> <font> --set subtitle <subtitle text file> <font>
-      --out-tex <custom_assets/jak1/texture_replacements/gamefontnew>
+      --out-tex <custom_assets/jak1/texture_overlays/gamefontnew>
       --out-goal <goal_src/jak1/pc/kr-font-data.gc> --out-charmap-dir <game/assets/fonts>
+
+The sheets hold only the Korean glyphs. The patched decompiler draws them over the
+original sheet from the user's ISO, upscaled by layout.SCALE (TextureDB overlay), so
+the output has no game data and can be redistributed.
 """
 import argparse
 import json
@@ -73,12 +77,10 @@ def render_glyph(ch, font, full_res):
     return glyph
 
 
-def compose_sheet(orig, full_res, glyphs, fonts):
+def overlay_sheet(full_res, glyphs, fonts):
     div = 1 if full_res else 2
     cw, ch = L.CELL_W // div, L.CELL_H // div
     sheet = Image.new("RGBA", (L.CANVAS_W // div, L.CANVAS_H // div), (255, 255, 255, 0))
-    up = orig.convert("RGBA").resize((orig.width * L.SCALE, orig.height * L.SCALE), Image.NEAREST)
-    sheet.paste(up, (0, 0))
     for (col, row), (key, syl) in glyphs.items():
         g = render_glyph(syl, fonts[key], full_res)
         x = col * cw + (cw - g.width) // 2
@@ -113,7 +115,6 @@ def charmap_json(p, key):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--orig-dir", required=True, type=Path)
     ap.add_argument("--set", action="append", nargs=3, metavar=("KEY", "TEXT", "FONT"), required=True,
                     help="typeface set: key (menu|subtitle), file with its Korean text, font file")
     ap.add_argument("--out-tex", required=True, type=Path)
@@ -131,8 +132,7 @@ def main():
     for name in SHEETS:
         full = name.startswith("24")
         fonts = {k: load_font(f, full) for k, f in font_paths.items()}
-        orig = Image.open(a.orig_dir / f"ascii.{name}.png")
-        sheet = compose_sheet(orig, full, p.hi if name.endswith("hi") else p.lo, fonts)
+        sheet = overlay_sheet(full, p.hi if name.endswith("hi") else p.lo, fonts)
         sheet.save(a.out_tex / f"ascii.{name}.png")
     a.out_goal.write_text(goal_data(p), encoding="utf-8")
     for key in sets:

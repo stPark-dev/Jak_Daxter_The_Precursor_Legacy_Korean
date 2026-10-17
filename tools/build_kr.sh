@@ -16,13 +16,14 @@ trap 'rm -rf "$TMP"' EXIT
 cat "$J"/game/assets/jak1/text/*_ko-KR.json > "$TMP/menu.txt"
 cat "$J"/game/assets/jak1/subtitle/subtitle_lines_ko-KR.json > "$TMP/subtitle.txt"
 (cd "$ROOT/tools/kr_font" && "$KR_PYTHON" build_font.py \
-  --orig-dir "$J/decompiler_out/jak1/textures/gamefontnew" \
   --set menu "$TMP/menu.txt" "$MENU_FONT" \
   --set subtitle "$TMP/subtitle.txt" "$SUB_FONT" \
-  --out-tex "$J/custom_assets/jak1/texture_replacements/gamefontnew" \
+  --out-tex "$J/custom_assets/jak1/texture_overlays/gamefontnew" \
   --out-goal "$J/goal_src/jak1/pc/kr-font-data.gc" \
   --out-charmap-dir "$J/game/assets/fonts")
 rm -f "$J/game/assets/fonts/jak1_korean_charmap.json"
+# full sheets from before the overlay switch would win over the overlays
+rm -rf "$J/custom_assets/jak1/texture_replacements/gamefontnew"
 (cd "$J" && "$KR_EXTRACTOR" -d -c --disable-ansi "$KR_ISO" > "$ROOT/build_kr.log" 2>&1) \
   || { grep -a -i "error" "$ROOT/build_kr.log" | head; exit 1; }
 echo "built ($POLICY); log: $ROOT/build_kr.log"

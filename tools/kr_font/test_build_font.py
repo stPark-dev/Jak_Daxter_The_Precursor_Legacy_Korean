@@ -1,9 +1,8 @@
-"""Tests for build_font: sheet composition, GOAL data and charmap output."""
+"""Tests for build_font: overlay sheets, GOAL data and charmap output."""
 import json
 from pathlib import Path
 
 import pytest
-from PIL import Image
 
 import build_font as B
 import layout as L
@@ -13,29 +12,20 @@ NANUM = "/usr/share/fonts/truetype/nanum/NanumSquareRoundEB.ttf"
 MENU_FONT = str(Path(__file__).resolve().parents[2] / "fonts" / "Jua-Regular.ttf")  # shipped, works on every OS
 
 
-def _orig(w, h):
-    """Fake original sheet: one opaque marker pixel at (1, 1)."""
-    im = Image.new("RGBA", (w, h), (255, 255, 255, 0))
-    im.putpixel((1, 1), (255, 255, 255, 128))
-    return im
-
-
-def test_compose_keeps_original_upscaled_in_top_left():
-    sheet = B.compose_sheet(_orig(256, 512), full_res=True, glyphs={}, fonts={})
+def test_overlay_has_no_original_pixels():
+    sheet = B.overlay_sheet(full_res=True, glyphs={}, fonts={})
     assert sheet.size == (L.CANVAS_W, L.CANVAS_H)
-    s = L.SCALE
-    assert sheet.getpixel((1 * s, 1 * s))[3] == 128
-    assert sheet.getpixel((L.ORIG_REGION_W + 5, 5))[3] == 0
+    assert sheet.getextrema()[3] == (0, 0)
 
 
-def test_compose_half_res_for_small_font():
-    sheet = B.compose_sheet(_orig(128, 256), full_res=False, glyphs={}, fonts={})
+def test_overlay_half_res_for_small_font():
+    sheet = B.overlay_sheet(full_res=False, glyphs={}, fonts={})
     assert sheet.size == (L.CANVAS_W // 2, L.CANVAS_H // 2)
 
 
 def test_glyph_drawn_in_its_cell_with_ps2_alpha():
     cell = L.free_cells()[0]
-    sheet = B.compose_sheet(_orig(256, 512), full_res=True,
+    sheet = B.overlay_sheet(full_res=True,
                             glyphs={cell: ("menu", "한")}, fonts={"menu": B.load_font(MENU_FONT, full_res=True)})
     col, row = cell
     box = (col * L.CELL_W, row * L.CELL_H, (col + 1) * L.CELL_W, (row + 1) * L.CELL_H)

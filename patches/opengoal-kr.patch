@@ -131,6 +131,144 @@ index 1d84f489..b8e7eb25 100644
    (scene-0                      #x1200)
    (scene-255                    #x12ff)
    (hint-0                       #x1300)
+diff --git a/decompiler/data/TextureDB.cpp b/decompiler/data/TextureDB.cpp
+index eb6bc432..9980b006 100644
+--- a/decompiler/data/TextureDB.cpp
++++ b/decompiler/data/TextureDB.cpp
+@@ -148,6 +148,67 @@ void TextureDB::merge_texture(u32 id, std::vector<u32>& rgba) const {
+   stbi_image_free(merge_data);
+ }
+ 
++void TextureDB::overlay_textures(const fs::path& path) {
++  overlay_texture_dir = path;
++}
++
++std::optional<ResolvedTextureData> compose_texture_overlay(const ResolvedTextureData& base,
++                                                           int scale,
++                                                           u16 overlay_w,
++                                                           u16 overlay_h,
++                                                           const u32* overlay) {
++  const int up_w = base.w * scale;
++  const int up_h = base.h * scale;
++  if (overlay_w < up_w || overlay_h < up_h) {
++    return std::nullopt;
++  }
++  ResolvedTextureData result;
++  result.w = overlay_w;
++  result.h = overlay_h;
++  result.rgba.assign(overlay, overlay + overlay_w * overlay_h);
++  for (int y = 0; y < up_h; y++) {
++    for (int x = 0; x < up_w; x++) {
++      auto& px = result.rgba[y * overlay_w + x];
++      if ((px >> 24) == 0) {  // overlay pixels with any alpha win
++        px = base.rgba[(y / scale) * base.w + (x / scale)];
++      }
++    }
++  }
++  return result;
++}
++
++std::optional<ResolvedTextureData> TextureDB::overlay_texture(
++    u32 id,
++    const ResolvedTextureData& base) const {
++  if (!overlay_texture_dir) {
++    return std::nullopt;
++  }
++
++  const auto& tex = textures.at(id);
++  fs::path full_path = *overlay_texture_dir / tpage_names.at(tex.page) / (tex.name + ".png");
++  if (!fs::exists(full_path)) {
++    return std::nullopt;
++  }
++
++  int w, h;
++  auto data = stbi_load(full_path.string().c_str(), &w, &h, 0, 4);
++  if (!data) {
++    lg::warn("failed to load PNG file: {}", full_path.string().c_str());
++    return std::nullopt;
++  }
++  std::vector<u32> overlay(w * h);
++  memcpy(overlay.data(), data, w * h * 4);
++  stbi_image_free(data);
++  auto result = compose_texture_overlay(base, kOverlayUpscale, w, h, overlay.data());
++  if (!result) {
++    lg::warn("overlay texture is smaller than the {}x original: {}", kOverlayUpscale,
++             full_path.string().c_str());
++    return std::nullopt;
++  }
++  lg::info("Overlaying {}", full_path.string().c_str());
++  return result;
++}
++
+ std::optional<ResolvedTextureData> TextureDB::replace_texture(u32 id) const {
+   if (!replace_texture_dir) {
+     return std::nullopt;
+@@ -199,6 +260,10 @@ ResolvedTextureData TextureDB::resolve_texture(u32 id) const {
+ 
+   merge_texture(id, result.rgba);
+ 
++  if (auto overlaid = overlay_texture(id, result)) {  // og:kr
++    result = std::move(*overlaid);
++  }
++
+   if (auto replacement = replace_texture(id)) {
+     result = std::move(*replacement);
+   }
+diff --git a/decompiler/data/TextureDB.h b/decompiler/data/TextureDB.h
+index ffe3c0cd..420f05c3 100644
+--- a/decompiler/data/TextureDB.h
++++ b/decompiler/data/TextureDB.h
+@@ -34,6 +34,7 @@ struct TextureDB {
+   std::unordered_map<std::string, std::set<u32>> texture_ids_per_level;
+   std::optional<fs::path> merge_texture_dir;
+   std::optional<fs::path> replace_texture_dir;
++  std::optional<fs::path> overlay_texture_dir;  // og:kr
+ 
+   // special textures for animation.
+   std::map<u32, tfrag3::IndexTexture> index_textures_by_combo_id;
+@@ -71,9 +72,24 @@ struct TextureDB {
+   void merge_texture(u32 id, std::vector<u32>& rgba) const;
+   std::optional<ResolvedTextureData> replace_texture(u32 id) const;
+ 
++  // og:kr an overlay PNG is a larger sheet drawn over the original texture, which is upscaled
++  // by kOverlayUpscale into its top-left corner. Lets a mod ship new glyphs without the
++  // original pixels. Replacements still take priority.
++  static constexpr int kOverlayUpscale = 2;
++  void overlay_textures(const fs::path& path);
++  std::optional<ResolvedTextureData> overlay_texture(u32 id,
++                                                     const ResolvedTextureData& base) const;
++
+   std::string generate_texture_dest_adjustment_table() const;
+ };
+ 
++// og:kr see TextureDB::overlay_texture. nullopt if the overlay is smaller than the upscaled base.
++std::optional<ResolvedTextureData> compose_texture_overlay(const ResolvedTextureData& base,
++                                                           int scale,
++                                                           u16 overlay_w,
++                                                           u16 overlay_h,
++                                                           const u32* overlay);
++
+ // used by decompiler for texture macros
+ struct TexInfo {
+   std::string name;
+diff --git a/decompiler/decompilation_process.cpp b/decompiler/decompilation_process.cpp
+index 033b8797..fc807d74 100644
+--- a/decompiler/decompilation_process.cpp
++++ b/decompiler/decompilation_process.cpp
+@@ -286,6 +286,13 @@ int run_decompilation_process(decompiler::Config config,
+     tex_db.merge_textures(texture_merge_path);
+   }
+ 
++  // og:kr
++  auto overlays_path = file_util::get_jak_project_dir() / "custom_assets" /
++                       game_version_names[config.game_version] / "texture_overlays";
++  if (fs::exists(overlays_path)) {
++    tex_db.overlay_textures(overlays_path);
++  }
++
+   auto replacements_path = file_util::get_jak_project_dir() / "custom_assets" /
+                            game_version_names[config.game_version] / "texture_replacements";
+   if (fs::exists(replacements_path)) {
 diff --git a/game/assets/jak1/game_subtitle.gp b/game/assets/jak1/game_subtitle.gp
 index 6987a020..54a99e42 100644
 --- a/game/assets/jak1/game_subtitle.gp
@@ -711,7 +849,7 @@ index 1fc3c533..86254ba9 100644
          if (subtitle.metadata.speaker.empty()) {
            gen.add_ref_to_string_in_pool("");
 diff --git a/test/CMakeLists.txt b/test/CMakeLists.txt
-index c80b6a5d..c4256d7b 100644
+index c80b6a5d..01873963 100644
 --- a/test/CMakeLists.txt
 +++ b/test/CMakeLists.txt
 @@ -19,6 +19,7 @@ add_executable(goalc-test
@@ -722,6 +860,66 @@ index c80b6a5d..c4256d7b 100644
          ${CMAKE_CURRENT_LIST_DIR}/test_pretty_print.cpp
          ${CMAKE_CURRENT_LIST_DIR}/test_math.cpp
          ${CMAKE_CURRENT_LIST_DIR}/test_zstd.cpp
+@@ -32,6 +33,7 @@ add_executable(goalc-test
+         ${CMAKE_CURRENT_LIST_DIR}/decompiler/test_FormExpressionBuildLong.cpp
+         ${CMAKE_CURRENT_LIST_DIR}/decompiler/test_InstructionDecode.cpp
+         ${CMAKE_CURRENT_LIST_DIR}/decompiler/test_InstructionParser.cpp
++        ${CMAKE_CURRENT_LIST_DIR}/decompiler/test_texture_overlay.cpp
+         ${CMAKE_CURRENT_LIST_DIR}/decompiler/test_gkernel_jak1_decomp.cpp
+         ${CMAKE_CURRENT_LIST_DIR}/decompiler/test_math_decomp.cpp
+         ${CMAKE_CURRENT_LIST_DIR}/decompiler/test_DataParser.cpp
+diff --git a/test/decompiler/test_texture_overlay.cpp b/test/decompiler/test_texture_overlay.cpp
+new file mode 100644
+index 00000000..23a8a9f7
+--- /dev/null
++++ b/test/decompiler/test_texture_overlay.cpp
+@@ -0,0 +1,46 @@
++// og:kr texture overlays: a larger sheet drawn over the upscaled original (AI-assisted)
++#include "decompiler/data/TextureDB.h"
++
++#include "gtest/gtest.h"
++
++using decompiler::compose_texture_overlay;
++using decompiler::ResolvedTextureData;
++
++namespace {
++constexpr u32 kClear = 0x00ffffff;  // white, alpha 0
++constexpr u32 kOrig = 0x80112233;
++constexpr u32 kGlyph = 0x40ffffff;
++}  // namespace
++
++TEST(TextureOverlay, OriginalIsUpscaledIntoTopLeft) {
++  ResolvedTextureData base{.w = 2, .h = 1, .rgba = {kOrig, kClear}};
++  std::vector<u32> overlay(8 * 4, kClear);
++  auto out = compose_texture_overlay(base, 2, 8, 4, overlay.data());
++  ASSERT_TRUE(out);
++  EXPECT_EQ(out->w, 8);
++  EXPECT_EQ(out->h, 4);
++  for (int y = 0; y < 2; y++) {
++    EXPECT_EQ(out->rgba[y * 8 + 0], kOrig);
++    EXPECT_EQ(out->rgba[y * 8 + 1], kOrig);
++    EXPECT_EQ(out->rgba[y * 8 + 2], kClear);
++  }
++  EXPECT_EQ(out->rgba[2 * 8 + 0], kClear);
++}
++
++TEST(TextureOverlay, OverlayPixelsWin) {
++  ResolvedTextureData base{.w = 1, .h = 1, .rgba = {kOrig}};
++  std::vector<u32> overlay(4 * 4, kClear);
++  overlay[0] = kGlyph;
++  overlay[3 * 4 + 3] = kGlyph;
++  auto out = compose_texture_overlay(base, 2, 4, 4, overlay.data());
++  ASSERT_TRUE(out);
++  EXPECT_EQ(out->rgba[0], kGlyph);
++  EXPECT_EQ(out->rgba[1], kOrig);
++  EXPECT_EQ(out->rgba[3 * 4 + 3], kGlyph);
++}
++
++TEST(TextureOverlay, RejectsOverlaySmallerThanUpscaledBase) {
++  ResolvedTextureData base{.w = 4, .h = 4, .rgba = std::vector<u32>(16, kOrig)};
++  std::vector<u32> overlay(6 * 8, kClear);
++  EXPECT_FALSE(compose_texture_overlay(base, 2, 6, 8, overlay.data()));
++}
 diff --git a/test/test_font_korean_jak1.cpp b/test/test_font_korean_jak1.cpp
 new file mode 100644
 index 00000000..63271588

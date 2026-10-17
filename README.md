@@ -93,8 +93,8 @@ Git Bash 의 `link` 명령이 MSVC 링커를 가리지 않도록 MSVC 경로를 
 
 | 경로 | 내용 |
 |---|---|
-| `patches/opengoal-kr.patch` | OpenGOAL `b6c8430` 기준 엔진 수정 (폰트 코드페이지, 한국어 텍스트·자막 컴파일, 언어 17 등록, 테스트) |
-| `tools/kr_font/` | 한글 폰트 텍스처·코드표 생성기 |
+| `patches/opengoal-kr.patch` | OpenGOAL `b6c8430` 기준 엔진 수정 (폰트 코드페이지, 한국어 텍스트·자막 컴파일, 언어 17 등록, 텍스처 오버레이, 테스트) |
+| `tools/kr_font/` | 한글 폰트 텍스처·코드표 생성기 (한글 글자만 그린 오버레이를 만들고, 추출 때 원본 폰트 위에 합성) |
 | `tools/translation/` | 번역 워크스페이스 도구 (검사·내보내기·읽기 속도 점검) |
 | `translation/` | 번역 원문·번역문·검수 상태 |
 | `docs/` | 결정 기록, 조사, PoC, 용어집, 진행 현황 |
