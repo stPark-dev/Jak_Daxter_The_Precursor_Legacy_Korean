@@ -1,0 +1,90 @@
+# Build the prebuilt Korean patch packages (no game data) and attach them to a GitHub Release.
+# Push a tag like v1.0.0 to release, or run it by hand to get the packages as build artifacts.
+# Packages are made from the committed generated/ (tools/build_kr.sh release), so no ISO is needed.
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Package version (e.g. 1.0.0-test)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  package:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: windows-2022
+            asset: zip
+          - os: ubuntu-22.04
+            asset: tar.gz
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 90
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Version
+        run: |
+          if [ "${{ github.event_name }}" = push ]; then v="${GITHUB_REF_NAME#v}"; else v="${{ inputs.version }}"; fi
+          echo "VERSION=$v" >> "$GITHUB_ENV"
+
+      - name: Install build tools (Linux)
+        if: runner.os == 'Linux'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential cmake clang nasm ninja-build libxrandr-dev \
+            libxinerama-dev libxcursor-dev libpulse-dev libxi-dev libgl1-mesa-dev libssl-dev
+
+      - name: Install NASM (Windows)
+        if: runner.os == 'Windows'
+        shell: pwsh
+        run: |
+          choco install nasm -y --no-progress
+          "C:\Program Files\NASM" | Out-File -FilePath $env:GITHUB_PATH -Append
+
+      - uses: ilammy/msvc-dev-cmd@v1
+        if: runner.os == 'Windows'
+
+      # https://github.com/actions/runner-images/issues/5459 (OpenGOAL's CI does the same)
+      - name: Remove Strawberry Perl from PATH (Windows)
+        if: runner.os == 'Windows'
+        shell: pwsh
+        run: |
+          $env:PATH = $env:PATH -replace "C:\\Strawberry\\c\\bin;", ""
+          "PATH=$env:PATH" | Out-File -FilePath $env:GITHUB_ENV -Append
+
+      - name: Package
+        env:
+          CC: clang
+          CXX: clang++
+        run: |
+          # Git Bash's /usr/bin/link would shadow MSVC link.exe
+          if command -v cl > /dev/null; then export PATH="$(dirname "$(command -v cl)"):$PATH"; fi
+          tools/ci_package.sh "$VERSION"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: jak1-korean-${{ env.VERSION }}-${{ runner.os }}
+          path: dist/*.${{ matrix.asset }}
+          if-no-files-found: error
+
+      - name: Attach to release
+        if: github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view "$GITHUB_REF_NAME" > /dev/null 2>&1 \
+            || gh release create "$GITHUB_REF_NAME" --title "$GITHUB_REF_NAME" --notes "설치 방법은 패키지 안의 README.txt 를 보세요." \
+            || true
+          gh release upload "$GITHUB_REF_NAME" dist/*.${{ matrix.asset }} --clobber

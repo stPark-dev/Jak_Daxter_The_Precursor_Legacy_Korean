@@ -109,12 +109,23 @@ tools\kr.bat package 1.0.0
 
 (Linux: `tools/package_kr.sh 1.0.0` → `tar.gz`, 미검증.) 패키지에 ISO 에서 나온 파일이 섞이면 실패합니다.
 
+### 릴리스 (GitHub Actions)
+
+GitHub Actions 에는 ISO 가 없으므로, ISO 없이 쓸 수 있는 release 빌드 결과물(번역 JSON, 한글 폰트 오버레이, 폰트 표)을
+`generated/` 에 커밋해 두고 CI 가 그것으로 패키지를 만듭니다.
+
+1. 번역·폰트·도구를 고쳤다면 `tools\kr.bat build release` 를 실행하고 바뀐 `generated/` 를 함께 커밋합니다.
+   (`generated/INPUTS_HASH` 가 입력과 맞지 않으면 CI 가 실패합니다.)
+2. `v1.0.0` 같은 태그를 푸시하면 `.github/workflows/release.yml` 이 Windows zip 과 Linux tar.gz 를 만들어 릴리스에 올립니다.
+   Actions 탭에서 직접 실행하면 릴리스 없이 결과물만 받을 수 있습니다.
+
 ## 저장소 구성
 
 | 경로 | 내용 |
 |---|---|
 | `patches/opengoal-kr.patch` | OpenGOAL `b6c8430` 기준 엔진 수정 (폰트 코드페이지, 한국어 텍스트·자막 컴파일, 언어 17 등록, 텍스처 오버레이, 테스트) |
 | `tools/package_kr.sh`, `tools/dist/` | 배포 패키지 생성 스크립트와 패키지에 들어가는 설치·실행 스크립트 |
+| `generated/`, `tools/ci_package.sh`, `.github/workflows/release.yml` | CI 패키징용 release 결과물과 릴리스 자동화 |
 | `tools/kr_font/` | 한글 폰트 텍스처·코드표 생성기 (한글 글자만 그린 오버레이를 만들고, 추출 때 원본 폰트 위에 합성) |
 | `tools/translation/` | 번역 워크스페이스 도구 (검사·내보내기·읽기 속도 점검) |
 | `translation/` | 번역 원문·번역문·검수 상태 |

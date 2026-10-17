@@ -27,4 +27,10 @@ rm -rf "$J/custom_assets/jak1/texture_replacements/gamefontnew"
 (cd "$J" && "$KR_EXTRACTOR" -d -c --disable-ansi "$KR_ISO" > "$ROOT/build_kr.log" 2>&1) \
   || { grep -a -i "error" "$ROOT/build_kr.log" | head; exit 1; }
 echo "$POLICY" > "$ROOT/source/last_build"  # package_kr.sh only ships release builds
+if [ "$POLICY" = release ]; then
+  # snapshot for CI packaging (ci_package.sh); commit generated/ after a release build
+  source "$ROOT/tools/generated.sh"
+  kr_generated_copy "$ROOT" save
+  kr_inputs_hash "$ROOT" > "$ROOT/generated/INPUTS_HASH"
+fi
 echo "built ($POLICY); log: $ROOT/build_kr.log"

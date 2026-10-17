@@ -31,6 +31,8 @@ if [ "$KR_DIST_OS" = windows ]; then
   # without the Visual C++ Redistributable runs them. VCToolsRedistDir comes from vcvars64.
   CRT=$(ls -d "$(cygpath -u "${VCToolsRedistDir:?run through tools\\kr.bat package}")"x64/Microsoft.VC*.CRT | tail -n 1)
   cp "$CRT"/{msvcp140.dll,vcruntime140.dll,vcruntime140_1.dll} "$OUT/"
+else
+  strip "$OUT"/{gk,goalc,extractor}
 fi
 
 # same data layout as OpenGOAL's .github/scripts/releases/extract_build_*.sh. Only tracked

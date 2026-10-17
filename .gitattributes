@@ -3,3 +3,5 @@
 *.sh text eol=lf
 *.patch text eol=lf
 *.bat text eol=crlf
+# release outputs for CI packaging (tools/generated.sh), kept byte for byte
+generated/** -text
