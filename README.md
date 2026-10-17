@@ -14,24 +14,68 @@ PS2 『Jak and Daxter: The Precursor Legacy』(잭 1편)를 PC 포트 [OpenGOAL]
 - **번역하지 않은 것**: 텍스처로 그려진 글자(타이틀 로고, 진행 메뉴의 "AUTO SAVE OFF" 등), 크레딧의 인명·회사명.
 - **언어**: OpenGOAL 의 예약 언어 ID 17(korean)로 텍스트·자막 언어에 추가.
 
-## 필요한 것
+## 설치 (릴리스 파일로 — 일반 사용자)
 
-- 본인 소유의 **Jak and Daxter: The Precursor Legacy NTSC-U (SCUS-97124, Black Label) ISO**. 게임 데이터는 이 저장소에 포함되지 않습니다.
+저장소를 받거나 빌드할 필요가 없습니다. [최신 릴리스](https://github.com/stPark-dev/Jak_Daxter_The_Precursor_Legacy_Korean/releases/latest)의 파일 하나와 본인 ISO 만 있으면 됩니다.
+릴리스 파일에는 게임 데이터가 없고, 설치할 때 본인 ISO 에서 게임 데이터를 추출해 한글 패치를 적용합니다.
+
+### 준비물
+
+- 본인 소유의 **Jak and Daxter: The Precursor Legacy 북미판(NTSC-U, SCUS-97124, Black Label) ISO**
+  - 확인한 이미지: `Jak and Daxter - The Precursor Legacy (USA) (EnFrDeEsIt)`, 1,460,535,296바이트,
+    MD5 `87bab4d563a73c3d61a12394f6997779`, SHA-1 `0db5976cdf9ea188bd64d8efdb4de095c38ea65f`
+  - 해시 확인: Windows 는 `certutil -hashfile jak1.iso MD5`, Linux 는 `md5sum jak1.iso`
+  - `.zip`/`.7z` 로 압축돼 있으면 먼저 풀어서 `.iso` 파일로 만드세요.
+  - 다른 판(Greatest Hits, PAL, 일본판)은 확인하지 않았습니다. 설치 프로그램이 판을 확인해서 맞지 않으면 멈춥니다.
+- Windows 64비트 (Windows 10 에서 확인, Visual C++ 런타임은 패키지에 들어 있음) 또는 Linux x86-64 (실행 미검증)
+- 디스크 여유 공간 약 4GB (설치 후 추출한 게임 데이터와 빌드 결과가 패키지 폴더에 생깁니다)
+
+### Windows
+
+1. [최신 릴리스](https://github.com/stPark-dev/Jak_Daxter_The_Precursor_Legacy_Korean/releases/latest)에서 `jak1-korean-<버전>-windows.zip` 을 받습니다.
+2. 압축을 원하는 폴더에 **전부 풉니다** (zip 안에서 바로 실행하지 마세요). `jak1-korean-<버전>-windows` 폴더가 생깁니다.
+3. ISO 파일을 그 폴더의 `install.bat` 위로 **끌어다 놓습니다**.
+   또는 `install.bat` 을 실행하고, ISO 파일을 창에 끌어다 놓은 뒤 Enter 를 누릅니다.
+   게임 데이터 추출과 한글 패치 빌드에 몇 분 걸리고, "설치가 끝났습니다" 가 나오면 완료입니다.
+4. `play.bat` 으로 게임을 실행합니다. 다음부터는 `play.bat` 만 실행하면 됩니다.
+5. 게임에서 START → 옵션 → 게임 옵션으로 가서 **텍스트 언어**와 **자막 언어**를 **한국어**로 바꿉니다.
+   "음성 언어"는 영어 그대로 두세요 (음성은 영어만 있습니다).
+
+### Linux (실행 미검증)
+
+```bash
+tar xzf jak1-korean-<버전>-linux.tar.gz
+cd jak1-korean-<버전>-linux
+./install.sh /경로/jak1.iso
+./play.sh
+```
+
+게임 안의 언어 설정은 Windows 와 같습니다.
+
+### 세이브·업데이트·삭제
+
+- 설정과 세이브는 패키지 폴더 안의 `OpenGOAL` 폴더에 저장됩니다. 다른 OpenGOAL 설치와 섞이지 않습니다.
+- 새 버전이 나오면 새 패키지를 다른 폴더에 풀어 다시 설치하세요. 이전 폴더의 `OpenGOAL` 폴더를 새 폴더에 복사하면 세이브와 설정을 이어서 쓸 수 있습니다.
+- 지우려면 패키지 폴더를 통째로 지우면 됩니다.
+
+### 문제 해결
+
+- **"Windows의 PC 보호" 창이 뜰 때**: 서명하지 않은 프로그램이라 뜰 수 있습니다. "추가 정보" → "실행" 을 누르세요.
+- **설치가 실패할 때**: 패키지 폴더의 `data\log` 에 있는 extractor 로그를 확인하세요. ISO 가 북미판 초판이 아니거나 압축된 상태면 실패합니다.
+- **한글이 안 보일 때**: 게임 옵션에서 텍스트 언어·자막 언어를 한국어로 바꿨는지 확인하세요.
+- 문제가 계속되면 로그를 첨부해 [이슈](https://github.com/stPark-dev/Jak_Daxter_The_Precursor_Legacy_Korean/issues)로 알려 주세요.
+
+## 직접 빌드하기 (개발자)
+
+저장소를 받아 OpenGOAL 을 직접 빌드하는 방법입니다. 번역이나 엔진 패치를 고칠 때 씁니다.
+
+### 필요한 것
+
+- 위와 같은 ISO
 - Linux: clang, cmake, ninja, nasm, python3 (+ Pillow, pytest), `libssl-dev` 등 [OpenGOAL 빌드 요구 사항](https://github.com/open-goal/jak-project#building-and-running-the-game)
-- Windows: 아래 [Windows 설치](#windows-설치) 참고
+- Windows: 아래 [Windows 에서 빌드](#windows-에서-빌드) 참고
 
-## 간편 설치 (미리 빌드한 패키지)
-
-빌드 도구 없이 설치하는 방법입니다. 패키지에는 게임 데이터가 없고, 본인 ISO 로 설치할 때 한글 폰트를 합성합니다.
-
-1. [최신 릴리스](https://github.com/stPark-dev/Jak_Daxter_The_Precursor_Legacy_Korean/releases/latest)에서 `jak1-korean-<버전>-windows.zip` 을 받아 원하는 폴더에 풉니다.
-   (Linux 는 `jak1-korean-<버전>-linux.tar.gz` 를 받아 `./install.sh <ISO>` → `./play.sh`, 실행 미검증)
-2. ISO 파일을 `install.bat` 에 끌어다 놓습니다 (추출·빌드에 몇 분 걸림).
-3. `play.bat` 으로 실행하고, 게임 옵션에서 **텍스트 언어**·**자막 언어**를 **한국어**로 바꿉니다.
-
-설정과 세이브는 패키지 폴더 안에 저장됩니다 (`--portable`). 자세한 안내는 패키지의 `README.txt` 를 보세요.
-
-## 설치 (Linux)
+### Linux 에서 빌드
 
 1. 이 저장소를 받습니다.
    ```bash
@@ -54,12 +98,12 @@ PS2 『Jak and Daxter: The Precursor Legacy』(잭 1편)를 PC 포트 [OpenGOAL]
 5. 게임에서 START → 옵션 → 게임 옵션으로 가서 **텍스트 언어**와 **자막 언어**를 **한국어**로 바꿉니다.
    "음성 언어"는 영어 그대로 두세요 (음성은 영어만 있습니다).
 
-### 문제 해결
+#### 문제 해결
 
 - `setup_opengoal.sh` 는 OpenGOAL `b6c8430` 에 패치를 적용합니다. 이미 `jak-project/` 에 다른 수정이 있으면 패치가 실패하니 지우고 다시 실행하세요.
 - 확인한 ISO 는 NTSC-U Black Label (SCUS-97124) 뿐입니다. 다른 판(Greatest Hits, PAL, 일본판)은 확인하지 않았습니다.
 
-## Windows 설치
+### Windows 에서 빌드
 
 Windows 10 에서 설치부터 한글 표시까지 확인했습니다 (2026-10-16, VS 2022 Build Tools 17.14 + LLVM 23.1.3).
 
@@ -100,7 +144,7 @@ Git Bash 로 Linux 와 같은 스크립트(`setup_opengoal.sh`, `build_kr.sh`)�
 Git Bash 의 `link` 명령이 MSVC 링커를 가리지 않도록 MSVC 경로를 앞에 둡니다.
 이 저장소와 OpenGOAL 은 줄 끝 변환 없이(LF) 받아야 패치가 적용됩니다 (`.gitattributes`, `core.autocrlf=false` 로 처리).
 
-## 배포 패키지 만들기
+### 배포 패키지 만들기
 
 `build release` 뒤에 실행합니다. 정적 링크 바이너리를 따로 빌드하고(`out/build/Release-static`), `dist/` 에 zip 을 만듭니다.
 
@@ -110,7 +154,7 @@ tools\kr.bat package 1.0.0
 
 (Linux: `tools/package_kr.sh 1.0.0` → `tar.gz`, 미검증.) 패키지에 ISO 에서 나온 파일이 섞이면 실패합니다.
 
-### 릴리스 (GitHub Actions)
+#### 릴리스 (GitHub Actions)
 
 GitHub Actions 에는 ISO 가 없으므로, ISO 없이 쓸 수 있는 release 빌드 결과물(번역 JSON, 한글 폰트 오버레이, 폰트 표)을
 `generated/` 에 커밋해 두고 CI 가 그것으로 패키지를 만듭니다.
